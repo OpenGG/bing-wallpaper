@@ -26,6 +26,10 @@ jobs:
         pip install -r requirements.txt
         python main.py
 
+    - name: Build index
+      run: |
+        ./build-index.sh
+
     - uses: EndBug/add-and-commit@v9
       with:
         message: 'update: auto update bing wallpaper'
