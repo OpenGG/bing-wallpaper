@@ -14,22 +14,20 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2.3.4
+
     - name: Setup Python
       uses: actions/setup-python@v2.2.2
       with:
       # Used to pull python distributions from actions/python-versions. Since there's a default, this is typically not supplied by the user.
         token: ${{ secrets.PERSONAL_TOKEN }} # optional, default is ${{ github.token }}
+
     - name: Download
       run: |
         pip install -r requirements.txt
         python main.py
-        
 
-    - name: Push
-      run: |
-        git config --global user.email "icolabot@e.yfun.top"
-        git config --global user.name "iColaBot"
-        git add -A
-        git commit --allow-empty -m "Update Bing Wallpaper"
-        #git pull origin master
-        git push origin master
+    - uses: actions-go/push@master
+      with:
+        commit-message: 'update(auto) Update Bing Wallpaper'
+        remote: origin
+
