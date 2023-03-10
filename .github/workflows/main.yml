@@ -26,6 +26,11 @@ jobs:
         pip install -r requirements.txt
         python main.py
 
+    - name: Commit
+      run: |
+        git add .
+        git status
+
     - uses: actions-go/push@master
       with:
         commit-message: 'update(auto) Update Bing Wallpaper'
