@@ -5,7 +5,7 @@ cd Wallpaper
 for file in ./*/
 do
     cd $file
-    ls *.jpg > all.txt
-    cat all.txt|sort -rn|head -n1 > current.txt
+    ls *.jpg|sort -rn > all.txt
+    head -n1 all.txt > current.txt
     cd -
 done
