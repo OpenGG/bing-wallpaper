@@ -76,8 +76,10 @@ EOM
     echo "| Installing $LOCAL_PLIST"
     launchctl bootstrap gui/`id -u` "$LOCAL_PLIST"
 
-    echo "| The installation was successful. Please execute the following command to set the wallpaper immediately:\n"
-    echo "\t\t" "~/.io.github.opengg.bing-wallpaper/script.sh" "\n\n"
+    echo "| The installation was successful. Please execute the following command to set the wallpaper immediately:"
+    echo ""
+    echo "  ~/.io.github.opengg.bing-wallpaper/script.sh"
+    echo ""
 }
 
 uninstall() {
