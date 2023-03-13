@@ -78,7 +78,7 @@ EOM
 
     echo "| The installation was successful. Please execute the following command to set the wallpaper immediately:"
     echo ""
-    echo "  ~/.io.github.opengg.bing-wallpaper/script.sh"
+    echo "  ~/.io.github.opengg.bing-wallpaper/script.sh run"
     echo ""
 }
 
