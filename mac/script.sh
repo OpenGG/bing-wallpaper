@@ -103,7 +103,7 @@ run() {
 
     readonly CURRENT_IMG=$(cat "$LOCAL_TXT")
 
-    if [ "$CURRENT_IMG" == "$REMOTE_IMG"]; then
+    if [ "$CURRENT_IMG" == "$REMOTE_IMG" ]; then
         echo "| Image not changed, skipping"
     else
         echo "| Download remote image from $REMOTE_IMG, saving to $TMP_IMG"
