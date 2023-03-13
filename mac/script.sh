@@ -23,7 +23,7 @@ readonly LOCAL_SCRIPT="$LOCAL_BASE/script.sh"
 
 readonly MONITOR="0" # 0 means all monitors
 
-readonly CURL="curl --silent --doh-url https://8.8.8.8/dns-query"
+readonly CURL="curl --silent --doh-url https://dns.alidns.com/dns-query"
 
 readonly COMMAND="$1"
 
