@@ -101,7 +101,11 @@ run() {
 
     readonly REMOTE_IMG="$REMOTE_BASE/Wallpaper/$REMOTE_IMG_NAME"
 
-    readonly CURRENT_IMG=$(cat "$LOCAL_TXT")
+    CURRENT_IMG=""
+
+    if [ -e "$LOCAL_TXT" ]; then
+        CURRENT_IMG=$(cat "$LOCAL_TXT")
+    fi
 
     if [ "$CURRENT_IMG" == "$REMOTE_IMG" ]; then
         echo "| Image not changed, skipping"
