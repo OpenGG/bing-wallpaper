@@ -8,7 +8,7 @@ readonly LOCAL_BASE="$HOME/.$PROJECT_NAME"
 
 readonly LOCAL_PLIST="$LOCAL_BASE/$PROJECT_NAME.plist"
 
-readonly LOCAL_IMG="$LOCAL_BASE/current.jpg"
+readonly LOCAL_TXT="$LOCAL_BASE/current.txt"
 
 readonly TMP_BASE="/tmp/$PROJECT_NAME"
 readonly TMP_IMG="$TMP_BASE/download.jpg"
@@ -93,7 +93,7 @@ run() {
     mkdir -p $LOCAL_BASE
     rm -f $TMP_IMG
 
-    echo "| Get current img from $REMOTE_CURRENT"
+    echo "| Get current image from $REMOTE_CURRENT"
 
     REMOTE_IMG_NAME=$($CURL "$REMOTE_CURRENT")
     REMOTE_IMG_NAME=${REMOTE_IMG_NAME/.\//}
@@ -101,17 +101,34 @@ run() {
 
     readonly REMOTE_IMG="$REMOTE_BASE/Wallpaper/$REMOTE_IMG_NAME"
 
+    readonly CURRENT_IMG=$(cat "$LOCAL_TXT")
 
-    echo "| Download remote img from $REMOTE_IMG, saving to $TMP_IMG"
+    if [ "$CURRENT_IMG" == "$REMOTE_IMG"]; then
+        echo "| Image not changed, skipping"
+    else
+        echo "| Download remote image from $REMOTE_IMG, saving to $TMP_IMG"
 
-    $CURL "$REMOTE_IMG" -o "$TMP_IMG"
+        $CURL "$REMOTE_IMG" -o "$TMP_IMG"
 
-    echo "| Move $TMP_IMG to $LOCAL_IMG"
-    mv "$TMP_IMG" "$LOCAL_IMG"
+        readonly HASH=$(openssl md5 "$TMP_IMG"|perl -pe 's/.*=\s*//')
 
-    echo "| Set desktop background to $LOCAL_IMG"
+        readonly TMP_IMG_HASH="$TMP_BASE/$HASH.jpg"
 
-    osascript -e 'tell application "System Events" to tell every desktop to set picture to "'$LOCAL_IMG'"'
+        echo "| Move $TMP_IMG to $TMP_IMG_HASH"
+        mv "$TMP_IMG" "$TMP_IMG_HASH"
+
+        echo "| Set desktop background to $TMP_IMG_HASH"
+
+        osascript -e 'tell application "System Events" to tell every desktop to set picture to "'$TMP_IMG_HASH'"'
+
+        echo "| Saving to $LOCAL_TXT"
+        echo $REMOTE_IMG > $LOCAL_TXT
+
+        echo "| Removing temp file: $TMP_IMG_HASH"
+        rm $TMP_IMG_HASH
+
+        echo "| Success"
+    fi
 }
 
 if [ "$COMMAND" == "install" ]; then
