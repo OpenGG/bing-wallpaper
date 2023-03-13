@@ -71,7 +71,7 @@ install() {
 EOM
 
     echo "| Uninstalling $LOCAL_PLIST"
-    launchctl bootout gui/`id -u` "$LOCAL_PLIST" 2>/dev/null
+    launchctl bootout gui/`id -u` "$LOCAL_PLIST" 2>/dev/null || true
 
     echo "| Installing $LOCAL_PLIST"
     launchctl bootstrap gui/`id -u` "$LOCAL_PLIST"
