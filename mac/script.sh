@@ -2,15 +2,15 @@
 
 set -e
 
-readonly VERSION='1.1.2'
+readonly PROJECT_NAME="io.github.opengg.bing-wallpaper"
 
-readonly LOCAL_BASE="$HOME/.io.github.opengg.bing-wallpaper"
+readonly LOCAL_BASE="$HOME/.$PROJECT_NAME"
 
-readonly LOCAL_PLIST="$LOCAL_BASE/io.github.opengg.bing-wallpaper.plist"
+readonly LOCAL_PLIST="$LOCAL_BASE/$PROJECT_NAME.plist"
 
 readonly LOCAL_IMG="$LOCAL_BASE/current.jpg"
 
-readonly TMP_BASE="/tmp/io.github.opengg.bing-wallpaper"
+readonly TMP_BASE="/tmp/$PROJECT_NAME"
 readonly TMP_IMG="$TMP_BASE/download.jpg"
 
 readonly REMOTE_BASE="https://raw.githubusercontent.com/OpenGG/bing-wallpaper/master"
@@ -44,7 +44,7 @@ install() {
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>io.github.opengg.bing-wallpaper.plist</string>
+    <string>$PROJECT_NAME</string>
     <key>OnDemand</key>
     <true/>
     <key>ProgramArguments</key>
@@ -78,7 +78,7 @@ EOM
 
     echo "| The installation was successful. Please execute the following command to set the wallpaper immediately:"
     echo ""
-    echo "  ~/.io.github.opengg.bing-wallpaper/script.sh run"
+    echo "  ~/.$PROJECT_NAME/script.sh run"
     echo ""
 }
 
