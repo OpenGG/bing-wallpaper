@@ -5,5 +5,7 @@
 ## Auto set wallpaper for mac
 
 ```bash
-curl https://raw.githubusercontent.com/OpenGG/bing-wallpaper/master/mac/script.sh | bash -s -- "install"
+curl --doh-url https://8.8.8.8/dns-query \
+  https://raw.githubusercontent.com/OpenGG/bing-wallpaper/master/mac/script.sh \
+  | bash -s -- "install"
 ```
