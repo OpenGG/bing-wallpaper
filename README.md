@@ -174,6 +174,22 @@ Download 4k: [Shining through the centuries](https://bing.com/th?id=OHR.Yuanyang
 
 [2021-02](./archive/2021-02.md)
 
+[2021-01](./archive/2021-01.md)
+
+[2020-12](./archive/2020-12.md)
+
+[2020-11](./archive/2020-11.md)
+
+[2020-10](./archive/2020-10.md)
+
+[2020-09](./archive/2020-09.md)
+
+[2020-08](./archive/2020-08.md)
+
+[2020-07](./archive/2020-07.md)
+
+[2020-06](./archive/2020-06.md)
+
 [2020-05](./archive/2020-05.md)
 
 [2020-04](./archive/2020-04.md)
@@ -191,4 +207,14 @@ Download 4k: [Shining through the centuries](https://bing.com/th?id=OHR.Yuanyang
 [2019-10](./archive/2019-10.md)
 
 [2019-09](./archive/2019-09.md)
+
+[2019-08](./archive/2019-08.md)
+
+[2019-07](./archive/2019-07.md)
+
+[2019-06](./archive/2019-06.md)
+
+[2019-05](./archive/2019-05.md)
+
+[2019-04](./archive/2019-04.md)
 
