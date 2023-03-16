@@ -18,7 +18,7 @@ curl --doh-url https://dns.alidns.com/dns-query \
 
 ```
 
-# Latest wallpaper
+# Latest wallpapers
 ## A hidden gem
 
 Agüero, Spain (© Andrea Comi/Getty Images)
