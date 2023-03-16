@@ -26,6 +26,10 @@ jobs:
       run: |
         ./scripts/buildIndex.sh
 
+    - name: Build archive
+      run: |
+        ./scripts/buildArchive.sh
+
     - uses: EndBug/add-and-commit@v9
       with:
         message: 'update: auto update bing wallpaper'
