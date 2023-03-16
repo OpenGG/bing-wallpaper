@@ -2,7 +2,7 @@
 
 > :sparkles: This repository includes Bing wallpapers and utilizes a GitHub Action to crawl them daily.
 
-## Auto set wallpaper for mac
+# Auto set wallpaper for mac
 
 ```bash
 
@@ -17,3 +17,5 @@ curl --doh-url https://dns.alidns.com/dns-query \
 ~/.io.github.opengg.bing-wallpaper/script.sh run
 
 ```
+
+# Latest wallpaper
