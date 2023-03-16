@@ -7,7 +7,6 @@ const main = async () => {
     const md = await res.text()
 
     const regex = /(?<year>\d{4})-(?<month>\d{2})-(?<date>\d{2})[^[]+\[(?<desc>[^\]]+)\]\((?<img>[^\)]+)\)/g
-    const encoder = new TextEncoder();
 
     for (; ;) {
         const matches = regex.exec(md)
