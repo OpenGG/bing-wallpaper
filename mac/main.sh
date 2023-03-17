@@ -90,7 +90,6 @@ uninstall() {
 run() {
     mkdir -p $TMP_BASE
     mkdir -p $LOCAL_BASE
-    rm -f $TMP_IMG
 
     echo "| Get current image from $REMOTE_CURRENT"
 
@@ -117,10 +116,10 @@ run() {
         osascript -e 'tell application "System Events" to tell every desktop to set picture to "'$TMP_IMG'"'
 
         echo "| Saving to $LOCAL_TXT"
-        echo $REMOTE_IMG > $LOCAL_TXT
+        echo "$REMOTE_IMG" > $LOCAL_TXT
 
         echo "| Removing temp file: $TMP_IMG"
-        rm $TMP_IMG
+        rm "$TMP_IMG"
 
         echo "| Success"
     fi
