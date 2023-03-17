@@ -11,7 +11,6 @@ readonly LOCAL_PLIST="$LOCAL_BASE/$PROJECT_NAME.plist"
 readonly LOCAL_TXT="$LOCAL_BASE/current.txt"
 
 readonly TMP_BASE="/tmp/$PROJECT_NAME"
-readonly TMP_IMG="$TMP_BASE/download.jpg"
 
 readonly REMOTE_BASE="https://raw.githubusercontent.com/OpenGG/bing-wallpaper/master"
 
@@ -64,8 +63,8 @@ install() {
     <string>$TMP_BASE/task.out</string>
     <key>StartInterval</key>
     <integer>3600</integer>
-	<key>RunAtLoad</key>
-	<true/>
+        <key>RunAtLoad</key>
+        <true/>
 </dict>
 </plist>
 EOM
@@ -107,26 +106,21 @@ run() {
     if [ "$CURRENT_IMG" == "$REMOTE_IMG" ]; then
         echo "| Image not changed, skipping"
     else
+        readonly TIME=$(date '+%Y%m%d-%H%M%S')
+        readonly TMP_IMG="$TMP_BASE/$TIME.jpg"
         echo "| Download remote image from $REMOTE_IMG, saving to $TMP_IMG"
 
         $CURL "$REMOTE_IMG" -o "$TMP_IMG"
 
-        readonly HASH=$(openssl md5 "$TMP_IMG"|perl -pe 's/.*=\s*//')
+        echo "| Set desktop background to $TMP_IMG"
 
-        readonly TMP_IMG_HASH="$TMP_BASE/$HASH.jpg"
-
-        echo "| Move $TMP_IMG to $TMP_IMG_HASH"
-        mv "$TMP_IMG" "$TMP_IMG_HASH"
-
-        echo "| Set desktop background to $TMP_IMG_HASH"
-
-        osascript -e 'tell application "System Events" to tell every desktop to set picture to "'$TMP_IMG_HASH'"'
+        osascript -e 'tell application "System Events" to tell every desktop to set picture to "'$TMP_IMG'"'
 
         echo "| Saving to $LOCAL_TXT"
         echo $REMOTE_IMG > $LOCAL_TXT
 
-        echo "| Removing temp file: $TMP_IMG_HASH"
-        rm $TMP_IMG_HASH
+        echo "| Removing temp file: $TMP_IMG"
+        rm $TMP_IMG
 
         echo "| Success"
     fi
