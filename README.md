@@ -20,6 +20,16 @@ curl --doh-url https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## What's your favorite color?
+
+Colorful pastel chalk (© Stephen Shepherd/plainpicture)
+
+![What's your favorite color?](https://bing.com/th?id=OHR.ColourDay_EN-US7730392026_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-03-21
+
+Download 4k: [What's your favorite color?](https://bing.com/th?id=OHR.ColourDay_EN-US7730392026_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hello spring!
 
 Crocus flowers (© Raimund Linke/Getty Images)
@@ -109,16 +119,6 @@ Lucian Blaga National Theater, Cluj-Napoca, Romania (© Thomas Mueller/Shutterst
 Date: 2023-03-12
 
 Download 4k: [A real showstopper](https://bing.com/th?id=OHR.TheaterRomania_EN-US6839059395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Protecting shorelines
-
-Marshland, Gloucester, Massachusetts (© Thomas H. Mitchell/Getty Images)
-
-![Protecting shorelines](https://bing.com/th?id=OHR.LongWharf_EN-US6625072596_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-03-11
-
-Download 4k: [Protecting shorelines](https://bing.com/th?id=OHR.LongWharf_EN-US6625072596_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
