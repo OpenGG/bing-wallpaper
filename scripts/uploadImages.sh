@@ -83,9 +83,10 @@ do
   target=$(echo "$source"|sed 's/.*[?|&]id=//'|sed 's/&.*//')
   target="$date/$target"
 
-  echo "Dealing $date"
+  # echo "Dealing $date"
 
   if [[ "$date" > "$cursor" ]]; then
+    echo "Dealing $date"
 
     rm -f $TEMP_FILE
 
@@ -114,7 +115,7 @@ do
       break
     fi
   else
-    echo "Ignore"
+    # echo "Ignore"
   fi
 done < all.txt
 
