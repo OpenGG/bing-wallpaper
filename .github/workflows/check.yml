@@ -1,4 +1,4 @@
-name: Update Screenshot
+name: Check images
 
 on:
   workflow_dispatch:
