@@ -33,17 +33,19 @@ const validate = async (line: string) => {
 
     // console.log(r2Path, localPath)
 
-    const loadSuccess = await retry(() => run({
-        cmd: ['wrangler', 'r2', 'object', 'get', r2Path, '--file', localPath],
-        env: {
-            WRANGLER_LOG: 'warn',
-        },
-    }))
+    await retry(async () => {
+        const loadSuccess = await run({
+            cmd: ['wrangler', 'r2', 'object', 'get', r2Path, '--file', localPath],
+            env: {
+                WRANGLER_LOG: 'warn',
+            },
+        })
 
-    // console.log('loadSuccess', loadSuccess)
-    if (loadSuccess !== 0) {
-        throw new Error(`Failed to get r2 object: ${r2Path}`)
-    }
+        // console.log('loadSuccess', loadSuccess)
+        if (loadSuccess !== 0) {
+            throw new Error(`Failed to get r2 object: ${r2Path}`)
+        }
+    })
 
     const checkSuccess = await run({
         cmd: ['./scripts/checkImages/checkImage.sh', localPath]
