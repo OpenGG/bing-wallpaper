@@ -20,6 +20,16 @@ curl --doh-url https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## World Water Day
+
+Lake Powell on the Colorado River (© Peter Schaefer/Alamy)
+
+![World Water Day](https://bing.com/th?id=OHR.LakePowellAerial_EN-US5762979140_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-03-22
+
+Download 4k: [World Water Day](https://bing.com/th?id=OHR.LakePowellAerial_EN-US5762979140_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## What's your favorite color?
 
 Colorful pastel chalk (© Stephen Shepherd/plainpicture)
@@ -109,16 +119,6 @@ Female lions sleeping, Serengeti National Park, Tanzania (© Cavan Images/Shutte
 Date: 2023-03-13
 
 Download 4k: [Just 'lion' around](https://bing.com/th?id=OHR.LionessesNap_EN-US6947230556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A real showstopper
-
-Lucian Blaga National Theater, Cluj-Napoca, Romania (© Thomas Mueller/Shutterstock)
-
-![A real showstopper](https://bing.com/th?id=OHR.TheaterRomania_EN-US6839059395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-03-12
-
-Download 4k: [A real showstopper](https://bing.com/th?id=OHR.TheaterRomania_EN-US6839059395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
