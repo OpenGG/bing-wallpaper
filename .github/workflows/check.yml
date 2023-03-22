@@ -2,11 +2,6 @@ name: Update Screenshot
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - master
-  schedule:
-    - cron: '6 * * * *'
 
 jobs:
   download:
@@ -24,26 +19,9 @@ jobs:
     - name: Install deps
       uses: denoland/setup-deno@v1
 
-    - name: Update
-      run: |
-        ./scripts/cron.sh
-
-    - name: Build index
-      run: |
-        ./scripts/buildIndex.sh
-
-    - name: Build archive
-      run: |
-        ./scripts/buildArchive.sh
-
-    - name: Upload to cloudflare R2
+    - name: Check cloudflare R2 validate
       env:
         CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       run: |
-        ./scripts/uploadImages.sh
-
-    - uses: EndBug/add-and-commit@v9
-      with:
-        message: 'update: auto update bing wallpaper'
-        default_author: github_actions
+        deno run --allow-all /workspaces/bing-wallpaper/scripts/checkImages/checkImages.ts
