@@ -30,4 +30,4 @@ jobs:
 
     - name: Show corrupt images
       run: |
-        ls tmp/*
+        find . -iname '*.jpg'
