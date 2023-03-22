@@ -114,8 +114,8 @@ do
       echo "Image corrupt: $IMAGE_CORRUPT"
       break
     fi
-  else
-    # echo "Ignore"
+  # else
+  #   echo "Ignore"
   fi
 done < all.txt
 
