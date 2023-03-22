@@ -28,6 +28,6 @@ jobs:
         mkdir tmp
         deno run --allow-all ./scripts/checkImages/checkImages.ts
 
-    - name: Check cloudflare R2 validate
+    - name: Show corrupt images
       run: |
         ls tmp/*

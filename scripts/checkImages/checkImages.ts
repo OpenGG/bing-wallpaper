@@ -2,13 +2,15 @@ import {
     readFile,
 } from '../lib/readFile.ts'
 
+import { retry } from '../lib/retry.ts'
+
 import PQueue from "https://deno.land/x/p_queue@1.0.1/mod.ts"
 
 const content = await readFile('./wallpaper/all.txt')
 
-const run = async (cmd: string[]): Promise<number> => {
+const run = async (args): Promise<number> => {
     // create subprocess
-    const p = Deno.run({ cmd });
+    const p = Deno.run(args);
 
     // await its completion
     const {
@@ -31,14 +33,21 @@ const validate = async (line: string) => {
 
     // console.log(r2Path, localPath)
 
-    const loadSuccess = await run(['wrangler', 'r2', 'object', 'get', r2Path, '--file', localPath])
+    const loadSuccess = await retry(() => run({
+        cmd: ['wrangler', 'r2', 'object', 'get', r2Path, '--file', localPath],
+        env: {
+            WRANGLER_LOG: 'warn',
+        },
+    }))
 
     // console.log('loadSuccess', loadSuccess)
     if (loadSuccess !== 0) {
         throw new Error(`Failed to get r2 object: ${r2Path}`)
     }
 
-    const checkSuccess = await run(['./scripts/checkImages/checkImage.sh', localPath])
+    const checkSuccess = await run({
+        cmd: ['./scripts/checkImages/checkImage.sh', localPath]
+    })
 
     // console.log('checkSuccess', checkSuccess)
     if (checkSuccess !== 0) {
@@ -53,7 +62,7 @@ const lines = content.split('\n').map(a => a.trim()).filter(a => a)
 lines.reverse()
 
 const queue = new PQueue({
-    concurrency: 10,
+    concurrency: 20,
 })
 
 for (const line of lines) {
