@@ -15,9 +15,10 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2.3.4
 
-    - name: Install ImageMagick
+    - name: Install ImageMagick and wrangler
       run: |
-        sudo apt install imagemagick 
+        sudo apt install imagemagick
+        npm i -g wrangler
 
     - name: Install deps
       uses: denoland/setup-deno@v1
@@ -35,8 +36,11 @@ jobs:
         ./scripts/buildArchive.sh
 
     - name: Upload to cloudflare R2
+      env:
+        CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       run: |
-        ./scripts/uploadImage.sh
+        ./scripts/uploadImages.sh
 
     - uses: EndBug/add-and-commit@v9
       with:
