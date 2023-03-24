@@ -20,6 +20,16 @@ curl --doh-url https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Stop and smell the…garlic?
+
+Blooming wild garlic, Hainich National Park, Germany (© Frank Sommariva/Getty Images)
+
+![Stop and smell the…garlic?](https://bing.com/th?id=OHR.WildGarlic_EN-US8549203860_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-03-24
+
+Download 4k: [Stop and smell the…garlic?](https://bing.com/th?id=OHR.WildGarlic_EN-US8549203860_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## We've identified these 'flying objects'
 
 Lenticular clouds, Patagonia (© Sasha Juliard/Shutterstock)
@@ -109,16 +119,6 @@ Agüero, Spain (© Andrea Comi/Getty Images)
 Date: 2023-03-15
 
 Download 4k: [A hidden gem](https://bing.com/th?id=OHR.AgueroSpain_EN-US7079433596_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A beautiful labyrinth
-
-Hedge maze in Cyherbia Botanical Park, Cyprus (© Tpopova/Getty Images)
-
-![A beautiful labyrinth](https://bing.com/th?id=OHR.CyprusMaze_EN-US7012705307_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-03-14
-
-Download 4k: [A beautiful labyrinth](https://bing.com/th?id=OHR.CyprusMaze_EN-US7012705307_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
