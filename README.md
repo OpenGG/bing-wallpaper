@@ -7,11 +7,18 @@
 ```bash
 
 # Install schedule task to fetch bing wallpaper automatically.
-curl --doh-url https://dns.alidns.com/dns-query \
-  https://raw.githubusercontent.com/OpenGG/bing-wallpaper/master/mac/script.sh \
-  | bash -s -- "install"
-
-
+SCRIPT_URL=https://raw.githubusercontent.com/OpenGG/bing-wallpaper/master/mac/script.sh \
+SCRIPT_PATH=/tmp/io.github.opengg.bing-wallpaper.sh \
+DOH_URL=https://dns.alidns.com/dns-query \
+  sh -c '\
+  curl \
+  --fail \
+  --speed-limit 1024 \
+  --doh-url "$DOH_URL" \
+  -o "$SCRIPT_PATH" \
+  "$SCRIPT_URL" \
+  && bash "$SCRIPT_PATH" install \
+  && rm "$SCRIPT_PATH"'
 
 # Set wallpaper right away.
 ~/.io.github.opengg.bing-wallpaper/script.sh run
