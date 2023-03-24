@@ -17,4 +17,4 @@ curl \
 
 bash "$SCRIPT_PATH" "$@"
 
-rm "$SCRIPT_PATH"'
+rm "$SCRIPT_PATH"
