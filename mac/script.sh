@@ -4,7 +4,7 @@ set -e
 
 readonly SCRIPT_URL=https://raw.githubusercontent.com/OpenGG/bing-wallpaper/master/mac/main.sh
 
-readonly SCRIPT_PATH=/tmp/io.github.opengg.bing-wallpaper.sh
+readonly SCRIPT_PATH=/tmp/io.github.opengg.bing-wallpaper-main.sh
 
 readonly DOH_URL=https://dns.alidns.com/dns-query
 
