@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Winding down in style
+
+Cecil Brewer Staircase, the Heal's Building, London, England (© Yiran An/Getty Images)
+
+![Winding down in style](https://bing.com/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-03-25
+
+Download 4k: [Winding down in style](https://bing.com/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Stop and smell the…garlic?
 
 Blooming wild garlic, Hainich National Park, Germany (© Frank Sommariva/Getty Images)
@@ -116,16 +126,6 @@ Giant panda at Chengdu Panda Base, China (© Jim Zuckerman/Jaynes Gallery/Danita
 Date: 2023-03-16
 
 Download 4k: [Happy Panda Day!](https://bing.com/th?id=OHR.ChengduPanda_EN-US7206176908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A hidden gem
-
-Agüero, Spain (© Andrea Comi/Getty Images)
-
-![A hidden gem](https://bing.com/th?id=OHR.AgueroSpain_EN-US7079433596_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-03-15
-
-Download 4k: [A hidden gem](https://bing.com/th?id=OHR.AgueroSpain_EN-US7079433596_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
