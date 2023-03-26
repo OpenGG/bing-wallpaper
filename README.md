@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The desert in bloom
+
+Wildflowers in Anza-Borrego Desert State Park, California (© Ron and Patty Thomas/Getty Images)
+
+![The desert in bloom](https://bing.com/th?id=OHR.WildAnza_EN-US9575120232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-03-26
+
+Download 4k: [The desert in bloom](https://bing.com/th?id=OHR.WildAnza_EN-US9575120232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Winding down in style
 
 Cecil Brewer Staircase, the Heal's Building, London, England (© Yiran An/Getty Images)
@@ -116,16 +126,6 @@ Ballyvooney Cove, Copper Coast Geopark, County Waterford, Ireland (© Andrea Pis
 Date: 2023-03-17
 
 Download 4k: [Happy St. Patrick's Day!](https://bing.com/th?id=OHR.BallyvooneyCove_EN-US7329921498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Happy Panda Day!
-
-Giant panda at Chengdu Panda Base, China (© Jim Zuckerman/Jaynes Gallery/DanitaDelimont)
-
-![Happy Panda Day!](https://bing.com/th?id=OHR.ChengduPanda_EN-US7206176908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-03-16
-
-Download 4k: [Happy Panda Day!](https://bing.com/th?id=OHR.ChengduPanda_EN-US7206176908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
