@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Cloud City
+
+New York City skyline in fog (© Orbon Alija/Getty Images)
+
+![Cloud City](https://bing.com/th?id=OHR.NYCClouds_EN-US7251713390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-03-27
+
+Download 4k: [Cloud City](https://bing.com/th?id=OHR.NYCClouds_EN-US7251713390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The desert in bloom
 
 Wildflowers in Anza-Borrego Desert State Park, California (© Ron and Patty Thomas/Getty Images)
@@ -116,16 +126,6 @@ Gamboa Crater, Mars (© NASA/JPL-Caltech/University of Arizona)
 Date: 2023-03-18
 
 Download 4k: [Out of this world](https://bing.com/th?id=OHR.MarsTars_EN-US7511744420_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Happy St. Patrick's Day!
-
-Ballyvooney Cove, Copper Coast Geopark, County Waterford, Ireland (© Andrea Pistolesi/Getty Images)
-
-![Happy St. Patrick's Day!](https://bing.com/th?id=OHR.BallyvooneyCove_EN-US7329921498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-03-17
-
-Download 4k: [Happy St. Patrick's Day!](https://bing.com/th?id=OHR.BallyvooneyCove_EN-US7329921498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
