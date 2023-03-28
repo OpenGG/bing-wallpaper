@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Peak stargazing
+
+Milky Way above the Tre Cime di Lavaredo, South Tyrol, Italy (© Juan Romero/Cavan Images)
+
+![Peak stargazing](https://bing.com/th?id=OHR.MWDolomites_EN-US2413806289_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-03-28
+
+Download 4k: [Peak stargazing](https://bing.com/th?id=OHR.MWDolomites_EN-US2413806289_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Cloud City
 
 New York City skyline in fog (© Orbon Alija/Getty Images)
@@ -116,16 +126,6 @@ Barn owl, England (© Ondrej Prosicky/Getty Images)
 Date: 2023-03-19
 
 Download 4k: [Whooo's the wisest of them all?](https://bing.com/th?id=OHR.BarnOwlWinter_EN-US7295086574_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Out of this world
-
-Gamboa Crater, Mars (© NASA/JPL-Caltech/University of Arizona)
-
-![Out of this world](https://bing.com/th?id=OHR.MarsTars_EN-US7511744420_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-03-18
-
-Download 4k: [Out of this world](https://bing.com/th?id=OHR.MarsTars_EN-US7511744420_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
