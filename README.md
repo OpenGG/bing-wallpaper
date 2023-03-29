@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Snuggling sea cows
+
+Manatees, Crystal River, Florida (© Gregory Sweeney/Getty Images)
+
+![Snuggling sea cows](https://bing.com/th?id=OHR.NuzzleManatee_EN-US6719438929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-03-29
+
+Download 4k: [Snuggling sea cows](https://bing.com/th?id=OHR.NuzzleManatee_EN-US6719438929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Peak stargazing
 
 Milky Way above the Tre Cime di Lavaredo, South Tyrol, Italy (© Juan Romero/Cavan Images)
@@ -116,16 +126,6 @@ Crocus flowers (© Raimund Linke/Getty Images)
 Date: 2023-03-20
 
 Download 4k: [Hello spring!](https://bing.com/th?id=OHR.PurpleCrocus_EN-US4432411089_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Whooo's the wisest of them all?
-
-Barn owl, England (© Ondrej Prosicky/Getty Images)
-
-![Whooo's the wisest of them all?](https://bing.com/th?id=OHR.BarnOwlWinter_EN-US7295086574_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-03-19
-
-Download 4k: [Whooo's the wisest of them all?](https://bing.com/th?id=OHR.BarnOwlWinter_EN-US7295086574_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
