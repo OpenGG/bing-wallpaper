@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Regal radiance
+
+Peacock feathers (© Sarayut Thaneerat/Getty Images)
+
+![Regal radiance](https://bing.com/th?id=OHR.PeacockFeathers_EN-US0365605509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-03-30
+
+Download 4k: [Regal radiance](https://bing.com/th?id=OHR.PeacockFeathers_EN-US0365605509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Snuggling sea cows
 
 Manatees, Crystal River, Florida (© Gregory Sweeney/Getty Images)
@@ -116,16 +126,6 @@ Colorful pastel chalk (© Stephen Shepherd/plainpicture)
 Date: 2023-03-21
 
 Download 4k: [What's your favorite color?](https://bing.com/th?id=OHR.ColourDay_EN-US7730392026_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Hello spring!
-
-Crocus flowers (© Raimund Linke/Getty Images)
-
-![Hello spring!](https://bing.com/th?id=OHR.PurpleCrocus_EN-US4432411089_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-03-20
-
-Download 4k: [Hello spring!](https://bing.com/th?id=OHR.PurpleCrocus_EN-US4432411089_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
