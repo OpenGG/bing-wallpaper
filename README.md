@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The stunning Steyr
+
+Steyr River, Austria (© guenterguni/Getty Images)
+
+![The stunning Steyr](https://bing.com/th?id=OHR.SteyrRiver_EN-US6366722389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-03-31
+
+Download 4k: [The stunning Steyr](https://bing.com/th?id=OHR.SteyrRiver_EN-US6366722389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Regal radiance
 
 Peacock feathers (© Sarayut Thaneerat/Getty Images)
@@ -116,16 +126,6 @@ Lake Powell on the Colorado River (© Peter Schaefer/Alamy)
 Date: 2023-03-22
 
 Download 4k: [World Water Day](https://bing.com/th?id=OHR.LakePowellAerial_EN-US5762979140_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## What's your favorite color?
-
-Colorful pastel chalk (© Stephen Shepherd/plainpicture)
-
-![What's your favorite color?](https://bing.com/th?id=OHR.ColourDay_EN-US7730392026_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-03-21
-
-Download 4k: [What's your favorite color?](https://bing.com/th?id=OHR.ColourDay_EN-US7730392026_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
