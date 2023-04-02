@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Land of sand and fire
+
+Bromo Tengger Semeru National Park, East Java, Indonesia (© Bento Fotography/Getty Images)
+
+![Land of sand and fire](https://bing.com/th?id=OHR.JavaBromo_EN-US3411031416_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-04-02
+
+Download 4k: [Land of sand and fire](https://bing.com/th?id=OHR.JavaBromo_EN-US3411031416_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hoppy National Frog Month!
 
 Javan tree frog (© kuritafsheen/Getty Images)
@@ -116,16 +126,6 @@ Blooming wild garlic, Hainich National Park, Germany (© Frank Sommariva/Getty I
 Date: 2023-03-24
 
 Download 4k: [Stop and smell the…garlic?](https://bing.com/th?id=OHR.WildGarlic_EN-US8549203860_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## We've identified these 'flying objects'
-
-Lenticular clouds, Patagonia (© Sasha Juliard/Shutterstock)
-
-![We've identified these 'flying objects'](https://bing.com/th?id=OHR.CloudsPatagonia_EN-US4941579050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-03-23
-
-Download 4k: [We've identified these 'flying objects'](https://bing.com/th?id=OHR.CloudsPatagonia_EN-US4941579050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
