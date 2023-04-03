@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Chasing rainbows
+
+Pu'uhonua o Hōnaunau National Historical Park, Big Island, Hawaii (© Westend61/Getty Images)
+
+![Chasing rainbows](https://bing.com/th?id=OHR.HonaunauNP_EN-US9995236109_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-04-03
+
+Download 4k: [Chasing rainbows](https://bing.com/th?id=OHR.HonaunauNP_EN-US9995236109_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Land of sand and fire
 
 Bromo Tengger Semeru National Park, East Java, Indonesia (© Bento Fotography/Getty Images)
@@ -116,16 +126,6 @@ Cecil Brewer Staircase, the Heal's Building, London, England (© Yiran An/Getty 
 Date: 2023-03-25
 
 Download 4k: [Winding down in style](https://bing.com/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Stop and smell the…garlic?
-
-Blooming wild garlic, Hainich National Park, Germany (© Frank Sommariva/Getty Images)
-
-![Stop and smell the…garlic?](https://bing.com/th?id=OHR.WildGarlic_EN-US8549203860_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-03-24
-
-Download 4k: [Stop and smell the…garlic?](https://bing.com/th?id=OHR.WildGarlic_EN-US8549203860_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
