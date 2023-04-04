@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The historic heart of Córdoba
+
+Roman bridge, Córdoba, Spain (© Jeremy Woodhouse/Getty Images)
+
+![The historic heart of Córdoba](https://bing.com/th?id=OHR.RomanBridge_EN-US4101165681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-04-04
+
+Download 4k: [The historic heart of Córdoba](https://bing.com/th?id=OHR.RomanBridge_EN-US4101165681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Chasing rainbows
 
 Pu'uhonua o Hōnaunau National Historical Park, Big Island, Hawaii (© Westend61/Getty Images)
@@ -116,16 +126,6 @@ Wildflowers in Anza-Borrego Desert State Park, California (© Ron and Patty Thom
 Date: 2023-03-26
 
 Download 4k: [The desert in bloom](https://bing.com/th?id=OHR.WildAnza_EN-US9575120232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Winding down in style
-
-Cecil Brewer Staircase, the Heal's Building, London, England (© Yiran An/Getty Images)
-
-![Winding down in style](https://bing.com/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-03-25
-
-Download 4k: [Winding down in style](https://bing.com/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
