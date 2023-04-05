@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Ruffling feathers
+
+Black grouse males in Kuusamo, Finland (© Markus Varesvuo/Minden Pictures)
+
+![Ruffling feathers](https://bing.com/th?id=OHR.BlackGrouseLekking_EN-US3235220681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-04-05
+
+Download 4k: [Ruffling feathers](https://bing.com/th?id=OHR.BlackGrouseLekking_EN-US3235220681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The historic heart of Córdoba
 
 Roman bridge, Córdoba, Spain (© Jeremy Woodhouse/Getty Images)
@@ -116,16 +126,6 @@ New York City skyline in fog (© Orbon Alija/Getty Images)
 Date: 2023-03-27
 
 Download 4k: [Cloud City](https://bing.com/th?id=OHR.NYCClouds_EN-US7251713390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The desert in bloom
-
-Wildflowers in Anza-Borrego Desert State Park, California (© Ron and Patty Thomas/Getty Images)
-
-![The desert in bloom](https://bing.com/th?id=OHR.WildAnza_EN-US9575120232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-03-26
-
-Download 4k: [The desert in bloom](https://bing.com/th?id=OHR.WildAnza_EN-US9575120232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
