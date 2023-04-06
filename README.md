@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Pink moon rising
+
+Moon rising, Tucson, Arizona (© Tim Murphy/Shutterstock)
+
+![Pink moon rising](https://bing.com/th?id=OHR.ArizonaPinkMoon_EN-US5941531826_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-04-06
+
+Download 4k: [Pink moon rising](https://bing.com/th?id=OHR.ArizonaPinkMoon_EN-US5941531826_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Ruffling feathers
 
 Black grouse males in Kuusamo, Finland (© Markus Varesvuo/Minden Pictures)
@@ -116,16 +126,6 @@ Milky Way above the Tre Cime di Lavaredo, South Tyrol, Italy (© Juan Romero/Cav
 Date: 2023-03-28
 
 Download 4k: [Peak stargazing](https://bing.com/th?id=OHR.MWDolomites_EN-US2413806289_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Cloud City
-
-New York City skyline in fog (© Orbon Alija/Getty Images)
-
-![Cloud City](https://bing.com/th?id=OHR.NYCClouds_EN-US7251713390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-03-27
-
-Download 4k: [Cloud City](https://bing.com/th?id=OHR.NYCClouds_EN-US7251713390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
