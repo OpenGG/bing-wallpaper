@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## In the footsteps of giants
+
+The Giant's Causeway, County Antrim, Northern Ireland (© Dieter Meyrl/Getty Images)
+
+![In the footsteps of giants](https://bing.com/th?id=OHR.NIrelandGiants_EN-US3269727738_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-04-08
+
+Download 4k: [In the footsteps of giants](https://bing.com/th?id=OHR.NIrelandGiants_EN-US3269727738_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Saluting beavers
 
 Baby Eurasian beavers, Finland (© Danny Green/Minden Pictures)
@@ -116,16 +126,6 @@ Peacock feathers (© Sarayut Thaneerat/Getty Images)
 Date: 2023-03-30
 
 Download 4k: [Regal radiance](https://bing.com/th?id=OHR.PeacockFeathers_EN-US0365605509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Snuggling sea cows
-
-Manatees, Crystal River, Florida (© Gregory Sweeney/Getty Images)
-
-![Snuggling sea cows](https://bing.com/th?id=OHR.NuzzleManatee_EN-US6719438929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-03-29
-
-Download 4k: [Snuggling sea cows](https://bing.com/th?id=OHR.NuzzleManatee_EN-US6719438929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
