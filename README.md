@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Happy Easter!
+
+Lithuanian Easter eggs (© fotomem/Getty Images)
+
+![Happy Easter!](https://bing.com/th?id=OHR.LithuanianEggs_EN-US5086451033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-04-09
+
+Download 4k: [Happy Easter!](https://bing.com/th?id=OHR.LithuanianEggs_EN-US5086451033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## In the footsteps of giants
 
 The Giant's Causeway, County Antrim, Northern Ireland (© Dieter Meyrl/Getty Images)
@@ -116,16 +126,6 @@ Steyr River, Austria (© guenterguni/Getty Images)
 Date: 2023-03-31
 
 Download 4k: [The stunning Steyr](https://bing.com/th?id=OHR.SteyrRiver_EN-US6366722389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Regal radiance
-
-Peacock feathers (© Sarayut Thaneerat/Getty Images)
-
-![Regal radiance](https://bing.com/th?id=OHR.PeacockFeathers_EN-US0365605509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-03-30
-
-Download 4k: [Regal radiance](https://bing.com/th?id=OHR.PeacockFeathers_EN-US0365605509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
