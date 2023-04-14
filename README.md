@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Stars in daylight
+
+Mediterranean red sea stars, Mediterranean Sea (© Hans Leijnse/Minden Pictures)
+
+![Stars in daylight](https://bing.com/th?id=OHR.RedSeaStars_EN-US6473635643_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-04-14
+
+Download 4k: [Stars in daylight](https://bing.com/th?id=OHR.RedSeaStars_EN-US6473635643_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Pretty in pink
 
 Moss pink displays at Hitsujiyama Park, Saitama Prefecture, Japan (© Takashi Images/Shutterstock)
@@ -116,16 +126,6 @@ Black grouse males in Kuusamo, Finland (© Markus Varesvuo/Minden Pictures)
 Date: 2023-04-05
 
 Download 4k: [Ruffling feathers](https://bing.com/th?id=OHR.BlackGrouseLekking_EN-US3235220681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The historic heart of Córdoba
-
-Roman bridge, Córdoba, Spain (© Jeremy Woodhouse/Getty Images)
-
-![The historic heart of Córdoba](https://bing.com/th?id=OHR.RomanBridge_EN-US4101165681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-04-04
-
-Download 4k: [The historic heart of Córdoba](https://bing.com/th?id=OHR.RomanBridge_EN-US4101165681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
