@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## When art imitates life
+
+'Together' sculpture by Lorenzo Quinn, Great Pyramids of Giza, Cairo, Egypt (© Sima Diab/Getty Images)
+
+![When art imitates life](https://bing.com/th?id=OHR.LorenzoQuinn_EN-US6997686421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-04-15
+
+Download 4k: [When art imitates life](https://bing.com/th?id=OHR.LorenzoQuinn_EN-US6997686421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Stars in daylight
 
 Mediterranean red sea stars, Mediterranean Sea (© Hans Leijnse/Minden Pictures)
@@ -116,16 +126,6 @@ Moon rising, Tucson, Arizona (© Tim Murphy/Shutterstock)
 Date: 2023-04-06
 
 Download 4k: [Pink moon rising](https://bing.com/th?id=OHR.ArizonaPinkMoon_EN-US5941531826_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Ruffling feathers
-
-Black grouse males in Kuusamo, Finland (© Markus Varesvuo/Minden Pictures)
-
-![Ruffling feathers](https://bing.com/th?id=OHR.BlackGrouseLekking_EN-US3235220681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-04-05
-
-Download 4k: [Ruffling feathers](https://bing.com/th?id=OHR.BlackGrouseLekking_EN-US3235220681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
