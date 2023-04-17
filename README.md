@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Poetry in suspense
+
+'One Thousand Springs' haiku art installation by Chiharu Shiota, Kew Royal Botanic Gardens, London, England (© Guy Bell/Alamy Live News)
+
+![Poetry in suspense](https://bing.com/th?id=OHR.OneThousandSprings_EN-US8092648404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-04-17
+
+Download 4k: [Poetry in suspense](https://bing.com/th?id=OHR.OneThousandSprings_EN-US8092648404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Go fly a kite!
 
 Adelaide International Kite Festival, Australia (© Andrey Moisseyev/Alamy)
@@ -116,16 +126,6 @@ The Giant's Causeway, County Antrim, Northern Ireland (© Dieter Meyrl/Getty Ima
 Date: 2023-04-08
 
 Download 4k: [In the footsteps of giants](https://bing.com/th?id=OHR.NIrelandGiants_EN-US3269727738_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Saluting beavers
-
-Baby Eurasian beavers, Finland (© Danny Green/Minden Pictures)
-
-![Saluting beavers](https://bing.com/th?id=OHR.KitsAspen_EN-US6734104933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-04-07
-
-Download 4k: [Saluting beavers](https://bing.com/th?id=OHR.KitsAspen_EN-US6734104933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
