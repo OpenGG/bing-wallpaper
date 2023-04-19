@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Two's company
+
+Taiwan yuhina pair, Alishan National Scenic Area, Taiwan (© Staffan Widstrand/Minden Pictures)
+
+![Two's company](https://bing.com/th?id=OHR.TaiwanYuhina_EN-US1768443431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-04-19
+
+Download 4k: [Two's company](https://bing.com/th?id=OHR.TaiwanYuhina_EN-US1768443431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A mountaintop marvel
 
 Machu Picchu, Peru (© Dora Dalton/Getty Images)
@@ -116,16 +126,6 @@ Elephant family in Amboseli National Park, Kenya (© Diana Robinson/Getty Images
 Date: 2023-04-10
 
 Download 4k: [Strong sibling bonds](https://bing.com/th?id=OHR.ElephantTwins_EN-US2939253051_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Happy Easter!
-
-Lithuanian Easter eggs (© fotomem/Getty Images)
-
-![Happy Easter!](https://bing.com/th?id=OHR.LithuanianEggs_EN-US5086451033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-04-09
-
-Download 4k: [Happy Easter!](https://bing.com/th?id=OHR.LithuanianEggs_EN-US5086451033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
