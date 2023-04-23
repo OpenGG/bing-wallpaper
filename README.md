@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A book lover's paradise
+
+Stuttgart Public Library, Germany (© Axel Brunst/Tandem Stills + Motion)
+
+![A book lover's paradise](https://bing.com/th?id=OHR.StuttgartPublicLibrary_EN-US3925069856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-04-23
+
+Download 4k: [A book lover's paradise](https://bing.com/th?id=OHR.StuttgartPublicLibrary_EN-US3925069856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Back from the brink
 
 Island fox in Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Mediterranean red sea stars, Mediterranean Sea (© Hans Leijnse/Minden Pictures)
 Date: 2023-04-14
 
 Download 4k: [Stars in daylight](https://bing.com/th?id=OHR.RedSeaStars_EN-US6473635643_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Pretty in pink
-
-Moss pink displays at Hitsujiyama Park, Saitama Prefecture, Japan (© Takashi Images/Shutterstock)
-
-![Pretty in pink](https://bing.com/th?id=OHR.PhloxSubulata_EN-US0635247129_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-04-13
-
-Download 4k: [Pretty in pink](https://bing.com/th?id=OHR.PhloxSubulata_EN-US0635247129_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
