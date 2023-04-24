@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Beneath the woods
+
+Old underground cellar, Bavaria, Germany (© Andreas Zerndl/Getty Images)
+
+![Beneath the woods](https://bing.com/th?id=OHR.FranconianWineCellar_EN-US3287515626_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-04-24
+
+Download 4k: [Beneath the woods](https://bing.com/th?id=OHR.FranconianWineCellar_EN-US3287515626_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A book lover's paradise
 
 Stuttgart Public Library, Germany (© Axel Brunst/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Download 4k: [Go fly a kite!](https://bing.com/th?id=OHR.KiteDay_EN-US7254188187
 Date: 2023-04-15
 
 Download 4k: [When art imitates life](https://bing.com/th?id=OHR.LorenzoQuinn_EN-US6997686421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Stars in daylight
-
-Mediterranean red sea stars, Mediterranean Sea (© Hans Leijnse/Minden Pictures)
-
-![Stars in daylight](https://bing.com/th?id=OHR.RedSeaStars_EN-US6473635643_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-04-14
-
-Download 4k: [Stars in daylight](https://bing.com/th?id=OHR.RedSeaStars_EN-US6473635643_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
