@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Chilling out on World Penguin Day
+
+Adélie penguins in Antarctica (© David Merron Photography/Getty Images)
+
+![Chilling out on World Penguin Day](https://bing.com/th?id=OHR.AdelieWPD_EN-US5175747404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-04-25
+
+Download 4k: [Chilling out on World Penguin Day](https://bing.com/th?id=OHR.AdelieWPD_EN-US5175747404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Beneath the woods
 
 Old underground cellar, Bavaria, Germany (© Andreas Zerndl/Getty Images)
@@ -116,16 +126,6 @@ Adelaide International Kite Festival, Australia (© Andrey Moisseyev/Alamy)
 Date: 2023-04-16
 
 Download 4k: [Go fly a kite!](https://bing.com/th?id=OHR.KiteDay_EN-US7254188187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## When art imitates life
-
-'Together' sculpture by Lorenzo Quinn, Great Pyramids of Giza, Cairo, Egypt (© Sima Diab/Getty Images)
-
-![When art imitates life](https://bing.com/th?id=OHR.LorenzoQuinn_EN-US6997686421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-04-15
-
-Download 4k: [When art imitates life](https://bing.com/th?id=OHR.LorenzoQuinn_EN-US6997686421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
