@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Destined for greatness
+
+Great horned owl fledglings (© Michael Morse/Getty Images)
+
+![Destined for greatness](https://bing.com/th?id=OHR.GHOAudubonDay_EN-US1034364185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-04-26
+
+Download 4k: [Destined for greatness](https://bing.com/th?id=OHR.GHOAudubonDay_EN-US1034364185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Chilling out on World Penguin Day
 
 Adélie penguins in Antarctica (© David Merron Photography/Getty Images)
@@ -116,16 +126,6 @@ Download 4k: [A mountaintop marvel](https://bing.com/th?id=OHR.MPPUnesco_EN-US82
 Date: 2023-04-17
 
 Download 4k: [Poetry in suspense](https://bing.com/th?id=OHR.OneThousandSprings_EN-US8092648404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Go fly a kite!
-
-Adelaide International Kite Festival, Australia (© Andrey Moisseyev/Alamy)
-
-![Go fly a kite!](https://bing.com/th?id=OHR.KiteDay_EN-US7254188187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-04-16
-
-Download 4k: [Go fly a kite!](https://bing.com/th?id=OHR.KiteDay_EN-US7254188187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
