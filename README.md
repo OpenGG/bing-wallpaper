@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The giants of Yosemite
+
+Mariposa Grove of Giant Sequoias in Yosemite National Park, California (© Orbon Alija/Getty Images)
+
+![The giants of Yosemite](https://bing.com/th?id=OHR.MariposaGrove_EN-US0790407793_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-04-28
+
+Download 4k: [The giants of Yosemite](https://bing.com/th?id=OHR.MariposaGrove_EN-US0790407793_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## An endless stretch of sky
 
 South Padre Island, Texas (© Jeff R Clow/Getty Images)
@@ -116,16 +126,6 @@ Taiwan yuhina pair, Alishan National Scenic Area, Taiwan (© Staffan Widstrand/M
 Date: 2023-04-19
 
 Download 4k: [Two's company](https://bing.com/th?id=OHR.TaiwanYuhina_EN-US1768443431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A mountaintop marvel
-
-Machu Picchu, Peru (© Dora Dalton/Getty Images)
-
-![A mountaintop marvel](https://bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-04-18
-
-Download 4k: [A mountaintop marvel](https://bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
