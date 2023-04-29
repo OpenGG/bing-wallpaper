@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Gazing into infinity
+
+Milky Way over Joshua Tree National Park, California (© Schroptschop/Getty Images)
+
+![Gazing into infinity](https://bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-04-29
+
+Download 4k: [Gazing into infinity](https://bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The giants of Yosemite
 
 Mariposa Grove of Giant Sequoias in Yosemite National Park, California (© Orbon Alija/Getty Images)
@@ -116,16 +126,6 @@ Juniper Springs in Ocala National Forest, Florida (© Michael Warren/Getty Image
 Date: 2023-04-20
 
 Download 4k: [A subtropical soak](https://bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Two's company
-
-Taiwan yuhina pair, Alishan National Scenic Area, Taiwan (© Staffan Widstrand/Minden Pictures)
-
-![Two's company](https://bing.com/th?id=OHR.TaiwanYuhina_EN-US1768443431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-04-19
-
-Download 4k: [Two's company](https://bing.com/th?id=OHR.TaiwanYuhina_EN-US1768443431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
