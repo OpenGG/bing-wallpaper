@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A day of swing and celebration
+
+Preservation Hall, New Orleans, Louisiana (© Cosmo Condina North America/Alamy)
+
+![A day of swing and celebration](https://bing.com/th?id=OHR.ExteriorPreservationHall_EN-US9095698933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-04-30
+
+Download 4k: [A day of swing and celebration](https://bing.com/th?id=OHR.ExteriorPreservationHall_EN-US9095698933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Gazing into infinity
 
 Milky Way over Joshua Tree National Park, California (© Schroptschop/Getty Images)
@@ -116,16 +126,6 @@ Procida, Italy (© Sean Pavone/Shutterstock)
 Date: 2023-04-21
 
 Download 4k: [Sunset on Procida](https://bing.com/th?id=OHR.ProcidaItaly_EN-US6282924427_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A subtropical soak
-
-Juniper Springs in Ocala National Forest, Florida (© Michael Warren/Getty Images)
-
-![A subtropical soak](https://bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-04-20
-
-Download 4k: [A subtropical soak](https://bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
