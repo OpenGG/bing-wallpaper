@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Celebrating Cinco de Mayo
+
+Church of Nuestra Señora de los Remedios and Popocatépetl, Puebla, Mexico (© Radius Images/Shutterstock)
+
+![Celebrating Cinco de Mayo](https://bing.com/th?id=OHR.Popocatepetl_EN-US0582960818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-05-05
+
+Download 4k: [Celebrating Cinco de Mayo](https://bing.com/th?id=OHR.Popocatepetl_EN-US0582960818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## May the Fourth be with you
 
 Mayan ruins in Tikal, Guatemala (© THP Creative/Getty Images)
@@ -116,16 +126,6 @@ Great horned owl fledglings (© Michael Morse/Getty Images)
 Date: 2023-04-26
 
 Download 4k: [Destined for greatness](https://bing.com/th?id=OHR.GHOAudubonDay_EN-US1034364185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Chilling out on World Penguin Day
-
-Adélie penguins in Antarctica (© David Merron Photography/Getty Images)
-
-![Chilling out on World Penguin Day](https://bing.com/th?id=OHR.AdelieWPD_EN-US5175747404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-04-25
-
-Download 4k: [Chilling out on World Penguin Day](https://bing.com/th?id=OHR.AdelieWPD_EN-US5175747404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
