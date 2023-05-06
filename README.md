@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The purple peaks of Hwangmaesan
+
+Royal azaleas in bloom on Hwangmaesan Mountain, South Korea (© Stock for you/Shutterstock)
+
+![The purple peaks of Hwangmaesan](https://bing.com/th?id=OHR.HwangmaesanAzaleas_EN-US0649441292_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-05-06
+
+Download 4k: [The purple peaks of Hwangmaesan](https://bing.com/th?id=OHR.HwangmaesanAzaleas_EN-US0649441292_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Celebrating Cinco de Mayo
 
 Church of Nuestra Señora de los Remedios and Popocatépetl, Puebla, Mexico (© Radius Images/Shutterstock)
@@ -116,16 +126,6 @@ South Padre Island, Texas (© Jeff R Clow/Getty Images)
 Date: 2023-04-27
 
 Download 4k: [An endless stretch of sky](https://bing.com/th?id=OHR.SouthPadre_EN-US8601972598_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Destined for greatness
-
-Great horned owl fledglings (© Michael Morse/Getty Images)
-
-![Destined for greatness](https://bing.com/th?id=OHR.GHOAudubonDay_EN-US1034364185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-04-26
-
-Download 4k: [Destined for greatness](https://bing.com/th?id=OHR.GHOAudubonDay_EN-US1034364185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
