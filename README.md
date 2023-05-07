@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Happy World Laughter Day!
+
+Gray seal pup, Lundy Island, England (© Henley Spiers/Minden Pictures)
+
+![Happy World Laughter Day!](https://bing.com/th?id=OHR.SealLaughing_EN-US0742497806_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-05-07
+
+Download 4k: [Happy World Laughter Day!](https://bing.com/th?id=OHR.SealLaughing_EN-US0742497806_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The purple peaks of Hwangmaesan
 
 Royal azaleas in bloom on Hwangmaesan Mountain, South Korea (© Stock for you/Shutterstock)
@@ -116,16 +126,6 @@ Mariposa Grove of Giant Sequoias in Yosemite National Park, California (© Orbon
 Date: 2023-04-28
 
 Download 4k: [The giants of Yosemite](https://bing.com/th?id=OHR.MariposaGrove_EN-US0790407793_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## An endless stretch of sky
-
-South Padre Island, Texas (© Jeff R Clow/Getty Images)
-
-![An endless stretch of sky](https://bing.com/th?id=OHR.SouthPadre_EN-US8601972598_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-04-27
-
-Download 4k: [An endless stretch of sky](https://bing.com/th?id=OHR.SouthPadre_EN-US8601972598_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
