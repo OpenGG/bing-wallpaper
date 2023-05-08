@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Delicate but enduring
+
+Delicate Arch, Arches National Park, Utah (© Mark Brodkin Photography/Getty Images)
+
+![Delicate but enduring](https://bing.com/th?id=OHR.TheChaps_EN-US0810025310_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-05-08
+
+Download 4k: [Delicate but enduring](https://bing.com/th?id=OHR.TheChaps_EN-US0810025310_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Happy World Laughter Day!
 
 Gray seal pup, Lundy Island, England (© Henley Spiers/Minden Pictures)
@@ -116,16 +126,6 @@ Milky Way over Joshua Tree National Park, California (© Schroptschop/Getty Imag
 Date: 2023-04-29
 
 Download 4k: [Gazing into infinity](https://bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The giants of Yosemite
-
-Mariposa Grove of Giant Sequoias in Yosemite National Park, California (© Orbon Alija/Getty Images)
-
-![The giants of Yosemite](https://bing.com/th?id=OHR.MariposaGrove_EN-US0790407793_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-04-28
-
-Download 4k: [The giants of Yosemite](https://bing.com/th?id=OHR.MariposaGrove_EN-US0790407793_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
