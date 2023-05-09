@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A castle fit for a count
+
+Poenari Castle on Mount Cetatea, Făgăraș Mountains, Romania (© porojnicu/Getty Images)
+
+![A castle fit for a count](https://bing.com/th?id=OHR.MountCetatea_EN-US0862689024_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-05-09
+
+Download 4k: [A castle fit for a count](https://bing.com/th?id=OHR.MountCetatea_EN-US0862689024_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Delicate but enduring
 
 Delicate Arch, Arches National Park, Utah (© Mark Brodkin Photography/Getty Images)
@@ -116,16 +126,6 @@ Preservation Hall, New Orleans, Louisiana (© Cosmo Condina North America/Alamy)
 Date: 2023-04-30
 
 Download 4k: [A day of swing and celebration](https://bing.com/th?id=OHR.ExteriorPreservationHall_EN-US9095698933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Gazing into infinity
-
-Milky Way over Joshua Tree National Park, California (© Schroptschop/Getty Images)
-
-![Gazing into infinity](https://bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-04-29
-
-Download 4k: [Gazing into infinity](https://bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
