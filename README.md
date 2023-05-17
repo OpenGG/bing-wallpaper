@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Getting a bird's-eye view
+
+Natural Bridges State Beach in Santa Cruz, California (© Jim Patterson/Tandem Stills + Motion)
+
+![Getting a bird's-eye view](https://bing.com/th?id=OHR.CormorantBridge_EN-US1902862286_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-05-17
+
+Download 4k: [Getting a bird's-eye view](https://bing.com/th?id=OHR.CormorantBridge_EN-US1902862286_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Serene waters on a 'trembling earth'
 
 Canoeing in Okefenokee National Wildlife Refuge, Georgia (© Brad Beck/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Delicate Arch, Arches National Park, Utah (© Mark Brodkin Photography/Getty Ima
 Date: 2023-05-08
 
 Download 4k: [Delicate but enduring](https://bing.com/th?id=OHR.TheChaps_EN-US0810025310_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Happy World Laughter Day!
-
-Gray seal pup, Lundy Island, England (© Henley Spiers/Minden Pictures)
-
-![Happy World Laughter Day!](https://bing.com/th?id=OHR.SealLaughing_EN-US0742497806_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-05-07
-
-Download 4k: [Happy World Laughter Day!](https://bing.com/th?id=OHR.SealLaughing_EN-US0742497806_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
