@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## International Museum Day
+
+Museo Soumaya, Plaza Carso, Mexico City, Mexico (© Juan Romero/Alamy)
+
+![International Museum Day](https://bing.com/th?id=OHR.MuseoSoumaya_EN-US2440983924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-05-18
+
+Download 4k: [International Museum Day](https://bing.com/th?id=OHR.MuseoSoumaya_EN-US2440983924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Getting a bird's-eye view
 
 Natural Bridges State Beach in Santa Cruz, California (© Jim Patterson/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Poenari Castle on Mount Cetatea, Făgăraș Mountains, Romania (© porojnicu/Get
 Date: 2023-05-09
 
 Download 4k: [A castle fit for a count](https://bing.com/th?id=OHR.MountCetatea_EN-US0862689024_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Delicate but enduring
-
-Delicate Arch, Arches National Park, Utah (© Mark Brodkin Photography/Getty Images)
-
-![Delicate but enduring](https://bing.com/th?id=OHR.TheChaps_EN-US0810025310_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-05-08
-
-Download 4k: [Delicate but enduring](https://bing.com/th?id=OHR.TheChaps_EN-US0810025310_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
