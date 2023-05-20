@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The buzz about World Bee Day
+
+European honeybees in Sheffield, England (© Deborah Vernon/Alamy)
+
+![The buzz about World Bee Day](https://bing.com/th?id=OHR.EuropeanHoneybee_EN-US0859156574_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-05-20
+
+Download 4k: [The buzz about World Bee Day](https://bing.com/th?id=OHR.EuropeanHoneybee_EN-US0859156574_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## On the edge of extinction
 
 Sumatran rhinoceros female eating leaves, Way Kambas National Park, Sumatra, Indonesia (© Cyril Ruoso/Minden Pictures)
@@ -116,16 +126,6 @@ Henningsvær Stadion, Norway (© Morten Falch Sortland/Getty Images)
 Date: 2023-05-11
 
 Download 4k: [Pitch perfect](https://bing.com/th?id=OHR.FootballField_EN-US1266832046_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## King of lighthouses
-
-Cordouan Lighthouse, Royan, Charente, France (© FRTimelapse/Getty Images)
-
-![King of lighthouses](https://bing.com/th?id=OHR.CordouanLighthouse_EN-US1179388866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-05-10
-
-Download 4k: [King of lighthouses](https://bing.com/th?id=OHR.CordouanLighthouse_EN-US1179388866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
