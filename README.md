@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where the grass is greener
+
+Saksun, Faroe Islands, Denmark (© miroslav_1/Getty Images)
+
+![Where the grass is greener](https://bing.com/th?id=OHR.SaksunFaroe_EN-US3384967997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-05-25
+
+Download 4k: [Where the grass is greener](https://bing.com/th?id=OHR.SaksunFaroe_EN-US3384967997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Standing firm
 
 The Old Fortress of Corfu, Greece (© Netfalls Remy Musser/Shutterstock)
@@ -116,16 +126,6 @@ Canoeing in Okefenokee National Wildlife Refuge, Georgia (© Brad Beck/Tandem St
 Date: 2023-05-16
 
 Download 4k: [Serene waters on a 'trembling earth'](https://bing.com/th?id=OHR.AmericanWetlands_EN-US1844827155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Aglow in the Atlantic
-
-Morro Jable and Playa del Matorral, Fuerteventura, Canary Islands, Spain (© Gavin Hellier/Getty Images)
-
-![Aglow in the Atlantic](https://bing.com/th?id=OHR.MorroJable_EN-US1772722431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-05-15
-
-Download 4k: [Aglow in the Atlantic](https://bing.com/th?id=OHR.MorroJable_EN-US1772722431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
