@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The splendors of Sukhothai
+
+Wat Sri Sawai in Sukhothai Historical Park, Thailand (© Casper1774 Studio/Shutterstock)
+
+![The splendors of Sukhothai](https://bing.com/th?id=OHR.WatSriSawai_EN-US3779091241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-05-26
+
+Download 4k: [The splendors of Sukhothai](https://bing.com/th?id=OHR.WatSriSawai_EN-US3779091241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where the grass is greener
 
 Saksun, Faroe Islands, Denmark (© miroslav_1/Getty Images)
@@ -116,16 +126,6 @@ Natural Bridges State Beach in Santa Cruz, California (© Jim Patterson/Tandem S
 Date: 2023-05-17
 
 Download 4k: [Getting a bird's-eye view](https://bing.com/th?id=OHR.CormorantBridge_EN-US1902862286_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Serene waters on a 'trembling earth'
-
-Canoeing in Okefenokee National Wildlife Refuge, Georgia (© Brad Beck/Tandem Stills + Motion)
-
-![Serene waters on a 'trembling earth'](https://bing.com/th?id=OHR.AmericanWetlands_EN-US1844827155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-05-16
-
-Download 4k: [Serene waters on a 'trembling earth'](https://bing.com/th?id=OHR.AmericanWetlands_EN-US1844827155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
