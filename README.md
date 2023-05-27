@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Stretching to the sky
+
+Quiver trees in Namibia (© Fotofeeling/DEEPOL by plainpicture)
+
+![Stretching to the sky](https://bing.com/th?id=OHR.AloeDichotomum_EN-US4149828212_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-05-27
+
+Download 4k: [Stretching to the sky](https://bing.com/th?id=OHR.AloeDichotomum_EN-US4149828212_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The splendors of Sukhothai
 
 Wat Sri Sawai in Sukhothai Historical Park, Thailand (© Casper1774 Studio/Shutterstock)
@@ -116,16 +126,6 @@ Museo Soumaya, Plaza Carso, Mexico City, Mexico (© Juan Romero/Alamy)
 Date: 2023-05-18
 
 Download 4k: [International Museum Day](https://bing.com/th?id=OHR.MuseoSoumaya_EN-US2440983924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Getting a bird's-eye view
-
-Natural Bridges State Beach in Santa Cruz, California (© Jim Patterson/Tandem Stills + Motion)
-
-![Getting a bird's-eye view](https://bing.com/th?id=OHR.CormorantBridge_EN-US1902862286_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-05-17
-
-Download 4k: [Getting a bird's-eye view](https://bing.com/th?id=OHR.CormorantBridge_EN-US1902862286_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
