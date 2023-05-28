@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Farming in harmony with nature
+
+Tegallalang terrace farms in Ubud, Bali, Indonesia (© Cavan Images/Adobe Stock)
+
+![Farming in harmony with nature](https://bing.com/th?id=OHR.TegallalangTerrace_EN-US4296943902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-05-28
+
+Download 4k: [Farming in harmony with nature](https://bing.com/th?id=OHR.TegallalangTerrace_EN-US4296943902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Stretching to the sky
 
 Quiver trees in Namibia (© Fotofeeling/DEEPOL by plainpicture)
@@ -116,16 +126,6 @@ Sumatran rhinoceros female eating leaves, Way Kambas National Park, Sumatra, Ind
 Date: 2023-05-19
 
 Download 4k: [On the edge of extinction](https://bing.com/th?id=OHR.SumatranRhino_EN-US0245305253_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## International Museum Day
-
-Museo Soumaya, Plaza Carso, Mexico City, Mexico (© Juan Romero/Alamy)
-
-![International Museum Day](https://bing.com/th?id=OHR.MuseoSoumaya_EN-US2440983924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-05-18
-
-Download 4k: [International Museum Day](https://bing.com/th?id=OHR.MuseoSoumaya_EN-US2440983924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
