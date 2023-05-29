@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Honoring the fallen
+
+Lantern floating ceremony, Ala Moana Beach Park, Honolulu, Hawaii (© Naomi Hayes of Island Memories Photography/Getty Images)
+
+![Honoring the fallen](https://bing.com/th?id=OHR.LanternFloating_EN-US4433076187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-05-29
+
+Download 4k: [Honoring the fallen](https://bing.com/th?id=OHR.LanternFloating_EN-US4433076187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Farming in harmony with nature
 
 Tegallalang terrace farms in Ubud, Bali, Indonesia (© Cavan Images/Adobe Stock)
@@ -116,16 +126,6 @@ European honeybees in Sheffield, England (© Deborah Vernon/Alamy)
 Date: 2023-05-20
 
 Download 4k: [The buzz about World Bee Day](https://bing.com/th?id=OHR.EuropeanHoneybee_EN-US0859156574_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## On the edge of extinction
-
-Sumatran rhinoceros female eating leaves, Way Kambas National Park, Sumatra, Indonesia (© Cyril Ruoso/Minden Pictures)
-
-![On the edge of extinction](https://bing.com/th?id=OHR.SumatranRhino_EN-US0245305253_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-05-19
-
-Download 4k: [On the edge of extinction](https://bing.com/th?id=OHR.SumatranRhino_EN-US0245305253_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
