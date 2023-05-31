@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Otterly adorable
+
+Sea otter pup, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)
+
+![Otterly adorable](https://bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-05-31
+
+Download 4k: [Otterly adorable](https://bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Secluded sands in Mexico
 
 Playa del Amor in the Marietas Islands, off the coast of Puerto Vallarta, Mexico (© ferrantraite/Getty Images)
@@ -116,16 +126,6 @@ Arenal Volcano seen from Monteverde, Costa Rica (© Kevin Wells/Getty Images)
 Date: 2023-05-22
 
 Download 4k: [Life in the clouds](https://bing.com/th?id=OHR.BiodiverseCostaRica_EN-US2611109244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Spanning the Seine
-
-Pont d’Arcole on the Seine river, Paris, France (© StockByM/Getty Images)
-
-![Spanning the Seine](https://bing.com/th?id=OHR.PontdArcole_EN-US2477179777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-05-21
-
-Download 4k: [Spanning the Seine](https://bing.com/th?id=OHR.PontdArcole_EN-US2477179777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
