@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Blue as far as the eye can see
+
+Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial Agency)
+
+![Blue as far as the eye can see](https://bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-01
+
+Download 4k: [Blue as far as the eye can see](https://bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Otterly adorable
 
 Sea otter pup, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)
@@ -117,17 +127,9 @@ Date: 2023-05-23
 
 Download 4k: [Turtle power!](https://bing.com/th?id=OHR.WesternBoxTurtle_EN-US2880487603_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Life in the clouds
-
-Arenal Volcano seen from Monteverde, Costa Rica (© Kevin Wells/Getty Images)
-
-![Life in the clouds](https://bing.com/th?id=OHR.BiodiverseCostaRica_EN-US2611109244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-05-22
-
-Download 4k: [Life in the clouds](https://bing.com/th?id=OHR.BiodiverseCostaRica_EN-US2611109244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2023-06](./archive/2023/06.md)
 
 [2023-05](./archive/2023/05.md)
 
