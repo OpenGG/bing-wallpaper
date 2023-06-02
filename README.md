@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hello? Anybody else out here?
+
+Gemsbok (Oryx gazella) in sand dunes, Namibia (© Sergey Gorshkov/Minden)
+
+![Hello? Anybody else out here?](https://bing.com/th?id=OHR.GemsbokNamibia_EN-US7844189674_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-02
+
+Download 4k: [Hello? Anybody else out here?](https://bing.com/th?id=OHR.GemsbokNamibia_EN-US7844189674_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Blue as far as the eye can see
 
 Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial Agency)
@@ -116,16 +126,6 @@ The Old Fortress of Corfu, Greece (© Netfalls Remy Musser/Shutterstock)
 Date: 2023-05-24
 
 Download 4k: [Standing firm](https://bing.com/th?id=OHR.OldFortress_EN-US3033490074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Turtle power!
-
-Western box turtle (© Tim Fitzharris/Minden Pictures)
-
-![Turtle power!](https://bing.com/th?id=OHR.WesternBoxTurtle_EN-US2880487603_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-05-23
-
-Download 4k: [Turtle power!](https://bing.com/th?id=OHR.WesternBoxTurtle_EN-US2880487603_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
