@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A glimpse of the grandest of canyons
+
+South Kaibab Trail in Grand Canyon National Park, Arizona (© Roman Khomlyak/Getty Images)
+
+![A glimpse of the grandest of canyons](https://bing.com/th?id=OHR.SouthKaibabTrail_EN-US7932080032_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-03
+
+Download 4k: [A glimpse of the grandest of canyons](https://bing.com/th?id=OHR.SouthKaibabTrail_EN-US7932080032_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hello? Anybody else out here?
 
 Gemsbok (Oryx gazella) in sand dunes, Namibia (© Sergey Gorshkov/Minden)
@@ -116,16 +126,6 @@ Saksun, Faroe Islands, Denmark (© miroslav_1/Getty Images)
 Date: 2023-05-25
 
 Download 4k: [Where the grass is greener](https://bing.com/th?id=OHR.SaksunFaroe_EN-US3384967997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Standing firm
-
-The Old Fortress of Corfu, Greece (© Netfalls Remy Musser/Shutterstock)
-
-![Standing firm](https://bing.com/th?id=OHR.OldFortress_EN-US3033490074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-05-24
-
-Download 4k: [Standing firm](https://bing.com/th?id=OHR.OldFortress_EN-US3033490074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
