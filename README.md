@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Maui's volcanic shores
+
+Black sand beach at Wai'ānapanapa State Park, Maui, Hawaii (© Matt Anderson Photography/Getty Images)
+
+![Maui's volcanic shores](https://bing.com/th?id=OHR.MauiBeach_EN-US7999098369_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-04
+
+Download 4k: [Maui's volcanic shores](https://bing.com/th?id=OHR.MauiBeach_EN-US7999098369_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A glimpse of the grandest of canyons
 
 South Kaibab Trail in Grand Canyon National Park, Arizona (© Roman Khomlyak/Getty Images)
@@ -116,16 +126,6 @@ Wat Sri Sawai in Sukhothai Historical Park, Thailand (© Casper1774 Studio/Shutt
 Date: 2023-05-26
 
 Download 4k: [The splendors of Sukhothai](https://bing.com/th?id=OHR.WatSriSawai_EN-US3779091241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where the grass is greener
-
-Saksun, Faroe Islands, Denmark (© miroslav_1/Getty Images)
-
-![Where the grass is greener](https://bing.com/th?id=OHR.SaksunFaroe_EN-US3384967997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-05-25
-
-Download 4k: [Where the grass is greener](https://bing.com/th?id=OHR.SaksunFaroe_EN-US3384967997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
