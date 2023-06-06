@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Remembering D-Day
+
+The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)
+
+![Remembering D-Day](https://bing.com/th?id=OHR.CliffsEtretat_EN-US8125687089_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-06
+
+Download 4k: [Remembering D-Day](https://bing.com/th?id=OHR.CliffsEtretat_EN-US8125687089_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Can we turn the tide on ocean plastic?
 
 'Priscilla the Parrotfish' art installation at Como Park Zoo & Conservatory, St. Paul, Minnesota (© Michael Siluk/UCG/Universal Images Group via Getty Images)
@@ -116,16 +126,6 @@ Tegallalang terrace farms in Ubud, Bali, Indonesia (© Cavan Images/Adobe Stock)
 Date: 2023-05-28
 
 Download 4k: [Farming in harmony with nature](https://bing.com/th?id=OHR.TegallalangTerrace_EN-US4296943902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Stretching to the sky
-
-Quiver trees in Namibia (© Fotofeeling/DEEPOL by plainpicture)
-
-![Stretching to the sky](https://bing.com/th?id=OHR.AloeDichotomum_EN-US4149828212_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-05-27
-
-Download 4k: [Stretching to the sky](https://bing.com/th?id=OHR.AloeDichotomum_EN-US4149828212_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
