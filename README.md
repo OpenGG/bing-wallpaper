@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## If these walls could talk...
+
+Pueblo Bonito, Chaco Culture National Historical Park, New Mexico (© Ian Shive/Tandem Stills + Motion)
+
+![If these walls could talk...](https://bing.com/th?id=OHR.ChacoCulture_EN-US8179442556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-07
+
+Download 4k: [If these walls could talk...](https://bing.com/th?id=OHR.ChacoCulture_EN-US8179442556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Remembering D-Day
 
 The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)
@@ -116,16 +126,6 @@ Lantern floating ceremony, Ala Moana Beach Park, Honolulu, Hawaii (© Naomi Haye
 Date: 2023-05-29
 
 Download 4k: [Honoring the fallen](https://bing.com/th?id=OHR.LanternFloating_EN-US4433076187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Farming in harmony with nature
-
-Tegallalang terrace farms in Ubud, Bali, Indonesia (© Cavan Images/Adobe Stock)
-
-![Farming in harmony with nature](https://bing.com/th?id=OHR.TegallalangTerrace_EN-US4296943902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-05-28
-
-Download 4k: [Farming in harmony with nature](https://bing.com/th?id=OHR.TegallalangTerrace_EN-US4296943902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
