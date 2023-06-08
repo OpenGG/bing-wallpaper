@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where the humpback whale sings
+
+Humpback whale (© Philip Thurston/Getty Images)
+
+![Where the humpback whale sings](https://bing.com/th?id=OHR.PlayfulHumpback_EN-US8290961519_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-08
+
+Download 4k: [Where the humpback whale sings](https://bing.com/th?id=OHR.PlayfulHumpback_EN-US8290961519_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## If these walls could talk...
 
 Pueblo Bonito, Chaco Culture National Historical Park, New Mexico (© Ian Shive/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Playa del Amor in the Marietas Islands, off the coast of Puerto Vallarta, Mexico
 Date: 2023-05-30
 
 Download 4k: [Secluded sands in Mexico](https://bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Honoring the fallen
-
-Lantern floating ceremony, Ala Moana Beach Park, Honolulu, Hawaii (© Naomi Hayes of Island Memories Photography/Getty Images)
-
-![Honoring the fallen](https://bing.com/th?id=OHR.LanternFloating_EN-US4433076187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-05-29
-
-Download 4k: [Honoring the fallen](https://bing.com/th?id=OHR.LanternFloating_EN-US4433076187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
