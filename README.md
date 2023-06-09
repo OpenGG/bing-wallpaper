@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Rising with the sun
+
+Hot air balloons in Cappadocia, Türkiye (© Anton Petrus/Getty Images)
+
+![Rising with the sun](https://bing.com/th?id=OHR.BalloonsTurkey_EN-US8385517143_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-09
+
+Download 4k: [Rising with the sun](https://bing.com/th?id=OHR.BalloonsTurkey_EN-US8385517143_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where the humpback whale sings
 
 Humpback whale (© Philip Thurston/Getty Images)
@@ -116,16 +126,6 @@ Sea otter pup, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)
 Date: 2023-05-31
 
 Download 4k: [Otterly adorable](https://bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Secluded sands in Mexico
-
-Playa del Amor in the Marietas Islands, off the coast of Puerto Vallarta, Mexico (© ferrantraite/Getty Images)
-
-![Secluded sands in Mexico](https://bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-05-30
-
-Download 4k: [Secluded sands in Mexico](https://bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
