@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Blue hues and ceramic scenes of Porto
+
+Porto Cathedral, Portugal (© Reinhard Schmid/Huber/eStock Photo)
+
+![Blue hues and ceramic scenes of Porto](https://bing.com/th?id=OHR.PortugalDay_EN-US8470533567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-10
+
+Download 4k: [Blue hues and ceramic scenes of Porto](https://bing.com/th?id=OHR.PortugalDay_EN-US8470533567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Rising with the sun
 
 Hot air balloons in Cappadocia, Türkiye (© Anton Petrus/Getty Images)
@@ -116,16 +126,6 @@ Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial
 Date: 2023-06-01
 
 Download 4k: [Blue as far as the eye can see](https://bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Otterly adorable
-
-Sea otter pup, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)
-
-![Otterly adorable](https://bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-05-31
-
-Download 4k: [Otterly adorable](https://bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
