@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A huddled giant
+
+Goliath heron, Kruger National Park, South Africa (© Johan Swanepoel/Alamy)
+
+![A huddled giant](https://bing.com/th?id=OHR.GoliathHeron_EN-US5151186674_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-11
+
+Download 4k: [A huddled giant](https://bing.com/th?id=OHR.GoliathHeron_EN-US5151186674_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Blue hues and ceramic scenes of Porto
 
 Porto Cathedral, Portugal (© Reinhard Schmid/Huber/eStock Photo)
@@ -116,16 +126,6 @@ Gemsbok (Oryx gazella) in sand dunes, Namibia (© Sergey Gorshkov/Minden)
 Date: 2023-06-02
 
 Download 4k: [Hello? Anybody else out here?](https://bing.com/th?id=OHR.GemsbokNamibia_EN-US7844189674_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Blue as far as the eye can see
-
-Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial Agency)
-
-![Blue as far as the eye can see](https://bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-01
-
-Download 4k: [Blue as far as the eye can see](https://bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
