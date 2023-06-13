@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Into the swamp
+
+Trees with Spanish moss over a boardwalk in the Okefenokee Swamp, Folkston, Georgia (© Emmer Photo/Alamy)
+
+![Into the swamp](https://bing.com/th?id=OHR.OkefenokeeSwamp_EN-US8688169198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-13
+
+Download 4k: [Into the swamp](https://bing.com/th?id=OHR.OkefenokeeSwamp_EN-US8688169198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Happy birthday, Big Bend National Park!
 
 Prickly pear cactus, Big Bend National Park, Texas (© Tim Fitzharris/Minden Pictures)
@@ -116,16 +126,6 @@ Black sand beach at Wai'ānapanapa State Park, Maui, Hawaii (© Matt Anderson Ph
 Date: 2023-06-04
 
 Download 4k: [Maui's volcanic shores](https://bing.com/th?id=OHR.MauiBeach_EN-US7999098369_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A glimpse of the grandest of canyons
-
-South Kaibab Trail in Grand Canyon National Park, Arizona (© Roman Khomlyak/Getty Images)
-
-![A glimpse of the grandest of canyons](https://bing.com/th?id=OHR.SouthKaibabTrail_EN-US7932080032_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-03
-
-Download 4k: [A glimpse of the grandest of canyons](https://bing.com/th?id=OHR.SouthKaibabTrail_EN-US7932080032_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
