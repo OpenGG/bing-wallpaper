@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Saluting the Stars and Stripes
+
+US Capitol building and US flags, Washington, DC (© Orhan Cam/Shutterstock)
+
+![Saluting the Stars and Stripes](https://bing.com/th?id=OHR.FlagDayCapitol_EN-US8751000302_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-14
+
+Download 4k: [Saluting the Stars and Stripes](https://bing.com/th?id=OHR.FlagDayCapitol_EN-US8751000302_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Into the swamp
 
 Trees with Spanish moss over a boardwalk in the Okefenokee Swamp, Folkston, Georgia (© Emmer Photo/Alamy)
@@ -116,16 +126,6 @@ Download 4k: [Remembering D-Day](https://bing.com/th?id=OHR.CliffsEtretat_EN-US8
 Date: 2023-06-05
 
 Download 4k: [Can we turn the tide on ocean plastic?](https://bing.com/th?id=OHR.PlasticParrotfish_EN-US8059787303_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Maui's volcanic shores
-
-Black sand beach at Wai'ānapanapa State Park, Maui, Hawaii (© Matt Anderson Photography/Getty Images)
-
-![Maui's volcanic shores](https://bing.com/th?id=OHR.MauiBeach_EN-US7999098369_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-04
-
-Download 4k: [Maui's volcanic shores](https://bing.com/th?id=OHR.MauiBeach_EN-US7999098369_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
