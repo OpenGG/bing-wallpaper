@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Twinkle, twinkle, little bugs
+
+Synchronous fireflies, Great Smoky Mountains National Park, Tennessee (© Floris Van Bruegel/Minden Pictures)
+
+![Twinkle, twinkle, little bugs](https://bing.com/th?id=OHR.SmokyFireflies_EN-US8809086301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-15
+
+Download 4k: [Twinkle, twinkle, little bugs](https://bing.com/th?id=OHR.SmokyFireflies_EN-US8809086301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Saluting the Stars and Stripes
 
 US Capitol building and US flags, Washington, DC (© Orhan Cam/Shutterstock)
@@ -116,16 +126,6 @@ The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)
 Date: 2023-06-06
 
 Download 4k: [Remembering D-Day](https://bing.com/th?id=OHR.CliffsEtretat_EN-US8125687089_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Can we turn the tide on ocean plastic?
-
-'Priscilla the Parrotfish' art installation at Como Park Zoo & Conservatory, St. Paul, Minnesota (© Michael Siluk/UCG/Universal Images Group via Getty Images)
-
-![Can we turn the tide on ocean plastic?](https://bing.com/th?id=OHR.PlasticParrotfish_EN-US8059787303_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-05
-
-Download 4k: [Can we turn the tide on ocean plastic?](https://bing.com/th?id=OHR.PlasticParrotfish_EN-US8059787303_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
