@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Paddle power
+
+'Paddle Out for Unity' event in San Diego, California (© Brandon Colbert Photography/Getty Images)
+
+![Paddle power](https://bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-17
+
+Download 4k: [Paddle power](https://bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Shell-ebrating sea turtles
 
 Hawksbill sea turtle swimming near Akajima, Okinawa, Japan (© Robert Mallon/Getty Images)
@@ -116,16 +126,6 @@ Humpback whale (© Philip Thurston/Getty Images)
 Date: 2023-06-08
 
 Download 4k: [Where the humpback whale sings](https://bing.com/th?id=OHR.PlayfulHumpback_EN-US8290961519_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## If these walls could talk...
-
-Pueblo Bonito, Chaco Culture National Historical Park, New Mexico (© Ian Shive/Tandem Stills + Motion)
-
-![If these walls could talk...](https://bing.com/th?id=OHR.ChacoCulture_EN-US8179442556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-07
-
-Download 4k: [If these walls could talk...](https://bing.com/th?id=OHR.ChacoCulture_EN-US8179442556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
