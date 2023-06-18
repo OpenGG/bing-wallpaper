@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Happy Father's Day!
+
+Common tern father with chick, Nickerson Beach, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)
+
+![Happy Father's Day!](https://bing.com/th?id=OHR.TernFather_EN-US0899570111_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-18
+
+Download 4k: [Happy Father's Day!](https://bing.com/th?id=OHR.TernFather_EN-US0899570111_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Paddle power
 
 'Paddle Out for Unity' event in San Diego, California (© Brandon Colbert Photography/Getty Images)
@@ -116,16 +126,6 @@ Hot air balloons in Cappadocia, Türkiye (© Anton Petrus/Getty Images)
 Date: 2023-06-09
 
 Download 4k: [Rising with the sun](https://bing.com/th?id=OHR.BalloonsTurkey_EN-US8385517143_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where the humpback whale sings
-
-Humpback whale (© Philip Thurston/Getty Images)
-
-![Where the humpback whale sings](https://bing.com/th?id=OHR.PlayfulHumpback_EN-US8290961519_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-08
-
-Download 4k: [Where the humpback whale sings](https://bing.com/th?id=OHR.PlayfulHumpback_EN-US8290961519_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
