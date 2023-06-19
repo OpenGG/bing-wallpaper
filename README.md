@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Happy Juneteenth!
+
+City Hall lit up for Juneteenth in San Francisco, California (© yhelfman/Shutterstock)
+
+![Happy Juneteenth!](https://bing.com/th?id=OHR.SanFranHall_EN-US0993956473_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-19
+
+Download 4k: [Happy Juneteenth!](https://bing.com/th?id=OHR.SanFranHall_EN-US0993956473_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Happy Father's Day!
 
 Common tern father with chick, Nickerson Beach, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)
@@ -116,16 +126,6 @@ Porto Cathedral, Portugal (© Reinhard Schmid/Huber/eStock Photo)
 Date: 2023-06-10
 
 Download 4k: [Blue hues and ceramic scenes of Porto](https://bing.com/th?id=OHR.PortugalDay_EN-US8470533567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Rising with the sun
-
-Hot air balloons in Cappadocia, Türkiye (© Anton Petrus/Getty Images)
-
-![Rising with the sun](https://bing.com/th?id=OHR.BalloonsTurkey_EN-US8385517143_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-09
-
-Download 4k: [Rising with the sun](https://bing.com/th?id=OHR.BalloonsTurkey_EN-US8385517143_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
