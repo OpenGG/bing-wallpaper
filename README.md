@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Celebrating an American icon
+
+Bald eagle, Tongass National Forest, Alaska (© Jaynes Gallery/Shutterstock)
+
+![Celebrating an American icon](https://bing.com/th?id=OHR.EagleTree_EN-US8588984234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-20
+
+Download 4k: [Celebrating an American icon](https://bing.com/th?id=OHR.EagleTree_EN-US8588984234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Happy Juneteenth!
 
 City Hall lit up for Juneteenth in San Francisco, California (© yhelfman/Shutterstock)
@@ -116,16 +126,6 @@ Goliath heron, Kruger National Park, South Africa (© Johan Swanepoel/Alamy)
 Date: 2023-06-11
 
 Download 4k: [A huddled giant](https://bing.com/th?id=OHR.GoliathHeron_EN-US5151186674_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Blue hues and ceramic scenes of Porto
-
-Porto Cathedral, Portugal (© Reinhard Schmid/Huber/eStock Photo)
-
-![Blue hues and ceramic scenes of Porto](https://bing.com/th?id=OHR.PortugalDay_EN-US8470533567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-10
-
-Download 4k: [Blue hues and ceramic scenes of Porto](https://bing.com/th?id=OHR.PortugalDay_EN-US8470533567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
