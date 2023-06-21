@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The mystery of Stonehenge
+
+Stonehenge, Salisbury Plain, Wiltshire, England (© Captain Skyhigh/Getty Images)
+
+![The mystery of Stonehenge](https://bing.com/th?id=OHR.StonehengeSalisbury_EN-US1337618356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-21
+
+Download 4k: [The mystery of Stonehenge](https://bing.com/th?id=OHR.StonehengeSalisbury_EN-US1337618356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Celebrating an American icon
 
 Bald eagle, Tongass National Forest, Alaska (© Jaynes Gallery/Shutterstock)
@@ -116,16 +126,6 @@ Prickly pear cactus, Big Bend National Park, Texas (© Tim Fitzharris/Minden Pic
 Date: 2023-06-12
 
 Download 4k: [Happy birthday, Big Bend National Park!](https://bing.com/th?id=OHR.BigBendAnniv_EN-US8613000977_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A huddled giant
-
-Goliath heron, Kruger National Park, South Africa (© Johan Swanepoel/Alamy)
-
-![A huddled giant](https://bing.com/th?id=OHR.GoliathHeron_EN-US5151186674_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-11
-
-Download 4k: [A huddled giant](https://bing.com/th?id=OHR.GoliathHeron_EN-US5151186674_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
