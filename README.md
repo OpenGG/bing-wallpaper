@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Butterfly, fly away
+
+Monarch butterflies feeding from wildflowers (© bookguy/Getty Images)
+
+![Butterfly, fly away](https://bing.com/th?id=OHR.PollinatorMonarch_EN-US1506878789_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-23
+
+Download 4k: [Butterfly, fly away](https://bing.com/th?id=OHR.PollinatorMonarch_EN-US1506878789_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A world within a world
 
 Amazon rainforest, Peru (© Rhett Ayers Butler/Getty Images)
@@ -116,16 +126,6 @@ US Capitol building and US flags, Washington, DC (© Orhan Cam/Shutterstock)
 Date: 2023-06-14
 
 Download 4k: [Saluting the Stars and Stripes](https://bing.com/th?id=OHR.FlagDayCapitol_EN-US8751000302_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Into the swamp
-
-Trees with Spanish moss over a boardwalk in the Okefenokee Swamp, Folkston, Georgia (© Emmer Photo/Alamy)
-
-![Into the swamp](https://bing.com/th?id=OHR.OkefenokeeSwamp_EN-US8688169198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-13
-
-Download 4k: [Into the swamp](https://bing.com/th?id=OHR.OkefenokeeSwamp_EN-US8688169198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
