@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Beauty by the bay
+
+Nha Phu Bay, Nha Trang, Vietnam (© Thang Tat Nguyen/Getty Images)
+
+![Beauty by the bay](https://bing.com/th?id=OHR.NhaTrang_EN-US1821500559_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-24
+
+Download 4k: [Beauty by the bay](https://bing.com/th?id=OHR.NhaTrang_EN-US1821500559_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Butterfly, fly away
 
 Monarch butterflies feeding from wildflowers (© bookguy/Getty Images)
@@ -116,16 +126,6 @@ Synchronous fireflies, Great Smoky Mountains National Park, Tennessee (© Floris
 Date: 2023-06-15
 
 Download 4k: [Twinkle, twinkle, little bugs](https://bing.com/th?id=OHR.SmokyFireflies_EN-US8809086301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Saluting the Stars and Stripes
-
-US Capitol building and US flags, Washington, DC (© Orhan Cam/Shutterstock)
-
-![Saluting the Stars and Stripes](https://bing.com/th?id=OHR.FlagDayCapitol_EN-US8751000302_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-14
-
-Download 4k: [Saluting the Stars and Stripes](https://bing.com/th?id=OHR.FlagDayCapitol_EN-US8751000302_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
