@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A temple to treasure
+
+Al-Khazneh (the Treasury), Petra, Jordan (© WitthayaP/Shutterstock)
+
+![A temple to treasure](https://bing.com/th?id=OHR.PetraTreasury_EN-US1981994011_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-25
+
+Download 4k: [A temple to treasure](https://bing.com/th?id=OHR.PetraTreasury_EN-US1981994011_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Beauty by the bay
 
 Nha Phu Bay, Nha Trang, Vietnam (© Thang Tat Nguyen/Getty Images)
@@ -116,16 +126,6 @@ Hawksbill sea turtle swimming near Akajima, Okinawa, Japan (© Robert Mallon/Get
 Date: 2023-06-16
 
 Download 4k: [Shell-ebrating sea turtles](https://bing.com/th?id=OHR.HawksbillTurtle_EN-US0640232978_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Twinkle, twinkle, little bugs
-
-Synchronous fireflies, Great Smoky Mountains National Park, Tennessee (© Floris Van Bruegel/Minden Pictures)
-
-![Twinkle, twinkle, little bugs](https://bing.com/th?id=OHR.SmokyFireflies_EN-US8809086301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-15
-
-Download 4k: [Twinkle, twinkle, little bugs](https://bing.com/th?id=OHR.SmokyFireflies_EN-US8809086301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
