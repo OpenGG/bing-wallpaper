@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A labyrinth of luxury
+
+Château de Villandry and its garden, Loire Valley, France (© VLADJ55/Shutterstock)
+
+![A labyrinth of luxury](https://bing.com/th?id=OHR.VillandryGarden_EN-US2096198100_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-26
+
+Download 4k: [A labyrinth of luxury](https://bing.com/th?id=OHR.VillandryGarden_EN-US2096198100_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A temple to treasure
 
 Al-Khazneh (the Treasury), Petra, Jordan (© WitthayaP/Shutterstock)
@@ -116,16 +126,6 @@ Download 4k: [Happy Father's Day!](https://bing.com/th?id=OHR.TernFather_EN-US08
 Date: 2023-06-17
 
 Download 4k: [Paddle power](https://bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Shell-ebrating sea turtles
-
-Hawksbill sea turtle swimming near Akajima, Okinawa, Japan (© Robert Mallon/Getty Images)
-
-![Shell-ebrating sea turtles](https://bing.com/th?id=OHR.HawksbillTurtle_EN-US0640232978_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-16
-
-Download 4k: [Shell-ebrating sea turtles](https://bing.com/th?id=OHR.HawksbillTurtle_EN-US0640232978_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
