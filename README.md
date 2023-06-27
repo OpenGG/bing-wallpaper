@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Red Rock Country
+
+Sedona, Arizona (© Jonathan Ross/Getty Images)
+
+![Red Rock Country](https://bing.com/th?id=OHR.SedonaSunset_EN-US2192383635_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-27
+
+Download 4k: [Red Rock Country](https://bing.com/th?id=OHR.SedonaSunset_EN-US2192383635_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A labyrinth of luxury
 
 Château de Villandry and its garden, Loire Valley, France (© VLADJ55/Shutterstock)
@@ -116,16 +126,6 @@ Common tern father with chick, Nickerson Beach, Long Island, New York (© Vicki 
 Date: 2023-06-18
 
 Download 4k: [Happy Father's Day!](https://bing.com/th?id=OHR.TernFather_EN-US0899570111_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Paddle power
-
-'Paddle Out for Unity' event in San Diego, California (© Brandon Colbert Photography/Getty Images)
-
-![Paddle power](https://bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-17
-
-Download 4k: [Paddle power](https://bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
