@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The colors of Pride
+
+Rainbow flags and confetti, Reykjavík, Iceland (© Arctic-Images/Getty Images)
+
+![The colors of Pride](https://bing.com/th?id=OHR.PrideIceland_EN-US2263138010_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-28
+
+Download 4k: [The colors of Pride](https://bing.com/th?id=OHR.PrideIceland_EN-US2263138010_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Red Rock Country
 
 Sedona, Arizona (© Jonathan Ross/Getty Images)
@@ -116,16 +126,6 @@ City Hall lit up for Juneteenth in San Francisco, California (© yhelfman/Shutte
 Date: 2023-06-19
 
 Download 4k: [Happy Juneteenth!](https://bing.com/th?id=OHR.SanFranHall_EN-US0993956473_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Happy Father's Day!
-
-Common tern father with chick, Nickerson Beach, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)
-
-![Happy Father's Day!](https://bing.com/th?id=OHR.TernFather_EN-US0899570111_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-18
-
-Download 4k: [Happy Father's Day!](https://bing.com/th?id=OHR.TernFather_EN-US0899570111_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
