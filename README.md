@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Celebrating the tropics
+
+Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)
+
+![Celebrating the tropics](https://bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-06-29
+
+Download 4k: [Celebrating the tropics](https://bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The colors of Pride
 
 Rainbow flags and confetti, Reykjavík, Iceland (© Arctic-Images/Getty Images)
@@ -116,16 +126,6 @@ Bald eagle, Tongass National Forest, Alaska (© Jaynes Gallery/Shutterstock)
 Date: 2023-06-20
 
 Download 4k: [Celebrating an American icon](https://bing.com/th?id=OHR.EagleTree_EN-US8588984234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Happy Juneteenth!
-
-City Hall lit up for Juneteenth in San Francisco, California (© yhelfman/Shutterstock)
-
-![Happy Juneteenth!](https://bing.com/th?id=OHR.SanFranHall_EN-US0993956473_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-19
-
-Download 4k: [Happy Juneteenth!](https://bing.com/th?id=OHR.SanFranHall_EN-US0993956473_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
