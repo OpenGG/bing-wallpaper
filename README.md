@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Ready for the Grand Départ?
+
+Tour de France cyclists crossing the Pont du Gard, France (© Gonzalo Fuentes/Reuters)
+
+![Ready for the Grand Départ?](https://bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-01
+
+Download 4k: [Ready for the Grand Départ?](https://bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where did you drop the fish, son?
 
 Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska (© Carlos Carreno/Getty Images)
@@ -117,17 +127,9 @@ Date: 2023-06-22
 
 Download 4k: [A world within a world](https://bing.com/th?id=OHR.PeruAmazon_EN-US1428483038_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## The mystery of Stonehenge
-
-Stonehenge, Salisbury Plain, Wiltshire, England (© Captain Skyhigh/Getty Images)
-
-![The mystery of Stonehenge](https://bing.com/th?id=OHR.StonehengeSalisbury_EN-US1337618356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-21
-
-Download 4k: [The mystery of Stonehenge](https://bing.com/th?id=OHR.StonehengeSalisbury_EN-US1337618356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2023-07](./archive/2023/07.md)
 
 [2023-06](./archive/2023/06.md)
 
