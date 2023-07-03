@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hot enough to howl
+
+A coyote in Banff, Alberta, Canada (© Harry Collins/Getty Images)
+
+![Hot enough to howl](https://bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-03
+
+Download 4k: [Hot enough to howl](https://bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## We're halfway there
 
 Veluwemeer Aqueduct, Netherlands (© Frolova_Elena/Getty Images)
@@ -116,16 +126,6 @@ Nha Phu Bay, Nha Trang, Vietnam (© Thang Tat Nguyen/Getty Images)
 Date: 2023-06-24
 
 Download 4k: [Beauty by the bay](https://bing.com/th?id=OHR.NhaTrang_EN-US1821500559_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Butterfly, fly away
-
-Monarch butterflies feeding from wildflowers (© bookguy/Getty Images)
-
-![Butterfly, fly away](https://bing.com/th?id=OHR.PollinatorMonarch_EN-US1506878789_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-23
-
-Download 4k: [Butterfly, fly away](https://bing.com/th?id=OHR.PollinatorMonarch_EN-US1506878789_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
