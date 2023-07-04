@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Happy Independence Day!
+
+Empire State Building on the Fourth of July, New York City (© Tetra Images/Getty Images)
+
+![Happy Independence Day!](https://bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-04
+
+Download 4k: [Happy Independence Day!](https://bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hot enough to howl
 
 A coyote in Banff, Alberta, Canada (© Harry Collins/Getty Images)
@@ -116,16 +126,6 @@ Al-Khazneh (the Treasury), Petra, Jordan (© WitthayaP/Shutterstock)
 Date: 2023-06-25
 
 Download 4k: [A temple to treasure](https://bing.com/th?id=OHR.PetraTreasury_EN-US1981994011_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Beauty by the bay
-
-Nha Phu Bay, Nha Trang, Vietnam (© Thang Tat Nguyen/Getty Images)
-
-![Beauty by the bay](https://bing.com/th?id=OHR.NhaTrang_EN-US1821500559_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-24
-
-Download 4k: [Beauty by the bay](https://bing.com/th?id=OHR.NhaTrang_EN-US1821500559_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
