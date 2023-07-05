@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Pick your paradise
+
+Porto Timoni beach, Corfu, Greece (© nantonov/Getty Images)
+
+![Pick your paradise](https://bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-05
+
+Download 4k: [Pick your paradise](https://bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Happy Independence Day!
 
 Empire State Building on the Fourth of July, New York City (© Tetra Images/Getty Images)
@@ -116,16 +126,6 @@ Château de Villandry and its garden, Loire Valley, France (© VLADJ55/Shutterst
 Date: 2023-06-26
 
 Download 4k: [A labyrinth of luxury](https://bing.com/th?id=OHR.VillandryGarden_EN-US2096198100_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A temple to treasure
-
-Al-Khazneh (the Treasury), Petra, Jordan (© WitthayaP/Shutterstock)
-
-![A temple to treasure](https://bing.com/th?id=OHR.PetraTreasury_EN-US1981994011_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-25
-
-Download 4k: [A temple to treasure](https://bing.com/th?id=OHR.PetraTreasury_EN-US1981994011_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
