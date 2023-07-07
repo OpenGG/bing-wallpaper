@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A chocolate lover's favorite fruit
+
+Cocoa pods from Ambanja, Madagascar (© pierivb/Getty Images)
+
+![A chocolate lover's favorite fruit](https://bing.com/th?id=OHR.CocoaPods_EN-US2252740906_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-07
+
+Download 4k: [A chocolate lover's favorite fruit](https://bing.com/th?id=OHR.CocoaPods_EN-US2252740906_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A peck between penguins
 
 Southern rockhopper penguins, Falkland Islands (© Tony Beck/Getty Images)
@@ -116,16 +126,6 @@ Rainbow flags and confetti, Reykjavík, Iceland (© Arctic-Images/Getty Images)
 Date: 2023-06-28
 
 Download 4k: [The colors of Pride](https://bing.com/th?id=OHR.PrideIceland_EN-US2263138010_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Red Rock Country
-
-Sedona, Arizona (© Jonathan Ross/Getty Images)
-
-![Red Rock Country](https://bing.com/th?id=OHR.SedonaSunset_EN-US2192383635_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-27
-
-Download 4k: [Red Rock Country](https://bing.com/th?id=OHR.SedonaSunset_EN-US2192383635_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
