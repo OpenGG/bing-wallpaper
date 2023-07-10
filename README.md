@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A scented sea of purple
+
+Field of lavender, Somerset, England (© Doug Chinnery/Getty Images)
+
+![A scented sea of purple](https://bing.com/th?id=OHR.SomersetLavender_EN-US0165780359_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-10
+
+Download 4k: [A scented sea of purple](https://bing.com/th?id=OHR.SomersetLavender_EN-US0165780359_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## In the loop
 
 Moselle River loop, Kröv, Germany (© Jorg Greuel/Getty Images)
@@ -116,16 +126,6 @@ Tour de France cyclists crossing the Pont du Gard, France (© Gonzalo Fuentes/Re
 Date: 2023-07-01
 
 Download 4k: [Ready for the Grand Départ?](https://bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where did you drop the fish, son?
-
-Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska (© Carlos Carreno/Getty Images)
-
-![Where did you drop the fish, son?](https://bing.com/th?id=OHR.ClamBears_EN-US1283973201_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-06-30
-
-Download 4k: [Where did you drop the fish, son?](https://bing.com/th?id=OHR.ClamBears_EN-US1283973201_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
