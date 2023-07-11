@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A sea of humanity
+
+Hong Kong SAR (© leungchopan/Getty Images)
+
+![A sea of humanity](https://bing.com/th?id=OHR.WorldPopDay_EN-US3018429136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-11
+
+Download 4k: [A sea of humanity](https://bing.com/th?id=OHR.WorldPopDay_EN-US3018429136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A scented sea of purple
 
 Field of lavender, Somerset, England (© Doug Chinnery/Getty Images)
@@ -116,16 +126,6 @@ Veluwemeer Aqueduct, Netherlands (© Frolova_Elena/Getty Images)
 Date: 2023-07-02
 
 Download 4k: [We're halfway there](https://bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Ready for the Grand Départ?
-
-Tour de France cyclists crossing the Pont du Gard, France (© Gonzalo Fuentes/Reuters)
-
-![Ready for the Grand Départ?](https://bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-01
-
-Download 4k: [Ready for the Grand Départ?](https://bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
