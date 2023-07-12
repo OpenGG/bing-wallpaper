@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The world's most exclusive beach?
+
+Sand bar in Nakupenda Beach Nature Reserve, Zanzibar, Tanzania  (© Lubos Paukeje/Alamy)
+
+![The world's most exclusive beach?](https://bing.com/th?id=OHR.NakupendaBeach_EN-US3130365422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-12
+
+Download 4k: [The world's most exclusive beach?](https://bing.com/th?id=OHR.NakupendaBeach_EN-US3130365422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A sea of humanity
 
 Hong Kong SAR (© leungchopan/Getty Images)
@@ -116,16 +126,6 @@ A coyote in Banff, Alberta, Canada (© Harry Collins/Getty Images)
 Date: 2023-07-03
 
 Download 4k: [Hot enough to howl](https://bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## We're halfway there
-
-Veluwemeer Aqueduct, Netherlands (© Frolova_Elena/Getty Images)
-
-![We're halfway there](https://bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-02
-
-Download 4k: [We're halfway there](https://bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
