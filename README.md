@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A shiver of sharks on the hunt
+
+Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)
+
+![A shiver of sharks on the hunt](https://bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-14
+
+Download 4k: [A shiver of sharks on the hunt](https://bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Walking a rocky rainbow
 
 Zhangye Danxia National Geopark, Gansu province, China (© TONNAJA/Getty Images)
@@ -116,16 +126,6 @@ Porto Timoni beach, Corfu, Greece (© nantonov/Getty Images)
 Date: 2023-07-05
 
 Download 4k: [Pick your paradise](https://bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Happy Independence Day!
-
-Empire State Building on the Fourth of July, New York City (© Tetra Images/Getty Images)
-
-![Happy Independence Day!](https://bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-04
-
-Download 4k: [Happy Independence Day!](https://bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
