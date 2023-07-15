@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A postcard-perfect landscape
+
+Castelmezzano, Italy (© Rudy Balasko/Shutterstock)
+
+![A postcard-perfect landscape](https://bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-15
+
+Download 4k: [A postcard-perfect landscape](https://bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A shiver of sharks on the hunt
 
 Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)
@@ -116,16 +126,6 @@ Southern rockhopper penguins, Falkland Islands (© Tony Beck/Getty Images)
 Date: 2023-07-06
 
 Download 4k: [A peck between penguins](https://bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Pick your paradise
-
-Porto Timoni beach, Corfu, Greece (© nantonov/Getty Images)
-
-![Pick your paradise](https://bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-05
-
-Download 4k: [Pick your paradise](https://bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
