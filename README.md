@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Babbling on and on
+
+Bear Hole Brook, Catskill Mountains, New York (© GummyBone/Getty Images)
+
+![Babbling on and on](https://bing.com/th?id=OHR.BearHoleBrook_EN-US0278547262_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-16
+
+Download 4k: [Babbling on and on](https://bing.com/th?id=OHR.BearHoleBrook_EN-US0278547262_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A postcard-perfect landscape
 
 Castelmezzano, Italy (© Rudy Balasko/Shutterstock)
@@ -116,16 +126,6 @@ Cocoa pods from Ambanja, Madagascar (© pierivb/Getty Images)
 Date: 2023-07-07
 
 Download 4k: [A chocolate lover's favorite fruit](https://bing.com/th?id=OHR.CocoaPods_EN-US2252740906_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A peck between penguins
-
-Southern rockhopper penguins, Falkland Islands (© Tony Beck/Getty Images)
-
-![A peck between penguins](https://bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-06
-
-Download 4k: [A peck between penguins](https://bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
