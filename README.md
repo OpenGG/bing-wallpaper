@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## This bird is peak beak
+
+Great hornbill, Khao Yai National Park, Thailand (© kajornyot wildlife photography/Shutterstock)
+
+![This bird is peak beak](https://bing.com/th?id=OHR.BucerosBicornis_EN-US0841652066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-18
+
+Download 4k: [This bird is peak beak](https://bing.com/th?id=OHR.BucerosBicornis_EN-US0841652066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## No moat required
 
 Cloughoughter Castle in Lough Oughter, County Cavan, Ireland (© 4H4 PH/Shutterstock)
@@ -116,16 +126,6 @@ Moselle River loop, Kröv, Germany (© Jorg Greuel/Getty Images)
 Date: 2023-07-09
 
 Download 4k: [In the loop](https://bing.com/th?id=OHR.MoselleRiver_EN-US2499319157_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Sanctuary among the trees
-
-Mildred B. Cooper Memorial Chapel, Bella Vista, Arkansas (© Eddie Brady/Getty Images)
-
-![Sanctuary among the trees](https://bing.com/th?id=OHR.CooperChapel_EN-US2412561000_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-08
-
-Download 4k: [Sanctuary among the trees](https://bing.com/th?id=OHR.CooperChapel_EN-US2412561000_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
