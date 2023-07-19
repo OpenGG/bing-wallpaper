@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## This oasis is no mirage
+
+Crescent Lake near Dunhuang, Gansu province, China (© R7 Photo/Shutterstock)
+
+![This oasis is no mirage](https://bing.com/th?id=OHR.CrescentLake_EN-US1005101872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-19
+
+Download 4k: [This oasis is no mirage](https://bing.com/th?id=OHR.CrescentLake_EN-US1005101872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## This bird is peak beak
 
 Great hornbill, Khao Yai National Park, Thailand (© kajornyot wildlife photography/Shutterstock)
@@ -116,16 +126,6 @@ Field of lavender, Somerset, England (© Doug Chinnery/Getty Images)
 Date: 2023-07-10
 
 Download 4k: [A scented sea of purple](https://bing.com/th?id=OHR.SomersetLavender_EN-US0165780359_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## In the loop
-
-Moselle River loop, Kröv, Germany (© Jorg Greuel/Getty Images)
-
-![In the loop](https://bing.com/th?id=OHR.MoselleRiver_EN-US2499319157_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-09
-
-Download 4k: [In the loop](https://bing.com/th?id=OHR.MoselleRiver_EN-US2499319157_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
