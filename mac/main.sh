@@ -90,6 +90,7 @@ uninstall() {
 run() {
     mkdir -p $TMP_BASE
     mkdir -p $LOCAL_BASE
+    rm -f $TMP_BASE/*.jpg
 
     echo "| Get current image from $REMOTE_CURRENT"
 
@@ -119,7 +120,6 @@ run() {
         echo "$REMOTE_IMG" > $LOCAL_TXT
 
         echo "| Removing temp file: $TMP_IMG"
-        rm "$TMP_IMG"
 
         echo "| Success"
     fi
