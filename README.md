@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hello, is it 'tea' you’re looking for?
+
+Edinburgh Tea Estate, Nuwara Eliya, Sri Lanka (© Jeremy Woodhouse/Getty Images)
+
+![Hello, is it 'tea' you’re looking for?](https://bing.com/th?id=OHR.TeaEstate_EN-US1720005197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-23
+
+Download 4k: [Hello, is it 'tea' you’re looking for?](https://bing.com/th?id=OHR.TeaEstate_EN-US1720005197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Want to hang out?
 
 Hammock camping in a bald cypress tree, Florida (© Mac Stone/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)
 Date: 2023-07-14
 
 Download 4k: [A shiver of sharks on the hunt](https://bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Walking a rocky rainbow
-
-Zhangye Danxia National Geopark, Gansu province, China (© TONNAJA/Getty Images)
-
-![Walking a rocky rainbow](https://bing.com/th?id=OHR.ZhangyeGeopark_EN-US3229882052_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-13
-
-Download 4k: [Walking a rocky rainbow](https://bing.com/th?id=OHR.ZhangyeGeopark_EN-US3229882052_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
