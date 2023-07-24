@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A day for cousins of every stripe
+
+Zebras in Tarangire National Park, Tanzania (© cinoby/Getty Images)
+
+![A day for cousins of every stripe](https://bing.com/th?id=OHR.ZebraCousins_EN-US1951215229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-24
+
+Download 4k: [A day for cousins of every stripe](https://bing.com/th?id=OHR.ZebraCousins_EN-US1951215229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hello, is it 'tea' you’re looking for?
 
 Edinburgh Tea Estate, Nuwara Eliya, Sri Lanka (© Jeremy Woodhouse/Getty Images)
@@ -116,16 +126,6 @@ Castelmezzano, Italy (© Rudy Balasko/Shutterstock)
 Date: 2023-07-15
 
 Download 4k: [A postcard-perfect landscape](https://bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A shiver of sharks on the hunt
-
-Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)
-
-![A shiver of sharks on the hunt](https://bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-14
-
-Download 4k: [A shiver of sharks on the hunt](https://bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
