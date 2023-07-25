@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Pretty in pink
+
+Laguna de Torrevieja, Alicante, Spain (© Juan Maria Coy Vergara/Getty Images)
+
+![Pretty in pink](https://bing.com/th?id=OHR.LasLagunas_EN-US2134252350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-25
+
+Download 4k: [Pretty in pink](https://bing.com/th?id=OHR.LasLagunas_EN-US2134252350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A day for cousins of every stripe
 
 Zebras in Tarangire National Park, Tanzania (© cinoby/Getty Images)
@@ -116,16 +126,6 @@ Bear Hole Brook, Catskill Mountains, New York (© GummyBone/Getty Images)
 Date: 2023-07-16
 
 Download 4k: [Babbling on and on](https://bing.com/th?id=OHR.BearHoleBrook_EN-US0278547262_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A postcard-perfect landscape
-
-Castelmezzano, Italy (© Rudy Balasko/Shutterstock)
-
-![A postcard-perfect landscape](https://bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-15
-
-Download 4k: [A postcard-perfect landscape](https://bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
