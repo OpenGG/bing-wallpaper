@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Another Arc de Triomphe?
+
+Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France (© Jon Hicks/Getty Images)
+
+![Another Arc de Triomphe?](https://bing.com/th?id=OHR.ParisLouvre_EN-US2282259448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-27
+
+Download 4k: [Another Arc de Triomphe?](https://bing.com/th?id=OHR.ParisLouvre_EN-US2282259448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Say hello to these halophytes!
 
 Jubail Mangrove Park in Abu Dhabi, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)
@@ -116,16 +126,6 @@ Great hornbill, Khao Yai National Park, Thailand (© kajornyot wildlife photogra
 Date: 2023-07-18
 
 Download 4k: [This bird is peak beak](https://bing.com/th?id=OHR.BucerosBicornis_EN-US0841652066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## No moat required
-
-Cloughoughter Castle in Lough Oughter, County Cavan, Ireland (© 4H4 PH/Shutterstock)
-
-![No moat required](https://bing.com/th?id=OHR.CavanCastle_EN-US0493721152_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-17
-
-Download 4k: [No moat required](https://bing.com/th?id=OHR.CavanCastle_EN-US0493721152_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
