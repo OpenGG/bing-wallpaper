@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A blue-tiful island
+
+San Blas Islands, Panama (© bgremler/Shutterstock)
+
+![A blue-tiful island](https://bing.com/th?id=OHR.SanBlasIslands_EN-US1442226155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-28
+
+Download 4k: [A blue-tiful island](https://bing.com/th?id=OHR.SanBlasIslands_EN-US1442226155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Another Arc de Triomphe?
 
 Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France (© Jon Hicks/Getty Images)
@@ -116,16 +126,6 @@ Crescent Lake near Dunhuang, Gansu province, China (© R7 Photo/Shutterstock)
 Date: 2023-07-19
 
 Download 4k: [This oasis is no mirage](https://bing.com/th?id=OHR.CrescentLake_EN-US1005101872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## This bird is peak beak
-
-Great hornbill, Khao Yai National Park, Thailand (© kajornyot wildlife photography/Shutterstock)
-
-![This bird is peak beak](https://bing.com/th?id=OHR.BucerosBicornis_EN-US0841652066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-18
-
-Download 4k: [This bird is peak beak](https://bing.com/th?id=OHR.BucerosBicornis_EN-US0841652066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
