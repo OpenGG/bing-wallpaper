@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Eyes of the tiger
+
+Bengal tiger, Ranthambore National Park, India (© Andy Rouse/Minden Pictures)
+
+![Eyes of the tiger](https://bing.com/th?id=OHR.TigerIndia_EN-US1594590553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-29
+
+Download 4k: [Eyes of the tiger](https://bing.com/th?id=OHR.TigerIndia_EN-US1594590553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A blue-tiful island
 
 San Blas Islands, Panama (© bgremler/Shutterstock)
@@ -116,16 +126,6 @@ The moon seen from the Orion spacecraft of NASA's Artemis mission (© NASA)
 Date: 2023-07-20
 
 Download 4k: [Celebrating our lunar neighbor](https://bing.com/th?id=OHR.MoonDayArtemis_EN-US1226397186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## This oasis is no mirage
-
-Crescent Lake near Dunhuang, Gansu province, China (© R7 Photo/Shutterstock)
-
-![This oasis is no mirage](https://bing.com/th?id=OHR.CrescentLake_EN-US1005101872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-19
-
-Download 4k: [This oasis is no mirage](https://bing.com/th?id=OHR.CrescentLake_EN-US1005101872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
