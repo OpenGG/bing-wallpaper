@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Perfect, pastoral Palouse
+
+Farmland in the Palouse, Washington (© EJ-J/Getty Images)
+
+![Perfect, pastoral Palouse](https://bing.com/th?id=OHR.PalouseHills_EN-US1737990003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-07-30
+
+Download 4k: [Perfect, pastoral Palouse](https://bing.com/th?id=OHR.PalouseHills_EN-US1737990003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Eyes of the tiger
 
 Bengal tiger, Ranthambore National Park, India (© Andy Rouse/Minden Pictures)
@@ -116,16 +126,6 @@ Storseisundet Bridge, Atlantic Ocean Road, Norway (© Morten Falch Sortland/Gett
 Date: 2023-07-21
 
 Download 4k: [Connecting the dots](https://bing.com/th?id=OHR.BridgeNorway_EN-US1530199433_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Celebrating our lunar neighbor
-
-The moon seen from the Orion spacecraft of NASA's Artemis mission (© NASA)
-
-![Celebrating our lunar neighbor](https://bing.com/th?id=OHR.MoonDayArtemis_EN-US1226397186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-20
-
-Download 4k: [Celebrating our lunar neighbor](https://bing.com/th?id=OHR.MoonDayArtemis_EN-US1226397186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
