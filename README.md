@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## There's no denying the power of Denali
+
+Climber on Denali, Denali National Park, Alaska (© Andrew Peacock/Tandem Stills + Motion)
+
+![There's no denying the power of Denali](https://bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-01
+
+Download 4k: [There's no denying the power of Denali](https://bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Home of stone
 
 Rock House, Hocking Hills State Park, Ohio (© Kenneth Keifer/Getty Images)
@@ -117,17 +127,9 @@ Date: 2023-07-23
 
 Download 4k: [Hello, is it 'tea' you’re looking for?](https://bing.com/th?id=OHR.TeaEstate_EN-US1720005197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Want to hang out?
-
-Hammock camping in a bald cypress tree, Florida (© Mac Stone/Tandem Stills + Motion)
-
-![Want to hang out?](https://bing.com/th?id=OHR.HammockDay_EN-US1639653297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-22
-
-Download 4k: [Want to hang out?](https://bing.com/th?id=OHR.HammockDay_EN-US1639653297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2023-08](./archive/2023/08.md)
 
 [2023-07](./archive/2023/07.md)
 
