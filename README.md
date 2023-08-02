@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sandstone butte-iful
+
+Sandstone butte in Capitol Reef National Park, Utah (© Amazing Aerial Premium/Shutterstock)
+
+![Sandstone butte-iful](https://bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-02
+
+Download 4k: [Sandstone butte-iful](https://bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## There's no denying the power of Denali
 
 Climber on Denali, Denali National Park, Alaska (© Andrew Peacock/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Zebras in Tarangire National Park, Tanzania (© cinoby/Getty Images)
 Date: 2023-07-24
 
 Download 4k: [A day for cousins of every stripe](https://bing.com/th?id=OHR.ZebraCousins_EN-US1951215229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Hello, is it 'tea' you’re looking for?
-
-Edinburgh Tea Estate, Nuwara Eliya, Sri Lanka (© Jeremy Woodhouse/Getty Images)
-
-![Hello, is it 'tea' you’re looking for?](https://bing.com/th?id=OHR.TeaEstate_EN-US1720005197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-23
-
-Download 4k: [Hello, is it 'tea' you’re looking for?](https://bing.com/th?id=OHR.TeaEstate_EN-US1720005197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
