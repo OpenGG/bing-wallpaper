@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A lake that never freezes
+
+Zelenci Nature Reserve, Slovenia (© Andrey Danilovich/Getty Images)
+
+![A lake that never freezes](https://bing.com/th?id=OHR.ZelenciSprings_EN-US2246293953_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-03
+
+Download 4k: [A lake that never freezes](https://bing.com/th?id=OHR.ZelenciSprings_EN-US2246293953_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Sandstone butte-iful
 
 Sandstone butte in Capitol Reef National Park, Utah (© Amazing Aerial Premium/Shutterstock)
@@ -116,16 +126,6 @@ Laguna de Torrevieja, Alicante, Spain (© Juan Maria Coy Vergara/Getty Images)
 Date: 2023-07-25
 
 Download 4k: [Pretty in pink](https://bing.com/th?id=OHR.LasLagunas_EN-US2134252350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A day for cousins of every stripe
-
-Zebras in Tarangire National Park, Tanzania (© cinoby/Getty Images)
-
-![A day for cousins of every stripe](https://bing.com/th?id=OHR.ZebraCousins_EN-US1951215229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-24
-
-Download 4k: [A day for cousins of every stripe](https://bing.com/th?id=OHR.ZebraCousins_EN-US1951215229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
