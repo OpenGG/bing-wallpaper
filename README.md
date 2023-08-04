@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A window on the past
+
+Tintern Abbey, Wales (© matthibcn/Getty Images)
+
+![A window on the past](https://bing.com/th?id=OHR.GothicRuins_EN-US2341737381_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-04
+
+Download 4k: [A window on the past](https://bing.com/th?id=OHR.GothicRuins_EN-US2341737381_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A lake that never freezes
 
 Zelenci Nature Reserve, Slovenia (© Andrey Danilovich/Getty Images)
@@ -116,16 +126,6 @@ Jubail Mangrove Park in Abu Dhabi, United Arab Emirates (© Amazing Aerial Premi
 Date: 2023-07-26
 
 Download 4k: [Say hello to these halophytes!](https://bing.com/th?id=OHR.MangrovePark_EN-US2211111720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Pretty in pink
-
-Laguna de Torrevieja, Alicante, Spain (© Juan Maria Coy Vergara/Getty Images)
-
-![Pretty in pink](https://bing.com/th?id=OHR.LasLagunas_EN-US2134252350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-25
-
-Download 4k: [Pretty in pink](https://bing.com/th?id=OHR.LasLagunas_EN-US2134252350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
