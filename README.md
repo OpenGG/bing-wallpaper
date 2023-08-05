@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## It's puffling season!
+
+Atlantic puffin, Iceland (© Peter Hering/Minden Pictures)
+
+![It's puffling season!](https://bing.com/th?id=OHR.AtlanticPuffin_EN-US6337041297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-05
+
+Download 4k: [It's puffling season!](https://bing.com/th?id=OHR.AtlanticPuffin_EN-US6337041297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A window on the past
 
 Tintern Abbey, Wales (© matthibcn/Getty Images)
@@ -116,16 +126,6 @@ Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France (© Jon Hicks/Get
 Date: 2023-07-27
 
 Download 4k: [Another Arc de Triomphe?](https://bing.com/th?id=OHR.ParisLouvre_EN-US2282259448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Say hello to these halophytes!
-
-Jubail Mangrove Park in Abu Dhabi, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)
-
-![Say hello to these halophytes!](https://bing.com/th?id=OHR.MangrovePark_EN-US2211111720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-26
-
-Download 4k: [Say hello to these halophytes!](https://bing.com/th?id=OHR.MangrovePark_EN-US2211111720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
