@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sentinels of the sea
+
+Bodie Island Lighthouse, Nags Head, North Carolina (© Michael Ver Sprill/Getty Images)
+
+![Sentinels of the sea](https://bing.com/th?id=OHR.BodieNC_EN-US2693689463_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-07
+
+Download 4k: [Sentinels of the sea](https://bing.com/th?id=OHR.BodieNC_EN-US2693689463_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A peaceful place for self-reflection
 
 Kagami-ike (Mirror Pond), Nagano, Japan (© Shoji Fujita/Getty Images)
@@ -116,16 +126,6 @@ Bengal tiger, Ranthambore National Park, India (© Andy Rouse/Minden Pictures)
 Date: 2023-07-29
 
 Download 4k: [Eyes of the tiger](https://bing.com/th?id=OHR.TigerIndia_EN-US1594590553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A blue-tiful island
-
-San Blas Islands, Panama (© bgremler/Shutterstock)
-
-![A blue-tiful island](https://bing.com/th?id=OHR.SanBlasIslands_EN-US1442226155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-28
-
-Download 4k: [A blue-tiful island](https://bing.com/th?id=OHR.SanBlasIslands_EN-US1442226155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
