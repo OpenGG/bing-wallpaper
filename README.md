@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## To the infinite and back
+
+Highways in Taipei, Taiwan (© Tavarius/Shutterstock)
+
+![To the infinite and back](https://bing.com/th?id=OHR.InfinityTaipei_EN-US3008697284_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-08
+
+Download 4k: [To the infinite and back](https://bing.com/th?id=OHR.InfinityTaipei_EN-US3008697284_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Sentinels of the sea
 
 Bodie Island Lighthouse, Nags Head, North Carolina (© Michael Ver Sprill/Getty Images)
@@ -116,16 +126,6 @@ Farmland in the Palouse, Washington (© EJ-J/Getty Images)
 Date: 2023-07-30
 
 Download 4k: [Perfect, pastoral Palouse](https://bing.com/th?id=OHR.PalouseHills_EN-US1737990003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Eyes of the tiger
-
-Bengal tiger, Ranthambore National Park, India (© Andy Rouse/Minden Pictures)
-
-![Eyes of the tiger](https://bing.com/th?id=OHR.TigerIndia_EN-US1594590553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-29
-
-Download 4k: [Eyes of the tiger](https://bing.com/th?id=OHR.TigerIndia_EN-US1594590553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
