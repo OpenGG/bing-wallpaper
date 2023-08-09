@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Celebrating Indigenous peoples
+
+Indigenous artwork, Ngaruwanajirri Art Centre, Wurrumiyanga, Bathurst Island, Australia (© Robert Wyatt/Alamy)
+
+![Celebrating Indigenous peoples](https://bing.com/th?id=OHR.BathurstArt_EN-US3084378813_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-09
+
+Download 4k: [Celebrating Indigenous peoples](https://bing.com/th?id=OHR.BathurstArt_EN-US3084378813_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## To the infinite and back
 
 Highways in Taipei, Taiwan (© Tavarius/Shutterstock)
@@ -116,16 +126,6 @@ Rock House, Hocking Hills State Park, Ohio (© Kenneth Keifer/Getty Images)
 Date: 2023-07-31
 
 Download 4k: [Home of stone](https://bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Perfect, pastoral Palouse
-
-Farmland in the Palouse, Washington (© EJ-J/Getty Images)
-
-![Perfect, pastoral Palouse](https://bing.com/th?id=OHR.PalouseHills_EN-US1737990003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-30
-
-Download 4k: [Perfect, pastoral Palouse](https://bing.com/th?id=OHR.PalouseHills_EN-US1737990003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
