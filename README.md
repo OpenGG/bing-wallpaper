@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## 'King of the jungle'?
+
+A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)
+
+!['King of the jungle'?](https://bing.com/th?id=OHR.WorldLionDay_EN-US3311213683_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-10
+
+Download 4k: ['King of the jungle'?](https://bing.com/th?id=OHR.WorldLionDay_EN-US3311213683_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Celebrating Indigenous peoples
 
 Indigenous artwork, Ngaruwanajirri Art Centre, Wurrumiyanga, Bathurst Island, Australia (© Robert Wyatt/Alamy)
@@ -116,16 +126,6 @@ Climber on Denali, Denali National Park, Alaska (© Andrew Peacock/Tandem Stills
 Date: 2023-08-01
 
 Download 4k: [There's no denying the power of Denali](https://bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Home of stone
-
-Rock House, Hocking Hills State Park, Ohio (© Kenneth Keifer/Getty Images)
-
-![Home of stone](https://bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-07-31
-
-Download 4k: [Home of stone](https://bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
