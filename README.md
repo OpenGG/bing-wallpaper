@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A splash of color
+
+'Gateway Pool' art installation at Jupiter Artland sculpture park, Edinburgh, Scotland (© Owen Humphreys/PA Images/Alamy)
+
+![A splash of color](https://bing.com/th?id=OHR.JupiterArtland_EN-US8317170258_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-11
+
+Download 4k: [A splash of color](https://bing.com/th?id=OHR.JupiterArtland_EN-US8317170258_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## 'King of the jungle'?
 
 A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Sandstone butte in Capitol Reef National Park, Utah (© Amazing Aerial Premium/S
 Date: 2023-08-02
 
 Download 4k: [Sandstone butte-iful](https://bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## There's no denying the power of Denali
-
-Climber on Denali, Denali National Park, Alaska (© Andrew Peacock/Tandem Stills + Motion)
-
-![There's no denying the power of Denali](https://bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-01
-
-Download 4k: [There's no denying the power of Denali](https://bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
