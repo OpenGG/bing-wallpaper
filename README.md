@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Protecting the gentle giants
+
+Elephant family in Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)
+
+![Protecting the gentle giants](https://bing.com/th?id=OHR.ThreeElephants_EN-US3930300492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-12
+
+Download 4k: [Protecting the gentle giants](https://bing.com/th?id=OHR.ThreeElephants_EN-US3930300492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A splash of color
 
 'Gateway Pool' art installation at Jupiter Artland sculpture park, Edinburgh, Scotland (© Owen Humphreys/PA Images/Alamy)
@@ -116,16 +126,6 @@ Zelenci Nature Reserve, Slovenia (© Andrey Danilovich/Getty Images)
 Date: 2023-08-03
 
 Download 4k: [A lake that never freezes](https://bing.com/th?id=OHR.ZelenciSprings_EN-US2246293953_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Sandstone butte-iful
-
-Sandstone butte in Capitol Reef National Park, Utah (© Amazing Aerial Premium/Shutterstock)
-
-![Sandstone butte-iful](https://bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-02
-
-Download 4k: [Sandstone butte-iful](https://bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
