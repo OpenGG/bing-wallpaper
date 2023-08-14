@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Peek-a-boo, I see you!
+
+Tiny gecko on a leaf (© Darren Greenwood/Alamy)
+
+![Peek-a-boo, I see you!](https://bing.com/th?id=OHR.GeckoLeaf_EN-US4138920498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-14
+
+Download 4k: [Peek-a-boo, I see you!](https://bing.com/th?id=OHR.GeckoLeaf_EN-US4138920498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Look up, incoming…
 
 Perseid meteor shower, Cottonwood Canyon State Park, Oregon (© Joshua Meador/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Atlantic puffin, Iceland (© Peter Hering/Minden Pictures)
 Date: 2023-08-05
 
 Download 4k: [It's puffling season!](https://bing.com/th?id=OHR.AtlanticPuffin_EN-US6337041297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A window on the past
-
-Tintern Abbey, Wales (© matthibcn/Getty Images)
-
-![A window on the past](https://bing.com/th?id=OHR.GothicRuins_EN-US2341737381_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-04
-
-Download 4k: [A window on the past](https://bing.com/th?id=OHR.GothicRuins_EN-US2341737381_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
