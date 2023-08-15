@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The Pearl of the Ionian Sea
+
+Piazza IX Aprile, Taormina, Sicily, Italy (© rudi1976/Alamy)
+
+![The Pearl of the Ionian Sea](https://bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-15
+
+Download 4k: [The Pearl of the Ionian Sea](https://bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Peek-a-boo, I see you!
 
 Tiny gecko on a leaf (© Darren Greenwood/Alamy)
@@ -116,16 +126,6 @@ Kagami-ike (Mirror Pond), Nagano, Japan (© Shoji Fujita/Getty Images)
 Date: 2023-08-06
 
 Download 4k: [A peaceful place for self-reflection](https://bing.com/th?id=OHR.NaganoPond_EN-US2600828175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## It's puffling season!
-
-Atlantic puffin, Iceland (© Peter Hering/Minden Pictures)
-
-![It's puffling season!](https://bing.com/th?id=OHR.AtlanticPuffin_EN-US6337041297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-05
-
-Download 4k: [It's puffling season!](https://bing.com/th?id=OHR.AtlanticPuffin_EN-US6337041297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
