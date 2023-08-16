@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## On the open ocean road
+
+Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)
+
+![On the open ocean road](https://bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-16
+
+Download 4k: [On the open ocean road](https://bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The Pearl of the Ionian Sea
 
 Piazza IX Aprile, Taormina, Sicily, Italy (© rudi1976/Alamy)
@@ -116,16 +126,6 @@ Bodie Island Lighthouse, Nags Head, North Carolina (© Michael Ver Sprill/Getty 
 Date: 2023-08-07
 
 Download 4k: [Sentinels of the sea](https://bing.com/th?id=OHR.BodieNC_EN-US2693689463_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A peaceful place for self-reflection
-
-Kagami-ike (Mirror Pond), Nagano, Japan (© Shoji Fujita/Getty Images)
-
-![A peaceful place for self-reflection](https://bing.com/th?id=OHR.NaganoPond_EN-US2600828175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-06
-
-Download 4k: [A peaceful place for self-reflection](https://bing.com/th?id=OHR.NaganoPond_EN-US2600828175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
