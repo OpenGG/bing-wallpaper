@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Things are looking up
+
+Giant sequoia trees in Sequoia and Kings Canyon National Parks, California (© lucky-photographer/Getty Images)
+
+![Things are looking up](https://bing.com/th?id=OHR.SequoiaSunlight_EN-US6214316930_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-17
+
+Download 4k: [Things are looking up](https://bing.com/th?id=OHR.SequoiaSunlight_EN-US6214316930_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## On the open ocean road
 
 Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)
@@ -116,16 +126,6 @@ Highways in Taipei, Taiwan (© Tavarius/Shutterstock)
 Date: 2023-08-08
 
 Download 4k: [To the infinite and back](https://bing.com/th?id=OHR.InfinityTaipei_EN-US3008697284_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Sentinels of the sea
-
-Bodie Island Lighthouse, Nags Head, North Carolina (© Michael Ver Sprill/Getty Images)
-
-![Sentinels of the sea](https://bing.com/th?id=OHR.BodieNC_EN-US2693689463_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-07
-
-Download 4k: [Sentinels of the sea](https://bing.com/th?id=OHR.BodieNC_EN-US2693689463_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
