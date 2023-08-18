@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Inspiring spires of stone
+
+'Avatar Mountains,' Zhangjiajie National Forest Park, China (© Amazing Aerial Premium/Shutterstock)
+
+![Inspiring spires of stone](https://bing.com/th?id=OHR.AvatarMountain_EN-US0084042494_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-18
+
+Download 4k: [Inspiring spires of stone](https://bing.com/th?id=OHR.AvatarMountain_EN-US0084042494_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Things are looking up
 
 Giant sequoia trees in Sequoia and Kings Canyon National Parks, California (© lucky-photographer/Getty Images)
@@ -116,16 +126,6 @@ Indigenous artwork, Ngaruwanajirri Art Centre, Wurrumiyanga, Bathurst Island, Au
 Date: 2023-08-09
 
 Download 4k: [Celebrating Indigenous peoples](https://bing.com/th?id=OHR.BathurstArt_EN-US3084378813_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## To the infinite and back
-
-Highways in Taipei, Taiwan (© Tavarius/Shutterstock)
-
-![To the infinite and back](https://bing.com/th?id=OHR.InfinityTaipei_EN-US3008697284_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-08
-
-Download 4k: [To the infinite and back](https://bing.com/th?id=OHR.InfinityTaipei_EN-US3008697284_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
