@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Ready for my close-up
+
+Squirrel looking into the lens of a camera (© Alfredo Piedrafita/Getty Images)
+
+![Ready for my close-up](https://bing.com/th?id=OHR.CameraSquirrel_EN-US0174540169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-19
+
+Download 4k: [Ready for my close-up](https://bing.com/th?id=OHR.CameraSquirrel_EN-US0174540169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Inspiring spires of stone
 
 'Avatar Mountains,' Zhangjiajie National Forest Park, China (© Amazing Aerial Premium/Shutterstock)
@@ -116,16 +126,6 @@ A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)
 Date: 2023-08-10
 
 Download 4k: ['King of the jungle'?](https://bing.com/th?id=OHR.WorldLionDay_EN-US3311213683_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Celebrating Indigenous peoples
-
-Indigenous artwork, Ngaruwanajirri Art Centre, Wurrumiyanga, Bathurst Island, Australia (© Robert Wyatt/Alamy)
-
-![Celebrating Indigenous peoples](https://bing.com/th?id=OHR.BathurstArt_EN-US3084378813_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-09
-
-Download 4k: [Celebrating Indigenous peoples](https://bing.com/th?id=OHR.BathurstArt_EN-US3084378813_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
