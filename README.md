@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Glowing from within
+
+Emerald Lake, South Klondike Highway, Yukon, Canada (© artherng/Getty Images)
+
+![Glowing from within](https://bing.com/th?id=OHR.EmeraldLakeYukon_EN-US0522450551_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-21
+
+Download 4k: [Glowing from within](https://bing.com/th?id=OHR.EmeraldLakeYukon_EN-US0522450551_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Celebrating lighthouses
 
 Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)
@@ -116,16 +126,6 @@ Elephant family in Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty 
 Date: 2023-08-12
 
 Download 4k: [Protecting the gentle giants](https://bing.com/th?id=OHR.ThreeElephants_EN-US3930300492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A splash of color
-
-'Gateway Pool' art installation at Jupiter Artland sculpture park, Edinburgh, Scotland (© Owen Humphreys/PA Images/Alamy)
-
-![A splash of color](https://bing.com/th?id=OHR.JupiterArtland_EN-US8317170258_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-11
-
-Download 4k: [A splash of color](https://bing.com/th?id=OHR.JupiterArtland_EN-US8317170258_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
