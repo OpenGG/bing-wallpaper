@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A 'standing ovation' to Roman architecture
+
+Amphitheatre of El Jem, Tunisia (© Westend61/Getty Images)
+
+![A 'standing ovation' to Roman architecture](https://bing.com/th?id=OHR.TunisiaAmphitheatre_EN-US0644159608_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-22
+
+Download 4k: [A 'standing ovation' to Roman architecture](https://bing.com/th?id=OHR.TunisiaAmphitheatre_EN-US0644159608_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A day for discovery
 
 Emerald Lake, South Klondike Highway, Yukon, Canada (© artherng/Getty Images)
@@ -116,16 +126,6 @@ Perseid meteor shower, Cottonwood Canyon State Park, Oregon (© Joshua Meador/Ta
 Date: 2023-08-13
 
 Download 4k: [Look up, incoming…](https://bing.com/th?id=OHR.PerseidsOregon_EN-US9307597393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Protecting the gentle giants
-
-Elephant family in Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)
-
-![Protecting the gentle giants](https://bing.com/th?id=OHR.ThreeElephants_EN-US3930300492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-12
-
-Download 4k: [Protecting the gentle giants](https://bing.com/th?id=OHR.ThreeElephants_EN-US3930300492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
