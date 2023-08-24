@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## What a fin-tastic view!
+
+Shark Fin Cove, Davenport, California (© Jeff Lewis/Tandem Stills + Motion)
+
+![What a fin-tastic view!](https://bing.com/th?id=OHR.SharkFinCove_EN-US1070740515_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-24
+
+Download 4k: [What a fin-tastic view!](https://bing.com/th?id=OHR.SharkFinCove_EN-US1070740515_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Making a splash
 
 Skógafoss waterfall, Iceland (© Maridav/Shutterstock)
@@ -116,16 +126,6 @@ Piazza IX Aprile, Taormina, Sicily, Italy (© rudi1976/Alamy)
 Date: 2023-08-15
 
 Download 4k: [The Pearl of the Ionian Sea](https://bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Peek-a-boo, I see you!
-
-Tiny gecko on a leaf (© Darren Greenwood/Alamy)
-
-![Peek-a-boo, I see you!](https://bing.com/th?id=OHR.GeckoLeaf_EN-US4138920498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-14
-
-Download 4k: [Peek-a-boo, I see you!](https://bing.com/th?id=OHR.GeckoLeaf_EN-US4138920498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
