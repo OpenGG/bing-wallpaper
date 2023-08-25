@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## This land is your land
+
+Lower Yellowstone Falls, Yellowstone National Park, Wyoming (© Tim Fitzharris/Minden Pictures)
+
+![This land is your land](https://bing.com/th?id=OHR.YellowstoneFalls_EN-US1964232839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-25
+
+Download 4k: [This land is your land](https://bing.com/th?id=OHR.YellowstoneFalls_EN-US1964232839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## What a fin-tastic view!
 
 Shark Fin Cove, Davenport, California (© Jeff Lewis/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)
 Date: 2023-08-16
 
 Download 4k: [On the open ocean road](https://bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The Pearl of the Ionian Sea
-
-Piazza IX Aprile, Taormina, Sicily, Italy (© rudi1976/Alamy)
-
-![The Pearl of the Ionian Sea](https://bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-15
-
-Download 4k: [The Pearl of the Ionian Sea](https://bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
