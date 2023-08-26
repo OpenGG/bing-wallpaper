@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A night at the museums
+
+Berlin Cathedral and Museum Island, Berlin, Germany (© Rudy Balasko/Shutterstock)
+
+![A night at the museums](https://bing.com/th?id=OHR.MuseumIsland_EN-US2197808554_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-26
+
+Download 4k: [A night at the museums](https://bing.com/th?id=OHR.MuseumIsland_EN-US2197808554_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## This land is your land
 
 Lower Yellowstone Falls, Yellowstone National Park, Wyoming (© Tim Fitzharris/Minden Pictures)
@@ -116,16 +126,6 @@ Giant sequoia trees in Sequoia and Kings Canyon National Parks, California (© l
 Date: 2023-08-17
 
 Download 4k: [Things are looking up](https://bing.com/th?id=OHR.SequoiaSunlight_EN-US6214316930_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## On the open ocean road
-
-Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)
-
-![On the open ocean road](https://bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-16
-
-Download 4k: [On the open ocean road](https://bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
