@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A 'tuff'-tastic crater
+
+Seongsan Ilchulbong, a tuff cone on Jeju Island, South Korea (© Quynh Anh Nguyen/Getty Images)
+
+![A 'tuff'-tastic crater](https://bing.com/th?id=OHR.JejuIsland_EN-US2402698261_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-27
+
+Download 4k: [A 'tuff'-tastic crater](https://bing.com/th?id=OHR.JejuIsland_EN-US2402698261_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A night at the museums
 
 Berlin Cathedral and Museum Island, Berlin, Germany (© Rudy Balasko/Shutterstock)
@@ -116,16 +126,6 @@ Download 4k: [Ready for my close-up](https://bing.com/th?id=OHR.CameraSquirrel_E
 Date: 2023-08-18
 
 Download 4k: [Inspiring spires of stone](https://bing.com/th?id=OHR.AvatarMountain_EN-US0084042494_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Things are looking up
-
-Giant sequoia trees in Sequoia and Kings Canyon National Parks, California (© lucky-photographer/Getty Images)
-
-![Things are looking up](https://bing.com/th?id=OHR.SequoiaSunlight_EN-US6214316930_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-17
-
-Download 4k: [Things are looking up](https://bing.com/th?id=OHR.SequoiaSunlight_EN-US6214316930_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
