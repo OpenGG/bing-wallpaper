@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Watch out for dragons!
+
+Fort Lovrijenac, West Harbor, Dubrovnik, Croatia (© Benny Marty/Shutterstock)
+
+![Watch out for dragons!](https://bing.com/th?id=OHR.DubrovnikHarbor_EN-US2498064362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-28
+
+Download 4k: [Watch out for dragons!](https://bing.com/th?id=OHR.DubrovnikHarbor_EN-US2498064362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A 'tuff'-tastic crater
 
 Seongsan Ilchulbong, a tuff cone on Jeju Island, South Korea (© Quynh Anh Nguyen/Getty Images)
@@ -116,16 +126,6 @@ Squirrel looking into the lens of a camera (© Alfredo Piedrafita/Getty Images)
 Date: 2023-08-19
 
 Download 4k: [Ready for my close-up](https://bing.com/th?id=OHR.CameraSquirrel_EN-US0174540169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Inspiring spires of stone
-
-'Avatar Mountains,' Zhangjiajie National Forest Park, China (© Amazing Aerial Premium/Shutterstock)
-
-![Inspiring spires of stone](https://bing.com/th?id=OHR.AvatarMountain_EN-US0084042494_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-18
-
-Download 4k: [Inspiring spires of stone](https://bing.com/th?id=OHR.AvatarMountain_EN-US0084042494_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
