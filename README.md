@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Our national mammal
+
+American bison in Grand Teton National Park, Wyoming (© Enrique Aguirre Aves/Getty Images)
+
+![Our national mammal](https://bing.com/th?id=OHR.TetonBison_EN-US5358590688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-29
+
+Download 4k: [Our national mammal](https://bing.com/th?id=OHR.TetonBison_EN-US5358590688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Watch out for dragons!
 
 Fort Lovrijenac, West Harbor, Dubrovnik, Croatia (© Benny Marty/Shutterstock)
@@ -116,16 +126,6 @@ Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)
 Date: 2023-08-20
 
 Download 4k: [Celebrating lighthouses](https://bing.com/th?id=OHR.StartPointLight_EN-US0323042936_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Ready for my close-up
-
-Squirrel looking into the lens of a camera (© Alfredo Piedrafita/Getty Images)
-
-![Ready for my close-up](https://bing.com/th?id=OHR.CameraSquirrel_EN-US0174540169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-19
-
-Download 4k: [Ready for my close-up](https://bing.com/th?id=OHR.CameraSquirrel_EN-US0174540169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
