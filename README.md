@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A diver's big buddy
+
+Whale shark, Ningaloo Reef, Western Australia (© Jason Edwards/Getty Images)
+
+![A diver's big buddy](https://bing.com/th?id=OHR.NingalooShark_EN-US2673625094_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-08-30
+
+Download 4k: [A diver's big buddy](https://bing.com/th?id=OHR.NingalooShark_EN-US2673625094_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Our national mammal
 
 American bison in Grand Teton National Park, Wyoming (© Enrique Aguirre Aves/Getty Images)
@@ -116,16 +126,6 @@ Emerald Lake, South Klondike Highway, Yukon, Canada (© artherng/Getty Images)
 Date: 2023-08-21
 
 Download 4k: [A day for discovery](https://bing.com/th?id=OHR.EmeraldLakeYukon_EN-US0522450551_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Celebrating lighthouses
-
-Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)
-
-![Celebrating lighthouses](https://bing.com/th?id=OHR.StartPointLight_EN-US0323042936_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-20
-
-Download 4k: [Celebrating lighthouses](https://bing.com/th?id=OHR.StartPointLight_EN-US0323042936_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
