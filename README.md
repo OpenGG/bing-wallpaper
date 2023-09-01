@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Wanna hang with a fungi?
+
+Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy)
+
+![Wanna hang with a fungi?](https://bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-01
+
+Download 4k: [Wanna hang with a fungi?](https://bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## 'Saguaro' you today?
 
 Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictures)
@@ -117,17 +127,9 @@ Date: 2023-08-23
 
 Download 4k: [Making a splash](https://bing.com/th?id=OHR.SkogafossWaterfall_EN-US0919190171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## A 'standing ovation' to Roman architecture
-
-Amphitheatre of El Jem, Tunisia (© Westend61/Getty Images)
-
-![A 'standing ovation' to Roman architecture](https://bing.com/th?id=OHR.TunisiaAmphitheatre_EN-US0644159608_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-22
-
-Download 4k: [A 'standing ovation' to Roman architecture](https://bing.com/th?id=OHR.TunisiaAmphitheatre_EN-US0644159608_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2023-09](./archive/2023/09.md)
 
 [2023-08](./archive/2023/08.md)
 
