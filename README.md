@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Stopping for a blossom beverage
+
+Allen's hummingbird, Santa Cruz, California (© mallardg500/Getty Images)
+
+![Stopping for a blossom beverage](https://bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-02
+
+Download 4k: [Stopping for a blossom beverage](https://bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Wanna hang with a fungi?
 
 Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy)
@@ -116,16 +126,6 @@ Shark Fin Cove, Davenport, California (© Jeff Lewis/Tandem Stills + Motion)
 Date: 2023-08-24
 
 Download 4k: [What a fin-tastic view!](https://bing.com/th?id=OHR.SharkFinCove_EN-US1070740515_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Making a splash
-
-Skógafoss waterfall, Iceland (© Maridav/Shutterstock)
-
-![Making a splash](https://bing.com/th?id=OHR.SkogafossWaterfall_EN-US0919190171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-23
-
-Download 4k: [Making a splash](https://bing.com/th?id=OHR.SkogafossWaterfall_EN-US0919190171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
