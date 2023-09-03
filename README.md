@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## So high they touch the sky
+
+Aerial view of Manhattan, New York City (© Wojtek Zagorski/Getty Images)
+
+![So high they touch the sky](https://bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-03
+
+Download 4k: [So high they touch the sky](https://bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Stopping for a blossom beverage
 
 Allen's hummingbird, Santa Cruz, California (© mallardg500/Getty Images)
@@ -116,16 +126,6 @@ Lower Yellowstone Falls, Yellowstone National Park, Wyoming (© Tim Fitzharris/M
 Date: 2023-08-25
 
 Download 4k: [This land is your land](https://bing.com/th?id=OHR.YellowstoneFalls_EN-US1964232839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## What a fin-tastic view!
-
-Shark Fin Cove, Davenport, California (© Jeff Lewis/Tandem Stills + Motion)
-
-![What a fin-tastic view!](https://bing.com/th?id=OHR.SharkFinCove_EN-US1070740515_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-24
-
-Download 4k: [What a fin-tastic view!](https://bing.com/th?id=OHR.SharkFinCove_EN-US1070740515_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
