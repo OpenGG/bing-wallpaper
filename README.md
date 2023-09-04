@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Time to clock out
+
+Construction workers on scaffolding (© Bits and Splits/Shutterstock)
+
+![Time to clock out](https://bing.com/th?id=OHR.LaborDayWorkers_EN-US3448430770_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-04
+
+Download 4k: [Time to clock out](https://bing.com/th?id=OHR.LaborDayWorkers_EN-US3448430770_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## So high they touch the sky
 
 Aerial view of Manhattan, New York City (© Wojtek Zagorski/Getty Images)
@@ -116,16 +126,6 @@ Berlin Cathedral and Museum Island, Berlin, Germany (© Rudy Balasko/Shutterstoc
 Date: 2023-08-26
 
 Download 4k: [A night at the museums](https://bing.com/th?id=OHR.MuseumIsland_EN-US2197808554_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## This land is your land
-
-Lower Yellowstone Falls, Yellowstone National Park, Wyoming (© Tim Fitzharris/Minden Pictures)
-
-![This land is your land](https://bing.com/th?id=OHR.YellowstoneFalls_EN-US1964232839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-25
-
-Download 4k: [This land is your land](https://bing.com/th?id=OHR.YellowstoneFalls_EN-US1964232839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
