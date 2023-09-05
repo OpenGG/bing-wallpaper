@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A digital creation? Nor-way!
+
+Mount Segla, Senja Island, Troms og Finnmark, Norway (© imageBROKER/Moritz Wolf/Getty Images)
+
+![A digital creation? Nor-way!](https://bing.com/th?id=OHR.MountSegla_EN-US3570750349_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-05
+
+Download 4k: [A digital creation? Nor-way!](https://bing.com/th?id=OHR.MountSegla_EN-US3570750349_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Time to clock out
 
 Construction workers on scaffolding (© Bits and Splits/Shutterstock)
@@ -116,16 +126,6 @@ Seongsan Ilchulbong, a tuff cone on Jeju Island, South Korea (© Quynh Anh Nguye
 Date: 2023-08-27
 
 Download 4k: [A 'tuff'-tastic crater](https://bing.com/th?id=OHR.JejuIsland_EN-US2402698261_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A night at the museums
-
-Berlin Cathedral and Museum Island, Berlin, Germany (© Rudy Balasko/Shutterstock)
-
-![A night at the museums](https://bing.com/th?id=OHR.MuseumIsland_EN-US2197808554_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-26
-
-Download 4k: [A night at the museums](https://bing.com/th?id=OHR.MuseumIsland_EN-US2197808554_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
