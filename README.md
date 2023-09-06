@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Ready to drop anchor?
+
+Old Venetian harbor, Rethymno, Crete Island, Greece (© Gatsi/Getty Images)
+
+![Ready to drop anchor?](https://bing.com/th?id=OHR.CreteHarbor_EN-US3759550362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-06
+
+Download 4k: [Ready to drop anchor?](https://bing.com/th?id=OHR.CreteHarbor_EN-US3759550362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A digital creation? Nor-way!
 
 Mount Segla, Senja Island, Troms og Finnmark, Norway (© imageBROKER/Moritz Wolf/Getty Images)
@@ -116,16 +126,6 @@ Fort Lovrijenac, West Harbor, Dubrovnik, Croatia (© Benny Marty/Shutterstock)
 Date: 2023-08-28
 
 Download 4k: [Watch out for dragons!](https://bing.com/th?id=OHR.DubrovnikHarbor_EN-US2498064362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A 'tuff'-tastic crater
-
-Seongsan Ilchulbong, a tuff cone on Jeju Island, South Korea (© Quynh Anh Nguyen/Getty Images)
-
-![A 'tuff'-tastic crater](https://bing.com/th?id=OHR.JejuIsland_EN-US2402698261_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-27
-
-Download 4k: [A 'tuff'-tastic crater](https://bing.com/th?id=OHR.JejuIsland_EN-US2402698261_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
