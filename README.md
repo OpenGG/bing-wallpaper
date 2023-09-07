@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Ships of the desert, ahoy!
+
+Camels in the desert, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)
+
+![Ships of the desert, ahoy!](https://bing.com/th?id=OHR.CamelsAbove_EN-US3904666620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-07
+
+Download 4k: [Ships of the desert, ahoy!](https://bing.com/th?id=OHR.CamelsAbove_EN-US3904666620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Ready to drop anchor?
 
 Old Venetian harbor, Rethymno, Crete Island, Greece (© Gatsi/Getty Images)
@@ -116,16 +126,6 @@ American bison in Grand Teton National Park, Wyoming (© Enrique Aguirre Aves/Ge
 Date: 2023-08-29
 
 Download 4k: [Our national mammal](https://bing.com/th?id=OHR.TetonBison_EN-US5358590688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Watch out for dragons!
-
-Fort Lovrijenac, West Harbor, Dubrovnik, Croatia (© Benny Marty/Shutterstock)
-
-![Watch out for dragons!](https://bing.com/th?id=OHR.DubrovnikHarbor_EN-US2498064362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-28
-
-Download 4k: [Watch out for dragons!](https://bing.com/th?id=OHR.DubrovnikHarbor_EN-US2498064362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
