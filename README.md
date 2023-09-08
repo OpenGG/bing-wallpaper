@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Jane Austen's literary circle
+
+The Circus townhouses in Bath, Somerset, England (© Gavin Hellier/Getty Images)
+
+![Jane Austen's literary circle](https://bing.com/th?id=OHR.BathCircus_EN-US1560951776_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-08
+
+Download 4k: [Jane Austen's literary circle](https://bing.com/th?id=OHR.BathCircus_EN-US1560951776_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Ships of the desert, ahoy!
 
 Camels in the desert, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)
@@ -116,16 +126,6 @@ Whale shark, Ningaloo Reef, Western Australia (© Jason Edwards/Getty Images)
 Date: 2023-08-30
 
 Download 4k: [A diver's big buddy](https://bing.com/th?id=OHR.NingalooShark_EN-US2673625094_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Our national mammal
-
-American bison in Grand Teton National Park, Wyoming (© Enrique Aguirre Aves/Getty Images)
-
-![Our national mammal](https://bing.com/th?id=OHR.TetonBison_EN-US5358590688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-29
-
-Download 4k: [Our national mammal](https://bing.com/th?id=OHR.TetonBison_EN-US5358590688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
