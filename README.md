@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Ruins of a royal temple
+
+Wat Chaiwatthanaram temple, Ayutthaya Historical Park, Thailand (© Weerasak Saeku/Getty Images)
+
+![Ruins of a royal temple](https://bing.com/th?id=OHR.AyutthayaTemple_EN-US1726415748_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-09
+
+Download 4k: [Ruins of a royal temple](https://bing.com/th?id=OHR.AyutthayaTemple_EN-US1726415748_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Jane Austen's literary circle
 
 The Circus townhouses in Bath, Somerset, England (© Gavin Hellier/Getty Images)
@@ -116,16 +126,6 @@ Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictu
 Date: 2023-08-31
 
 Download 4k: ['Saguaro' you today?](https://bing.com/th?id=OHR.IronwoodCactus_EN-US2823371711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A diver's big buddy
-
-Whale shark, Ningaloo Reef, Western Australia (© Jason Edwards/Getty Images)
-
-![A diver's big buddy](https://bing.com/th?id=OHR.NingalooShark_EN-US2673625094_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-30
-
-Download 4k: [A diver's big buddy](https://bing.com/th?id=OHR.NingalooShark_EN-US2673625094_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
