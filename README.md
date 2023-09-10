@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Whiskery wisdom
+
+Walrus pair at sea in Svalbard, Norway (© Mark Smith/Getty Images)
+
+![Whiskery wisdom](https://bing.com/th?id=OHR.WalrusSvalbard_EN-US1836032120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-10
+
+Download 4k: [Whiskery wisdom](https://bing.com/th?id=OHR.WalrusSvalbard_EN-US1836032120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Ruins of a royal temple
 
 Wat Chaiwatthanaram temple, Ayutthaya Historical Park, Thailand (© Weerasak Saeku/Getty Images)
@@ -116,16 +126,6 @@ Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy)
 Date: 2023-09-01
 
 Download 4k: [Wanna hang with a fungi?](https://bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## 'Saguaro' you today?
-
-Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictures)
-
-!['Saguaro' you today?](https://bing.com/th?id=OHR.IronwoodCactus_EN-US2823371711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-08-31
-
-Download 4k: ['Saguaro' you today?](https://bing.com/th?id=OHR.IronwoodCactus_EN-US2823371711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
