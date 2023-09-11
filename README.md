@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A 'Tribute in Light'
+
+Brooklyn Bridge with the 'Tribute in Light' installation for 9/11, New York (© ANDREY DENISYUK/Getty Images)
+
+![A 'Tribute in Light'](https://bing.com/th?id=OHR.BridgeMemorial_EN-US1953692613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-11
+
+Download 4k: [A 'Tribute in Light'](https://bing.com/th?id=OHR.BridgeMemorial_EN-US1953692613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Whiskery wisdom
 
 Walrus pair at sea in Svalbard, Norway (© Mark Smith/Getty Images)
@@ -116,16 +126,6 @@ Allen's hummingbird, Santa Cruz, California (© mallardg500/Getty Images)
 Date: 2023-09-02
 
 Download 4k: [Stopping for a blossom beverage](https://bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Wanna hang with a fungi?
-
-Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy)
-
-![Wanna hang with a fungi?](https://bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-01
-
-Download 4k: [Wanna hang with a fungi?](https://bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
