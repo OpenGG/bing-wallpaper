@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Next stop, the horizon
+
+North Sea at sunset, Norddorf, Amrum Island, Germany (© Frederick Doerschem/Getty Images)
+
+![Next stop, the horizon](https://bing.com/th?id=OHR.NorthSeaStairs_EN-US2097672090_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-12
+
+Download 4k: [Next stop, the horizon](https://bing.com/th?id=OHR.NorthSeaStairs_EN-US2097672090_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A 'Tribute in Light'
 
 Brooklyn Bridge with the 'Tribute in Light' installation for 9/11, New York (© ANDREY DENISYUK/Getty Images)
@@ -116,16 +126,6 @@ Aerial view of Manhattan, New York City (© Wojtek Zagorski/Getty Images)
 Date: 2023-09-03
 
 Download 4k: [So high they touch the sky](https://bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Stopping for a blossom beverage
-
-Allen's hummingbird, Santa Cruz, California (© mallardg500/Getty Images)
-
-![Stopping for a blossom beverage](https://bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-02
-
-Download 4k: [Stopping for a blossom beverage](https://bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
