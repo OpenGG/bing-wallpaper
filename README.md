@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Whispers of the past
+
+Temples on Hemakuta Hill, Hampi, Karnataka, India (© Images of india/Alamy)
+
+![Whispers of the past](https://bing.com/th?id=OHR.HemakutaHill_EN-US2233323383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-13
+
+Download 4k: [Whispers of the past](https://bing.com/th?id=OHR.HemakutaHill_EN-US2233323383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Next stop, the horizon
 
 North Sea at sunset, Norddorf, Amrum Island, Germany (© Frederick Doerschem/Getty Images)
@@ -116,16 +126,6 @@ Construction workers on scaffolding (© Bits and Splits/Shutterstock)
 Date: 2023-09-04
 
 Download 4k: [Time to clock out](https://bing.com/th?id=OHR.LaborDayWorkers_EN-US3448430770_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## So high they touch the sky
-
-Aerial view of Manhattan, New York City (© Wojtek Zagorski/Getty Images)
-
-![So high they touch the sky](https://bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-03
-
-Download 4k: [So high they touch the sky](https://bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
