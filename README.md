@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Just two pals horsin' around
+
+Przewalski's horses, Hustai National Park, Mongolia (© Ondrej Prosicky/Shutterstock)
+
+![Just two pals horsin' around](https://bing.com/th?id=OHR.MongoliaHorses_EN-US2400199558_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-14
+
+Download 4k: [Just two pals horsin' around](https://bing.com/th?id=OHR.MongoliaHorses_EN-US2400199558_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Whispers of the past
 
 Temples on Hemakuta Hill, Hampi, Karnataka, India (© Images of india/Alamy)
@@ -116,16 +126,6 @@ Mount Segla, Senja Island, Troms og Finnmark, Norway (© imageBROKER/Moritz Wolf
 Date: 2023-09-05
 
 Download 4k: [A digital creation? Nor-way!](https://bing.com/th?id=OHR.MountSegla_EN-US3570750349_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Time to clock out
-
-Construction workers on scaffolding (© Bits and Splits/Shutterstock)
-
-![Time to clock out](https://bing.com/th?id=OHR.LaborDayWorkers_EN-US3448430770_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-04
-
-Download 4k: [Time to clock out](https://bing.com/th?id=OHR.LaborDayWorkers_EN-US3448430770_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
