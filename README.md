@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Can you answer the call?
+
+Cuban tody, Alejandro de Humboldt National Park, Cuba (© Bruno D'Amicis/Minden Pictures)
+
+![Can you answer the call?](https://bing.com/th?id=OHR.CubanTody_EN-US3083797062_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-17
+
+Download 4k: [Can you answer the call?](https://bing.com/th?id=OHR.CubanTody_EN-US3083797062_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Prost to you and yours!
 
 A beer tent at Oktoberfest in Theresienwiese, Munich, Germany (© Peter Kneffel/picture alliance via Getty Images)
@@ -116,16 +126,6 @@ The Circus townhouses in Bath, Somerset, England (© Gavin Hellier/Getty Images)
 Date: 2023-09-08
 
 Download 4k: [Jane Austen's literary circle](https://bing.com/th?id=OHR.BathCircus_EN-US1560951776_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Ships of the desert, ahoy!
-
-Camels in the desert, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)
-
-![Ships of the desert, ahoy!](https://bing.com/th?id=OHR.CamelsAbove_EN-US3904666620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-07
-
-Download 4k: [Ships of the desert, ahoy!](https://bing.com/th?id=OHR.CamelsAbove_EN-US3904666620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
