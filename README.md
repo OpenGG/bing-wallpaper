@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A rainbow's nocturnal cousin
+
+Milky Way over Southwest Alentejo and Vicentine Coast Natural Park, Portugal (© Daniel Garrido/Getty Images)
+
+![A rainbow's nocturnal cousin](https://bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-18
+
+Download 4k: [A rainbow's nocturnal cousin](https://bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Can you answer the call?
 
 Cuban tody, Alejandro de Humboldt National Park, Cuba (© Bruno D'Amicis/Minden Pictures)
@@ -116,16 +126,6 @@ Wat Chaiwatthanaram temple, Ayutthaya Historical Park, Thailand (© Weerasak Sae
 Date: 2023-09-09
 
 Download 4k: [Ruins of a royal temple](https://bing.com/th?id=OHR.AyutthayaTemple_EN-US1726415748_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Jane Austen's literary circle
-
-The Circus townhouses in Bath, Somerset, England (© Gavin Hellier/Getty Images)
-
-![Jane Austen's literary circle](https://bing.com/th?id=OHR.BathCircus_EN-US1560951776_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-08
-
-Download 4k: [Jane Austen's literary circle](https://bing.com/th?id=OHR.BathCircus_EN-US1560951776_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
