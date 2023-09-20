@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Water under and over the bridge
+
+Roman-inspired aqueduct, Arkadia Park, Poland (© PATSTOCK/Getty Images)
+
+![Water under and over the bridge](https://bing.com/th?id=OHR.ArkadiaPark_EN-US3604031201_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-20
+
+Download 4k: [Water under and over the bridge](https://bing.com/th?id=OHR.ArkadiaPark_EN-US3604031201_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Fasten your seatbelts!
 
 Splügen Pass, Graubünden, Switzerland (© Roberto Moiola/Getty Images)
@@ -116,16 +126,6 @@ Brooklyn Bridge with the 'Tribute in Light' installation for 9/11, New York (© 
 Date: 2023-09-11
 
 Download 4k: [A 'Tribute in Light'](https://bing.com/th?id=OHR.BridgeMemorial_EN-US1953692613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Whiskery wisdom
-
-Walrus pair at sea in Svalbard, Norway (© Mark Smith/Getty Images)
-
-![Whiskery wisdom](https://bing.com/th?id=OHR.WalrusSvalbard_EN-US1836032120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-10
-
-Download 4k: [Whiskery wisdom](https://bing.com/th?id=OHR.WalrusSvalbard_EN-US1836032120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
