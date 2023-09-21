@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Recognizing champions of peace
+
+Inside the Nobel Peace Center, Oslo, Norway (© Ilyas Ayub/Alamy)
+
+![Recognizing champions of peace](https://bing.com/th?id=OHR.NobelNorway_EN-US3740897457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-21
+
+Download 4k: [Recognizing champions of peace](https://bing.com/th?id=OHR.NobelNorway_EN-US3740897457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Water under and over the bridge
 
 Roman-inspired aqueduct, Arkadia Park, Poland (© PATSTOCK/Getty Images)
@@ -116,16 +126,6 @@ North Sea at sunset, Norddorf, Amrum Island, Germany (© Frederick Doerschem/Get
 Date: 2023-09-12
 
 Download 4k: [Next stop, the horizon](https://bing.com/th?id=OHR.NorthSeaStairs_EN-US2097672090_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A 'Tribute in Light'
-
-Brooklyn Bridge with the 'Tribute in Light' installation for 9/11, New York (© ANDREY DENISYUK/Getty Images)
-
-![A 'Tribute in Light'](https://bing.com/th?id=OHR.BridgeMemorial_EN-US1953692613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-11
-
-Download 4k: [A 'Tribute in Light'](https://bing.com/th?id=OHR.BridgeMemorial_EN-US1953692613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
