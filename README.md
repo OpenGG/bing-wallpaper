@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Awash in autumn hues
+
+Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)
+
+![Awash in autumn hues](https://bing.com/th?id=OHR.CottonwoodCanyon_EN-US1573845041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-23
+
+Download 4k: [Awash in autumn hues](https://bing.com/th?id=OHR.CottonwoodCanyon_EN-US1573845041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Sorry to crash your party
 
 Southern white rhinoceros males, Shamwari Private Game Reserve, South Africa (© David Silverman/Getty Images)
@@ -116,16 +126,6 @@ Przewalski's horses, Hustai National Park, Mongolia (© Ondrej Prosicky/Shutters
 Date: 2023-09-14
 
 Download 4k: [Just two pals horsin' around](https://bing.com/th?id=OHR.MongoliaHorses_EN-US2400199558_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Whispers of the past
-
-Temples on Hemakuta Hill, Hampi, Karnataka, India (© Images of india/Alamy)
-
-![Whispers of the past](https://bing.com/th?id=OHR.HemakutaHill_EN-US2233323383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-13
-
-Download 4k: [Whispers of the past](https://bing.com/th?id=OHR.HemakutaHill_EN-US2233323383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
