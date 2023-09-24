@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Trickle, babble, or roar
+
+The Fraser River near Mount Robson, British Columbia, Canada (© phototropic/Getty Images)
+
+![Trickle, babble, or roar](https://bing.com/th?id=OHR.FraserRiverBC_EN-US1696932265_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-24
+
+Download 4k: [Trickle, babble, or roar](https://bing.com/th?id=OHR.FraserRiverBC_EN-US1696932265_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Awash in autumn hues
 
 Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Mission church ruins at Quarai, Salinas Pueblo Missions National Monument, New M
 Date: 2023-09-15
 
 Download 4k: [Celebrating Hispanic heritage](https://bing.com/th?id=OHR.MissionRuins_EN-US2486545022_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Just two pals horsin' around
-
-Przewalski's horses, Hustai National Park, Mongolia (© Ondrej Prosicky/Shutterstock)
-
-![Just two pals horsin' around](https://bing.com/th?id=OHR.MongoliaHorses_EN-US2400199558_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-14
-
-Download 4k: [Just two pals horsin' around](https://bing.com/th?id=OHR.MongoliaHorses_EN-US2400199558_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
