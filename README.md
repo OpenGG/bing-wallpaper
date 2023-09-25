@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Kick back, snack, and relax
+
+Sea otter in Bartlett Cove, Glacier Bay National Park and Preserve, Alaska (© Andrew Peacock/Tandem Stills + Motion)
+
+![Kick back, snack, and relax](https://bing.com/th?id=OHR.GlacierBayOtter_EN-US1818492105_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-25
+
+Download 4k: [Kick back, snack, and relax](https://bing.com/th?id=OHR.GlacierBayOtter_EN-US1818492105_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Trickle, babble, or roar
 
 The Fraser River near Mount Robson, British Columbia, Canada (© phototropic/Getty Images)
@@ -116,16 +126,6 @@ A beer tent at Oktoberfest in Theresienwiese, Munich, Germany (© Peter Kneffel/
 Date: 2023-09-16
 
 Download 4k: [Prost to you and yours!](https://bing.com/th?id=OHR.OktoberfestWorkers_EN-US5478786117_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Celebrating Hispanic heritage
-
-Mission church ruins at Quarai, Salinas Pueblo Missions National Monument, New Mexico (© Thomas Roche/Getty Images)
-
-![Celebrating Hispanic heritage](https://bing.com/th?id=OHR.MissionRuins_EN-US2486545022_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-15
-
-Download 4k: [Celebrating Hispanic heritage](https://bing.com/th?id=OHR.MissionRuins_EN-US2486545022_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
