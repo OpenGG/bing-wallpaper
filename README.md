@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Waves for wheels
+
+Venice Skatepark at sunset, Los Angeles, California (© EXTREME-PHOTOGRAPHER/Getty Images)
+
+![Waves for wheels](https://bing.com/th?id=OHR.VeniceSkatePark_EN-US1972530060_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-26
+
+Download 4k: [Waves for wheels](https://bing.com/th?id=OHR.VeniceSkatePark_EN-US1972530060_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Kick back, snack, and relax
 
 Sea otter in Bartlett Cove, Glacier Bay National Park and Preserve, Alaska (© Andrew Peacock/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Cuban tody, Alejandro de Humboldt National Park, Cuba (© Bruno D'Amicis/Minden 
 Date: 2023-09-17
 
 Download 4k: [Can you answer the call?](https://bing.com/th?id=OHR.CubanTody_EN-US3083797062_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Prost to you and yours!
-
-A beer tent at Oktoberfest in Theresienwiese, Munich, Germany (© Peter Kneffel/picture alliance via Getty Images)
-
-![Prost to you and yours!](https://bing.com/th?id=OHR.OktoberfestWorkers_EN-US5478786117_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-16
-
-Download 4k: [Prost to you and yours!](https://bing.com/th?id=OHR.OktoberfestWorkers_EN-US5478786117_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
