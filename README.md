@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Slow and steady climbs the cliff
+
+The Via Krupp footpath on Capri island, Italy (© Mikolaj Niemczewski/Shutterstock)
+
+![Slow and steady climbs the cliff](https://bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-27
+
+Download 4k: [Slow and steady climbs the cliff](https://bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Waves for wheels
 
 Venice Skatepark at sunset, Los Angeles, California (© EXTREME-PHOTOGRAPHER/Getty Images)
@@ -116,16 +126,6 @@ Milky Way over Southwest Alentejo and Vicentine Coast Natural Park, Portugal (©
 Date: 2023-09-18
 
 Download 4k: [A rainbow's nocturnal cousin](https://bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Can you answer the call?
-
-Cuban tody, Alejandro de Humboldt National Park, Cuba (© Bruno D'Amicis/Minden Pictures)
-
-![Can you answer the call?](https://bing.com/th?id=OHR.CubanTody_EN-US3083797062_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-17
-
-Download 4k: [Can you answer the call?](https://bing.com/th?id=OHR.CubanTody_EN-US3083797062_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
