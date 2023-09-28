@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Aye aye, captain!
+
+Container ship near a commercial port in Thailand (© Suriyapong Thongsawang/Getty Images)
+
+![Aye aye, captain!](https://bing.com/th?id=OHR.MaritimeDay_EN-US2262770680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-28
+
+Download 4k: [Aye aye, captain!](https://bing.com/th?id=OHR.MaritimeDay_EN-US2262770680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Slow and steady climbs the cliff
 
 The Via Krupp footpath on Capri island, Italy (© Mikolaj Niemczewski/Shutterstock)
@@ -116,16 +126,6 @@ Splügen Pass, Graubünden, Switzerland (© Roberto Moiola/Getty Images)
 Date: 2023-09-19
 
 Download 4k: [Fasten your seatbelts!](https://bing.com/th?id=OHR.SplugenPass_EN-US5807017383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A rainbow's nocturnal cousin
-
-Milky Way over Southwest Alentejo and Vicentine Coast Natural Park, Portugal (© Daniel Garrido/Getty Images)
-
-![A rainbow's nocturnal cousin](https://bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-18
-
-Download 4k: [A rainbow's nocturnal cousin](https://bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
