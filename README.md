@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Under the full moon's gaze
+
+Jiaxiu Tower under a full moon, Guiyang, Guizhou province, China (© Wang Yukun/Getty Images)
+
+![Under the full moon's gaze](https://bing.com/th?id=OHR.GuiyangMoon_EN-US2407385108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-29
+
+Download 4k: [Under the full moon's gaze](https://bing.com/th?id=OHR.GuiyangMoon_EN-US2407385108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Aye aye, captain!
 
 Container ship near a commercial port in Thailand (© Suriyapong Thongsawang/Getty Images)
@@ -116,16 +126,6 @@ Roman-inspired aqueduct, Arkadia Park, Poland (© PATSTOCK/Getty Images)
 Date: 2023-09-20
 
 Download 4k: [Water under and over the bridge](https://bing.com/th?id=OHR.ArkadiaPark_EN-US3604031201_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Fasten your seatbelts!
-
-Splügen Pass, Graubünden, Switzerland (© Roberto Moiola/Getty Images)
-
-![Fasten your seatbelts!](https://bing.com/th?id=OHR.SplugenPass_EN-US5807017383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-19
-
-Download 4k: [Fasten your seatbelts!](https://bing.com/th?id=OHR.SplugenPass_EN-US5807017383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
