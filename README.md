@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Oh Shenandoah
+
+Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)
+
+![Oh Shenandoah](https://bing.com/th?id=OHR.ShenandoahFoliage_EN-US9719781431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-09-30
+
+Download 4k: [Oh Shenandoah](https://bing.com/th?id=OHR.ShenandoahFoliage_EN-US9719781431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Under the full moon's gaze
 
 Jiaxiu Tower under a full moon, Guiyang, Guizhou province, China (© Wang Yukun/Getty Images)
@@ -116,16 +126,6 @@ Inside the Nobel Peace Center, Oslo, Norway (© Ilyas Ayub/Alamy)
 Date: 2023-09-21
 
 Download 4k: [Recognizing champions of peace](https://bing.com/th?id=OHR.NobelNorway_EN-US3740897457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Water under and over the bridge
-
-Roman-inspired aqueduct, Arkadia Park, Poland (© PATSTOCK/Getty Images)
-
-![Water under and over the bridge](https://bing.com/th?id=OHR.ArkadiaPark_EN-US3604031201_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-20
-
-Download 4k: [Water under and over the bridge](https://bing.com/th?id=OHR.ArkadiaPark_EN-US3604031201_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
