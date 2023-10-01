@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Awake to the lake
+
+Lake Bled at sunrise, Slovenia (© Rasica/Getty Images)
+
+![Awake to the lake](https://bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-01
+
+Download 4k: [Awake to the lake](https://bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Oh Shenandoah
 
 Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)
@@ -117,17 +127,9 @@ Date: 2023-09-22
 
 Download 4k: [Sorry to crash your party](https://bing.com/th?id=OHR.ShamwariRhino_EN-US1414731584_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Recognizing champions of peace
-
-Inside the Nobel Peace Center, Oslo, Norway (© Ilyas Ayub/Alamy)
-
-![Recognizing champions of peace](https://bing.com/th?id=OHR.NobelNorway_EN-US3740897457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-21
-
-Download 4k: [Recognizing champions of peace](https://bing.com/th?id=OHR.NobelNorway_EN-US3740897457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2023-10](./archive/2023/10.md)
 
 [2023-09](./archive/2023/09.md)
 
