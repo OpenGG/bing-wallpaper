@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A fashionista art center
+
+Louis Vuitton Foundation in the Bois de Boulogne, Paris, France (© Atlantide Phototravel/Getty Images)
+
+![A fashionista art center](https://bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-02
+
+Download 4k: [A fashionista art center](https://bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Awake to the lake
 
 Lake Bled at sunrise, Slovenia (© Rasica/Getty Images)
@@ -116,16 +126,6 @@ Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreat
 Date: 2023-09-23
 
 Download 4k: [Awash in autumn hues](https://bing.com/th?id=OHR.CottonwoodCanyon_EN-US1573845041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Sorry to crash your party
-
-Southern white rhinoceros males, Shamwari Private Game Reserve, South Africa (© David Silverman/Getty Images)
-
-![Sorry to crash your party](https://bing.com/th?id=OHR.ShamwariRhino_EN-US1414731584_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-22
-
-Download 4k: [Sorry to crash your party](https://bing.com/th?id=OHR.ShamwariRhino_EN-US1414731584_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
