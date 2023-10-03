@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Whitsunday wanderlust
+
+Whitehaven Beach, Whitsunday Island, Queensland, Australia (© Coral Brunner/Shutterstock)
+
+![Whitsunday wanderlust](https://bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-03
+
+Download 4k: [Whitsunday wanderlust](https://bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A fashionista art center
 
 Louis Vuitton Foundation in the Bois de Boulogne, Paris, France (© Atlantide Phototravel/Getty Images)
@@ -116,16 +126,6 @@ The Fraser River near Mount Robson, British Columbia, Canada (© phototropic/Get
 Date: 2023-09-24
 
 Download 4k: [Trickle, babble, or roar](https://bing.com/th?id=OHR.FraserRiverBC_EN-US1696932265_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Awash in autumn hues
-
-Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)
-
-![Awash in autumn hues](https://bing.com/th?id=OHR.CottonwoodCanyon_EN-US1573845041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-23
-
-Download 4k: [Awash in autumn hues](https://bing.com/th?id=OHR.CottonwoodCanyon_EN-US1573845041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
