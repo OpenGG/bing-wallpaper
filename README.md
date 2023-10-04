@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A galactic spider's web
+
+Young stars forming in the Tarantula Nebula, James Webb Space Telescope (© NASA, ESA, CSA, STScI, Webb ERO Production Team)
+
+![A galactic spider's web](https://bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-04
+
+Download 4k: [A galactic spider's web](https://bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Whitsunday wanderlust
 
 Whitehaven Beach, Whitsunday Island, Queensland, Australia (© Coral Brunner/Shutterstock)
@@ -116,16 +126,6 @@ Sea otter in Bartlett Cove, Glacier Bay National Park and Preserve, Alaska (© A
 Date: 2023-09-25
 
 Download 4k: [Kick back, snack, and relax](https://bing.com/th?id=OHR.GlacierBayOtter_EN-US1818492105_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Trickle, babble, or roar
-
-The Fraser River near Mount Robson, British Columbia, Canada (© phototropic/Getty Images)
-
-![Trickle, babble, or roar](https://bing.com/th?id=OHR.FraserRiverBC_EN-US1696932265_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-24
-
-Download 4k: [Trickle, babble, or roar](https://bing.com/th?id=OHR.FraserRiverBC_EN-US1696932265_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
