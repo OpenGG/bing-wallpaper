@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Nature's majesty awaits!
+
+Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photography/Getty Images)
+
+![Nature's majesty awaits!](https://bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-06
+
+Download 4k: [Nature's majesty awaits!](https://bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Here's how it's done!
 
 Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)
@@ -116,16 +126,6 @@ The Via Krupp footpath on Capri island, Italy (© Mikolaj Niemczewski/Shuttersto
 Date: 2023-09-27
 
 Download 4k: [Slow and steady climbs the cliff](https://bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Waves for wheels
-
-Venice Skatepark at sunset, Los Angeles, California (© EXTREME-PHOTOGRAPHER/Getty Images)
-
-![Waves for wheels](https://bing.com/th?id=OHR.VeniceSkatePark_EN-US1972530060_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-26
-
-Download 4k: [Waves for wheels](https://bing.com/th?id=OHR.VeniceSkatePark_EN-US1972530060_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
