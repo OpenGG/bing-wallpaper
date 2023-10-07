@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Time for self-serve salmon
+
+Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska (© oksana.perkins/Shutterstock)
+
+![Time for self-serve salmon](https://bing.com/th?id=OHR.GrizzlyFalls_EN-US9219501224_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-07
+
+Download 4k: [Time for self-serve salmon](https://bing.com/th?id=OHR.GrizzlyFalls_EN-US9219501224_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Nature's majesty awaits!
 
 Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photography/Getty Images)
@@ -116,16 +126,6 @@ Container ship near a commercial port in Thailand (© Suriyapong Thongsawang/Get
 Date: 2023-09-28
 
 Download 4k: [Aye aye, captain!](https://bing.com/th?id=OHR.MaritimeDay_EN-US2262770680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Slow and steady climbs the cliff
-
-The Via Krupp footpath on Capri island, Italy (© Mikolaj Niemczewski/Shutterstock)
-
-![Slow and steady climbs the cliff](https://bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-27
-
-Download 4k: [Slow and steady climbs the cliff](https://bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
