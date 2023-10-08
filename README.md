@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Need some shell-ter?
+
+Veined octopus in a giant clam shell, Sulawesi Sea, Indonesia (© Alex Mustard/Minden Pictures)
+
+![Need some shell-ter?](https://bing.com/th?id=OHR.OctoClam_EN-US9467607669_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-08
+
+Download 4k: [Need some shell-ter?](https://bing.com/th?id=OHR.OctoClam_EN-US9467607669_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Time for self-serve salmon
 
 Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska (© oksana.perkins/Shutterstock)
@@ -116,16 +126,6 @@ Jiaxiu Tower under a full moon, Guiyang, Guizhou province, China (© Wang Yukun/
 Date: 2023-09-29
 
 Download 4k: [Under the full moon's gaze](https://bing.com/th?id=OHR.GuiyangMoon_EN-US2407385108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Aye aye, captain!
-
-Container ship near a commercial port in Thailand (© Suriyapong Thongsawang/Getty Images)
-
-![Aye aye, captain!](https://bing.com/th?id=OHR.MaritimeDay_EN-US2262770680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-28
-
-Download 4k: [Aye aye, captain!](https://bing.com/th?id=OHR.MaritimeDay_EN-US2262770680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
