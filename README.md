@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Rocky Mountain high
+
+Mount Sopris, Colorado (© Jason Hatfield/Tandem Stills + Motion)
+
+![Rocky Mountain high](https://bing.com/th?id=OHR.SoprisSunrise_EN-US9658915846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-10
+
+Download 4k: [Rocky Mountain high](https://bing.com/th?id=OHR.SoprisSunrise_EN-US9658915846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Celebrating Indigenous heritage
 
 Fremont Indian petroglyphs, Dinosaur National Monument, Jensen, Utah (© Dan Leeth/Alamy)
@@ -116,16 +126,6 @@ Lake Bled at sunrise, Slovenia (© Rasica/Getty Images)
 Date: 2023-10-01
 
 Download 4k: [Awake to the lake](https://bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Oh Shenandoah
-
-Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)
-
-![Oh Shenandoah](https://bing.com/th?id=OHR.ShenandoahFoliage_EN-US9719781431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-09-30
-
-Download 4k: [Oh Shenandoah](https://bing.com/th?id=OHR.ShenandoahFoliage_EN-US9719781431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
