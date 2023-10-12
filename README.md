@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Make hay while the sun shines
+
+Old barn and canola field, Palouse region, Idaho (© Terry Eggers/Getty Images)
+
+![Make hay while the sun shines](https://bing.com/th?id=OHR.IdahoBarn_EN-US0098074838_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-12
+
+Download 4k: [Make hay while the sun shines](https://bing.com/th?id=OHR.IdahoBarn_EN-US0098074838_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Echoes of extinction
 
 The Painted Hills in John Day Fossil Beds National Monument, Oregon (© Ben Herndon/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Whitehaven Beach, Whitsunday Island, Queensland, Australia (© Coral Brunner/Shu
 Date: 2023-10-03
 
 Download 4k: [Whitsunday wanderlust](https://bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A fashionista art center
-
-Louis Vuitton Foundation in the Bois de Boulogne, Paris, France (© Atlantide Phototravel/Getty Images)
-
-![A fashionista art center](https://bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-02
-
-Download 4k: [A fashionista art center](https://bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
