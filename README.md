@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Life on the edge
+
+Vieste on the Gargano peninsula, Apulia, Italy (© Pilat666/Getty Images)
+
+![Life on the edge](https://bing.com/th?id=OHR.ViesteItaly_EN-US0948108910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-13
+
+Download 4k: [Life on the edge](https://bing.com/th?id=OHR.ViesteItaly_EN-US0948108910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Make hay while the sun shines
 
 Old barn and canola field, Palouse region, Washington (© Terry Eggers/Getty Images)
@@ -116,16 +126,6 @@ Young stars forming in the Tarantula Nebula, James Webb Space Telescope (© NASA
 Date: 2023-10-04
 
 Download 4k: [A galactic spider's web](https://bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Whitsunday wanderlust
-
-Whitehaven Beach, Whitsunday Island, Queensland, Australia (© Coral Brunner/Shutterstock)
-
-![Whitsunday wanderlust](https://bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-03
-
-Download 4k: [Whitsunday wanderlust](https://bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
