@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## And it burns, burns, burns
+
+'Ring of fire' annular solar eclipse, Doha, Qatar (© Sorin Furcoi/Getty Images)
+
+![And it burns, burns, burns](https://bing.com/th?id=OHR.RingEclipse_EN-US1077107553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-14
+
+Download 4k: [And it burns, burns, burns](https://bing.com/th?id=OHR.RingEclipse_EN-US1077107553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Life on the edge
 
 Vieste on the Gargano peninsula, Apulia, Italy (© Pilat666/Getty Images)
@@ -116,16 +126,6 @@ Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)
 Date: 2023-10-05
 
 Download 4k: [Here's how it's done!](https://bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A galactic spider's web
-
-Young stars forming in the Tarantula Nebula, James Webb Space Telescope (© NASA, ESA, CSA, STScI, Webb ERO Production Team)
-
-![A galactic spider's web](https://bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-04
-
-Download 4k: [A galactic spider's web](https://bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
