@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## This spot's taken
+
+European hedgehog sheltering in tree bark, Sussex, England (© Jules Cox/Minden Pictures)
+
+![This spot's taken](https://bing.com/th?id=OHR.AutumnHedgehog_EN-US1171311197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-15
+
+Download 4k: [This spot's taken](https://bing.com/th?id=OHR.AutumnHedgehog_EN-US1171311197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## And it burns, burns, burns
 
 'Ring of fire' annular solar eclipse, Doha, Qatar (© Sorin Furcoi/Getty Images)
@@ -116,16 +126,6 @@ Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photograph
 Date: 2023-10-06
 
 Download 4k: [Nature's majesty awaits!](https://bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Here's how it's done!
-
-Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)
-
-![Here's how it's done!](https://bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-05
-
-Download 4k: [Here's how it's done!](https://bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
