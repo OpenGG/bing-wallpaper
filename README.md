@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The magic of the Enchantments
+
+Golden larches and Prusik Peak, the Enchantments, Washington (© Jim Patterson/Tandem Stills + Motion)
+
+![The magic of the Enchantments](https://bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-16
+
+Download 4k: [The magic of the Enchantments](https://bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## This spot's taken
 
 European hedgehog sheltering in tree bark, Sussex, England (© Jules Cox/Minden Pictures)
@@ -116,16 +126,6 @@ Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska (©
 Date: 2023-10-07
 
 Download 4k: [Time for self-serve salmon](https://bing.com/th?id=OHR.GrizzlyFalls_EN-US9219501224_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Nature's majesty awaits!
-
-Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photography/Getty Images)
-
-![Nature's majesty awaits!](https://bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-06
-
-Download 4k: [Nature's majesty awaits!](https://bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
