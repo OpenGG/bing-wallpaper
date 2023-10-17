@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Happy Spreadsheet Day!
+
+Ancient carved texts from Persepolis, Iran (© George Hall/Alamy)
+
+![Happy Spreadsheet Day!](https://bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-17
+
+Download 4k: [Happy Spreadsheet Day!](https://bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The magic of the Enchantments
 
 Golden larches and Prusik Peak, the Enchantments, Washington (© Jim Patterson/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Veined octopus in a giant clam shell, Sulawesi Sea, Indonesia (© Alex Mustard/M
 Date: 2023-10-08
 
 Download 4k: [Need some shell-ter?](https://bing.com/th?id=OHR.OctoClam_EN-US9467607669_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Time for self-serve salmon
-
-Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska (© oksana.perkins/Shutterstock)
-
-![Time for self-serve salmon](https://bing.com/th?id=OHR.GrizzlyFalls_EN-US9219501224_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-07
-
-Download 4k: [Time for self-serve salmon](https://bing.com/th?id=OHR.GrizzlyFalls_EN-US9219501224_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
