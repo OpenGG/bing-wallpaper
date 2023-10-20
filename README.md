@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Do you wanna hang?
+
+Pygmy three-toed sloth baby, Isla Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)
+
+![Do you wanna hang?](https://bing.com/th?id=OHR.PygmySloth_EN-US9345280015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-20
+
+Download 4k: [Do you wanna hang?](https://bing.com/th?id=OHR.PygmySloth_EN-US9345280015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Teamwork makes the dream work
 
 Water lily harvest, Mekong River Delta, Long An, Vietnam (© Khanh Phan/Solent News/Shutterstock)
@@ -116,16 +126,6 @@ The Painted Hills in John Day Fossil Beds National Monument, Oregon (© Ben Hern
 Date: 2023-10-11
 
 Download 4k: [Echoes of extinction](https://bing.com/th?id=OHR.JohnDayFossil_EN-US9957224234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Rocky Mountain high
-
-Mount Sopris, Colorado (© Jason Hatfield/Tandem Stills + Motion)
-
-![Rocky Mountain high](https://bing.com/th?id=OHR.SoprisSunrise_EN-US9658915846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-10
-
-Download 4k: [Rocky Mountain high](https://bing.com/th?id=OHR.SoprisSunrise_EN-US9658915846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
