@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Wow, what a relief!
+
+Reliefs in the ancient Persian city of Persepolis, Iran (© Ozbalci/Getty Images)
+
+![Wow, what a relief!](https://bing.com/th?id=OHR.PersepolisRelief_EN-US9435779068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-21
+
+Download 4k: [Wow, what a relief!](https://bing.com/th?id=OHR.PersepolisRelief_EN-US9435779068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Do you wanna hang?
 
 Pygmy three-toed sloth baby, Isla Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)
@@ -116,16 +126,6 @@ Old barn and canola field, Palouse region, Washington (© Terry Eggers/Getty Ima
 Date: 2023-10-12
 
 Download 4k: [Make hay while the sun shines](https://bing.com/th?id=OHR.IdahoBarn_EN-US0098074838_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Echoes of extinction
-
-The Painted Hills in John Day Fossil Beds National Monument, Oregon (© Ben Herndon/Tandem Stills + Motion)
-
-![Echoes of extinction](https://bing.com/th?id=OHR.JohnDayFossil_EN-US9957224234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-11
-
-Download 4k: [Echoes of extinction](https://bing.com/th?id=OHR.JohnDayFossil_EN-US9957224234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
