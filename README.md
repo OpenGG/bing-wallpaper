@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A bridge you can truss
+
+Astoria-Megler Bridge on the Columbia River, Astoria, Oregon (© Dan Mihai/Getty Images)
+
+![A bridge you can truss](https://bing.com/th?id=OHR.AstoriaBridge_EN-US9518437970_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-22
+
+Download 4k: [A bridge you can truss](https://bing.com/th?id=OHR.AstoriaBridge_EN-US9518437970_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Wow, what a relief!
 
 Reliefs in the ancient Persian city of Persepolis, Iran (© Ozbalci/Getty Images)
@@ -116,16 +126,6 @@ Vieste on the Gargano peninsula, Apulia, Italy (© Pilat666/Getty Images)
 Date: 2023-10-13
 
 Download 4k: [Life on the edge](https://bing.com/th?id=OHR.ViesteItaly_EN-US0948108910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Make hay while the sun shines
-
-Old barn and canola field, Palouse region, Washington (© Terry Eggers/Getty Images)
-
-![Make hay while the sun shines](https://bing.com/th?id=OHR.IdahoBarn_EN-US0098074838_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-12
-
-Download 4k: [Make hay while the sun shines](https://bing.com/th?id=OHR.IdahoBarn_EN-US0098074838_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
