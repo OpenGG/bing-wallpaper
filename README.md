@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## An a-maize-ing puzzle
+
+Corn maze in Saylorsburg, Pennsylvania (© Alex Potemkin/Getty Images)
+
+![An a-maize-ing puzzle](https://bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-23
+
+Download 4k: [An a-maize-ing puzzle](https://bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A bridge you can truss
 
 Astoria-Megler Bridge on the Columbia River, Astoria, Oregon (© Dan Mihai/Getty Images)
@@ -116,16 +126,6 @@ Download 4k: [This spot's taken](https://bing.com/th?id=OHR.AutumnHedgehog_EN-US
 Date: 2023-10-14
 
 Download 4k: [And it burns, burns, burns](https://bing.com/th?id=OHR.RingEclipse_EN-US1077107553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Life on the edge
-
-Vieste on the Gargano peninsula, Apulia, Italy (© Pilat666/Getty Images)
-
-![Life on the edge](https://bing.com/th?id=OHR.ViesteItaly_EN-US0948108910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-13
-
-Download 4k: [Life on the edge](https://bing.com/th?id=OHR.ViesteItaly_EN-US0948108910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
