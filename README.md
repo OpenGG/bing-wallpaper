@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Fortress of solitude
+
+Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)
+
+![Fortress of solitude](https://bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-24
+
+Download 4k: [Fortress of solitude](https://bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## An a-maize-ing puzzle
 
 Corn maze in Saylorsburg, Pennsylvania (© Alex Potemkin/Getty Images)
@@ -116,16 +126,6 @@ European hedgehog sheltering in tree bark, Sussex, England (© Jules Cox/Minden 
 Date: 2023-10-15
 
 Download 4k: [This spot's taken](https://bing.com/th?id=OHR.AutumnHedgehog_EN-US1171311197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## And it burns, burns, burns
-
-'Ring of fire' annular solar eclipse, Doha, Qatar (© Sorin Furcoi/Getty Images)
-
-![And it burns, burns, burns](https://bing.com/th?id=OHR.RingEclipse_EN-US1077107553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-14
-
-Download 4k: [And it burns, burns, burns](https://bing.com/th?id=OHR.RingEclipse_EN-US1077107553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
