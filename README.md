@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A pop of autumn gold
+
+Cottonwood trees in Grand Staircase-Escalante National Monument, Utah (© Jeff Foott/Minden Pictures)
+
+![A pop of autumn gold](https://bing.com/th?id=OHR.GrandStaircase_EN-US9984560349_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-25
+
+Download 4k: [A pop of autumn gold](https://bing.com/th?id=OHR.GrandStaircase_EN-US9984560349_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Fortress of solitude
 
 Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)
@@ -116,16 +126,6 @@ Golden larches and Prusik Peak, the Enchantments, Washington (© Jim Patterson/T
 Date: 2023-10-16
 
 Download 4k: [The magic of the Enchantments](https://bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## This spot's taken
-
-European hedgehog sheltering in tree bark, Sussex, England (© Jules Cox/Minden Pictures)
-
-![This spot's taken](https://bing.com/th?id=OHR.AutumnHedgehog_EN-US1171311197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-15
-
-Download 4k: [This spot's taken](https://bing.com/th?id=OHR.AutumnHedgehog_EN-US1171311197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
