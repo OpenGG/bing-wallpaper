@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A leaf stomper's paradise
+
+Autumn foliage in Schönbrunn Palace Park, Vienna, Austria (© rusm/Getty Images)
+
+![A leaf stomper's paradise](https://bing.com/th?id=OHR.ViennaAutumn_EN-US0101367282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-26
+
+Download 4k: [A leaf stomper's paradise](https://bing.com/th?id=OHR.ViennaAutumn_EN-US0101367282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A pop of autumn gold
 
 Cottonwood trees in Grand Staircase-Escalante National Monument, Utah (© Jeff Foott/Minden Pictures)
@@ -116,16 +126,6 @@ Ancient carved texts from Persepolis, Iran (© George Hall/Alamy)
 Date: 2023-10-17
 
 Download 4k: [Happy Spreadsheet Day!](https://bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The magic of the Enchantments
-
-Golden larches and Prusik Peak, the Enchantments, Washington (© Jim Patterson/Tandem Stills + Motion)
-
-![The magic of the Enchantments](https://bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-16
-
-Download 4k: [The magic of the Enchantments](https://bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
