@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Enchanted waters run deep
+
+Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)
+
+![Enchanted waters run deep](https://bing.com/th?id=OHR.OldBridgeSkye_EN-US0196189617_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-27
+
+Download 4k: [Enchanted waters run deep](https://bing.com/th?id=OHR.OldBridgeSkye_EN-US0196189617_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A leaf stomper's paradise
 
 Autumn foliage in Schönbrunn Palace Park, Vienna, Austria (© rusm/Getty Images)
@@ -116,16 +126,6 @@ Kodiak National Wildlife Refuge, Kodiak Island, Alaska (© Ian Shive/Tandem Stil
 Date: 2023-10-18
 
 Download 4k: [Alaska Day](https://bing.com/th?id=OHR.KodiakAlaska_EN-US1478138954_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Happy Spreadsheet Day!
-
-Ancient carved texts from Persepolis, Iran (© George Hall/Alamy)
-
-![Happy Spreadsheet Day!](https://bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-17
-
-Download 4k: [Happy Spreadsheet Day!](https://bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
