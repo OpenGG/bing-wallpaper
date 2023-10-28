@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A Spanish knight's greatest foes
+
+Windmills in Castilla-La Mancha, Spain (© Getty Images)
+
+![A Spanish knight's greatest foes](https://bing.com/th?id=OHR.FiveWinds_EN-US0292788215_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-28
+
+Download 4k: [A Spanish knight's greatest foes](https://bing.com/th?id=OHR.FiveWinds_EN-US0292788215_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Enchanted waters run deep
 
 Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Water lily harvest, Mekong River Delta, Long An, Vietnam (© Khanh Phan/Solent N
 Date: 2023-10-19
 
 Download 4k: [Teamwork makes the dream work](https://bing.com/th?id=OHR.WaterLilyVietnam_EN-US1552107370_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Alaska Day
-
-Kodiak National Wildlife Refuge, Kodiak Island, Alaska (© Ian Shive/Tandem Stills + Motion)
-
-![Alaska Day](https://bing.com/th?id=OHR.KodiakAlaska_EN-US1478138954_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-18
-
-Download 4k: [Alaska Day](https://bing.com/th?id=OHR.KodiakAlaska_EN-US1478138954_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
