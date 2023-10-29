@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Dare to dwell here after dark?
+
+Bonaventure Cemetery, Savannah, Georgia (© Kelly vanDellen/Alamy)
+
+![Dare to dwell here after dark?](https://bing.com/th?id=OHR.SavannahSculpture_EN-US0375520303_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-10-29
+
+Download 4k: [Dare to dwell here after dark?](https://bing.com/th?id=OHR.SavannahSculpture_EN-US0375520303_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A Spanish knight's greatest foes
 
 Windmills in Castilla-La Mancha, Spain (© Getty Images)
@@ -116,16 +126,6 @@ Pygmy three-toed sloth baby, Isla Escudo de Veraguas, Panama (© Suzi Eszterhas/
 Date: 2023-10-20
 
 Download 4k: [Do you wanna hang?](https://bing.com/th?id=OHR.PygmySloth_EN-US9345280015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Teamwork makes the dream work
-
-Water lily harvest, Mekong River Delta, Long An, Vietnam (© Khanh Phan/Solent News/Shutterstock)
-
-![Teamwork makes the dream work](https://bing.com/th?id=OHR.WaterLilyVietnam_EN-US1552107370_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-19
-
-Download 4k: [Teamwork makes the dream work](https://bing.com/th?id=OHR.WaterLilyVietnam_EN-US1552107370_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
