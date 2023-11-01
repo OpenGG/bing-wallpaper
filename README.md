@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Honoring the legacy of our first cultures
+
+Mummy Cave ruins, Canyon de Chelly National Monument, Arizona (© Cindy Miller Hopkins/Danita Delimont)
+
+![Honoring the legacy of our first cultures](https://bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-01
+
+Download 4k: [Honoring the legacy of our first cultures](https://bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Creepin' it real
 
 Halloween jack-o'-lanterns on a porch (© Bing Image Creator)
@@ -117,17 +127,9 @@ Date: 2023-10-23
 
 Download 4k: [An a-maize-ing puzzle](https://bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## A bridge you can truss
-
-Astoria-Megler Bridge on the Columbia River, Astoria, Oregon (© Dan Mihai/Getty Images)
-
-![A bridge you can truss](https://bing.com/th?id=OHR.AstoriaBridge_EN-US9518437970_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-22
-
-Download 4k: [A bridge you can truss](https://bing.com/th?id=OHR.AstoriaBridge_EN-US9518437970_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2023-11](./archive/2023/11.md)
 
 [2023-10](./archive/2023/10.md)
 
