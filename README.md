@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## This park is worth its salt
+
+Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/Tandem Stills + Motion)
+
+![This park is worth its salt](https://bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-02
+
+Download 4k: [This park is worth its salt](https://bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Honoring the legacy of our first cultures
 
 Mummy Cave ruins, Canyon de Chelly National Monument, Arizona (© Cindy Miller Hopkins/Danita Delimont)
@@ -116,16 +126,6 @@ Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)
 Date: 2023-10-24
 
 Download 4k: [Fortress of solitude](https://bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## An a-maize-ing puzzle
-
-Corn maze in Saylorsburg, Pennsylvania (© Alex Potemkin/Getty Images)
-
-![An a-maize-ing puzzle](https://bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-23
-
-Download 4k: [An a-maize-ing puzzle](https://bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
