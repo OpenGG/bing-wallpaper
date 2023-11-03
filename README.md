@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## An illuminated bloom
+
+Pacific sea nettles off the coast of Carmel, California (© Jim Patterson/Tandem Stills + Motion)
+
+![An illuminated bloom](https://bing.com/th?id=OHR.SeaNettles_EN-US6654060294_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-03
+
+Download 4k: [An illuminated bloom](https://bing.com/th?id=OHR.SeaNettles_EN-US6654060294_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## This park is worth its salt
 
 Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Cottonwood trees in Grand Staircase-Escalante National Monument, Utah (© Jeff F
 Date: 2023-10-25
 
 Download 4k: [A pop of autumn gold](https://bing.com/th?id=OHR.GrandStaircase_EN-US9984560349_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Fortress of solitude
-
-Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)
-
-![Fortress of solitude](https://bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-24
-
-Download 4k: [Fortress of solitude](https://bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
