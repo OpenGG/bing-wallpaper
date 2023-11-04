@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Built for the cold
+
+American bison, Yellowstone National Park, Wyoming (© Gary Gray/Getty Images)
+
+![Built for the cold](https://bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-04
+
+Download 4k: [Built for the cold](https://bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## An illuminated bloom
 
 Pacific sea nettles off the coast of Carmel, California (© Jim Patterson/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Autumn foliage in Schönbrunn Palace Park, Vienna, Austria (© rusm/Getty Images
 Date: 2023-10-26
 
 Download 4k: [A leaf stomper's paradise](https://bing.com/th?id=OHR.ViennaAutumn_EN-US0101367282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A pop of autumn gold
-
-Cottonwood trees in Grand Staircase-Escalante National Monument, Utah (© Jeff Foott/Minden Pictures)
-
-![A pop of autumn gold](https://bing.com/th?id=OHR.GrandStaircase_EN-US9984560349_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-25
-
-Download 4k: [A pop of autumn gold](https://bing.com/th?id=OHR.GrandStaircase_EN-US9984560349_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
