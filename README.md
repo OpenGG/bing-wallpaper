@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Catching rays in Torres del Paine
+
+Lake Pehoé, Torres del Paine National Park, Chile (© OST/Getty Images)
+
+![Catching rays in Torres del Paine](https://bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-06
+
+Download 4k: [Catching rays in Torres del Paine](https://bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A quiet place, indeed
 
 Quartzite formation, Playa del Silencio, Asturias, Spain (© Jean-Philippe Delobelle/Minden Pictures)
@@ -116,16 +126,6 @@ Windmills in Castilla-La Mancha, Spain (© Getty Images)
 Date: 2023-10-28
 
 Download 4k: [A Spanish knight's greatest foes](https://bing.com/th?id=OHR.FiveWinds_EN-US0292788215_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Enchanted waters run deep
-
-Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)
-
-![Enchanted waters run deep](https://bing.com/th?id=OHR.OldBridgeSkye_EN-US0196189617_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-27
-
-Download 4k: [Enchanted waters run deep](https://bing.com/th?id=OHR.OldBridgeSkye_EN-US0196189617_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
