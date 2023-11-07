@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Lookout above!
+
+Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania (© MNStudio/Shutterstock)
+
+![Lookout above!](https://bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-07
+
+Download 4k: [Lookout above!](https://bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Catching rays in Torres del Paine
 
 Lake Pehoé, Torres del Paine National Park, Chile (© OST/Getty Images)
@@ -116,16 +126,6 @@ Bonaventure Cemetery, Savannah, Georgia (© Kelly vanDellen/Alamy)
 Date: 2023-10-29
 
 Download 4k: [Dare to dwell here after dark?](https://bing.com/th?id=OHR.SavannahSculpture_EN-US0375520303_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A Spanish knight's greatest foes
-
-Windmills in Castilla-La Mancha, Spain (© Getty Images)
-
-![A Spanish knight's greatest foes](https://bing.com/th?id=OHR.FiveWinds_EN-US0292788215_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-28
-
-Download 4k: [A Spanish knight's greatest foes](https://bing.com/th?id=OHR.FiveWinds_EN-US0292788215_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
