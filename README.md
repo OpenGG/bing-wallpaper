@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The life aquatic
+
+West Indian manatee mother and baby, Three Sisters Springs, Crystal River, Florida (© Karine Aigner/Tandem Stills + Motion)
+
+![The life aquatic](https://bing.com/th?id=OHR.ManateeMama_EN-US7376333243_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-08
+
+Download 4k: [The life aquatic](https://bing.com/th?id=OHR.ManateeMama_EN-US7376333243_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Lookout above!
 
 Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania (© MNStudio/Shutterstock)
@@ -116,16 +126,6 @@ Common raven sitting on a branch (© WildMedia/Shutterstock)
 Date: 2023-10-30
 
 Download 4k: [Here's to ravens, evermore](https://bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Dare to dwell here after dark?
-
-Bonaventure Cemetery, Savannah, Georgia (© Kelly vanDellen/Alamy)
-
-![Dare to dwell here after dark?](https://bing.com/th?id=OHR.SavannahSculpture_EN-US0375520303_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-29
-
-Download 4k: [Dare to dwell here after dark?](https://bing.com/th?id=OHR.SavannahSculpture_EN-US0375520303_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
