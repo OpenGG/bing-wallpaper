@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Shades of autumn
+
+Birch trees in autumn, Drammen, Norway (© Baac3nes/Getty Images)
+
+![Shades of autumn](https://bing.com/th?id=OHR.NorwayBirch_EN-US7497125692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-09
+
+Download 4k: [Shades of autumn](https://bing.com/th?id=OHR.NorwayBirch_EN-US7497125692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The life aquatic
 
 West Indian manatee mother and baby, Three Sisters Springs, Crystal River, Florida (© Karine Aigner/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Halloween jack-o'-lanterns on a porch (© Bing Image Creator)
 Date: 2023-10-31
 
 Download 4k: [Creepin' it real](https://bing.com/th?id=OHR.HalloweenPorchAI_EN-US0776611565_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Here's to ravens, evermore
-
-Common raven sitting on a branch (© WildMedia/Shutterstock)
-
-![Here's to ravens, evermore](https://bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-30
-
-Download 4k: [Here's to ravens, evermore](https://bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
