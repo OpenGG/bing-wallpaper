@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Not-so-bad lands
+
+Badlands National Park, South Dakota (© Grant Ordelheide/Tandem Stills + Motion)
+
+![Not-so-bad lands](https://bing.com/th?id=OHR.BadlandsSunrise_EN-US7576048436_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-10
+
+Download 4k: [Not-so-bad lands](https://bing.com/th?id=OHR.BadlandsSunrise_EN-US7576048436_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Shades of autumn
 
 Birch trees in autumn, Drammen, Norway (© Baac3nes/Getty Images)
@@ -116,16 +126,6 @@ Mummy Cave ruins, Canyon de Chelly National Monument, Arizona (© Cindy Miller H
 Date: 2023-11-01
 
 Download 4k: [Honoring the legacy of our first cultures](https://bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Creepin' it real
-
-Halloween jack-o'-lanterns on a porch (© Bing Image Creator)
-
-![Creepin' it real](https://bing.com/th?id=OHR.HalloweenPorchAI_EN-US0776611565_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-10-31
-
-Download 4k: [Creepin' it real](https://bing.com/th?id=OHR.HalloweenPorchAI_EN-US0776611565_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
