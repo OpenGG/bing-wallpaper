@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A salute to veterans
+
+Sunset at the Washington Monument, Washington, DC (© Joe Daniel Price/Getty Images)
+
+![A salute to veterans](https://bing.com/th?id=OHR.VeteransDayDC_EN-US7666353324_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-11
+
+Download 4k: [A salute to veterans](https://bing.com/th?id=OHR.VeteransDayDC_EN-US7666353324_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Not-so-bad lands
 
 Badlands National Park, South Dakota (© Grant Ordelheide/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Pat
 Date: 2023-11-02
 
 Download 4k: [This park is worth its salt](https://bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Honoring the legacy of our first cultures
-
-Mummy Cave ruins, Canyon de Chelly National Monument, Arizona (© Cindy Miller Hopkins/Danita Delimont)
-
-![Honoring the legacy of our first cultures](https://bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-01
-
-Download 4k: [Honoring the legacy of our first cultures](https://bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
