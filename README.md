@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## From the tree to the table
+
+Old olive grove in the Serra Tramuntana range, Majorca, Spain (© cinoby/Getty Images)
+
+![From the tree to the table](https://bing.com/th?id=OHR.OliveOrchard_EN-US7903927729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-13
+
+Download 4k: [From the tree to the table](https://bing.com/th?id=OHR.OliveOrchard_EN-US7903927729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A dazzling display for Diwali
 
 Lamps on the banks of the Sarayu River for Diwali, Ayodhya, India (© SANJAY KANOJIA/AFP/Getty Images)
@@ -116,16 +126,6 @@ American bison, Yellowstone National Park, Wyoming (© Gary Gray/Getty Images)
 Date: 2023-11-04
 
 Download 4k: [Built for the cold](https://bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## An illuminated bloom
-
-Pacific sea nettles off the coast of Carmel, California (© Jim Patterson/Tandem Stills + Motion)
-
-![An illuminated bloom](https://bing.com/th?id=OHR.SeaNettles_EN-US6654060294_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-03
-
-Download 4k: [An illuminated bloom](https://bing.com/th?id=OHR.SeaNettles_EN-US6654060294_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
