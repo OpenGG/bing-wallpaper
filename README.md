@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A beautiful nuisance
+
+Russell lupines along Lake Tekapo, South Island, New Zealand (© Jeffrey Lewis/Tandem Stills + Motion)
+
+![A beautiful nuisance](https://bing.com/th?id=OHR.RussellLupines_EN-US8017518812_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-14
+
+Download 4k: [A beautiful nuisance](https://bing.com/th?id=OHR.RussellLupines_EN-US8017518812_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## From the tree to the table
 
 Old olive grove in the Serra Tramuntana range, Majorca, Spain (© cinoby/Getty Images)
@@ -116,16 +126,6 @@ Quartzite formation, Playa del Silencio, Asturias, Spain (© Jean-Philippe Delob
 Date: 2023-11-05
 
 Download 4k: [A quiet place, indeed](https://bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Built for the cold
-
-American bison, Yellowstone National Park, Wyoming (© Gary Gray/Getty Images)
-
-![Built for the cold](https://bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-04
-
-Download 4k: [Built for the cold](https://bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
