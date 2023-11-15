@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Imagine the echo!
+
+Rapa Valley in Sarek National Park, Sweden (© Hans Strand/Getty Images)
+
+![Imagine the echo!](https://bing.com/th?id=OHR.SarekSweden_EN-US8292531624_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-15
+
+Download 4k: [Imagine the echo!](https://bing.com/th?id=OHR.SarekSweden_EN-US8292531624_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A beautiful nuisance
 
 Russell lupines along Lake Tekapo, South Island, New Zealand (© Jeffrey Lewis/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Lake Pehoé, Torres del Paine National Park, Chile (© OST/Getty Images)
 Date: 2023-11-06
 
 Download 4k: [Catching rays in Torres del Paine](https://bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A quiet place, indeed
-
-Quartzite formation, Playa del Silencio, Asturias, Spain (© Jean-Philippe Delobelle/Minden Pictures)
-
-![A quiet place, indeed](https://bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-05
-
-Download 4k: [A quiet place, indeed](https://bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
