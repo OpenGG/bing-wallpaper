@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The birthplace of Western philosophy
+
+View over Athens and the Acropolis, Greece (© Mlenny/Getty Images)
+
+![The birthplace of Western philosophy](https://bing.com/th?id=OHR.AthensAcropolis_EN-US8385195396_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-16
+
+Download 4k: [The birthplace of Western philosophy](https://bing.com/th?id=OHR.AthensAcropolis_EN-US8385195396_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Imagine the echo!
 
 Rapa Valley in Sarek National Park, Sweden (© Hans Strand/Getty Images)
@@ -116,16 +126,6 @@ Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania (© MNStudio/
 Date: 2023-11-07
 
 Download 4k: [Lookout above!](https://bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Catching rays in Torres del Paine
-
-Lake Pehoé, Torres del Paine National Park, Chile (© OST/Getty Images)
-
-![Catching rays in Torres del Paine](https://bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-06
-
-Download 4k: [Catching rays in Torres del Paine](https://bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
