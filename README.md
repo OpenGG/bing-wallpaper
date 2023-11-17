@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Time to lace up those boots
+
+Bad River in Copper Falls State Park, Wisconsin (© Big Joe/Getty Images)
+
+![Time to lace up those boots](https://bing.com/th?id=OHR.BadRiver_EN-US1270508214_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-17
+
+Download 4k: [Time to lace up those boots](https://bing.com/th?id=OHR.BadRiver_EN-US1270508214_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The birthplace of Western philosophy
 
 View over Athens and the Acropolis, Greece (© Mlenny/Getty Images)
@@ -116,16 +126,6 @@ West Indian manatee mother and baby, Three Sisters Springs, Crystal River, Flori
 Date: 2023-11-08
 
 Download 4k: [The life aquatic](https://bing.com/th?id=OHR.ManateeMama_EN-US7376333243_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Lookout above!
-
-Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania (© MNStudio/Shutterstock)
-
-![Lookout above!](https://bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-07
-
-Download 4k: [Lookout above!](https://bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
