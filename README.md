@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Tread carefully!
+
+Alam-Pedja Nature Reserve, Estonia (© Sven Zacek/Minden Pictures)
+
+![Tread carefully!](https://bing.com/th?id=OHR.FrozenBog_EN-US2448711069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-19
+
+Download 4k: [Tread carefully!](https://bing.com/th?id=OHR.FrozenBog_EN-US2448711069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Awaiting the big freeze
 
 Polar bear mother and cubs, Churchill, Manitoba, Canada (© Thorsten Milse/Getty Images)
@@ -116,16 +126,6 @@ Badlands National Park, South Dakota (© Grant Ordelheide/Tandem Stills + Motion
 Date: 2023-11-10
 
 Download 4k: [Not-so-bad lands](https://bing.com/th?id=OHR.BadlandsSunrise_EN-US7576048436_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Shades of autumn
-
-Birch trees in autumn, Drammen, Norway (© Baac3nes/Getty Images)
-
-![Shades of autumn](https://bing.com/th?id=OHR.NorwayBirch_EN-US7497125692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-09
-
-Download 4k: [Shades of autumn](https://bing.com/th?id=OHR.NorwayBirch_EN-US7497125692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
