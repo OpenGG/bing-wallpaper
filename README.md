@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Every day is a play day!
+
+Chapman Adventure Playground in the Gathering Place, Tulsa, Oklahoma (© Susan Vineyard/Alamy)
+
+![Every day is a play day!](https://bing.com/th?id=OHR.ChapmanAdventure_EN-US2522291999_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-20
+
+Download 4k: [Every day is a play day!](https://bing.com/th?id=OHR.ChapmanAdventure_EN-US2522291999_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Tread carefully!
 
 Alam-Pedja Nature Reserve, Estonia (© Sven Zacek/Minden Pictures)
@@ -116,16 +126,6 @@ Sunset at the Washington Monument, Washington, DC (© Joe Daniel Price/Getty Ima
 Date: 2023-11-11
 
 Download 4k: [A salute to veterans](https://bing.com/th?id=OHR.VeteransDayDC_EN-US7666353324_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Not-so-bad lands
-
-Badlands National Park, South Dakota (© Grant Ordelheide/Tandem Stills + Motion)
-
-![Not-so-bad lands](https://bing.com/th?id=OHR.BadlandsSunrise_EN-US7576048436_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-10
-
-Download 4k: [Not-so-bad lands](https://bing.com/th?id=OHR.BadlandsSunrise_EN-US7576048436_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
