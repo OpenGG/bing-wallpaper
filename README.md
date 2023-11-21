@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Welcome to the world, pup!
+
+Gray seal pup, Norfolk, England (© Vince Burton/Minden Pictures)
+
+![Welcome to the world, pup!](https://bing.com/th?id=OHR.HelloSeal_EN-US2666982656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-21
+
+Download 4k: [Welcome to the world, pup!](https://bing.com/th?id=OHR.HelloSeal_EN-US2666982656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Every day is a play day!
 
 Chapman Adventure Playground in the Gathering Place, Tulsa, Oklahoma (© Susan Vineyard/Alamy)
@@ -116,16 +126,6 @@ Lamps on the banks of the Sarayu River for Diwali, Ayodhya, India (© SANJAY KAN
 Date: 2023-11-12
 
 Download 4k: [A dazzling display for Diwali](https://bing.com/th?id=OHR.DiwaliAyodhya_EN-US7782727326_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A salute to veterans
-
-Sunset at the Washington Monument, Washington, DC (© Joe Daniel Price/Getty Images)
-
-![A salute to veterans](https://bing.com/th?id=OHR.VeteransDayDC_EN-US7666353324_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-11
-
-Download 4k: [A salute to veterans](https://bing.com/th?id=OHR.VeteransDayDC_EN-US7666353324_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
