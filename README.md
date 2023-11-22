@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The quiet beauty of Grand Teton
+
+Grand Teton National Park, Wyoming (© Westend61/Getty Images)
+
+![The quiet beauty of Grand Teton](https://bing.com/th?id=OHR.SnakeRiverTeton_EN-US2749569171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-22
+
+Download 4k: [The quiet beauty of Grand Teton](https://bing.com/th?id=OHR.SnakeRiverTeton_EN-US2749569171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Welcome to the world, pup!
 
 Gray seal pup, Norfolk, England (© Vince Burton/Minden Pictures)
@@ -116,16 +126,6 @@ Old olive grove in the Serra Tramuntana range, Majorca, Spain (© cinoby/Getty I
 Date: 2023-11-13
 
 Download 4k: [From the tree to the table](https://bing.com/th?id=OHR.OliveOrchard_EN-US7903927729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A dazzling display for Diwali
-
-Lamps on the banks of the Sarayu River for Diwali, Ayodhya, India (© SANJAY KANOJIA/AFP/Getty Images)
-
-![A dazzling display for Diwali](https://bing.com/th?id=OHR.DiwaliAyodhya_EN-US7782727326_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-12
-
-Download 4k: [A dazzling display for Diwali](https://bing.com/th?id=OHR.DiwaliAyodhya_EN-US7782727326_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
