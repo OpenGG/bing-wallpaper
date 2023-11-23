@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Happy Thanksgiving!
+
+Flint corn (© Cynthia Liang/Shutterstock)
+
+![Happy Thanksgiving!](https://bing.com/th?id=OHR.FlintCorn_EN-US2819178375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-23
+
+Download 4k: [Happy Thanksgiving!](https://bing.com/th?id=OHR.FlintCorn_EN-US2819178375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The quiet beauty of Grand Teton
 
 Grand Teton National Park, Wyoming (© Westend61/Getty Images)
@@ -116,16 +126,6 @@ Russell lupines along Lake Tekapo, South Island, New Zealand (© Jeffrey Lewis/T
 Date: 2023-11-14
 
 Download 4k: [A beautiful nuisance](https://bing.com/th?id=OHR.RussellLupines_EN-US8017518812_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## From the tree to the table
-
-Old olive grove in the Serra Tramuntana range, Majorca, Spain (© cinoby/Getty Images)
-
-![From the tree to the table](https://bing.com/th?id=OHR.OliveOrchard_EN-US7903927729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-13
-
-Download 4k: [From the tree to the table](https://bing.com/th?id=OHR.OliveOrchard_EN-US7903927729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
