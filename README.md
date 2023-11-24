@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A different kind of rainforest
+
+Hall of Mosses trail in the Hoh Rain Forest, Olympic National Park, Washington (© James Randklev/Getty Images)
+
+![A different kind of rainforest](https://bing.com/th?id=OHR.HallofMosses_EN-US3167567374_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-24
+
+Download 4k: [A different kind of rainforest](https://bing.com/th?id=OHR.HallofMosses_EN-US3167567374_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Happy Thanksgiving!
 
 Flint corn (© Cynthia Liang/Shutterstock)
@@ -116,16 +126,6 @@ Rapa Valley in Sarek National Park, Sweden (© Hans Strand/Getty Images)
 Date: 2023-11-15
 
 Download 4k: [Imagine the echo!](https://bing.com/th?id=OHR.SarekSweden_EN-US8292531624_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A beautiful nuisance
-
-Russell lupines along Lake Tekapo, South Island, New Zealand (© Jeffrey Lewis/Tandem Stills + Motion)
-
-![A beautiful nuisance](https://bing.com/th?id=OHR.RussellLupines_EN-US8017518812_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-14
-
-Download 4k: [A beautiful nuisance](https://bing.com/th?id=OHR.RussellLupines_EN-US8017518812_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
