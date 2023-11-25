@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Toledo's timeless tale
+
+Toledo, Spain (© Carlos Fernandez/Getty Images)
+
+![Toledo's timeless tale](https://bing.com/th?id=OHR.TajoRiver_EN-US3801665254_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-25
+
+Download 4k: [Toledo's timeless tale](https://bing.com/th?id=OHR.TajoRiver_EN-US3801665254_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A different kind of rainforest
 
 Hall of Mosses trail in the Hoh Rain Forest, Olympic National Park, Washington (© James Randklev/Getty Images)
@@ -116,16 +126,6 @@ View over Athens and the Acropolis, Greece (© Mlenny/Getty Images)
 Date: 2023-11-16
 
 Download 4k: [The birthplace of Western philosophy](https://bing.com/th?id=OHR.AthensAcropolis_EN-US8385195396_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Imagine the echo!
-
-Rapa Valley in Sarek National Park, Sweden (© Hans Strand/Getty Images)
-
-![Imagine the echo!](https://bing.com/th?id=OHR.SarekSweden_EN-US8292531624_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-15
-
-Download 4k: [Imagine the echo!](https://bing.com/th?id=OHR.SarekSweden_EN-US8292531624_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
