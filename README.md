@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Mirror, mirror, on the water
+
+Río Negro, Amazon basin, Brazil (© Timothy Allen/Getty Images)
+
+![Mirror, mirror, on the water](https://bing.com/th?id=OHR.RioNegro_EN-US4106999854_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-27
+
+Download 4k: [Mirror, mirror, on the water](https://bing.com/th?id=OHR.RioNegro_EN-US4106999854_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Who stepped on a twig?
 
 Fallow deer in Bradgate Park, Leicestershire, England (© Chris Bainbridge/Alamy)
@@ -116,16 +126,6 @@ Polar bear mother and cubs, Churchill, Manitoba, Canada (© Thorsten Milse/Getty
 Date: 2023-11-18
 
 Download 4k: [Awaiting the big freeze](https://bing.com/th?id=OHR.MilsePolarBear_EN-US1615028560_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Time to lace up those boots
-
-Bad River in Copper Falls State Park, Wisconsin (© Big Joe/Getty Images)
-
-![Time to lace up those boots](https://bing.com/th?id=OHR.BadRiver_EN-US1270508214_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-17
-
-Download 4k: [Time to lace up those boots](https://bing.com/th?id=OHR.BadRiver_EN-US1270508214_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
