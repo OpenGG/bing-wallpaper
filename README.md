@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A day to lend a hand
+
+Giant land art fresco by artist Saype in Istanbul, Türkiye (© Chris McGrath/Getty Images)
+
+![A day to lend a hand](https://bing.com/th?id=OHR.HumanKindness_EN-US4254216907_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-28
+
+Download 4k: [A day to lend a hand](https://bing.com/th?id=OHR.HumanKindness_EN-US4254216907_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Mirror, mirror, on the water
 
 Río Negro, Amazon basin, Brazil (© Timothy Allen/Getty Images)
@@ -116,16 +126,6 @@ Alam-Pedja Nature Reserve, Estonia (© Sven Zacek/Minden Pictures)
 Date: 2023-11-19
 
 Download 4k: [Tread carefully!](https://bing.com/th?id=OHR.FrozenBog_EN-US2448711069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Awaiting the big freeze
-
-Polar bear mother and cubs, Churchill, Manitoba, Canada (© Thorsten Milse/Getty Images)
-
-![Awaiting the big freeze](https://bing.com/th?id=OHR.MilsePolarBear_EN-US1615028560_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-18
-
-Download 4k: [Awaiting the big freeze](https://bing.com/th?id=OHR.MilsePolarBear_EN-US1615028560_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
