@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Rockefeller 'round the Christmas tree
+
+Rockefeller Center Christmas tree, New York City (© Jonathan Orenstein/Getty Images)
+
+![Rockefeller 'round the Christmas tree](https://bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-11-29
+
+Download 4k: [Rockefeller 'round the Christmas tree](https://bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A day to lend a hand
 
 Giant land art fresco by artist Saype in Istanbul, Türkiye (© Chris McGrath/Getty Images)
@@ -116,16 +126,6 @@ Chapman Adventure Playground in the Gathering Place, Tulsa, Oklahoma (© Susan V
 Date: 2023-11-20
 
 Download 4k: [Every day is a play day!](https://bing.com/th?id=OHR.ChapmanAdventure_EN-US2522291999_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Tread carefully!
-
-Alam-Pedja Nature Reserve, Estonia (© Sven Zacek/Minden Pictures)
-
-![Tread carefully!](https://bing.com/th?id=OHR.FrozenBog_EN-US2448711069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-19
-
-Download 4k: [Tread carefully!](https://bing.com/th?id=OHR.FrozenBog_EN-US2448711069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
