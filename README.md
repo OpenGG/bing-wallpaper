@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Celebrating the coolest place!
+
+Iceberg in the Ross Sea, Antarctica (© Michel Roggo/Minden Pictures)
+
+![Celebrating the coolest place!](https://bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-01
+
+Download 4k: [Celebrating the coolest place!](https://bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Happy Saint Andrew's Day
 
 The Storr, a rock outcrop on the Isle of Skye, Scotland (© Juan Maria Coy Vergara/Getty Images)
@@ -117,17 +127,9 @@ Date: 2023-11-22
 
 Download 4k: [The quiet beauty of Grand Teton](https://bing.com/th?id=OHR.SnakeRiverTeton_EN-US2749569171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Welcome to the world, pup!
-
-Gray seal pup, Norfolk, England (© Vince Burton/Minden Pictures)
-
-![Welcome to the world, pup!](https://bing.com/th?id=OHR.HelloSeal_EN-US2666982656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-21
-
-Download 4k: [Welcome to the world, pup!](https://bing.com/th?id=OHR.HelloSeal_EN-US2666982656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2023-12](./archive/2023/12.md)
 
 [2023-11](./archive/2023/11.md)
 
