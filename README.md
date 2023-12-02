@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A city within a city
+
+North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia (© Amazing Travel Lifestyle/Shutterstock)
+
+![A city within a city](https://bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-02
+
+Download 4k: [A city within a city](https://bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Celebrating the coolest place!
 
 Iceberg in the Ross Sea, Antarctica (© Michel Roggo/Minden Pictures)
@@ -116,16 +126,6 @@ Flint corn (© Cynthia Liang/Shutterstock)
 Date: 2023-11-23
 
 Download 4k: [Happy Thanksgiving!](https://bing.com/th?id=OHR.FlintCorn_EN-US2819178375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The quiet beauty of Grand Teton
-
-Grand Teton National Park, Wyoming (© Westend61/Getty Images)
-
-![The quiet beauty of Grand Teton](https://bing.com/th?id=OHR.SnakeRiverTeton_EN-US2749569171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-22
-
-Download 4k: [The quiet beauty of Grand Teton](https://bing.com/th?id=OHR.SnakeRiverTeton_EN-US2749569171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
