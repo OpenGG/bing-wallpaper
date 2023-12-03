@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sculpted by time
+
+Sandstone rock formations, Vermilion Cliffs National Monument, Arizona (© Yva Momatiuk and John Eastcott/Minden Pictures)
+
+![Sculpted by time](https://bing.com/th?id=OHR.VermilionCliffs_EN-US9543863428_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-03
+
+Download 4k: [Sculpted by time](https://bing.com/th?id=OHR.VermilionCliffs_EN-US9543863428_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A city within a city
 
 North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia (© Amazing Travel Lifestyle/Shutterstock)
@@ -116,16 +126,6 @@ Hall of Mosses trail in the Hoh Rain Forest, Olympic National Park, Washington (
 Date: 2023-11-24
 
 Download 4k: [A different kind of rainforest](https://bing.com/th?id=OHR.HallofMosses_EN-US3167567374_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Happy Thanksgiving!
-
-Flint corn (© Cynthia Liang/Shutterstock)
-
-![Happy Thanksgiving!](https://bing.com/th?id=OHR.FlintCorn_EN-US2819178375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-23
-
-Download 4k: [Happy Thanksgiving!](https://bing.com/th?id=OHR.FlintCorn_EN-US2819178375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
