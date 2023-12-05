@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Straight out of a fairy tale
+
+Neuschwanstein and Hohenschwangau castles, Bavarian Alps, Germany (© Harald Nachtmann/Getty Images)
+
+![Straight out of a fairy tale](https://bing.com/th?id=OHR.AlpsCastles_EN-US9735484506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-05
+
+Download 4k: [Straight out of a fairy tale](https://bing.com/th?id=OHR.AlpsCastles_EN-US9735484506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Masters of agility and cuteness
 
 A mother cheetah and her cubs in the Maasai Mara National Reserve, Kenya (© Scott Davis/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Fallow deer in Bradgate Park, Leicestershire, England (© Chris Bainbridge/Alamy
 Date: 2023-11-26
 
 Download 4k: [Who stepped on a twig?](https://bing.com/th?id=OHR.BradgateFallow_EN-US3932725763_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Toledo's timeless tale
-
-Toledo, Spain (© Carlos Fernandez/Getty Images)
-
-![Toledo's timeless tale](https://bing.com/th?id=OHR.TajoRiver_EN-US3801665254_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-25
-
-Download 4k: [Toledo's timeless tale](https://bing.com/th?id=OHR.TajoRiver_EN-US3801665254_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
