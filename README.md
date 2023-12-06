@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A global code for the future
+
+The Globe of Science and Innovation building, Meyrin, Switzerland (© Deyan Baric/Alamy)
+
+![A global code for the future](https://bing.com/th?id=OHR.CERNCenter_EN-US9854867489_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-06
+
+Download 4k: [A global code for the future](https://bing.com/th?id=OHR.CERNCenter_EN-US9854867489_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Straight out of a fairy tale
 
 Neuschwanstein and Hohenschwangau castles, Bavarian Alps, Germany (© Harald Nachtmann/Getty Images)
@@ -116,16 +126,6 @@ Río Negro, Amazon basin, Brazil (© Timothy Allen/Getty Images)
 Date: 2023-11-27
 
 Download 4k: [Mirror, mirror, on the water](https://bing.com/th?id=OHR.RioNegro_EN-US4106999854_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Who stepped on a twig?
-
-Fallow deer in Bradgate Park, Leicestershire, England (© Chris Bainbridge/Alamy)
-
-![Who stepped on a twig?](https://bing.com/th?id=OHR.BradgateFallow_EN-US3932725763_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-26
-
-Download 4k: [Who stepped on a twig?](https://bing.com/th?id=OHR.BradgateFallow_EN-US3932725763_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
