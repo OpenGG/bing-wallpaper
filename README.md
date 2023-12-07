@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Remembering the fallen
+
+USS Arizona Memorial, Pearl Harbor, Oahu, Hawaii (© Douglas Peebles Photography/Alamy)
+
+![Remembering the fallen](https://bing.com/th?id=OHR.PearlHarborArizona_EN-US9996821390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-07
+
+Download 4k: [Remembering the fallen](https://bing.com/th?id=OHR.PearlHarborArizona_EN-US9996821390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A global code for the future
 
 The Globe of Science and Innovation building, Meyrin, Switzerland (© Deyan Baric/Alamy)
@@ -116,16 +126,6 @@ Giant land art fresco by artist Saype in Istanbul, Türkiye (© Chris McGrath/Ge
 Date: 2023-11-28
 
 Download 4k: [A day to lend a hand](https://bing.com/th?id=OHR.HumanKindness_EN-US4254216907_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Mirror, mirror, on the water
-
-Río Negro, Amazon basin, Brazil (© Timothy Allen/Getty Images)
-
-![Mirror, mirror, on the water](https://bing.com/th?id=OHR.RioNegro_EN-US4106999854_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-27
-
-Download 4k: [Mirror, mirror, on the water](https://bing.com/th?id=OHR.RioNegro_EN-US4106999854_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
