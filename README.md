@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Not that Jersey Shore
+
+La Rocque Harbour, St. Clement, Island of Jersey (© Reinhard Schmid/Huber/eStock Photo)
+
+![Not that Jersey Shore](https://bing.com/th?id=OHR.JerseyIsland_EN-US0109101063_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-08
+
+Download 4k: [Not that Jersey Shore](https://bing.com/th?id=OHR.JerseyIsland_EN-US0109101063_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Remembering the fallen
 
 USS Arizona Memorial, Pearl Harbor, Oahu, Hawaii (© Douglas Peebles Photography/Alamy)
@@ -116,16 +126,6 @@ Rockefeller Center Christmas tree, New York City (© Jonathan Orenstein/Getty Im
 Date: 2023-11-29
 
 Download 4k: [Rockefeller 'round the Christmas tree](https://bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A day to lend a hand
-
-Giant land art fresco by artist Saype in Istanbul, Türkiye (© Chris McGrath/Getty Images)
-
-![A day to lend a hand](https://bing.com/th?id=OHR.HumanKindness_EN-US4254216907_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-28
-
-Download 4k: [A day to lend a hand](https://bing.com/th?id=OHR.HumanKindness_EN-US4254216907_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
