@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Living the high life
+
+Guanacos in Los Glaciares National Park, Patagonia, Argentina (© Yva Momatiuk and John Eastcott/Minden Pictures)
+
+![Living the high life](https://bing.com/th?id=OHR.PatagoniaGuanaco_EN-US0251074250_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-09
+
+Download 4k: [Living the high life](https://bing.com/th?id=OHR.PatagoniaGuanaco_EN-US0251074250_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Not that Jersey Shore
 
 La Rocque Harbour, St. Clement, Island of Jersey (© Reinhard Schmid/Huber/eStock Photo)
@@ -116,16 +126,6 @@ The Storr, a rock outcrop on the Isle of Skye, Scotland (© Juan Maria Coy Verga
 Date: 2023-11-30
 
 Download 4k: [Happy Saint Andrew's Day](https://bing.com/th?id=OHR.TrotternishStorr_EN-US4700593682_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Rockefeller 'round the Christmas tree
-
-Rockefeller Center Christmas tree, New York City (© Jonathan Orenstein/Getty Images)
-
-![Rockefeller 'round the Christmas tree](https://bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-29
-
-Download 4k: [Rockefeller 'round the Christmas tree](https://bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
