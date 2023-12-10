@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Each day a different dune
+
+Last rays of sun on a group of dunes, Sahara, Algeria (© AWL Images/DanitaDelimont.com)
+
+![Each day a different dune](https://bing.com/th?id=OHR.SaharaDunes_EN-US0324387398_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-10
+
+Download 4k: [Each day a different dune](https://bing.com/th?id=OHR.SaharaDunes_EN-US0324387398_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Living the high life
 
 Guanacos in Los Glaciares National Park, Patagonia, Argentina (© Yva Momatiuk and John Eastcott/Minden Pictures)
@@ -116,16 +126,6 @@ Iceberg in the Ross Sea, Antarctica (© Michel Roggo/Minden Pictures)
 Date: 2023-12-01
 
 Download 4k: [Celebrating the coolest place!](https://bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Happy Saint Andrew's Day
-
-The Storr, a rock outcrop on the Isle of Skye, Scotland (© Juan Maria Coy Vergara/Getty Images)
-
-![Happy Saint Andrew's Day](https://bing.com/th?id=OHR.TrotternishStorr_EN-US4700593682_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-11-30
-
-Download 4k: [Happy Saint Andrew's Day](https://bing.com/th?id=OHR.TrotternishStorr_EN-US4700593682_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
