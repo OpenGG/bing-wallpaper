@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Care for a peak?
+
+Winter at Huangshan, China (© Hung Chung Chih/Shutterstock)
+
+![Care for a peak?](https://bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-11
+
+Download 4k: [Care for a peak?](https://bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Each day a different dune
 
 Last rays of sun on a group of dunes, Sahara, Algeria (© AWL Images/DanitaDelimont.com)
@@ -116,16 +126,6 @@ North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia (© Amazing Trav
 Date: 2023-12-02
 
 Download 4k: [A city within a city](https://bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Celebrating the coolest place!
-
-Iceberg in the Ross Sea, Antarctica (© Michel Roggo/Minden Pictures)
-
-![Celebrating the coolest place!](https://bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-01
-
-Download 4k: [Celebrating the coolest place!](https://bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
