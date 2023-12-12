@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Holiday hues
+
+Poinsettias (© Yarygin/Getty Images)
+
+![Holiday hues](https://bing.com/th?id=OHR.Poinsettia_EN-US0450019921_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-12
+
+Download 4k: [Holiday hues](https://bing.com/th?id=OHR.Poinsettia_EN-US0450019921_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Care for a peak?
 
 Winter at Huangshan, China (© Hung Chung Chih/Shutterstock)
@@ -116,16 +126,6 @@ Sandstone rock formations, Vermilion Cliffs National Monument, Arizona (© Yva M
 Date: 2023-12-03
 
 Download 4k: [Sculpted by time](https://bing.com/th?id=OHR.VermilionCliffs_EN-US9543863428_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A city within a city
-
-North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia (© Amazing Travel Lifestyle/Shutterstock)
-
-![A city within a city](https://bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-02
-
-Download 4k: [A city within a city](https://bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
