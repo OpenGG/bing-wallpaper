@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Owl eyes on you
+
+Boreal owl, Saskatchewan, Canada (© Nick Saunders/Minden Pictures)
+
+![Owl eyes on you](https://bing.com/th?id=OHR.BorealOwl_EN-US1112219806_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-14
+
+Download 4k: [Owl eyes on you](https://bing.com/th?id=OHR.BorealOwl_EN-US1112219806_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## All is calm
 
 Traditional rorbu houses, Svolvaer, Lofoten Islands, Norway (© Roberto Moiola/Sysaworld/Getty Images)
@@ -116,16 +126,6 @@ Neuschwanstein and Hohenschwangau castles, Bavarian Alps, Germany (© Harald Nac
 Date: 2023-12-05
 
 Download 4k: [Straight out of a fairy tale](https://bing.com/th?id=OHR.AlpsCastles_EN-US9735484506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Masters of agility and cuteness
-
-A mother cheetah and her cubs in the Maasai Mara National Reserve, Kenya (© Scott Davis/Tandem Stills + Motion)
-
-![Masters of agility and cuteness](https://bing.com/th?id=OHR.CheetahDay_EN-US6775219587_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-04
-
-Download 4k: [Masters of agility and cuteness](https://bing.com/th?id=OHR.CheetahDay_EN-US6775219587_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
