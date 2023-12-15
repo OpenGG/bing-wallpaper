@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Santa's playground
+
+SantaPark in Rovaniemi, Lapland, Finland (© lukutin77/Getty Images)
+
+![Santa's playground](https://bing.com/th?id=OHR.SantaPark_EN-US8274997583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-15
+
+Download 4k: [Santa's playground](https://bing.com/th?id=OHR.SantaPark_EN-US8274997583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Owl eyes on you
 
 Boreal owl, Saskatchewan, Canada (© Nick Saunders/Minden Pictures)
@@ -116,16 +126,6 @@ The Globe of Science and Innovation building, Meyrin, Switzerland (© Deyan Bari
 Date: 2023-12-06
 
 Download 4k: [A global code for the future](https://bing.com/th?id=OHR.CERNCenter_EN-US9854867489_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Straight out of a fairy tale
-
-Neuschwanstein and Hohenschwangau castles, Bavarian Alps, Germany (© Harald Nachtmann/Getty Images)
-
-![Straight out of a fairy tale](https://bing.com/th?id=OHR.AlpsCastles_EN-US9735484506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-05
-
-Download 4k: [Straight out of a fairy tale](https://bing.com/th?id=OHR.AlpsCastles_EN-US9735484506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
