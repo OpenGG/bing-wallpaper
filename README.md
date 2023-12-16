@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A cheerful case of the blues
+
+Guild houses of Grand-Place, Brussels, Belgium (© Richard Taylor/Sime/eStock Photo)
+
+![A cheerful case of the blues](https://bing.com/th?id=OHR.GrandPlaceXmas_EN-US8451269457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-16
+
+Download 4k: [A cheerful case of the blues](https://bing.com/th?id=OHR.GrandPlaceXmas_EN-US8451269457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Santa's playground
 
 SantaPark in Rovaniemi, Lapland, Finland (© lukutin77/Getty Images)
@@ -116,16 +126,6 @@ USS Arizona Memorial, Pearl Harbor, Oahu, Hawaii (© Douglas Peebles Photography
 Date: 2023-12-07
 
 Download 4k: [Remembering the fallen](https://bing.com/th?id=OHR.PearlHarborArizona_EN-US9996821390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A global code for the future
-
-The Globe of Science and Innovation building, Meyrin, Switzerland (© Deyan Baric/Alamy)
-
-![A global code for the future](https://bing.com/th?id=OHR.CERNCenter_EN-US9854867489_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-06
-
-Download 4k: [A global code for the future](https://bing.com/th?id=OHR.CERNCenter_EN-US9854867489_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
