@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Feathered fashionistas
+
+Bohemian waxwings perched on a branch, Canada (© Jim Cumming/Shutterstock)
+
+![Feathered fashionistas](https://bing.com/th?id=OHR.WinterWaxwings_EN-US8520915413_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-17
+
+Download 4k: [Feathered fashionistas](https://bing.com/th?id=OHR.WinterWaxwings_EN-US8520915413_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A cheerful case of the blues
 
 Guild houses of Grand-Place, Brussels, Belgium (© Richard Taylor/Sime/eStock Photo)
@@ -116,16 +126,6 @@ La Rocque Harbour, St. Clement, Island of Jersey (© Reinhard Schmid/Huber/eStoc
 Date: 2023-12-08
 
 Download 4k: [Not that Jersey Shore](https://bing.com/th?id=OHR.JerseyIsland_EN-US0109101063_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Remembering the fallen
-
-USS Arizona Memorial, Pearl Harbor, Oahu, Hawaii (© Douglas Peebles Photography/Alamy)
-
-![Remembering the fallen](https://bing.com/th?id=OHR.PearlHarborArizona_EN-US9996821390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-07
-
-Download 4k: [Remembering the fallen](https://bing.com/th?id=OHR.PearlHarborArizona_EN-US9996821390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
