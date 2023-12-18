@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Snow, snow on the range
+
+Capitol Reef National Park, Utah (© Jeff Clay/Tandem Stills + Motion)
+
+![Snow, snow on the range](https://bing.com/th?id=OHR.CapitolReefSnow_EN-US8594085615_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-18
+
+Download 4k: [Snow, snow on the range](https://bing.com/th?id=OHR.CapitolReefSnow_EN-US8594085615_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Feathered fashionistas
 
 Bohemian waxwings perched on a branch, Canada (© Jim Cumming/Shutterstock)
@@ -116,16 +126,6 @@ Guanacos in Los Glaciares National Park, Patagonia, Argentina (© Yva Momatiuk a
 Date: 2023-12-09
 
 Download 4k: [Living the high life](https://bing.com/th?id=OHR.PatagoniaGuanaco_EN-US0251074250_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Not that Jersey Shore
-
-La Rocque Harbour, St. Clement, Island of Jersey (© Reinhard Schmid/Huber/eStock Photo)
-
-![Not that Jersey Shore](https://bing.com/th?id=OHR.JerseyIsland_EN-US0109101063_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-08
-
-Download 4k: [Not that Jersey Shore](https://bing.com/th?id=OHR.JerseyIsland_EN-US0109101063_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
