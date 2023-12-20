@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Lights of the Dolomites
+
+Village in Val Gardena at Christmas, Dolomites, Italy (© Ingus Kruklitis/Getty Images)
+
+![Lights of the Dolomites](https://bing.com/th?id=OHR.ValGardenaItaly_EN-US8887980856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-20
+
+Download 4k: [Lights of the Dolomites](https://bing.com/th?id=OHR.ValGardenaItaly_EN-US8887980856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Santa's Polish rest stop
 
 Christmas tree in Castle Square, Old Town, Warsaw, Poland (© Panther Media GmbH/Alamy)
@@ -116,16 +126,6 @@ Winter at Huangshan, China (© Hung Chung Chih/Shutterstock)
 Date: 2023-12-11
 
 Download 4k: [Care for a peak?](https://bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Each day a different dune
-
-Last rays of sun on a group of dunes, Sahara, Algeria (© AWL Images/DanitaDelimont.com)
-
-![Each day a different dune](https://bing.com/th?id=OHR.SaharaDunes_EN-US0324387398_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-10
-
-Download 4k: [Each day a different dune](https://bing.com/th?id=OHR.SaharaDunes_EN-US0324387398_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
