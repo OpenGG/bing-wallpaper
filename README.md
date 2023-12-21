@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The veil of winter
+
+Avenue of birch trees near Uffing am Staffelsee, Bavaria, Germany (© Reinhard Schmid/Huber/eStock Photo)
+
+![The veil of winter](https://bing.com/th?id=OHR.BavarianSolstice_EN-US9111666986_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-21
+
+Download 4k: [The veil of winter](https://bing.com/th?id=OHR.BavarianSolstice_EN-US9111666986_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Lights of the Dolomites
 
 Village in Val Gardena at Christmas, Dolomites, Italy (© Ingus Kruklitis/Getty Images)
@@ -116,16 +126,6 @@ Poinsettias (© Yarygin/Getty Images)
 Date: 2023-12-12
 
 Download 4k: [Holiday hues](https://bing.com/th?id=OHR.Poinsettia_EN-US0450019921_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Care for a peak?
-
-Winter at Huangshan, China (© Hung Chung Chih/Shutterstock)
-
-![Care for a peak?](https://bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-11
-
-Download 4k: [Care for a peak?](https://bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
