@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Holiday cheer, Slovenian style
+
+Ljubljana, Slovenia (© kasto80/Getty images)
+
+![Holiday cheer, Slovenian style](https://bing.com/th?id=OHR.LjubljanaLights_EN-US9215683814_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-22
+
+Download 4k: [Holiday cheer, Slovenian style](https://bing.com/th?id=OHR.LjubljanaLights_EN-US9215683814_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The veil of winter
 
 Avenue of birch trees near Uffing am Staffelsee, Bavaria, Germany (© Reinhard Schmid/Huber/eStock Photo)
@@ -116,16 +126,6 @@ Traditional rorbu houses, Svolvaer, Lofoten Islands, Norway (© Roberto Moiola/S
 Date: 2023-12-13
 
 Download 4k: [All is calm](https://bing.com/th?id=OHR.LofotenRorbu_EN-US1036629496_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Holiday hues
-
-Poinsettias (© Yarygin/Getty Images)
-
-![Holiday hues](https://bing.com/th?id=OHR.Poinsettia_EN-US0450019921_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-12
-
-Download 4k: [Holiday hues](https://bing.com/th?id=OHR.Poinsettia_EN-US0450019921_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
