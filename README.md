@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## They've got some things to say
+
+Chinstrap penguins, South Sandwich Islands, South Atlantic Ocean (© Jan Vermeer/Minden Pictures)
+
+![They've got some things to say](https://bing.com/th?id=OHR.FestivusPenguins_EN-US9322662873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-23
+
+Download 4k: [They've got some things to say](https://bing.com/th?id=OHR.FestivusPenguins_EN-US9322662873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Holiday cheer, Slovenian style
 
 Ljubljana, Slovenia (© kasto80/Getty images)
@@ -116,16 +126,6 @@ Boreal owl, Saskatchewan, Canada (© Nick Saunders/Minden Pictures)
 Date: 2023-12-14
 
 Download 4k: [Owl eyes on you](https://bing.com/th?id=OHR.BorealOwl_EN-US1112219806_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## All is calm
-
-Traditional rorbu houses, Svolvaer, Lofoten Islands, Norway (© Roberto Moiola/Sysaworld/Getty Images)
-
-![All is calm](https://bing.com/th?id=OHR.LofotenRorbu_EN-US1036629496_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-13
-
-Download 4k: [All is calm](https://bing.com/th?id=OHR.LofotenRorbu_EN-US1036629496_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
