@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Merry Christmas, deer friends!
+
+Caribou running in snow, Alaska (© Michael Quinton/Minden Pictures)
+
+![Merry Christmas, deer friends!](https://bing.com/th?id=OHR.CaribouChristmas_EN-US9744655068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-25
+
+Download 4k: [Merry Christmas, deer friends!](https://bing.com/th?id=OHR.CaribouChristmas_EN-US9744655068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## How lovely are your branches
 
 Town Hall Square, Tartu, Estonia (© Westend61/Getty Images)
@@ -116,16 +126,6 @@ Guild houses of Grand-Place, Brussels, Belgium (© Richard Taylor/Sime/eStock Ph
 Date: 2023-12-16
 
 Download 4k: [A cheerful case of the blues](https://bing.com/th?id=OHR.GrandPlaceXmas_EN-US8451269457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Santa's playground
-
-SantaPark in Rovaniemi, Lapland, Finland (© lukutin77/Getty Images)
-
-![Santa's playground](https://bing.com/th?id=OHR.SantaPark_EN-US8274997583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-15
-
-Download 4k: [Santa's playground](https://bing.com/th?id=OHR.SantaPark_EN-US8274997583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
