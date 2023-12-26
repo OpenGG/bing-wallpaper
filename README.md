@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Happy Boxing Day!
+
+Winter sunrise in Dedham, Colchester, England (© George W Johnson/Getty Images)
+
+![Happy Boxing Day!](https://bing.com/th?id=OHR.BoxingDaySunrise_EN-US9951041123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-26
+
+Download 4k: [Happy Boxing Day!](https://bing.com/th?id=OHR.BoxingDaySunrise_EN-US9951041123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Merry Christmas, deer friends!
 
 Caribou running in snow, Alaska (© Michael Quinton/Minden Pictures)
@@ -116,16 +126,6 @@ Bohemian waxwings perched on a branch, Canada (© Jim Cumming/Shutterstock)
 Date: 2023-12-17
 
 Download 4k: [Feathered fashionistas](https://bing.com/th?id=OHR.WinterWaxwings_EN-US8520915413_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A cheerful case of the blues
-
-Guild houses of Grand-Place, Brussels, Belgium (© Richard Taylor/Sime/eStock Photo)
-
-![A cheerful case of the blues](https://bing.com/th?id=OHR.GrandPlaceXmas_EN-US8451269457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-16
-
-Download 4k: [A cheerful case of the blues](https://bing.com/th?id=OHR.GrandPlaceXmas_EN-US8451269457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
