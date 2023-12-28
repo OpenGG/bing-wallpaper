@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Jumping off the endangered list
+
+Humpback whale, Disko Bay, Greenland (© Paul Souders/DanitaDelimont.com)
+
+![Jumping off the endangered list](https://bing.com/th?id=OHR.GreenlandHumpback_EN-US0330682837_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-28
+
+Download 4k: [Jumping off the endangered list](https://bing.com/th?id=OHR.GreenlandHumpback_EN-US0330682837_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The land of ice and fire
 
 Kirkjufell, Snæfellsnes peninsula, Iceland (© Ratnakorn Piyasirisorost/Getty Images)
@@ -116,16 +126,6 @@ Christmas tree in Castle Square, Old Town, Warsaw, Poland (© Panther Media GmbH
 Date: 2023-12-19
 
 Download 4k: [Santa's Polish rest stop](https://bing.com/th?id=OHR.WarsawChristmas_EN-US8819312496_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Snow, snow on the range
-
-Capitol Reef National Park, Utah (© Jeff Clay/Tandem Stills + Motion)
-
-![Snow, snow on the range](https://bing.com/th?id=OHR.CapitolReefSnow_EN-US8594085615_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-18
-
-Download 4k: [Snow, snow on the range](https://bing.com/th?id=OHR.CapitolReefSnow_EN-US8594085615_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
