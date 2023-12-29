@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Oud-West side story
+
+Oud-West, Amsterdam, Netherlands (© George Pachantouris/Getty Images)
+
+![Oud-West side story](https://bing.com/th?id=OHR.BlueAmsterdam_EN-US6868017848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-29
+
+Download 4k: [Oud-West side story](https://bing.com/th?id=OHR.BlueAmsterdam_EN-US6868017848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Jumping off the endangered list
 
 Humpback whale, Disko Bay, Greenland (© Paul Souders/DanitaDelimont.com)
@@ -116,16 +126,6 @@ Village in Val Gardena at Christmas, Dolomites, Italy (© Ingus Kruklitis/Getty 
 Date: 2023-12-20
 
 Download 4k: [Lights of the Dolomites](https://bing.com/th?id=OHR.ValGardenaItaly_EN-US8887980856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Santa's Polish rest stop
-
-Christmas tree in Castle Square, Old Town, Warsaw, Poland (© Panther Media GmbH/Alamy)
-
-![Santa's Polish rest stop](https://bing.com/th?id=OHR.WarsawChristmas_EN-US8819312496_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-19
-
-Download 4k: [Santa's Polish rest stop](https://bing.com/th?id=OHR.WarsawChristmas_EN-US8819312496_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
