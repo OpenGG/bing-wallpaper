@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## All aboard the ice train
+
+Daiichi Tadami River Bridge, Fukushima prefecture, Japan (© DoctorEgg/Getty Images)
+
+![All aboard the ice train](https://bing.com/th?id=OHR.TadamiWinter_EN-US6973402256_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2023-12-30
+
+Download 4k: [All aboard the ice train](https://bing.com/th?id=OHR.TadamiWinter_EN-US6973402256_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Oud-West side story
 
 Oud-West, Amsterdam, Netherlands (© George Pachantouris/Getty Images)
@@ -116,16 +126,6 @@ Avenue of birch trees near Uffing am Staffelsee, Bavaria, Germany (© Reinhard S
 Date: 2023-12-21
 
 Download 4k: [The veil of winter](https://bing.com/th?id=OHR.BavarianSolstice_EN-US9111666986_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Lights of the Dolomites
-
-Village in Val Gardena at Christmas, Dolomites, Italy (© Ingus Kruklitis/Getty Images)
-
-![Lights of the Dolomites](https://bing.com/th?id=OHR.ValGardenaItaly_EN-US8887980856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-20
-
-Download 4k: [Lights of the Dolomites](https://bing.com/th?id=OHR.ValGardenaItaly_EN-US8887980856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
