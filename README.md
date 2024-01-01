@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Wake up, it's 2024!
+
+Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)
+
+![Wake up, it's 2024!](https://bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-01
+
+Download 4k: [Wake up, it's 2024!](https://bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## See you next year!
 
 Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)
@@ -117,17 +127,9 @@ Date: 2023-12-23
 
 Download 4k: [They've got some things to say](https://bing.com/th?id=OHR.FestivusPenguins_EN-US9322662873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Holiday cheer, Slovenian style
-
-Ljubljana, Slovenia (© kasto80/Getty images)
-
-![Holiday cheer, Slovenian style](https://bing.com/th?id=OHR.LjubljanaLights_EN-US9215683814_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-22
-
-Download 4k: [Holiday cheer, Slovenian style](https://bing.com/th?id=OHR.LjubljanaLights_EN-US9215683814_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2024-01](./archive/2024/01.md)
 
 [2023-12](./archive/2023/12.md)
 
