@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Make your own rainbow
+
+Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com)
+
+![Make your own rainbow](https://bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-02
+
+Download 4k: [Make your own rainbow](https://bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Wake up, it's 2024!
 
 Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)
@@ -116,16 +126,6 @@ Town Hall Square, Tartu, Estonia (© Westend61/Getty Images)
 Date: 2023-12-24
 
 Download 4k: [How lovely are your branches](https://bing.com/th?id=OHR.EstoniaXmasEve_EN-US9431079565_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## They've got some things to say
-
-Chinstrap penguins, South Sandwich Islands, South Atlantic Ocean (© Jan Vermeer/Minden Pictures)
-
-![They've got some things to say](https://bing.com/th?id=OHR.FestivusPenguins_EN-US9322662873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-23
-
-Download 4k: [They've got some things to say](https://bing.com/th?id=OHR.FestivusPenguins_EN-US9322662873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
