@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## One library to rule them all
+
+Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)
+
+![One library to rule them all](https://bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-03
+
+Download 4k: [One library to rule them all](https://bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Make your own rainbow
 
 Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com)
@@ -116,16 +126,6 @@ Caribou running in snow, Alaska (© Michael Quinton/Minden Pictures)
 Date: 2023-12-25
 
 Download 4k: [Merry Christmas, deer friends!](https://bing.com/th?id=OHR.CaribouChristmas_EN-US9744655068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## How lovely are your branches
-
-Town Hall Square, Tartu, Estonia (© Westend61/Getty Images)
-
-![How lovely are your branches](https://bing.com/th?id=OHR.EstoniaXmasEve_EN-US9431079565_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-24
-
-Download 4k: [How lovely are your branches](https://bing.com/th?id=OHR.EstoniaXmasEve_EN-US9431079565_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
