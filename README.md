@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## On cloud forty-nine
+
+Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)
+
+![On cloud forty-nine](https://bing.com/th?id=OHR.GoldenGateLight_EN-US7749261025_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-04
+
+Download 4k: [On cloud forty-nine](https://bing.com/th?id=OHR.GoldenGateLight_EN-US7749261025_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## One library to rule them all
 
 Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)
@@ -116,16 +126,6 @@ Winter sunrise in Dedham, Colchester, England (© George W Johnson/Getty Images)
 Date: 2023-12-26
 
 Download 4k: [Happy Boxing Day!](https://bing.com/th?id=OHR.BoxingDaySunrise_EN-US9951041123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Merry Christmas, deer friends!
-
-Caribou running in snow, Alaska (© Michael Quinton/Minden Pictures)
-
-![Merry Christmas, deer friends!](https://bing.com/th?id=OHR.CaribouChristmas_EN-US9744655068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-25
-
-Download 4k: [Merry Christmas, deer friends!](https://bing.com/th?id=OHR.CaribouChristmas_EN-US9744655068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
