@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Chisels and chills
+
+International Ice and Snow Sculpture Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images)
+
+![Chisels and chills](https://bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-05
+
+Download 4k: [Chisels and chills](https://bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## On cloud forty-nine
 
 Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Kirkjufell, Snæfellsnes peninsula, Iceland (© Ratnakorn Piyasirisorost/Getty I
 Date: 2023-12-27
 
 Download 4k: [The land of ice and fire](https://bing.com/th?id=OHR.KirkjufellAurora_EN-US0249270913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Happy Boxing Day!
-
-Winter sunrise in Dedham, Colchester, England (© George W Johnson/Getty Images)
-
-![Happy Boxing Day!](https://bing.com/th?id=OHR.BoxingDaySunrise_EN-US9951041123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-26
-
-Download 4k: [Happy Boxing Day!](https://bing.com/th?id=OHR.BoxingDaySunrise_EN-US9951041123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
