@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Crab an apple!
+
+Male chaffinch perched on a crab apple tree in winter (© Mark Hamblin/2020VISION/Minden Pictures)
+
+![Crab an apple!](https://bing.com/th?id=OHR.CrabappleChaffinch_EN-US1781584314_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-06
+
+Download 4k: [Crab an apple!](https://bing.com/th?id=OHR.CrabappleChaffinch_EN-US1781584314_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Chisels and chills
 
 International Ice and Snow Sculpture Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images)
@@ -116,16 +126,6 @@ Humpback whale, Disko Bay, Greenland (© Paul Souders/DanitaDelimont.com)
 Date: 2023-12-28
 
 Download 4k: [Jumping off the endangered list](https://bing.com/th?id=OHR.GreenlandHumpback_EN-US0330682837_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The land of ice and fire
-
-Kirkjufell, Snæfellsnes peninsula, Iceland (© Ratnakorn Piyasirisorost/Getty Images)
-
-![The land of ice and fire](https://bing.com/th?id=OHR.KirkjufellAurora_EN-US0249270913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-27
-
-Download 4k: [The land of ice and fire](https://bing.com/th?id=OHR.KirkjufellAurora_EN-US0249270913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
