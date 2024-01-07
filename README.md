@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Nature's balancing act
+
+Karlu Karlu/Devils Marbles Conservation Reserve, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)
+
+![Nature's balancing act](https://bing.com/th?id=OHR.DevilsMarbles_EN-US8559239074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-07
+
+Download 4k: [Nature's balancing act](https://bing.com/th?id=OHR.DevilsMarbles_EN-US8559239074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Crab an apple!
 
 Male chaffinch perched on a crab apple tree in winter (© Mark Hamblin/2020VISION/Minden Pictures)
@@ -116,16 +126,6 @@ Oud-West, Amsterdam, Netherlands (© George Pachantouris/Getty Images)
 Date: 2023-12-29
 
 Download 4k: [Oud-West side story](https://bing.com/th?id=OHR.BlueAmsterdam_EN-US6868017848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Jumping off the endangered list
-
-Humpback whale, Disko Bay, Greenland (© Paul Souders/DanitaDelimont.com)
-
-![Jumping off the endangered list](https://bing.com/th?id=OHR.GreenlandHumpback_EN-US0330682837_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-28
-
-Download 4k: [Jumping off the endangered list](https://bing.com/th?id=OHR.GreenlandHumpback_EN-US0330682837_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
