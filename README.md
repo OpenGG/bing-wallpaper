@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Alpine twists and turns
+
+Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)
+
+![Alpine twists and turns](https://bing.com/th?id=OHR.BerninaPass_EN-US8788589226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-08
+
+Download 4k: [Alpine twists and turns](https://bing.com/th?id=OHR.BerninaPass_EN-US8788589226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Nature's balancing act
 
 Karlu Karlu/Devils Marbles Conservation Reserve, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)
@@ -116,16 +126,6 @@ Daiichi Tadami River Bridge, Fukushima prefecture, Japan (© DoctorEgg/Getty Ima
 Date: 2023-12-30
 
 Download 4k: [All aboard the ice train](https://bing.com/th?id=OHR.TadamiWinter_EN-US6973402256_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Oud-West side story
-
-Oud-West, Amsterdam, Netherlands (© George Pachantouris/Getty Images)
-
-![Oud-West side story](https://bing.com/th?id=OHR.BlueAmsterdam_EN-US6868017848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-29
-
-Download 4k: [Oud-West side story](https://bing.com/th?id=OHR.BlueAmsterdam_EN-US6868017848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
