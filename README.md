@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Coming in hot
+
+Hot air balloons over the Rio Grande, Albuquerque, New Mexico (© Jennifer MacCornack/Shutterstock)
+
+![Coming in hot](https://bing.com/th?id=OHR.BalloonDay_EN-US9019911805_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-09
+
+Download 4k: [Coming in hot](https://bing.com/th?id=OHR.BalloonDay_EN-US9019911805_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Alpine twists and turns
 
 Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)
@@ -116,16 +126,6 @@ Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock
 Date: 2023-12-31
 
 Download 4k: [See you next year!](https://bing.com/th?id=OHR.ThailandNewYears_EN-US7115555089_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## All aboard the ice train
-
-Daiichi Tadami River Bridge, Fukushima prefecture, Japan (© DoctorEgg/Getty Images)
-
-![All aboard the ice train](https://bing.com/th?id=OHR.TadamiWinter_EN-US6973402256_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-30
-
-Download 4k: [All aboard the ice train](https://bing.com/th?id=OHR.TadamiWinter_EN-US6973402256_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
