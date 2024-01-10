@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Step up to the challenge!
+
+Stairs on the shoreline at Mylopotamos Beach, Thessaly, Greece (© Orestis Zoumpos/Amazing Aerial Agency)
+
+![Step up to the challenge!](https://bing.com/th?id=OHR.MilopotamosStairs_EN-US9131506093_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-10
+
+Download 4k: [Step up to the challenge!](https://bing.com/th?id=OHR.MilopotamosStairs_EN-US9131506093_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Coming in hot
 
 Hot air balloons over the Rio Grande, Albuquerque, New Mexico (© Jennifer MacCornack/Shutterstock)
@@ -116,16 +126,6 @@ Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Image
 Date: 2024-01-01
 
 Download 4k: [Wake up, it's 2024!](https://bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## See you next year!
-
-Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)
-
-![See you next year!](https://bing.com/th?id=OHR.ThailandNewYears_EN-US7115555089_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2023-12-31
-
-Download 4k: [See you next year!](https://bing.com/th?id=OHR.ThailandNewYears_EN-US7115555089_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
