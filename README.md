@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A whiskered wanderer
+
+Eurasian lynx in the snow (© Jan Stria/Shutterstock)
+
+![A whiskered wanderer](https://bing.com/th?id=OHR.LynxSnow_EN-US9261675170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-11
+
+Download 4k: [A whiskered wanderer](https://bing.com/th?id=OHR.LynxSnow_EN-US9261675170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Step up to the challenge!
 
 Stairs on the shoreline at Mylopotamos Beach, Thessaly, Greece (© Orestis Zoumpos/Amazing Aerial Agency)
@@ -116,16 +126,6 @@ Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.c
 Date: 2024-01-02
 
 Download 4k: [Make your own rainbow](https://bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Wake up, it's 2024!
-
-Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)
-
-![Wake up, it's 2024!](https://bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-01
-
-Download 4k: [Wake up, it's 2024!](https://bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
