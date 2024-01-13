@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Slow down and enjoy the journey!
+
+Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)
+
+![Slow down and enjoy the journey!](https://bing.com/th?id=OHR.HanaHighway_EN-US0637770298_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-13
+
+Download 4k: [Slow down and enjoy the journey!](https://bing.com/th?id=OHR.HanaHighway_EN-US0637770298_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Beautiful Bukhansan
 
 Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)
@@ -116,16 +126,6 @@ Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + 
 Date: 2024-01-04
 
 Download 4k: [On cloud forty-nine](https://bing.com/th?id=OHR.GoldenGateLight_EN-US7749261025_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## One library to rule them all
-
-Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)
-
-![One library to rule them all](https://bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-03
-
-Download 4k: [One library to rule them all](https://bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
