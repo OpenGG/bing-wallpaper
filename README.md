@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A feathered symphony in white
+
+Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)
+
+![A feathered symphony in white](https://bing.com/th?id=OHR.HokkaidoSwans_EN-US0905932812_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-14
+
+Download 4k: [A feathered symphony in white](https://bing.com/th?id=OHR.HokkaidoSwans_EN-US0905932812_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Slow down and enjoy the journey!
 
 Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)
@@ -116,16 +126,6 @@ International Ice and Snow Sculpture Festival, Harbin, China (© WANG ZHAO/AFP/G
 Date: 2024-01-05
 
 Download 4k: [Chisels and chills](https://bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## On cloud forty-nine
-
-Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)
-
-![On cloud forty-nine](https://bing.com/th?id=OHR.GoldenGateLight_EN-US7749261025_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-04
-
-Download 4k: [On cloud forty-nine](https://bing.com/th?id=OHR.GoldenGateLight_EN-US7749261025_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
