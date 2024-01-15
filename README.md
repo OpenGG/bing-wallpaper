@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A day on, not a day off
+
+Martin Luther King Jr. Memorial, Washington, DC (© kropic1/Shutterstock)
+
+![A day on, not a day off](https://bing.com/th?id=OHR.MLKMemorialDC_EN-US1038696225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-15
+
+Download 4k: [A day on, not a day off](https://bing.com/th?id=OHR.MLKMemorialDC_EN-US1038696225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A feathered symphony in white
 
 Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)
@@ -116,16 +126,6 @@ Male chaffinch perched on a crab apple tree in winter (© Mark Hamblin/2020VISIO
 Date: 2024-01-06
 
 Download 4k: [Crab an apple!](https://bing.com/th?id=OHR.CrabappleChaffinch_EN-US1781584314_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Chisels and chills
-
-International Ice and Snow Sculpture Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images)
-
-![Chisels and chills](https://bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-05
-
-Download 4k: [Chisels and chills](https://bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
