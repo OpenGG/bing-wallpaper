@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A little Canadian rest and relaxation
+
+Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)
+
+![A little Canadian rest and relaxation](https://bing.com/th?id=OHR.LakeLouise_EN-US1133378386_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-16
+
+Download 4k: [A little Canadian rest and relaxation](https://bing.com/th?id=OHR.LakeLouise_EN-US1133378386_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A day on, not a day off
 
 Martin Luther King Jr. Memorial, Washington, DC (© kropic1/Shutterstock)
@@ -116,16 +126,6 @@ Karlu Karlu/Devils Marbles Conservation Reserve, Australia (© Yva Momatiuk and 
 Date: 2024-01-07
 
 Download 4k: [Nature's balancing act](https://bing.com/th?id=OHR.DevilsMarbles_EN-US8559239074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Crab an apple!
-
-Male chaffinch perched on a crab apple tree in winter (© Mark Hamblin/2020VISION/Minden Pictures)
-
-![Crab an apple!](https://bing.com/th?id=OHR.CrabappleChaffinch_EN-US1781584314_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-06
-
-Download 4k: [Crab an apple!](https://bing.com/th?id=OHR.CrabappleChaffinch_EN-US1781584314_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
