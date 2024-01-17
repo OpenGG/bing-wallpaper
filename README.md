@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Wake me when it warms up
+
+Sleeping wolf in Bavarian Forest National Park, Germany (© Raimund Linke/Getty Images)
+
+![Wake me when it warms up](https://bing.com/th?id=OHR.SleepyWolf_EN-US1667992900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-17
+
+Download 4k: [Wake me when it warms up](https://bing.com/th?id=OHR.SleepyWolf_EN-US1667992900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A little Canadian rest and relaxation
 
 Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)
@@ -116,16 +126,6 @@ Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty 
 Date: 2024-01-08
 
 Download 4k: [Alpine twists and turns](https://bing.com/th?id=OHR.BerninaPass_EN-US8788589226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Nature's balancing act
-
-Karlu Karlu/Devils Marbles Conservation Reserve, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)
-
-![Nature's balancing act](https://bing.com/th?id=OHR.DevilsMarbles_EN-US8559239074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-07
-
-Download 4k: [Nature's balancing act](https://bing.com/th?id=OHR.DevilsMarbles_EN-US8559239074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
