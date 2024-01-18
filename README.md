@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Under the watch of Pegasus
+
+Pont Alexandre III at twilight, Paris, France (© Sizun Eye/Getty Images)
+
+![Under the watch of Pegasus](https://bing.com/th?id=OHR.ParisBridge_EN-US1771484789_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-18
+
+Download 4k: [Under the watch of Pegasus](https://bing.com/th?id=OHR.ParisBridge_EN-US1771484789_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Wake me when it warms up
 
 Sleeping wolf in Bavarian Forest National Park, Germany (© Raimund Linke/Getty Images)
@@ -116,16 +126,6 @@ Hot air balloons over the Rio Grande, Albuquerque, New Mexico (© Jennifer MacCo
 Date: 2024-01-09
 
 Download 4k: [Coming in hot](https://bing.com/th?id=OHR.BalloonDay_EN-US9019911805_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Alpine twists and turns
-
-Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)
-
-![Alpine twists and turns](https://bing.com/th?id=OHR.BerninaPass_EN-US8788589226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-08
-
-Download 4k: [Alpine twists and turns](https://bing.com/th?id=OHR.BerninaPass_EN-US8788589226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
