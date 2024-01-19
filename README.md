@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Waterfalls turned waterfreeze
+
+Frozen waterfalls in Plitvice Lakes National Park, Croatia (© Massimo_S8/Getty Images)
+
+![Waterfalls turned waterfreeze](https://bing.com/th?id=OHR.PlitviceWinter_EN-US1870468945_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-19
+
+Download 4k: [Waterfalls turned waterfreeze](https://bing.com/th?id=OHR.PlitviceWinter_EN-US1870468945_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Under the watch of Pegasus
 
 Pont Alexandre III at twilight, Paris, France (© Sizun Eye/Getty Images)
@@ -116,16 +126,6 @@ Stairs on the shoreline at Mylopotamos Beach, Thessaly, Greece (© Orestis Zoump
 Date: 2024-01-10
 
 Download 4k: [Step up to the challenge!](https://bing.com/th?id=OHR.MilopotamosStairs_EN-US9131506093_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Coming in hot
-
-Hot air balloons over the Rio Grande, Albuquerque, New Mexico (© Jennifer MacCornack/Shutterstock)
-
-![Coming in hot](https://bing.com/th?id=OHR.BalloonDay_EN-US9019911805_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-09
-
-Download 4k: [Coming in hot](https://bing.com/th?id=OHR.BalloonDay_EN-US9019911805_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
