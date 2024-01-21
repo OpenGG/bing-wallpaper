@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Tales from the treetops
+
+Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)
+
+![Tales from the treetops](https://bing.com/th?id=OHR.SquirrelNetherlands_EN-US2174319616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-21
+
+Download 4k: [Tales from the treetops](https://bing.com/th?id=OHR.SquirrelNetherlands_EN-US2174319616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Taking the plunge
 
 Macaroni penguins, Drake Passage, Chile (© Paul Souders/Getty Images)
@@ -116,16 +126,6 @@ Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)
 Date: 2024-01-12
 
 Download 4k: [Beautiful Bukhansan](https://bing.com/th?id=OHR.BukhansanSeoul_EN-US0422922586_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A whiskered wanderer
-
-Eurasian lynx in the snow (© Jan Stria/Shutterstock)
-
-![A whiskered wanderer](https://bing.com/th?id=OHR.LynxSnow_EN-US9261675170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-11
-
-Download 4k: [A whiskered wanderer](https://bing.com/th?id=OHR.LynxSnow_EN-US9261675170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
