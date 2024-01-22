@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A beacon from dusk till dawn
+
+Winter sunrise, Walton Lighthouse, Santa Cruz, California (© Jeff Lewis/Tandem Stills + Motion)
+
+![A beacon from dusk till dawn](https://bing.com/th?id=OHR.SantaCruzSunrise_EN-US6436233856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-22
+
+Download 4k: [A beacon from dusk till dawn](https://bing.com/th?id=OHR.SantaCruzSunrise_EN-US6436233856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Tales from the treetops
 
 Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)
@@ -116,16 +126,6 @@ Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)
 Date: 2024-01-13
 
 Download 4k: [Slow down and enjoy the journey!](https://bing.com/th?id=OHR.HanaHighway_EN-US0637770298_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Beautiful Bukhansan
-
-Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)
-
-![Beautiful Bukhansan](https://bing.com/th?id=OHR.BukhansanSeoul_EN-US0422922586_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-12
-
-Download 4k: [Beautiful Bukhansan](https://bing.com/th?id=OHR.BukhansanSeoul_EN-US0422922586_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
