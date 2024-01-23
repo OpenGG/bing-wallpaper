@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Eyes of the Indian Ocean
+
+Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)
+
+![Eyes of the Indian Ocean](https://bing.com/th?id=OHR.MaldivesAtolls_EN-US2498947967_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-23
+
+Download 4k: [Eyes of the Indian Ocean](https://bing.com/th?id=OHR.MaldivesAtolls_EN-US2498947967_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A beacon from dusk till dawn
 
 Winter sunrise, Walton Lighthouse, Santa Cruz, California (© Jeff Lewis/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)
 Date: 2024-01-14
 
 Download 4k: [A feathered symphony in white](https://bing.com/th?id=OHR.HokkaidoSwans_EN-US0905932812_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Slow down and enjoy the journey!
-
-Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)
-
-![Slow down and enjoy the journey!](https://bing.com/th?id=OHR.HanaHighway_EN-US0637770298_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-13
-
-Download 4k: [Slow down and enjoy the journey!](https://bing.com/th?id=OHR.HanaHighway_EN-US0637770298_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
