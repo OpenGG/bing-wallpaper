@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A haven for broken hearts
+
+Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales (© Photos by R A Kearton/Getty Images)
+
+![A haven for broken hearts](https://bing.com/th?id=OHR.DwynwensDay_EN-US2844762878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-25
+
+Download 4k: [A haven for broken hearts](https://bing.com/th?id=OHR.DwynwensDay_EN-US2844762878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A real icebreaker
 
 Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstoc
 Date: 2024-01-16
 
 Download 4k: [A little Canadian rest and relaxation](https://bing.com/th?id=OHR.LakeLouise_EN-US1133378386_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A day on, not a day off
-
-Martin Luther King Jr. Memorial, Washington, DC (© kropic1/Shutterstock)
-
-![A day on, not a day off](https://bing.com/th?id=OHR.MLKMemorialDC_EN-US1038696225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-15
-
-Download 4k: [A day on, not a day off](https://bing.com/th?id=OHR.MLKMemorialDC_EN-US1038696225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
