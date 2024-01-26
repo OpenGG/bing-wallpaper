@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Not a night owl
+
+Northern hawk-owl (© Remo Savisaar/Alamy)
+
+![Not a night owl](https://bing.com/th?id=OHR.HawkOwl_EN-US6646901652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-26
+
+Download 4k: [Not a night owl](https://bing.com/th?id=OHR.HawkOwl_EN-US6646901652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A haven for broken hearts
 
 Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales (© Photos by R A Kearton/Getty Images)
@@ -116,16 +126,6 @@ Sleeping wolf in Bavarian Forest National Park, Germany (© Raimund Linke/Getty 
 Date: 2024-01-17
 
 Download 4k: [Wake me when it warms up](https://bing.com/th?id=OHR.SleepyWolf_EN-US1667992900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A little Canadian rest and relaxation
-
-Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)
-
-![A little Canadian rest and relaxation](https://bing.com/th?id=OHR.LakeLouise_EN-US1133378386_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-16
-
-Download 4k: [A little Canadian rest and relaxation](https://bing.com/th?id=OHR.LakeLouise_EN-US1133378386_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
