@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## In winter's embrace
+
+Ice palace at the St. Paul Winter Carnival, Minnesota (© Joe Mamer Photography/Alamy)
+
+![In winter's embrace](https://bing.com/th?id=OHR.WinterCarnival_EN-US6859361078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-27
+
+Download 4k: [In winter's embrace](https://bing.com/th?id=OHR.WinterCarnival_EN-US6859361078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Not a night owl
 
 Northern hawk-owl (© Remo Savisaar/Alamy)
@@ -116,16 +126,6 @@ Pont Alexandre III at twilight, Paris, France (© Sizun Eye/Getty Images)
 Date: 2024-01-18
 
 Download 4k: [Under the watch of Pegasus](https://bing.com/th?id=OHR.ParisBridge_EN-US1771484789_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Wake me when it warms up
-
-Sleeping wolf in Bavarian Forest National Park, Germany (© Raimund Linke/Getty Images)
-
-![Wake me when it warms up](https://bing.com/th?id=OHR.SleepyWolf_EN-US1667992900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-17
-
-Download 4k: [Wake me when it warms up](https://bing.com/th?id=OHR.SleepyWolf_EN-US1667992900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
