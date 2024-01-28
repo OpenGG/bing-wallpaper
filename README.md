@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## From parched to pastoral
+
+Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)
+
+![From parched to pastoral](https://bing.com/th?id=OHR.ChannelOutback_EN-US7094425288_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-28
+
+Download 4k: [From parched to pastoral](https://bing.com/th?id=OHR.ChannelOutback_EN-US7094425288_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## In winter's embrace
 
 Ice palace at the St. Paul Winter Carnival, Minnesota (© Joe Mamer Photography/Alamy)
@@ -116,16 +126,6 @@ Frozen waterfalls in Plitvice Lakes National Park, Croatia (© Massimo_S8/Getty 
 Date: 2024-01-19
 
 Download 4k: [Waterfalls turned waterfreeze](https://bing.com/th?id=OHR.PlitviceWinter_EN-US1870468945_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Under the watch of Pegasus
-
-Pont Alexandre III at twilight, Paris, France (© Sizun Eye/Getty Images)
-
-![Under the watch of Pegasus](https://bing.com/th?id=OHR.ParisBridge_EN-US1771484789_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-18
-
-Download 4k: [Under the watch of Pegasus](https://bing.com/th?id=OHR.ParisBridge_EN-US1771484789_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
