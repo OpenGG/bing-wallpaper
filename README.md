@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Spain's little Switzerland
+
+Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)
+
+![Spain's little Switzerland](https://bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-30
+
+Download 4k: [Spain's little Switzerland](https://bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## An icy descent
 
 Golling Waterfall, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)
@@ -116,16 +126,6 @@ Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)
 Date: 2024-01-21
 
 Download 4k: [Tales from the treetops](https://bing.com/th?id=OHR.SquirrelNetherlands_EN-US2174319616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Taking the plunge
-
-Macaroni penguins, Drake Passage, Chile (© Paul Souders/Getty Images)
-
-![Taking the plunge](https://bing.com/th?id=OHR.MacaroniPenguins_EN-US2046934125_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-20
-
-Download 4k: [Taking the plunge](https://bing.com/th?id=OHR.MacaroniPenguins_EN-US2046934125_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
