@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Stripe a pose
+
+Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)
+
+![Stripe a pose](https://bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-01-31
+
+Download 4k: [Stripe a pose](https://bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Spain's little Switzerland
 
 Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)
@@ -116,16 +126,6 @@ Winter sunrise, Walton Lighthouse, Santa Cruz, California (© Jeff Lewis/Tandem 
 Date: 2024-01-22
 
 Download 4k: [A beacon from dusk till dawn](https://bing.com/th?id=OHR.SantaCruzSunrise_EN-US6436233856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Tales from the treetops
-
-Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)
-
-![Tales from the treetops](https://bing.com/th?id=OHR.SquirrelNetherlands_EN-US2174319616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-21
-
-Download 4k: [Tales from the treetops](https://bing.com/th?id=OHR.SquirrelNetherlands_EN-US2174319616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
