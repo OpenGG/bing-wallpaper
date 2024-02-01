@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Black History Month
+
+Dizzy Gillespie in 1990 at the 32nd Monterey Jazz Festival, California (© Craig Lovell/Eagle Visions Photography/Alamy)
+
+![Black History Month](https://bing.com/th?id=OHR.DizzyGillespie_EN-US7637800342_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-02-01
+
+Download 4k: [Black History Month](https://bing.com/th?id=OHR.DizzyGillespie_EN-US7637800342_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Stripe a pose
 
 Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)
@@ -117,17 +127,9 @@ Date: 2024-01-23
 
 Download 4k: [Eyes of the Indian Ocean](https://bing.com/th?id=OHR.MaldivesAtolls_EN-US2498947967_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## A beacon from dusk till dawn
-
-Winter sunrise, Walton Lighthouse, Santa Cruz, California (© Jeff Lewis/Tandem Stills + Motion)
-
-![A beacon from dusk till dawn](https://bing.com/th?id=OHR.SantaCruzSunrise_EN-US6436233856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-22
-
-Download 4k: [A beacon from dusk till dawn](https://bing.com/th?id=OHR.SantaCruzSunrise_EN-US6436233856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2024-02](./archive/2024/02.md)
 
 [2024-01](./archive/2024/01.md)
 
