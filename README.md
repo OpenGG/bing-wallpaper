@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The skylights are a nice touch
+
+Devetashka Cave, Devetaki, Bulgaria (© Jasmine_K/Shutterstock)
+
+![The skylights are a nice touch](https://bing.com/th?id=OHR.DevetashkaCave_EN-US7989247628_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-02-04
+
+Download 4k: [The skylights are a nice touch](https://bing.com/th?id=OHR.DevetashkaCave_EN-US7989247628_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## It's carnival time!
 
 Grand Canal with Santa Maria della Salute Basilica, Venice, Italy (© RudyBalasko/Getty Images)
@@ -116,16 +126,6 @@ Northern hawk-owl (© Remo Savisaar/Alamy)
 Date: 2024-01-26
 
 Download 4k: [Not a night owl](https://bing.com/th?id=OHR.HawkOwl_EN-US6646901652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A haven for broken hearts
-
-Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales (© Photos by R A Kearton/Getty Images)
-
-![A haven for broken hearts](https://bing.com/th?id=OHR.DwynwensDay_EN-US2844762878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-25
-
-Download 4k: [A haven for broken hearts](https://bing.com/th?id=OHR.DwynwensDay_EN-US2844762878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
