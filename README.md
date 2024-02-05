@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Butterfly ballet
+
+Monarch butterflies, Goleta, California (© Craig Rademacher/500px/Getty Images)
+
+![Butterfly ballet](https://bing.com/th?id=OHR.WesternMonarchs_EN-US8386035297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-02-05
+
+Download 4k: [Butterfly ballet](https://bing.com/th?id=OHR.WesternMonarchs_EN-US8386035297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The skylights are a nice touch
 
 Devetashka Cave, Devetaki, Bulgaria (© Jasmine_K/Shutterstock)
@@ -116,16 +126,6 @@ Ice palace at the St. Paul Winter Carnival, Minnesota (© Joe Mamer Photography/
 Date: 2024-01-27
 
 Download 4k: [In winter's embrace](https://bing.com/th?id=OHR.WinterCarnival_EN-US6859361078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Not a night owl
-
-Northern hawk-owl (© Remo Savisaar/Alamy)
-
-![Not a night owl](https://bing.com/th?id=OHR.HawkOwl_EN-US6646901652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-26
-
-Download 4k: [Not a night owl](https://bing.com/th?id=OHR.HawkOwl_EN-US6646901652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
