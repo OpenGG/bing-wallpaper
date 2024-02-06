@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Taking root on Bonsai Rock
+
+Bonsai Rock, Lake Tahoe, Nevada (© Jim Patterson/Tandem Stills + Motion)
+
+![Taking root on Bonsai Rock](https://bing.com/th?id=OHR.LakeTahoeRock_EN-US8513392756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-02-06
+
+Download 4k: [Taking root on Bonsai Rock](https://bing.com/th?id=OHR.LakeTahoeRock_EN-US8513392756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Butterfly ballet
 
 Monarch butterflies, Goleta, California (© Craig Rademacher/500px/Getty Images)
@@ -116,16 +126,6 @@ Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australi
 Date: 2024-01-28
 
 Download 4k: [From parched to pastoral](https://bing.com/th?id=OHR.ChannelOutback_EN-US7094425288_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## In winter's embrace
-
-Ice palace at the St. Paul Winter Carnival, Minnesota (© Joe Mamer Photography/Alamy)
-
-![In winter's embrace](https://bing.com/th?id=OHR.WinterCarnival_EN-US6859361078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-27
-
-Download 4k: [In winter's embrace](https://bing.com/th?id=OHR.WinterCarnival_EN-US6859361078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
