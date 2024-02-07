@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Swimming with the tide
+
+St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)
+
+![Swimming with the tide](https://bing.com/th?id=OHR.StJamesPool_EN-US8700038796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-02-07
+
+Download 4k: [Swimming with the tide](https://bing.com/th?id=OHR.StJamesPool_EN-US8700038796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Taking root on Bonsai Rock
 
 Bonsai Rock, Lake Tahoe, Nevada (© Jim Patterson/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Golling Waterfall, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)
 Date: 2024-01-29
 
 Download 4k: [An icy descent](https://bing.com/th?id=OHR.GollingerFalls_EN-US7184224692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## From parched to pastoral
-
-Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)
-
-![From parched to pastoral](https://bing.com/th?id=OHR.ChannelOutback_EN-US7094425288_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-28
-
-Download 4k: [From parched to pastoral](https://bing.com/th?id=OHR.ChannelOutback_EN-US7094425288_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
