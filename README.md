@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A sleeping giant
+
+Mount Hood, Oregon (© Inigo Cia/Getty Images)
+
+![A sleeping giant](https://bing.com/th?id=OHR.MtHoodOregon_EN-US8773825867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-02-08
+
+Download 4k: [A sleeping giant](https://bing.com/th?id=OHR.MtHoodOregon_EN-US8773825867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Swimming with the tide
 
 St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)
@@ -116,16 +126,6 @@ Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Image
 Date: 2024-01-30
 
 Download 4k: [Spain's little Switzerland](https://bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## An icy descent
-
-Golling Waterfall, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)
-
-![An icy descent](https://bing.com/th?id=OHR.GollingerFalls_EN-US7184224692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-29
-
-Download 4k: [An icy descent](https://bing.com/th?id=OHR.GollingerFalls_EN-US7184224692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
