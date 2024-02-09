@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Rocks and rolling surf
+
+Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)
+
+![Rocks and rolling surf](https://bing.com/th?id=OHR.PegadungRocks_EN-US6654823877_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-02-09
+
+Download 4k: [Rocks and rolling surf](https://bing.com/th?id=OHR.PegadungRocks_EN-US6654823877_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A sleeping giant
 
 Mount Hood, Oregon (© Inigo Cia/Getty Images)
@@ -116,16 +126,6 @@ Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Rich
 Date: 2024-01-31
 
 Download 4k: [Stripe a pose](https://bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Spain's little Switzerland
-
-Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)
-
-![Spain's little Switzerland](https://bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-30
-
-Download 4k: [Spain's little Switzerland](https://bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
