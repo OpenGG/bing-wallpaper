@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Enter the dragons
+
+Artists performing the dragon dance for Chinese New Year, Luzhou, China (© Liu Guoxing/VCG via Getty Images)
+
+![Enter the dragons](https://bing.com/th?id=OHR.ChinaDragon_EN-US6781838142_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-02-10
+
+Download 4k: [Enter the dragons](https://bing.com/th?id=OHR.ChinaDragon_EN-US6781838142_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Rocks and rolling surf
 
 Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)
@@ -116,16 +126,6 @@ Dizzy Gillespie in 1990 at the 32nd Monterey Jazz Festival, California (© Craig
 Date: 2024-02-01
 
 Download 4k: [Black History Month](https://bing.com/th?id=OHR.DizzyGillespie_EN-US7637800342_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Stripe a pose
-
-Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)
-
-![Stripe a pose](https://bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-01-31
-
-Download 4k: [Stripe a pose](https://bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
