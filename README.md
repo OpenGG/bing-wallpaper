@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Elysium on the edge
+
+Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)
+
+![Elysium on the edge](https://bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-02-11
+
+Download 4k: [Elysium on the edge](https://bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Enter the dragons
 
 Artists performing the dragon dance for Chinese New Year, Luzhou, China (© Liu Guoxing/VCG via Getty Images)
@@ -116,16 +126,6 @@ Marmot peeking out of its burrow (© Scacciamosche/Getty Images)
 Date: 2024-02-02
 
 Download 4k: [Will Phil see his shadow?](https://bing.com/th?id=OHR.AlpineMarmot_EN-US6895103237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Black History Month
-
-Dizzy Gillespie in 1990 at the 32nd Monterey Jazz Festival, California (© Craig Lovell/Eagle Visions Photography/Alamy)
-
-![Black History Month](https://bing.com/th?id=OHR.DizzyGillespie_EN-US7637800342_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-02-01
-
-Download 4k: [Black History Month](https://bing.com/th?id=OHR.DizzyGillespie_EN-US7637800342_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
