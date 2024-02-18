@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Taking a breather
+
+Sperm whale pod surfacing, Dominica (© Franco Banfi/Minden Pictures)
+
+![Taking a breather](https://bing.com/th?id=OHR.DominicaWhales_EN-US7918259144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-02-18
+
+Download 4k: [Taking a breather](https://bing.com/th?id=OHR.DominicaWhales_EN-US7918259144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Celebrating Black history
 
 The Alvin Ailey American Dance Theater rehearsing 'Uptown,' 2009, New York (© STAN HONDA/AFP via Getty Images)
@@ -116,16 +126,6 @@ Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)
 Date: 2024-02-09
 
 Download 4k: [Rocks and rolling surf](https://bing.com/th?id=OHR.PegadungRocks_EN-US6654823877_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A sleeping giant
-
-Mount Hood, Oregon (© Inigo Cia/Getty Images)
-
-![A sleeping giant](https://bing.com/th?id=OHR.MtHoodOregon_EN-US8773825867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-02-08
-
-Download 4k: [A sleeping giant](https://bing.com/th?id=OHR.MtHoodOregon_EN-US8773825867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
