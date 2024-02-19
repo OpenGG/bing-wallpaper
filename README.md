@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A tribute at twilight
+
+Lincoln Memorial, Washington, DC (© Steve Whiston/Fallen Log Photography/Getty Images)
+
+![A tribute at twilight](https://bing.com/th?id=OHR.LincolnSunset_EN-US8001542624_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-02-19
+
+Download 4k: [A tribute at twilight](https://bing.com/th?id=OHR.LincolnSunset_EN-US8001542624_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Taking a breather
 
 Sperm whale pod surfacing, Dominica (© Franco Banfi/Minden Pictures)
@@ -116,16 +126,6 @@ Artists performing the dragon dance for Chinese New Year, Luzhou, China (© Liu 
 Date: 2024-02-10
 
 Download 4k: [Enter the dragons](https://bing.com/th?id=OHR.ChinaDragon_EN-US6781838142_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Rocks and rolling surf
-
-Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)
-
-![Rocks and rolling surf](https://bing.com/th?id=OHR.PegadungRocks_EN-US6654823877_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-02-09
-
-Download 4k: [Rocks and rolling surf](https://bing.com/th?id=OHR.PegadungRocks_EN-US6654823877_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
