@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The flaming
+
+Firefall at Horsetail Fall, Yosemite National Park, California (© Gregory B Cuvelier/Shutterstock)
+
+![The flaming](https://bing.com/th?id=OHR.YosemiteFirefall_EN-US8169903146_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-02-21
+
+Download 4k: [The flaming](https://bing.com/th?id=OHR.YosemiteFirefall_EN-US8169903146_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A park for the people
 
 Kinder Scout at sunrise, Peak District National Park, England (© john finney photography/Getty Images)
@@ -116,16 +126,6 @@ Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De R
 Date: 2024-02-12
 
 Download 4k: [Giants of science](https://bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Elysium on the edge
-
-Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)
-
-![Elysium on the edge](https://bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-02-11
-
-Download 4k: [Elysium on the edge](https://bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
