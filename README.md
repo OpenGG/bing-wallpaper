@@ -27,15 +27,15 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
-## The flaming
+## The flaming falls of Yosemite
 
 Firefall at Horsetail Fall, Yosemite National Park, California (© Gregory B Cuvelier/Shutterstock)
 
-![The flaming](https://bing.com/th?id=OHR.YosemiteFirefall_EN-US8169903146_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+![The flaming falls of Yosemite](https://bing.com/th?id=OHR.YosemiteFirefall_EN-US8169903146_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
 
 Date: 2024-02-21
 
-Download 4k: [The flaming](https://bing.com/th?id=OHR.YosemiteFirefall_EN-US8169903146_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+Download 4k: [The flaming falls of Yosemite](https://bing.com/th?id=OHR.YosemiteFirefall_EN-US8169903146_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 ## A park for the people
 
