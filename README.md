@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where eagles dance
+
+Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)
+
+![Where eagles dance](https://bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-02-23
+
+Download 4k: [Where eagles dance](https://bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A bonanza of beach huts
 
 Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)
@@ -116,16 +126,6 @@ Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/A
 Date: 2024-02-14
 
 Download 4k: [The dance of romance](https://bing.com/th?id=OHR.BowingCrane_EN-US7534977512_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Let the good times roll!
-
-Mardi Gras beads in the Marigny, New Orleans (© Erik Pronske Photography/Getty Images)
-
-![Let the good times roll!](https://bing.com/th?id=OHR.MarignyBeads_EN-US7464992774_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-02-13
-
-Download 4k: [Let the good times roll!](https://bing.com/th?id=OHR.MarignyBeads_EN-US7464992774_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
