@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Whispers of spring
+
+Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion)
+
+![Whispers of spring](https://bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-02-24
+
+Download 4k: [Whispers of spring](https://bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where eagles dance
 
 Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)
@@ -116,16 +126,6 @@ Hippopotamus mother and calf, South Luangwa National Park, Zambia (© Nature Pic
 Date: 2024-02-15
 
 Download 4k: [Happy Hippo Day!](https://bing.com/th?id=OHR.HippopotamusDay_EN-US7629909300_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The dance of romance
-
-Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/Alamy)
-
-![The dance of romance](https://bing.com/th?id=OHR.BowingCrane_EN-US7534977512_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-02-14
-
-Download 4k: [The dance of romance](https://bing.com/th?id=OHR.BowingCrane_EN-US7534977512_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
