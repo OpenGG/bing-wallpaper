@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## An ice day to play
+
+Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)
+
+![An ice day to play](https://bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-02-27
+
+Download 4k: [An ice day to play](https://bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Deeply chasm-matic
 
 Grand Canyon National Park, Arizona (© Jeremy Janus/Getty Images)
@@ -116,16 +126,6 @@ Sperm whale pod surfacing, Dominica (© Franco Banfi/Minden Pictures)
 Date: 2024-02-18
 
 Download 4k: [Taking a breather](https://bing.com/th?id=OHR.DominicaWhales_EN-US7918259144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Celebrating Black history
-
-The Alvin Ailey American Dance Theater rehearsing 'Uptown,' 2009, New York (© STAN HONDA/AFP via Getty Images)
-
-![Celebrating Black history](https://bing.com/th?id=OHR.AileyUptown_EN-US7790191198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-02-17
-
-Download 4k: [Celebrating Black history](https://bing.com/th?id=OHR.AileyUptown_EN-US7790191198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
