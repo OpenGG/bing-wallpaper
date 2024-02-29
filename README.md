@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Leaping through an extra day
+
+Eurasian red squirrel (© Westend61/Getty Images)
+
+![Leaping through an extra day](https://bing.com/th?id=OHR.LeapingSquirrel_EN-US3514581405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-02-29
+
+Download 4k: [Leaping through an extra day](https://bing.com/th?id=OHR.LeapingSquirrel_EN-US3514581405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Grow with the flow
 
 Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)
@@ -116,16 +126,6 @@ Kinder Scout at sunrise, Peak District National Park, England (© john finney ph
 Date: 2024-02-20
 
 Download 4k: [A park for the people](https://bing.com/th?id=OHR.PeakDistrictNP_EN-US8094447567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A tribute at twilight
-
-Lincoln Memorial, Washington, DC (© Steve Whiston/Fallen Log Photography/Getty Images)
-
-![A tribute at twilight](https://bing.com/th?id=OHR.LincolnSunset_EN-US8001542624_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-02-19
-
-Download 4k: [A tribute at twilight](https://bing.com/th?id=OHR.LincolnSunset_EN-US8001542624_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
