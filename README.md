@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A dappled acrobat
+
+Leopard in a tree, Kruger National Park, South Africa (© Tonino De Marco/Minden Pictures)
+
+![A dappled acrobat](https://bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-03-03
+
+Download 4k: [A dappled acrobat](https://bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A slice of Sicily
 
 Modica, Sicily, Italy (© Sandro Bisaro/Getty Images)
@@ -116,16 +126,6 @@ Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutt
 Date: 2024-02-23
 
 Download 4k: [Where eagles dance](https://bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A bonanza of beach huts
-
-Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)
-
-![A bonanza of beach huts](https://bing.com/th?id=OHR.BrightonBoxes_EN-US7951266383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-02-22
-
-Download 4k: [A bonanza of beach huts](https://bing.com/th?id=OHR.BrightonBoxes_EN-US7951266383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
