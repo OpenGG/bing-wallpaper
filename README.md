@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A sleeping beauty
+
+Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)
+
+![A sleeping beauty](https://bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-03-04
+
+Download 4k: [A sleeping beauty](https://bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A dappled acrobat
 
 Leopard in a tree, Kruger National Park, South Africa (© Tonino De Marco/Minden Pictures)
@@ -116,16 +126,6 @@ Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion)
 Date: 2024-02-24
 
 Download 4k: [Whispers of spring](https://bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where eagles dance
-
-Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)
-
-![Where eagles dance](https://bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-02-23
-
-Download 4k: [Where eagles dance](https://bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
