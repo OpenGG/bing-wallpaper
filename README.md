@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Stuck in a loop?
+
+Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)
+
+![Stuck in a loop?](https://bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-03-05
+
+Download 4k: [Stuck in a loop?](https://bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A sleeping beauty
 
 Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)
@@ -116,16 +126,6 @@ Download 4k: [Deeply chasm-matic](https://bing.com/th?id=OHR.GrandCanyonWinter_E
 Date: 2024-02-25
 
 Download 4k: [Say it loud](https://bing.com/th?id=OHR.WrightSculpture_EN-US2897504160_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Whispers of spring
-
-Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion)
-
-![Whispers of spring](https://bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-02-24
-
-Download 4k: [Whispers of spring](https://bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
