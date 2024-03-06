@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Get your splash on
+
+Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)
+
+![Get your splash on](https://bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-03-06
+
+Download 4k: [Get your splash on](https://bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Stuck in a loop?
 
 Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)
@@ -116,16 +126,6 @@ Grand Canyon National Park, Arizona (© Jeremy Janus/Getty Images)
 Date: 2024-02-26
 
 Download 4k: [Deeply chasm-matic](https://bing.com/th?id=OHR.GrandCanyonWinter_EN-US3010552047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Say it loud
-
-'United We Stand' sculpture by Charles McGee, Charles H. Wright Museum of African American History, Detroit, Michigan (© Jim West/Alamy)
-
-![Say it loud](https://bing.com/th?id=OHR.WrightSculpture_EN-US2897504160_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-02-25
-
-Download 4k: [Say it loud](https://bing.com/th?id=OHR.WrightSculpture_EN-US2897504160_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
