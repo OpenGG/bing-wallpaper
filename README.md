@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Right to shine
+
+Tate Modern lit up for International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)
+
+![Right to shine](https://bing.com/th?id=OHR.TateLightUp_EN-US0656439011_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-03-08
+
+Download 4k: [Right to shine](https://bing.com/th?id=OHR.TateLightUp_EN-US0656439011_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Reaching new heights
 
 Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)
@@ -116,16 +126,6 @@ Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)
 Date: 2024-02-28
 
 Download 4k: [Grow with the flow](https://bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## An ice day to play
-
-Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)
-
-![An ice day to play](https://bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-02-27
-
-Download 4k: [An ice day to play](https://bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
