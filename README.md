@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Time to change the time
+
+San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)
+
+![Time to change the time](https://bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-03-10
+
+Download 4k: [Time to change the time](https://bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Transformed by time
 
 Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Women's suffrage parade on Fifth Avenue, Manhattan, New York City, October 23, 1
 Date: 2024-03-01
 
 Download 4k: [And the march goes on](https://bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Leaping through an extra day
-
-Eurasian red squirrel (© Westend61/Getty Images)
-
-![Leaping through an extra day](https://bing.com/th?id=OHR.LeapingSquirrel_EN-US3514581405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-02-29
-
-Download 4k: [Leaping through an extra day](https://bing.com/th?id=OHR.LeapingSquirrel_EN-US3514581405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
