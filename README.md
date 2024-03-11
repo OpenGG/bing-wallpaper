@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sweet dreams are made of leaves
+
+A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)
+
+![Sweet dreams are made of leaves](https://bing.com/th?id=OHR.SleepyKoala_EN-US1399776436_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-03-11
+
+Download 4k: [Sweet dreams are made of leaves](https://bing.com/th?id=OHR.SleepyKoala_EN-US1399776436_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Time to change the time
 
 San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)
@@ -116,16 +126,6 @@ Modica, Sicily, Italy (© Sandro Bisaro/Getty Images)
 Date: 2024-03-02
 
 Download 4k: [A slice of Sicily](https://bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## And the march goes on
-
-Women's suffrage parade on Fifth Avenue, Manhattan, New York City, October 23, 1915 (© Bettmann/Getty Images)
-
-![And the march goes on](https://bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-03-01
-
-Download 4k: [And the march goes on](https://bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
