@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Guardians of the canyon
+
+Bryce Canyon National Park, Utah (© Jim Patterson/Tandem Stills + Motion)
+
+![Guardians of the canyon](https://bing.com/th?id=OHR.BryceSnow_EN-US1471442313_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-03-12
+
+Download 4k: [Guardians of the canyon](https://bing.com/th?id=OHR.BryceSnow_EN-US1471442313_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Sweet dreams are made of leaves
 
 A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)
@@ -116,16 +126,6 @@ Leopard in a tree, Kruger National Park, South Africa (© Tonino De Marco/Minden
 Date: 2024-03-03
 
 Download 4k: [A dappled acrobat](https://bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A slice of Sicily
-
-Modica, Sicily, Italy (© Sandro Bisaro/Getty Images)
-
-![A slice of Sicily](https://bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-03-02
-
-Download 4k: [A slice of Sicily](https://bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
