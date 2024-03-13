@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Bird's-eye view
+
+Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)
+
+![Bird's-eye view](https://bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-03-13
+
+Download 4k: [Bird's-eye view](https://bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Guardians of the canyon
 
 Bryce Canyon National Park, Utah (© Jim Patterson/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)
 Date: 2024-03-04
 
 Download 4k: [A sleeping beauty](https://bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A dappled acrobat
-
-Leopard in a tree, Kruger National Park, South Africa (© Tonino De Marco/Minden Pictures)
-
-![A dappled acrobat](https://bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-03-03
-
-Download 4k: [A dappled acrobat](https://bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
