@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where is this colorful desert?
+
+Anza-Borrego Desert State Park, California (© Stephen Matera/Tandem Stills + Motion)
+
+![Where is this colorful desert?](https://bing.com/th?id=OHR.AnzaBorregoBloom_EN-US1951730180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-03-15
+
+Download 4k: [Where is this colorful desert?](https://bing.com/th?id=OHR.AnzaBorregoBloom_EN-US1951730180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A piece of pi
 
 Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy)
@@ -116,16 +126,6 @@ Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills 
 Date: 2024-03-06
 
 Download 4k: [Get your splash on](https://bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Stuck in a loop?
-
-Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)
-
-![Stuck in a loop?](https://bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-03-05
-
-Download 4k: [Stuck in a loop?](https://bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
