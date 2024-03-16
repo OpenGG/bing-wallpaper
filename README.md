@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Somewhat bamboo-zled
+
+Giant panda eating bamboo, Chengdu, China (© Suzi Eszterhas/Minden Pictures)
+
+![Somewhat bamboo-zled](https://bing.com/th?id=OHR.BambooPanda_EN-US2038899729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-03-16
+
+Download 4k: [Somewhat bamboo-zled](https://bing.com/th?id=OHR.BambooPanda_EN-US2038899729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where is this colorful desert?
 
 Anza-Borrego Desert State Park, California (© Stephen Matera/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Ala
 Date: 2024-03-07
 
 Download 4k: [Reaching new heights](https://bing.com/th?id=OHR.TarragonaSpain_EN-US4664908149_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Get your splash on
-
-Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)
-
-![Get your splash on](https://bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-03-06
-
-Download 4k: [Get your splash on](https://bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
