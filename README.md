@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Gentle giant of the dunes
+
+Elephant Rock, Al-Ula, Saudi Arabia (© Lubo Ivanko/Shutterstock)
+
+![Gentle giant of the dunes](https://bing.com/th?id=OHR.ElephantRock_EN-US2340789308_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-03-18
+
+Download 4k: [Gentle giant of the dunes](https://bing.com/th?id=OHR.ElephantRock_EN-US2340789308_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Let's wear green today!
 
 St. Finian's Bay, County Kerry, Ireland (© Atlantide Phototravel/Getty Images)
@@ -116,16 +126,6 @@ Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion
 Date: 2024-03-09
 
 Download 4k: [Transformed by time](https://bing.com/th?id=OHR.BistiBlue_EN-US1090853434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Right to shine
-
-Tate Modern lit up for International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)
-
-![Right to shine](https://bing.com/th?id=OHR.TateLightUp_EN-US0656439011_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-03-08
-
-Download 4k: [Right to shine](https://bing.com/th?id=OHR.TateLightUp_EN-US0656439011_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
