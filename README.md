@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Cherry trees spring to life
+
+The Jefferson Memorial during the Cherry Blossom Festival, Washington, DC (© f11photo/Shutterstock)
+
+![Cherry trees spring to life](https://bing.com/th?id=OHR.CherryBlossomsDC_EN-US3285783737_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-03-20
+
+Download 4k: [Cherry trees spring to life](https://bing.com/th?id=OHR.CherryBlossomsDC_EN-US3285783737_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hop into spring!
 
 Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)
@@ -116,16 +126,6 @@ A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)
 Date: 2024-03-11
 
 Download 4k: [Sweet dreams are made of leaves](https://bing.com/th?id=OHR.SleepyKoala_EN-US1399776436_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Time to change the time
-
-San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)
-
-![Time to change the time](https://bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-03-10
-
-Download 4k: [Time to change the time](https://bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
