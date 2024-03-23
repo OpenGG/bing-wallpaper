@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Making a fog-cast
+
+Large anvil clouds above the Amazon in Brazil (© NASA)
+
+![Making a fog-cast](https://bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-03-23
+
+Download 4k: [Making a fog-cast](https://bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## 'Water' we celebrating?
 
 Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)
@@ -116,16 +126,6 @@ Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alam
 Date: 2024-03-14
 
 Download 4k: [A piece of pi](https://bing.com/th?id=OHR.AyutthayaTree_EN-US1871119120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Bird's-eye view
-
-Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)
-
-![Bird's-eye view](https://bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-03-13
-
-Download 4k: [Bird's-eye view](https://bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
