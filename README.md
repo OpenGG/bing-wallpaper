@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A tidal tango
+
+Seawater cascades over an ancient coral reef, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)
+
+![A tidal tango](https://bing.com/th?id=OHR.HangRaiVietnam_EN-US2418713642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-03-26
+
+Download 4k: [A tidal tango](https://bing.com/th?id=OHR.HangRaiVietnam_EN-US2418713642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Painting the town
 
 Celebrating Holi in Mathura, Uttar Pradesh, India (© Avishek Das/SOPA Images/LightRocket via Getty Images)
@@ -116,16 +126,6 @@ St. Finian's Bay, County Kerry, Ireland (© Atlantide Phototravel/Getty Images)
 Date: 2024-03-17
 
 Download 4k: [Let's wear green today!](https://bing.com/th?id=OHR.StFiniansBay_EN-US2242323244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Somewhat bamboo-zled
-
-Giant panda eating bamboo, Chengdu, China (© Suzi Eszterhas/Minden Pictures)
-
-![Somewhat bamboo-zled](https://bing.com/th?id=OHR.BambooPanda_EN-US2038899729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-03-16
-
-Download 4k: [Somewhat bamboo-zled](https://bing.com/th?id=OHR.BambooPanda_EN-US2038899729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
