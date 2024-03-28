@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A path through the petals
+
+Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images)
+
+![A path through the petals](https://bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-03-28
+
+Download 4k: [A path through the petals](https://bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Theater takes center stage
 
 Teatro Colón in Buenos Aires, Argentina (© Wei Hao Ho/Alamy)
@@ -116,16 +126,6 @@ Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)
 Date: 2024-03-19
 
 Download 4k: [Hop into spring!](https://bing.com/th?id=OHR.SpringFrog_EN-US7109699294_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Gentle giant of the dunes
-
-Elephant Rock, Al-Ula, Saudi Arabia (© Lubo Ivanko/Shutterstock)
-
-![Gentle giant of the dunes](https://bing.com/th?id=OHR.ElephantRock_EN-US2340789308_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-03-18
-
-Download 4k: [Gentle giant of the dunes](https://bing.com/th?id=OHR.ElephantRock_EN-US2340789308_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
