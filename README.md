@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Egg-cellent craftmanship
+
+Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)
+
+![Egg-cellent craftmanship](https://bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-03-31
+
+Download 4k: [Egg-cellent craftmanship](https://bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hello from the upside-down!
 
 Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)
@@ -116,16 +126,6 @@ Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)
 Date: 2024-03-22
 
 Download 4k: ['Water' we celebrating?](https://bing.com/th?id=OHR.WaikatoWater_EN-US1360247236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Celebrating forests
-
-Bwindi Impenetrable National Forest, Uganda (© Art Wolfe/DanitaDelimont.com)
-
-![Celebrating forests](https://bing.com/th?id=OHR.BwindiNationalForest_EN-US3376071902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-03-21
-
-Download 4k: [Celebrating forests](https://bing.com/th?id=OHR.BwindiNationalForest_EN-US3376071902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
