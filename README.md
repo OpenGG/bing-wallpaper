@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Don't believe your eyes
+
+'Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)
+
+![Don't believe your eyes](https://bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-01
+
+Download 4k: [Don't believe your eyes](https://bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Egg-cellent craftmanship
 
 Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)
@@ -117,17 +127,9 @@ Date: 2024-03-23
 
 Download 4k: [Making a fog-cast](https://bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## 'Water' we celebrating?
-
-Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)
-
-!['Water' we celebrating?](https://bing.com/th?id=OHR.WaikatoWater_EN-US1360247236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-03-22
-
-Download 4k: ['Water' we celebrating?](https://bing.com/th?id=OHR.WaikatoWater_EN-US1360247236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2024-04](./archive/2024/04.md)
 
 [2024-03](./archive/2024/03.md)
 
