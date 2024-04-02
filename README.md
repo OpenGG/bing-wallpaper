@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Beneath a ray of light
+
+Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images)
+
+![Beneath a ray of light](https://bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-02
+
+Download 4k: [Beneath a ray of light](https://bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Don't believe your eyes
 
 'Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)
@@ -116,16 +126,6 @@ Silvereyes with cherry blossoms, South Korea (© TigerSeo/Getty Images)
 Date: 2024-03-24
 
 Download 4k: [Where are these birds of a feather?](https://bing.com/th?id=OHR.WhiteEyes_EN-US2249866810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Making a fog-cast
-
-Large anvil clouds above the Amazon in Brazil (© NASA)
-
-![Making a fog-cast](https://bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-03-23
-
-Download 4k: [Making a fog-cast](https://bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
