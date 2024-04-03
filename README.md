@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Wish hue were here
+
+A rainbow in At-Bashy District  , Kakshaal Too Mountains, Naryn Province, Kyrgyzstan (© Emad aljumah/Getty Images)
+
+![Wish hue were here](https://bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-03
+
+Download 4k: [Wish hue were here](https://bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Beneath a ray of light
 
 Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images)
@@ -116,16 +126,6 @@ Celebrating Holi in Mathura, Uttar Pradesh, India (© Avishek Das/SOPA Images/Li
 Date: 2024-03-25
 
 Download 4k: [Painting the town](https://bing.com/th?id=OHR.ColorfulHoli_EN-US2354988297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where are these birds of a feather?
-
-Silvereyes with cherry blossoms, South Korea (© TigerSeo/Getty Images)
-
-![Where are these birds of a feather?](https://bing.com/th?id=OHR.WhiteEyes_EN-US2249866810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-03-24
-
-Download 4k: [Where are these birds of a feather?](https://bing.com/th?id=OHR.WhiteEyes_EN-US2249866810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
