@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A royal view
+
+Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)
+
+![A royal view](https://bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-06
+
+Download 4k: [A royal view](https://bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A dive into the blue
 
 The Bahamas photographed from the International Space Station (© NASA)
@@ -116,16 +126,6 @@ Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images)
 Date: 2024-03-28
 
 Download 4k: [A path through the petals](https://bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Theater takes center stage
-
-Teatro Colón in Buenos Aires, Argentina (© Wei Hao Ho/Alamy)
-
-![Theater takes center stage](https://bing.com/th?id=OHR.TeatroColon_EN-US2518867279_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-03-27
-
-Download 4k: [Theater takes center stage](https://bing.com/th?id=OHR.TeatroColon_EN-US2518867279_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
