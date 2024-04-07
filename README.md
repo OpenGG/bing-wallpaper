@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Look, I'm a branch manager!
+
+North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images)
+
+![Look, I'm a branch manager!](https://bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-07
+
+Download 4k: [Look, I'm a branch manager!](https://bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A royal view
 
 Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)
@@ -116,16 +126,6 @@ South Stack Lighthouse at sunset, Holy Island, Wales (© mariotlr/Getty Images)
 Date: 2024-03-29
 
 Download 4k: [High tides and bright lights](https://bing.com/th?id=OHR.SouthStackLight_EN-US2733077237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A path through the petals
-
-Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images)
-
-![A path through the petals](https://bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-03-28
-
-Download 4k: [A path through the petals](https://bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
