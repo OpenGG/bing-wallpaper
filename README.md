@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Enter the eclipse
+
+Total solar eclipse photographed from Madras, Oregon on August 21, 2017 (© NASA/Aubrey Gemignani)
+
+![Enter the eclipse](https://bing.com/th?id=OHR.SolarEclipseOregon_EN-US2134131862_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-08
+
+Download 4k: [Enter the eclipse](https://bing.com/th?id=OHR.SolarEclipseOregon_EN-US2134131862_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Look, I'm a branch manager!
 
 North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images)
@@ -116,16 +126,6 @@ Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan C
 Date: 2024-03-30
 
 Download 4k: [Hello from the upside-down!](https://bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## High tides and bright lights
-
-South Stack Lighthouse at sunset, Holy Island, Wales (© mariotlr/Getty Images)
-
-![High tides and bright lights](https://bing.com/th?id=OHR.SouthStackLight_EN-US2733077237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-03-29
-
-Download 4k: [High tides and bright lights](https://bing.com/th?id=OHR.SouthStackLight_EN-US2733077237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
