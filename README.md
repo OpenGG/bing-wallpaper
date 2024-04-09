@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Tiptoe through the tulips
+
+Tulip fields in spring, Skagit Valley, Washington (© Claudia Cooper/Getty Images)
+
+![Tiptoe through the tulips](https://bing.com/th?id=OHR.SkagitValleyTulips_EN-US2489408645_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-09
+
+Download 4k: [Tiptoe through the tulips](https://bing.com/th?id=OHR.SkagitValleyTulips_EN-US2489408645_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Enter the eclipse
 
 Total solar eclipse photographed from Madras, Oregon on August 21, 2017 (© NASA/Aubrey Gemignani)
@@ -116,16 +126,6 @@ Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/
 Date: 2024-03-31
 
 Download 4k: [Egg-cellent craftmanship](https://bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Hello from the upside-down!
-
-Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)
-
-![Hello from the upside-down!](https://bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-03-30
-
-Download 4k: [Hello from the upside-down!](https://bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
