@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A work of arch
+
+Evening light over North Window with Turret Arch in the distance, Arches National Park, Utah (© Anthony Heflin/Shutterstock)
+
+![A work of arch](https://bing.com/th?id=OHR.SunsetArchesNP_EN-US2974318595_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-12
+
+Download 4k: [A work of arch](https://bing.com/th?id=OHR.SunsetArchesNP_EN-US2974318595_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Don't just dream it, stream it!
 
 Aerial view of Churún Merú waterfall, Venezuela (© AirPano LLC/Amazing Aerial Agency)
@@ -116,16 +126,6 @@ A rainbow in At-Bashy District  , Kakshaal Too Mountains, Naryn Province, Kyrgyz
 Date: 2024-04-03
 
 Download 4k: [Wish hue were here](https://bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Beneath a ray of light
-
-Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images)
-
-![Beneath a ray of light](https://bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-02
-
-Download 4k: [Beneath a ray of light](https://bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
