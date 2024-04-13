@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Canopy of blossoms
+
+Apple trees in spring, Germany (© Smileus/Getty Images)
+
+![Canopy of blossoms](https://bing.com/th?id=OHR.SpringApple_EN-US3148648329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-13
+
+Download 4k: [Canopy of blossoms](https://bing.com/th?id=OHR.SpringApple_EN-US3148648329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A work of arch
 
 Evening light over North Window with Turret Arch in the distance, Arches National Park, Utah (© Anthony Heflin/Shutterstock)
@@ -116,16 +126,6 @@ Red lechwe herd crossing marshy plain of Okavango Delta, Botswana (© Ibrahim Su
 Date: 2024-04-04
 
 Download 4k: [Wanderers of the wetlands](https://bing.com/th?id=OHR.AntelopeBotswana_EN-US3335739405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Wish hue were here
-
-A rainbow in At-Bashy District  , Kakshaal Too Mountains, Naryn Province, Kyrgyzstan (© Emad aljumah/Getty Images)
-
-![Wish hue were here](https://bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-03
-
-Download 4k: [Wish hue were here](https://bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
