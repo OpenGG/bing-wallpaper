@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Bouncing into creativity
+
+The RedBall Project art installation, Centraal Station, Antwerp, Belgium (© Brit Worgan/Getty Images)
+
+![Bouncing into creativity](https://bing.com/th?id=OHR.RedBallBelgium_EN-US3314192425_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-15
+
+Download 4k: [Bouncing into creativity](https://bing.com/th?id=OHR.RedBallBelgium_EN-US3314192425_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Rock 'n' bowl
 
 Sunset on Bowling Ball Beach, Mendocino County, California (© Melo Qiao/Getty Images)
@@ -116,16 +126,6 @@ Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/G
 Date: 2024-04-06
 
 Download 4k: [A royal view](https://bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A dive into the blue
-
-The Bahamas photographed from the International Space Station (© NASA)
-
-![A dive into the blue](https://bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-05
-
-Download 4k: [A dive into the blue](https://bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
