@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sundown on Union Square
+
+Union Square in lower Manhattan at twilight, New York (© Sean Pavone/Getty Images)
+
+![Sundown on Union Square](https://bing.com/th?id=OHR.UnionSquareNYC_EN-US3633149979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-16
+
+Download 4k: [Sundown on Union Square](https://bing.com/th?id=OHR.UnionSquareNYC_EN-US3633149979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Bouncing into creativity
 
 The RedBall Project art installation, Centraal Station, Antwerp, Belgium (© Brit Worgan/Getty Images)
@@ -116,16 +126,6 @@ North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (
 Date: 2024-04-07
 
 Download 4k: [Look, I'm a branch manager!](https://bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A royal view
-
-Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)
-
-![A royal view](https://bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-06
-
-Download 4k: [A royal view](https://bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
