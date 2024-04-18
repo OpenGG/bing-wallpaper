@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Wall of fame
+
+Medieval city walls, Ávila, Spain (© Alberto Loyo/Getty Images)
+
+![Wall of fame](https://bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-18
+
+Download 4k: [Wall of fame](https://bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Have I been sleeping too long?
 
 American black bear cub in spring, Shenandoah National Park, Virginia (© Scott Suriano/Getty Images)
@@ -116,16 +126,6 @@ Tulip fields in spring, Skagit Valley, Washington (© Claudia Cooper/Getty Image
 Date: 2024-04-09
 
 Download 4k: [Tiptoe through the tulips](https://bing.com/th?id=OHR.SkagitValleyTulips_EN-US2489408645_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Enter the eclipse
-
-Total solar eclipse photographed from Madras, Oregon on August 21, 2017 (© NASA/Aubrey Gemignani)
-
-![Enter the eclipse](https://bing.com/th?id=OHR.SolarEclipseOregon_EN-US2134131862_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-08
-
-Download 4k: [Enter the eclipse](https://bing.com/th?id=OHR.SolarEclipseOregon_EN-US2134131862_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
