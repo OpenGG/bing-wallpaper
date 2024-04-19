@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## History has come full circle
+
+The Ring of Brodgar, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)
+
+![History has come full circle](https://bing.com/th?id=OHR.OrkneyStones_EN-US3355508244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-19
+
+Download 4k: [History has come full circle](https://bing.com/th?id=OHR.OrkneyStones_EN-US3355508244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Wall of fame
 
 Medieval city walls, Ávila, Spain (© Alberto Loyo/Getty Images)
@@ -116,16 +126,6 @@ Burrowing owl chicks near a burrow, Wyoming (© Danita Delimont/Getty Images)
 Date: 2024-04-10
 
 Download 4k: [Owl be there for you!](https://bing.com/th?id=OHR.OwlSiblings_EN-US2594321387_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Tiptoe through the tulips
-
-Tulip fields in spring, Skagit Valley, Washington (© Claudia Cooper/Getty Images)
-
-![Tiptoe through the tulips](https://bing.com/th?id=OHR.SkagitValleyTulips_EN-US2489408645_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-09
-
-Download 4k: [Tiptoe through the tulips](https://bing.com/th?id=OHR.SkagitValleyTulips_EN-US2489408645_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
