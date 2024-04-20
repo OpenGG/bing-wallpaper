@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Preserve, protect, enjoy!
+
+Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming (© XIN WANG/Getty Images)
+
+![Preserve, protect, enjoy!](https://bing.com/th?id=OHR.YellowstoneGeyser_EN-US3470127711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-20
+
+Download 4k: [Preserve, protect, enjoy!](https://bing.com/th?id=OHR.YellowstoneGeyser_EN-US3470127711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## History has come full circle
 
 The Ring of Brodgar, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)
@@ -116,16 +126,6 @@ Aerial view of Churún Merú waterfall, Venezuela (© AirPano LLC/Amazing Aerial
 Date: 2024-04-11
 
 Download 4k: [Don't just dream it, stream it!](https://bing.com/th?id=OHR.DragonWaterfall_EN-US2799967886_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Owl be there for you!
-
-Burrowing owl chicks near a burrow, Wyoming (© Danita Delimont/Getty Images)
-
-![Owl be there for you!](https://bing.com/th?id=OHR.OwlSiblings_EN-US2594321387_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-10
-
-Download 4k: [Owl be there for you!](https://bing.com/th?id=OHR.OwlSiblings_EN-US2594321387_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
