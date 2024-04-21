@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The road not taken
+
+Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee (© Richard Bernabe/Shutterstock)
+
+![The road not taken](https://bing.com/th?id=OHR.CadesCove_EN-US4359486356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-21
+
+Download 4k: [The road not taken](https://bing.com/th?id=OHR.CadesCove_EN-US4359486356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Preserve, protect, enjoy!
 
 Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming (© XIN WANG/Getty Images)
@@ -116,16 +126,6 @@ Evening light over North Window with Turret Arch in the distance, Arches Nationa
 Date: 2024-04-12
 
 Download 4k: [A work of arch](https://bing.com/th?id=OHR.SunsetArchesNP_EN-US2974318595_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Don't just dream it, stream it!
-
-Aerial view of Churún Merú waterfall, Venezuela (© AirPano LLC/Amazing Aerial Agency)
-
-![Don't just dream it, stream it!](https://bing.com/th?id=OHR.DragonWaterfall_EN-US2799967886_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-11
-
-Download 4k: [Don't just dream it, stream it!](https://bing.com/th?id=OHR.DragonWaterfall_EN-US2799967886_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
