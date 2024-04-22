@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## What are we shell-ebrating?
+
+Green sea turtle, San Diego, California (© Ralph Pace/Minden Pictures)
+
+![What are we shell-ebrating?](https://bing.com/th?id=OHR.EarthDayTurtle_EN-US4769423754_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-22
+
+Download 4k: [What are we shell-ebrating?](https://bing.com/th?id=OHR.EarthDayTurtle_EN-US4769423754_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The road not taken
 
 Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee (© Richard Bernabe/Shutterstock)
@@ -116,16 +126,6 @@ Apple trees in spring, Germany (© Smileus/Getty Images)
 Date: 2024-04-13
 
 Download 4k: [Canopy of blossoms](https://bing.com/th?id=OHR.SpringApple_EN-US3148648329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A work of arch
-
-Evening light over North Window with Turret Arch in the distance, Arches National Park, Utah (© Anthony Heflin/Shutterstock)
-
-![A work of arch](https://bing.com/th?id=OHR.SunsetArchesNP_EN-US2974318595_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-12
-
-Download 4k: [A work of arch](https://bing.com/th?id=OHR.SunsetArchesNP_EN-US2974318595_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
