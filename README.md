@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hey, how's it growing today?
+
+White trilliums blooming in Ontario, Canada (© Jun Zhang/Getty Images)
+
+![Hey, how's it growing today?](https://bing.com/th?id=OHR.TrilliumOntario_EN-US5180679465_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-24
+
+Download 4k: [Hey, how's it growing today?](https://bing.com/th?id=OHR.TrilliumOntario_EN-US5180679465_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Fully booked!
 
 Library of Trinity College Dublin, Ireland (© Vincent Isore/Getty Images)
@@ -116,16 +126,6 @@ The RedBall Project art installation, Centraal Station, Antwerp, Belgium (© Bri
 Date: 2024-04-15
 
 Download 4k: [Bouncing into creativity](https://bing.com/th?id=OHR.RedBallBelgium_EN-US3314192425_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Rock 'n' bowl
-
-Sunset on Bowling Ball Beach, Mendocino County, California (© Melo Qiao/Getty Images)
-
-![Rock 'n' bowl](https://bing.com/th?id=OHR.BowlingBallCali_EN-US3241530931_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-14
-
-Download 4k: [Rock 'n' bowl](https://bing.com/th?id=OHR.BowlingBallCali_EN-US3241530931_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
