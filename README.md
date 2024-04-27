@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Stop! Hummer time
+
+Leucistic Anna's hummingbird in the Australian Garden, UC Santa Cruz Arboretum, California (© yhelfman/Getty Images)
+
+![Stop! Hummer time](https://bing.com/th?id=OHR.LeucisticHummingbird_EN-US5796079642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-27
+
+Download 4k: [Stop! Hummer time](https://bing.com/th?id=OHR.LeucisticHummingbird_EN-US5796079642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## For tree's a jolly good fellow
 
 Tree of Life, Kalaloch Beach, Olympic National Park, Washington (© Abbie Warnock-Matthews/Shutterstock)
@@ -116,16 +126,6 @@ Medieval city walls, Ávila, Spain (© Alberto Loyo/Getty Images)
 Date: 2024-04-18
 
 Download 4k: [Wall of fame](https://bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Have I been sleeping too long?
-
-American black bear cub in spring, Shenandoah National Park, Virginia (© Scott Suriano/Getty Images)
-
-![Have I been sleeping too long?](https://bing.com/th?id=OHR.SpringCub_EN-US3818124104_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-17
-
-Download 4k: [Have I been sleeping too long?](https://bing.com/th?id=OHR.SpringCub_EN-US3818124104_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
