@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Let's park here
+
+El Capitan at sunrise in Guadalupe Mountains National Park, Texas (© Adam Mowery/Tandem Stills + Motion)
+
+![Let's park here](https://bing.com/th?id=OHR.GuadalupeTexas_EN-US5906260854_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-28
+
+Download 4k: [Let's park here](https://bing.com/th?id=OHR.GuadalupeTexas_EN-US5906260854_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Stop! Hummer time
 
 Leucistic Anna's hummingbird in the Australian Garden, UC Santa Cruz Arboretum, California (© yhelfman/Getty Images)
@@ -116,16 +126,6 @@ The Ring of Brodgar, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Image
 Date: 2024-04-19
 
 Download 4k: [History has come full circle](https://bing.com/th?id=OHR.OrkneyStones_EN-US3355508244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Wall of fame
-
-Medieval city walls, Ávila, Spain (© Alberto Loyo/Getty Images)
-
-![Wall of fame](https://bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-18
-
-Download 4k: [Wall of fame](https://bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
