@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Purr-fect speed
+
+Cheetah in morning rain, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)
+
+![Purr-fect speed](https://bing.com/th?id=OHR.CheetahRain_EN-US6179670004_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-04-30
+
+Download 4k: [Purr-fect speed](https://bing.com/th?id=OHR.CheetahRain_EN-US6179670004_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## In perfect shape
 
 Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)
@@ -116,16 +126,6 @@ Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee (© Ri
 Date: 2024-04-21
 
 Download 4k: [The road not taken](https://bing.com/th?id=OHR.CadesCove_EN-US4359486356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Preserve, protect, enjoy!
-
-Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming (© XIN WANG/Getty Images)
-
-![Preserve, protect, enjoy!](https://bing.com/th?id=OHR.YellowstoneGeyser_EN-US3470127711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-20
-
-Download 4k: [Preserve, protect, enjoy!](https://bing.com/th?id=OHR.YellowstoneGeyser_EN-US3470127711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
