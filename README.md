@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## 'May Day is Lei Day in Hawaii Nei'
+
+Hawaiian lei flower garlands (© Jotika Pun/Shutterstock)
+
+!['May Day is Lei Day in Hawaii Nei'](https://bing.com/th?id=OHR.HawaiianLei_EN-US6290126556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-01
+
+Download 4k: ['May Day is Lei Day in Hawaii Nei'](https://bing.com/th?id=OHR.HawaiianLei_EN-US6290126556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Purr-fect speed
 
 Cheetah in morning rain, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)
@@ -117,17 +127,9 @@ Date: 2024-04-22
 
 Download 4k: [What are we shell-ebrating?](https://bing.com/th?id=OHR.EarthDayTurtle_EN-US4769423754_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## The road not taken
-
-Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee (© Richard Bernabe/Shutterstock)
-
-![The road not taken](https://bing.com/th?id=OHR.CadesCove_EN-US4359486356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-21
-
-Download 4k: [The road not taken](https://bing.com/th?id=OHR.CadesCove_EN-US4359486356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2024-05](./archive/2024/05.md)
 
 [2024-04](./archive/2024/04.md)
 
