@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A hot spot for wildflowers
+
+Brittlebushes blooming in springtime, Sonoran Desert, Arizona (© Charles Harker/Getty Images)
+
+![A hot spot for wildflowers](https://bing.com/th?id=OHR.SonoranSpring_EN-US9207877073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-03
+
+Download 4k: [A hot spot for wildflowers](https://bing.com/th?id=OHR.SonoranSpring_EN-US9207877073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## To the moon and back
 
 Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho (© Alan Majchrowicz/Getty Images)
@@ -116,16 +126,6 @@ White trilliums blooming in Ontario, Canada (© Jun Zhang/Getty Images)
 Date: 2024-04-24
 
 Download 4k: [Hey, how's it growing today?](https://bing.com/th?id=OHR.TrilliumOntario_EN-US5180679465_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Fully booked!
-
-Library of Trinity College Dublin, Ireland (© Vincent Isore/Getty Images)
-
-![Fully booked!](https://bing.com/th?id=OHR.TrinityDublin_EN-US9065489677_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-23
-
-Download 4k: [Fully booked!](https://bing.com/th?id=OHR.TrinityDublin_EN-US9065489677_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
