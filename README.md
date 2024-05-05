@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Happy Cinco de Mayo!
+
+Colonnade in San Miguel de Allende, Guanajuato, Mexico (© Mint Images/Getty Images)
+
+![Happy Cinco de Mayo!](https://bing.com/th?id=OHR.SanMiguelAllende_EN-US9621237021_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-05
+
+Download 4k: [Happy Cinco de Mayo!](https://bing.com/th?id=OHR.SanMiguelAllende_EN-US9621237021_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## May the Fourth be with you!
 
 Ruins of an ancient monastery on the island of Skellig Michael, Ireland (© MNStudio/Getty Images)
@@ -116,16 +126,6 @@ Tree of Life, Kalaloch Beach, Olympic National Park, Washington (© Abbie Warnoc
 Date: 2024-04-26
 
 Download 4k: [For tree's a jolly good fellow](https://bing.com/th?id=OHR.KalalochTree_EN-US5565386489_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## It's ice to meet you all here!
-
-Adélie penguins on an iceberg, Antarctica (© Patrick J. Endres/Getty Images)
-
-![It's ice to meet you all here!](https://bing.com/th?id=OHR.PenguinDirections_EN-US5469437415_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-25
-
-Download 4k: [It's ice to meet you all here!](https://bing.com/th?id=OHR.PenguinDirections_EN-US5469437415_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
