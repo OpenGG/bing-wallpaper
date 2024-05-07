@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Light as a feather
+
+A duckling swimming in a water meadow, Suffolk, England (© Nick Hurst/Getty Images)
+
+![Light as a feather](https://bing.com/th?id=OHR.LittleDuckling_EN-US0447954247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-07
+
+Download 4k: [Light as a feather](https://bing.com/th?id=OHR.LittleDuckling_EN-US0447954247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where is this rocky ridge?
 
 The Roaches, Peak District, England (© George W Johnson/Getty Images)
@@ -116,16 +126,6 @@ El Capitan at sunrise in Guadalupe Mountains National Park, Texas (© Adam Mower
 Date: 2024-04-28
 
 Download 4k: [Let's park here](https://bing.com/th?id=OHR.GuadalupeTexas_EN-US5906260854_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Stop! Hummer time
-
-Leucistic Anna's hummingbird in the Australian Garden, UC Santa Cruz Arboretum, California (© yhelfman/Getty Images)
-
-![Stop! Hummer time](https://bing.com/th?id=OHR.LeucisticHummingbird_EN-US5796079642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-27
-
-Download 4k: [Stop! Hummer time](https://bing.com/th?id=OHR.LeucisticHummingbird_EN-US5796079642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
