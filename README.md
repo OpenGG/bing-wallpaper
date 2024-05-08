@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Awaiting the Olympic torch
+
+View of Château d'If in the port of Marseille, France (© Sergii Figurnyi/Alamy)
+
+![Awaiting the Olympic torch](https://bing.com/th?id=OHR.PortMarseille_EN-US0558123049_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-08
+
+Download 4k: [Awaiting the Olympic torch](https://bing.com/th?id=OHR.PortMarseille_EN-US0558123049_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Light as a feather
 
 A duckling swimming in a water meadow, Suffolk, England (© Nick Hurst/Getty Images)
@@ -116,16 +126,6 @@ Fujian Tulou complex of historical and cultural heritage buildings in Fujian pro
 Date: 2024-04-29
 
 Download 4k: [In perfect shape](https://bing.com/th?id=OHR.TulouFujian_EN-US6009679228_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Let's park here
-
-El Capitan at sunrise in Guadalupe Mountains National Park, Texas (© Adam Mowery/Tandem Stills + Motion)
-
-![Let's park here](https://bing.com/th?id=OHR.GuadalupeTexas_EN-US5906260854_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-28
-
-Download 4k: [Let's park here](https://bing.com/th?id=OHR.GuadalupeTexas_EN-US5906260854_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
