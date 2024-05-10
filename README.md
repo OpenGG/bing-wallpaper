@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The islands are calling!
+
+Misool, Raja Ampat Islands, Indonesia (© Giordano Cipriani/Getty Images)
+
+![The islands are calling!](https://bing.com/th?id=OHR.MisoolRajaAmpat_EN-US0805176947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-10
+
+Download 4k: [The islands are calling!](https://bing.com/th?id=OHR.MisoolRajaAmpat_EN-US0805176947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Tulips gone wild!
 
 Tulips at Emirgan Park in Istanbul, Türkiye (© Ozbalci/Getty Images)
@@ -116,16 +126,6 @@ Hawaiian lei flower garlands (© Jotika Pun/Shutterstock)
 Date: 2024-05-01
 
 Download 4k: [May Day is Lei Day in Hawaii Nei](https://bing.com/th?id=OHR.HawaiianLei_EN-US6290126556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Purr-fect speed
-
-Cheetah in morning rain, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)
-
-![Purr-fect speed](https://bing.com/th?id=OHR.CheetahRain_EN-US6179670004_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-04-30
-
-Download 4k: [Purr-fect speed](https://bing.com/th?id=OHR.CheetahRain_EN-US6179670004_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
