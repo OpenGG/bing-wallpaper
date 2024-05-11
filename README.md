@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Tweeting 'bon voyage'
+
+An indigo bunting perched on a branch, Texas (© Jeff R Clow/Getty Images)
+
+![Tweeting 'bon voyage'](https://bing.com/th?id=OHR.TexasIndigoBunting_EN-US0916417036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-11
+
+Download 4k: [Tweeting 'bon voyage'](https://bing.com/th?id=OHR.TexasIndigoBunting_EN-US0916417036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The islands are calling!
 
 Misool, Raja Ampat Islands, Indonesia (© Giordano Cipriani/Getty Images)
@@ -116,16 +126,6 @@ Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho (© Alan Maj
 Date: 2024-05-02
 
 Download 4k: [To the moon and back](https://bing.com/th?id=OHR.CratersOfTheMoon_EN-US6516727783_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## May Day is Lei Day in Hawaii Nei
-
-Hawaiian lei flower garlands (© Jotika Pun/Shutterstock)
-
-![May Day is Lei Day in Hawaii Nei](https://bing.com/th?id=OHR.HawaiianLei_EN-US6290126556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-01
-
-Download 4k: [May Day is Lei Day in Hawaii Nei](https://bing.com/th?id=OHR.HawaiianLei_EN-US6290126556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
