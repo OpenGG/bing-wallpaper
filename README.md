@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Africa’s grandest canyon
+
+Fish River Canyon, Namibia (© R. M. Nunes/Getty Images)
+
+![Africa’s grandest canyon](https://bing.com/th?id=OHR.NamibiaCanyon_EN-US1337379319_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-13
+
+Download 4k: [Africa’s grandest canyon](https://bing.com/th?id=OHR.NamibiaCanyon_EN-US1337379319_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Happy Mother's Day!
 
 Guanaco mother and newborn baby in grassland, La Pampa Province, Argentina (© Gabriel Rojo/Minden Pictures)
@@ -116,16 +126,6 @@ Ruins of an ancient monastery on the island of Skellig Michael, Ireland (© MNSt
 Date: 2024-05-04
 
 Download 4k: [May the Fourth be with you!](https://bing.com/th?id=OHR.JediMonastery_EN-US9398447907_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A hot spot for wildflowers
-
-Brittlebushes blooming in springtime, Sonoran Desert, Arizona (© Charles Harker/Getty Images)
-
-![A hot spot for wildflowers](https://bing.com/th?id=OHR.SonoranSpring_EN-US9207877073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-03
-
-Download 4k: [A hot spot for wildflowers](https://bing.com/th?id=OHR.SonoranSpring_EN-US9207877073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
