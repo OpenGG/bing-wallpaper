@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Above the Blue City
+
+The Blue City of Jodhpur, India (© cinoby/Getty Images)
+
+![Above the Blue City](https://bing.com/th?id=OHR.BlueCityIndia_EN-US1593809891_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-15
+
+Download 4k: [Above the Blue City](https://bing.com/th?id=OHR.BlueCityIndia_EN-US1593809891_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Rocking in the deep
 
 Walkway leading into the Big Room, Carlsbad Caverns, New Mexico (© Doug Meek/Getty Images)
@@ -116,16 +126,6 @@ The Roaches, Peak District, England (© George W Johnson/Getty Images)
 Date: 2024-05-06
 
 Download 4k: [Where is this rocky ridge?](https://bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-US9733115206_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Happy Cinco de Mayo!
-
-Colonnade in San Miguel de Allende, Guanajuato, Mexico (© Mint Images/Getty Images)
-
-![Happy Cinco de Mayo!](https://bing.com/th?id=OHR.SanMiguelAllende_EN-US9621237021_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-05
-
-Download 4k: [Happy Cinco de Mayo!](https://bing.com/th?id=OHR.SanMiguelAllende_EN-US9621237021_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
