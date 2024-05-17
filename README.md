@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Today is not 'irrelephant'
+
+A family of African elephants in Tarangire National Park, Tanzania (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)
+
+![Today is not 'irrelephant'](https://bing.com/th?id=OHR.TarangireElephants_EN-US8865263185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-17
+
+Download 4k: [Today is not 'irrelephant'](https://bing.com/th?id=OHR.TarangireElephants_EN-US8865263185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Into the light
 
 'Feelings are Facts,' by artist Olafur Eliasson and architect Ma Yansong, Beijing, China (© Feng Li/Getty Images News)
@@ -116,16 +126,6 @@ View of Château d'If in the port of Marseille, France (© Sergii Figurnyi/Alamy
 Date: 2024-05-08
 
 Download 4k: [Awaiting the Olympic torch](https://bing.com/th?id=OHR.PortMarseille_EN-US0558123049_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Light as a feather
-
-A duckling swimming in a water meadow, Suffolk, England (© Nick Hurst/Getty Images)
-
-![Light as a feather](https://bing.com/th?id=OHR.LittleDuckling_EN-US0447954247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-07
-
-Download 4k: [Light as a feather](https://bing.com/th?id=OHR.LittleDuckling_EN-US0447954247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
