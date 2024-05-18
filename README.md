@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Tail of the whale
+
+Blue whale skeleton in the Natural History Museum, London, England (© Bailey-Cooper Photography/Alamy)
+
+![Tail of the whale](https://bing.com/th?id=OHR.MuseumWhale_EN-US2412212162_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-18
+
+Download 4k: [Tail of the whale](https://bing.com/th?id=OHR.MuseumWhale_EN-US2412212162_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Today is not 'irrelephant'
 
 A family of African elephants in Tarangire National Park, Tanzania (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)
@@ -116,16 +126,6 @@ Tulips at Emirgan Park in Istanbul, Türkiye (© Ozbalci/Getty Images)
 Date: 2024-05-09
 
 Download 4k: [Tulips gone wild!](https://bing.com/th?id=OHR.EmirganPark_EN-US0659286862_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Awaiting the Olympic torch
-
-View of Château d'If in the port of Marseille, France (© Sergii Figurnyi/Alamy)
-
-![Awaiting the Olympic torch](https://bing.com/th?id=OHR.PortMarseille_EN-US0558123049_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-08
-
-Download 4k: [Awaiting the Olympic torch](https://bing.com/th?id=OHR.PortMarseille_EN-US0558123049_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
