@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A brew-tea-ful day
+
+Cameron Highlands tea plantation, Malaysia (© alex cheong/Getty Images)
+
+![A brew-tea-ful day](https://bing.com/th?id=OHR.MalaysiaTea_EN-US3322214623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-21
+
+Download 4k: [A brew-tea-ful day](https://bing.com/th?id=OHR.MalaysiaTea_EN-US3322214623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Keeping buzzy
 
 Bee tending a honeycomb (© Simun Ascic/Alamy)
@@ -116,16 +126,6 @@ Guanaco mother and newborn baby in grassland, La Pampa Province, Argentina (© G
 Date: 2024-05-12
 
 Download 4k: [Happy Mother's Day!](https://bing.com/th?id=OHR.GuanacoMother_EN-US1023542218_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Tweeting 'bon voyage'
-
-An indigo bunting perched on a branch, Texas (© Jeff R Clow/Getty Images)
-
-![Tweeting 'bon voyage'](https://bing.com/th?id=OHR.TexasIndigoBunting_EN-US0916417036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-11
-
-Download 4k: [Tweeting 'bon voyage'](https://bing.com/th?id=OHR.TexasIndigoBunting_EN-US0916417036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
