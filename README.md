@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A beacon of biodiversity
+
+Tasmanian snow gum trees, Mount Field National Park, Tasmania, Australia (© Ignacio Palacios/Getty Images)
+
+![A beacon of biodiversity](https://bing.com/th?id=OHR.SnowGumTasmania_EN-US4058572259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-22
+
+Download 4k: [A beacon of biodiversity](https://bing.com/th?id=OHR.SnowGumTasmania_EN-US4058572259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A brew-tea-ful day
 
 Cameron Highlands tea plantation, Malaysia (© alex cheong/Getty Images)
@@ -116,16 +126,6 @@ Fish River Canyon, Namibia (© R. M. Nunes/Getty Images)
 Date: 2024-05-13
 
 Download 4k: [Africa’s grandest canyon](https://bing.com/th?id=OHR.NamibiaCanyon_EN-US1337379319_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Happy Mother's Day!
-
-Guanaco mother and newborn baby in grassland, La Pampa Province, Argentina (© Gabriel Rojo/Minden Pictures)
-
-![Happy Mother's Day!](https://bing.com/th?id=OHR.GuanacoMother_EN-US1023542218_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-12
-
-Download 4k: [Happy Mother's Day!](https://bing.com/th?id=OHR.GuanacoMother_EN-US1023542218_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
