@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Looking for a shell-ter
+
+Indian star tortoise, Sri Lanka (© Robin Chittenden/Minden Pictures)
+
+![Looking for a shell-ter](https://bing.com/th?id=OHR.IndianStarTortoise_EN-US4160827746_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-23
+
+Download 4k: [Looking for a shell-ter](https://bing.com/th?id=OHR.IndianStarTortoise_EN-US4160827746_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A beacon of biodiversity
 
 Tasmanian snow gum trees, Mount Field National Park, Tasmania, Australia (© Ignacio Palacios/Getty Images)
@@ -116,16 +126,6 @@ Walkway leading into the Big Room, Carlsbad Caverns, New Mexico (© Doug Meek/Ge
 Date: 2024-05-14
 
 Download 4k: [Rocking in the deep](https://bing.com/th?id=OHR.CarlsbadNP_EN-US2282243740_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Africa’s grandest canyon
-
-Fish River Canyon, Namibia (© R. M. Nunes/Getty Images)
-
-![Africa’s grandest canyon](https://bing.com/th?id=OHR.NamibiaCanyon_EN-US1337379319_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-13
-
-Download 4k: [Africa’s grandest canyon](https://bing.com/th?id=OHR.NamibiaCanyon_EN-US1337379319_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
