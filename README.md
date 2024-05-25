@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Guardians of the dunes
+
+Aït Benhaddou, Morocco (© Grant Faint/Getty Images)
+
+![Guardians of the dunes](https://bing.com/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-25
+
+Download 4k: [Guardians of the dunes](https://bing.com/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## All the way to the top
 
 Añisclo Canyon, Ordesa y Monte Perdido National Park, Huesca, Spain (© Marisa Estivill/Shutterstock)
@@ -116,16 +126,6 @@ Download 4k: [Today is not 'irrelephant'](https://bing.com/th?id=OHR.TarangireEl
 Date: 2024-05-16
 
 Download 4k: [Into the light](https://bing.com/th?id=OHR.DayOfLight_EN-US1723401316_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Above the Blue City
-
-The Blue City of Jodhpur, India (© cinoby/Getty Images)
-
-![Above the Blue City](https://bing.com/th?id=OHR.BlueCityIndia_EN-US1593809891_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-15
-
-Download 4k: [Above the Blue City](https://bing.com/th?id=OHR.BlueCityIndia_EN-US1593809891_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
