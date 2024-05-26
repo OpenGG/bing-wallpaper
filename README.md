@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The hills are alive
+
+Balsamroot and lupines, Methow Valley, North Cascades, Washington (© Alan Majchrowicz/Getty Images)
+
+![The hills are alive](https://bing.com/th?id=OHR.MethowWildflowers_EN-US4937353385_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-26
+
+Download 4k: [The hills are alive](https://bing.com/th?id=OHR.MethowWildflowers_EN-US4937353385_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Guardians of the dunes
 
 Aït Benhaddou, Morocco (© Grant Faint/Getty Images)
@@ -116,16 +126,6 @@ A family of African elephants in Tarangire National Park, Tanzania (© Vicki Jau
 Date: 2024-05-17
 
 Download 4k: [Today is not 'irrelephant'](https://bing.com/th?id=OHR.TarangireElephants_EN-US8865263185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Into the light
-
-'Feelings are Facts,' by artist Olafur Eliasson and architect Ma Yansong, Beijing, China (© Feng Li/Getty Images News)
-
-![Into the light](https://bing.com/th?id=OHR.DayOfLight_EN-US1723401316_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-16
-
-Download 4k: [Into the light](https://bing.com/th?id=OHR.DayOfLight_EN-US1723401316_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
