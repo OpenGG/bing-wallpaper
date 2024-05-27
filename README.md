@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Memorial Day
+
+Field of flags set up for Memorial Day (© Andrew Seegmiller/Getty Images)
+
+![Memorial Day](https://bing.com/th?id=OHR.MemorialFlags_EN-US5086740860_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-27
+
+Download 4k: [Memorial Day](https://bing.com/th?id=OHR.MemorialFlags_EN-US5086740860_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The hills are alive
 
 Balsamroot and lupines, Methow Valley, North Cascades, Washington (© Alan Majchrowicz/Getty Images)
@@ -116,16 +126,6 @@ Blue whale skeleton in the Natural History Museum, London, England (© Bailey-Co
 Date: 2024-05-18
 
 Download 4k: [Tail of the whale](https://bing.com/th?id=OHR.MuseumWhale_EN-US2412212162_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Today is not 'irrelephant'
-
-A family of African elephants in Tarangire National Park, Tanzania (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)
-
-![Today is not 'irrelephant'](https://bing.com/th?id=OHR.TarangireElephants_EN-US8865263185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-17
-
-Download 4k: [Today is not 'irrelephant'](https://bing.com/th?id=OHR.TarangireElephants_EN-US8865263185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
