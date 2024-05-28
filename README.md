@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## On top of the world
+
+Roussanou Monastery, Meteora, Thessaly, Greece (© Marius Roman/Getty Images)
+
+![On top of the world](https://bing.com/th?id=OHR.MeteoraMonastery_EN-US5286293282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-28
+
+Download 4k: [On top of the world](https://bing.com/th?id=OHR.MeteoraMonastery_EN-US5286293282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Memorial Day
 
 Field of flags set up for Memorial Day (© Andrew Seegmiller/Getty Images)
@@ -116,16 +126,6 @@ Village of Vernazza, Cinque Terre, Liguria, Italy (© Roberto Moiola/Sysaworld/G
 Date: 2024-05-19
 
 Download 4k: [Where history meets the sea](https://bing.com/th?id=OHR.VernazzaItaly_EN-US2643430613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Tail of the whale
-
-Blue whale skeleton in the Natural History Museum, London, England (© Bailey-Cooper Photography/Alamy)
-
-![Tail of the whale](https://bing.com/th?id=OHR.MuseumWhale_EN-US2412212162_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-18
-
-Download 4k: [Tail of the whale](https://bing.com/th?id=OHR.MuseumWhale_EN-US2412212162_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
