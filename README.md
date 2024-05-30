@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## 'Everglad' to be here
+
+A stand of slash pines and sawgrass prairie, Everglades National Park, Florida (© Jonathan Gewirtz/Tandem Stills + Motion)
+
+!['Everglad' to be here](https://bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-30
+
+Download 4k: ['Everglad' to be here](https://bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## 'Otter' you looking at?
 
 Eurasian otters, Loch Spelve, Isle of Mull, Scotland (© Neil Henderson/Alamy)
@@ -116,16 +126,6 @@ Cameron Highlands tea plantation, Malaysia (© alex cheong/Getty Images)
 Date: 2024-05-21
 
 Download 4k: [A brew-tea-ful day](https://bing.com/th?id=OHR.MalaysiaTea_EN-US3322214623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Keeping buzzy
-
-Bee tending a honeycomb (© Simun Ascic/Alamy)
-
-![Keeping buzzy](https://bing.com/th?id=OHR.HoneycombBee_EN-US2941694554_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-20
-
-Download 4k: [Keeping buzzy](https://bing.com/th?id=OHR.HoneycombBee_EN-US2941694554_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
