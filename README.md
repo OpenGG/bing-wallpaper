@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A green and pleasant land
+
+Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy)
+
+![A green and pleasant land](https://bing.com/th?id=OHR.YorkshireDalesNP_EN-US6104560581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-05-31
+
+Download 4k: [A green and pleasant land](https://bing.com/th?id=OHR.YorkshireDalesNP_EN-US6104560581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## 'Everglad' to be here
 
 A stand of slash pines and sawgrass prairie, Everglades National Park, Florida (© Jonathan Gewirtz/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Tasmanian snow gum trees, Mount Field National Park, Tasmania, Australia (© Ign
 Date: 2024-05-22
 
 Download 4k: [A beacon of biodiversity](https://bing.com/th?id=OHR.SnowGumTasmania_EN-US4058572259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A brew-tea-ful day
-
-Cameron Highlands tea plantation, Malaysia (© alex cheong/Getty Images)
-
-![A brew-tea-ful day](https://bing.com/th?id=OHR.MalaysiaTea_EN-US3322214623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-21
-
-Download 4k: [A brew-tea-ful day](https://bing.com/th?id=OHR.MalaysiaTea_EN-US3322214623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
