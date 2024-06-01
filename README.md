@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Pride Month
+
+San Francisco City Hall lit up in rainbow lights for Pride, California (© Josh Edelson/AFP via Getty Images)
+
+![Pride Month](https://bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-01
+
+Download 4k: [Pride Month](https://bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A green and pleasant land
 
 Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy)
@@ -117,17 +127,9 @@ Date: 2024-05-23
 
 Download 4k: [Looking for a shell-ter](https://bing.com/th?id=OHR.IndianStarTortoise_EN-US4160827746_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## A beacon of biodiversity
-
-Tasmanian snow gum trees, Mount Field National Park, Tasmania, Australia (© Ignacio Palacios/Getty Images)
-
-![A beacon of biodiversity](https://bing.com/th?id=OHR.SnowGumTasmania_EN-US4058572259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-22
-
-Download 4k: [A beacon of biodiversity](https://bing.com/th?id=OHR.SnowGumTasmania_EN-US4058572259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2024-06](./archive/2024/06.md)
 
 [2024-05](./archive/2024/05.md)
 
