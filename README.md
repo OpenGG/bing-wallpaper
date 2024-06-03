@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## 'Two' tired for a ride
+
+Bicycles in Copenhagen, Denmark (© Alphotographic/Getty Images)
+
+!['Two' tired for a ride](https://bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-03
+
+Download 4k: ['Two' tired for a ride](https://bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Mulch ado about gardening
 
 Flowers blooming in a garden, Alaska (© jet 67/Shutterstock)
@@ -116,16 +126,6 @@ Aït Benhaddou, Morocco (© Grant Faint/Getty Images)
 Date: 2024-05-25
 
 Download 4k: [Guardians of the dunes](https://bing.com/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## All the way to the top
-
-Añisclo Canyon, Ordesa y Monte Perdido National Park, Huesca, Spain (© Marisa Estivill/Shutterstock)
-
-![All the way to the top](https://bing.com/th?id=OHR.OrdesaNationalPark_EN-US4779461538_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-24
-
-Download 4k: [All the way to the top](https://bing.com/th?id=OHR.OrdesaNationalPark_EN-US4779461538_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
