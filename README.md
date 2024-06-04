@@ -27,25 +27,25 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
-## Birds of a feather…
+## Birds of a feather
 
 Chestnut-headed bee-eaters, Bardia National Park, Nepal (© PACO COMO/Shutterstock)
 
-![Birds of a feather…](https://bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+![Birds of a feather](https://bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
 
 Date: 2024-06-04
 
-Download 4k: [Birds of a feather…](https://bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+Download 4k: [Birds of a feather](https://bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## 'Two' tired for a ride
+## Pedal power
 
 Bicycles in Copenhagen, Denmark (© Alphotographic/Getty Images)
 
-!['Two' tired for a ride](https://bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+![Pedal power](https://bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
 
 Date: 2024-06-03
 
-Download 4k: ['Two' tired for a ride](https://bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+Download 4k: [Pedal power](https://bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 ## Mulch ado about gardening
 
