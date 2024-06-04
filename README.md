@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Birds of a feather…
+
+Chestnut-headed bee-eaters, Bardia National Park, Nepal (© PACO COMO/Shutterstock)
+
+![Birds of a feather…](https://bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-04
+
+Download 4k: [Birds of a feather…](https://bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## 'Two' tired for a ride
 
 Bicycles in Copenhagen, Denmark (© Alphotographic/Getty Images)
@@ -116,16 +126,6 @@ Balsamroot and lupines, Methow Valley, North Cascades, Washington (© Alan Majch
 Date: 2024-05-26
 
 Download 4k: [The hills are alive](https://bing.com/th?id=OHR.MethowWildflowers_EN-US4937353385_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Guardians of the dunes
-
-Aït Benhaddou, Morocco (© Grant Faint/Getty Images)
-
-![Guardians of the dunes](https://bing.com/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-25
-
-Download 4k: [Guardians of the dunes](https://bing.com/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
