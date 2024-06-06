@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## D-Day: 80 years on
+
+Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)
+
+![D-Day: 80 years on](https://bing.com/th?id=OHR.LesBravesNormandy_EN-US6707866678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-06
+
+Download 4k: [D-Day: 80 years on](https://bing.com/th?id=OHR.LesBravesNormandy_EN-US6707866678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## World Environment Day
 
 Masoala National Park in Madagascar (© Dennis van de Water/Shutterstock)
@@ -116,16 +126,6 @@ Roussanou Monastery, Meteora, Thessaly, Greece (© Marius Roman/Getty Images)
 Date: 2024-05-28
 
 Download 4k: [On top of the world](https://bing.com/th?id=OHR.MeteoraMonastery_EN-US5286293282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Memorial Day
-
-Field of flags set up for Memorial Day (© Andrew Seegmiller/Getty Images)
-
-![Memorial Day](https://bing.com/th?id=OHR.MemorialFlags_EN-US5086740860_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-27
-
-Download 4k: [Memorial Day](https://bing.com/th?id=OHR.MemorialFlags_EN-US5086740860_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
