@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Waves of hope
+
+Family of humpback whales, Dutch Harbor, Alaska (© Jude Newkirk/Amazing Aerial Agency)
+
+![Waves of hope](https://bing.com/th?id=OHR.HumpbackFamily_EN-US6789097648_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-07
+
+Download 4k: [Waves of hope](https://bing.com/th?id=OHR.HumpbackFamily_EN-US6789097648_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## D-Day: 80 years on
 
 Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)
@@ -116,16 +126,6 @@ Eurasian otters, Loch Spelve, Isle of Mull, Scotland (© Neil Henderson/Alamy)
 Date: 2024-05-29
 
 Download 4k: ['Otter' you looking at?](https://bing.com/th?id=OHR.MullOtter_EN-US5451978021_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## On top of the world
-
-Roussanou Monastery, Meteora, Thessaly, Greece (© Marius Roman/Getty Images)
-
-![On top of the world](https://bing.com/th?id=OHR.MeteoraMonastery_EN-US5286293282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-28
-
-Download 4k: [On top of the world](https://bing.com/th?id=OHR.MeteoraMonastery_EN-US5286293282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
