@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The meeting of the waters
+
+Confluence of Easter Creek and Killik River, Gates of the Arctic National Park, Alaska (© Patrick J. Endres/Getty Images)
+
+![The meeting of the waters](https://bing.com/th?id=OHR.KillikRiverAlaska_EN-US6860539516_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-08
+
+Download 4k: [The meeting of the waters](https://bing.com/th?id=OHR.KillikRiverAlaska_EN-US6860539516_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Waves of hope
 
 Family of humpback whales, Dutch Harbor, Alaska (© Jude Newkirk/Amazing Aerial Agency)
@@ -116,16 +126,6 @@ A stand of slash pines and sawgrass prairie, Everglades National Park, Florida (
 Date: 2024-05-30
 
 Download 4k: ['Everglad' to be here](https://bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## 'Otter' you looking at?
-
-Eurasian otters, Loch Spelve, Isle of Mull, Scotland (© Neil Henderson/Alamy)
-
-!['Otter' you looking at?](https://bing.com/th?id=OHR.MullOtter_EN-US5451978021_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-05-29
-
-Download 4k: ['Otter' you looking at?](https://bing.com/th?id=OHR.MullOtter_EN-US5451978021_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
