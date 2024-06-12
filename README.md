@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A galactic gig
+
+Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)
+
+![A galactic gig](https://bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-12
+
+Download 4k: [A galactic gig](https://bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## These antelopes are real gems
 
 Southern gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Bicycles in Copenhagen, Denmark (© Alphotographic/Getty Images)
 Date: 2024-06-03
 
 Download 4k: [Pedal power](https://bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Mulch ado about gardening
-
-Flowers blooming in a garden, Alaska (© jet 67/Shutterstock)
-
-![Mulch ado about gardening](https://bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-02
-
-Download 4k: [Mulch ado about gardening](https://bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
