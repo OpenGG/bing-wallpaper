@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Tile tales
+
+Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)
+
+![Tile tales](https://bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-13
+
+Download 4k: [Tile tales](https://bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A galactic gig
 
 Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)
@@ -116,16 +126,6 @@ Chestnut-headed bee-eaters, Bardia National Park, Nepal (© PACO COMO/Shuttersto
 Date: 2024-06-04
 
 Download 4k: [Birds of a feather](https://bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Pedal power
-
-Bicycles in Copenhagen, Denmark (© Alphotographic/Getty Images)
-
-![Pedal power](https://bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-03
-
-Download 4k: [Pedal power](https://bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
