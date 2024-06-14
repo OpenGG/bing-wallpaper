@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Long may it wave
+
+Flag display at the Washington Monument, Washington, DC  (© tristanbnz/Adobe Stock)
+
+![Long may it wave](https://bing.com/th?id=OHR.FlagsDC_EN-US9363778856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-14
+
+Download 4k: [Long may it wave](https://bing.com/th?id=OHR.FlagsDC_EN-US9363778856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Tile tales
 
 Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)
@@ -116,16 +126,6 @@ Masoala National Park in Madagascar (© Dennis van de Water/Shutterstock)
 Date: 2024-06-05
 
 Download 4k: [World Environment Day](https://bing.com/th?id=OHR.MadagascarRiver_EN-US6642458773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Birds of a feather
-
-Chestnut-headed bee-eaters, Bardia National Park, Nepal (© PACO COMO/Shutterstock)
-
-![Birds of a feather](https://bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-04
-
-Download 4k: [Birds of a feather](https://bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
