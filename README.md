@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where there's a will, there's a wave
+
+Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)
+
+![Where there's a will, there's a wave](https://bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-15
+
+Download 4k: [Where there's a will, there's a wave](https://bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Long may it wave
 
 Flag display at the Washington Monument, Washington, DC  (© tristanbnz/Adobe Stock)
@@ -116,16 +126,6 @@ Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Get
 Date: 2024-06-06
 
 Download 4k: [D-Day: 80 years on](https://bing.com/th?id=OHR.LesBravesNormandy_EN-US6707866678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## World Environment Day
-
-Masoala National Park in Madagascar (© Dennis van de Water/Shutterstock)
-
-![World Environment Day](https://bing.com/th?id=OHR.MadagascarRiver_EN-US6642458773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-05
-
-Download 4k: [World Environment Day](https://bing.com/th?id=OHR.MadagascarRiver_EN-US6642458773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
