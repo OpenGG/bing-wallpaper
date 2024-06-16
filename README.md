@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## This father won't be outfoxed
+
+Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)
+
+![This father won't be outfoxed](https://bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-16
+
+Download 4k: [This father won't be outfoxed](https://bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where there's a will, there's a wave
 
 Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)
@@ -116,16 +126,6 @@ Family of humpback whales, Dutch Harbor, Alaska (© Jude Newkirk/Amazing Aerial 
 Date: 2024-06-07
 
 Download 4k: [Waves of hope](https://bing.com/th?id=OHR.HumpbackFamily_EN-US6789097648_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## D-Day: 80 years on
-
-Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)
-
-![D-Day: 80 years on](https://bing.com/th?id=OHR.LesBravesNormandy_EN-US6707866678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-06
-
-Download 4k: [D-Day: 80 years on](https://bing.com/th?id=OHR.LesBravesNormandy_EN-US6707866678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
