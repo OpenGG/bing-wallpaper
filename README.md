@@ -59,7 +59,7 @@ Download 4k: [Long may it wave](https://bing.com/th?id=OHR.FlagsDC_EN-US93637788
 
 ## Tile tales
 
-Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)
+Mosaic façade in the Registan, Samarkand, Uzbekistan (© da-kuk/Getty Images)
 
 ![Tile tales](https://bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
 
@@ -67,19 +67,19 @@ Date: 2024-06-13
 
 Download 4k: [Tile tales](https://bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## A galactic gig
+## Happy 80th, Big Bend!
 
 Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)
 
-![A galactic gig](https://bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+![Happy 80th, Big Bend!](https://bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
 
 Date: 2024-06-12
 
-Download 4k: [A galactic gig](https://bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+Download 4k: [Happy 80th, Big Bend!](https://bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 ## These antelopes are real gems
 
-Southern gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)
+Gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)
 
 ![These antelopes are real gems](https://bing.com/th?id=OHR.GemsbokBotswana_EN-US7126985499_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
 
@@ -99,7 +99,7 @@ Download 4k: [City of neon dreams](https://bing.com/th?id=OHR.OsakaNight_EN-US70
 
 ## Breathtaking silence
 
-Bardenas Reales Biosphere Reserve and Natural Park, Bardenas, Navarra, Spain (© Aliaume Chapelle/Tandem Stills + Motion)
+Bardenas Reales Biosphere Reserve and Natural Park, Bardenas, Navarre, Spain (© Aliaume Chapelle/Tandem Stills + Motion)
 
 ![Breathtaking silence](https://bing.com/th?id=OHR.BardenasBiosphere_EN-US6936891495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
 
