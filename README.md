@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## 'Lupin' into summer
+
+Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)
+
+!['Lupin' into summer](https://bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-18
+
+Download 4k: ['Lupin' into summer](https://bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Spread the pollen
 
 Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)
@@ -116,16 +126,6 @@ Bardenas Reales Biosphere Reserve and Natural Park, Bardenas, Navarre, Spain (©
 Date: 2024-06-09
 
 Download 4k: [Breathtaking silence](https://bing.com/th?id=OHR.BardenasBiosphere_EN-US6936891495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The meeting of the waters
-
-Confluence of Easter Creek and Killik River, Gates of the Arctic National Park, Alaska (© Patrick J. Endres/Getty Images)
-
-![The meeting of the waters](https://bing.com/th?id=OHR.KillikRiverAlaska_EN-US6860539516_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-08
-
-Download 4k: [The meeting of the waters](https://bing.com/th?id=OHR.KillikRiverAlaska_EN-US6860539516_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
