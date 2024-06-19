@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Happy Juneteenth!
+
+Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York (© Alpha Stock/Alamy)
+
+![Happy Juneteenth!](https://bing.com/th?id=OHR.LawrenceMosaic_EN-US0314379909_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-19
+
+Download 4k: [Happy Juneteenth!](https://bing.com/th?id=OHR.LawrenceMosaic_EN-US0314379909_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## 'Lupin' into summer
 
 Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)
@@ -116,16 +126,6 @@ Osaka at night, Japan (© wichianduangsri/Getty Images)
 Date: 2024-06-10
 
 Download 4k: [City of neon dreams](https://bing.com/th?id=OHR.OsakaNight_EN-US7022302235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Breathtaking silence
-
-Bardenas Reales Biosphere Reserve and Natural Park, Bardenas, Navarre, Spain (© Aliaume Chapelle/Tandem Stills + Motion)
-
-![Breathtaking silence](https://bing.com/th?id=OHR.BardenasBiosphere_EN-US6936891495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-09
-
-Download 4k: [Breathtaking silence](https://bing.com/th?id=OHR.BardenasBiosphere_EN-US6936891495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
