@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sunrise on the solstice
+
+Kokino, an ancient megalithic observatory, North Macedonia (© stoimilov/Shutterstock)
+
+![Sunrise on the solstice](https://bing.com/th?id=OHR.KokinoMacedonia_EN-US0466604378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-20
+
+Download 4k: [Sunrise on the solstice](https://bing.com/th?id=OHR.KokinoMacedonia_EN-US0466604378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Happy Juneteenth!
 
 Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York (© Alpha Stock/Alamy)
@@ -116,16 +126,6 @@ Gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)
 Date: 2024-06-11
 
 Download 4k: [These antelopes are real gems](https://bing.com/th?id=OHR.GemsbokBotswana_EN-US7126985499_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## City of neon dreams
-
-Osaka at night, Japan (© wichianduangsri/Getty Images)
-
-![City of neon dreams](https://bing.com/th?id=OHR.OsakaNight_EN-US7022302235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-10
-
-Download 4k: [City of neon dreams](https://bing.com/th?id=OHR.OsakaNight_EN-US7022302235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
