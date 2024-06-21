@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Spot-on connection
+
+Reticulated giraffe mother greeting calf, Lewa Wildlife Conservancy, Kenya (© Sean Crane/Minden Pictures)
+
+![Spot-on connection](https://bing.com/th?id=OHR.LewaGiraffe_EN-US0571205457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-21
+
+Download 4k: [Spot-on connection](https://bing.com/th?id=OHR.LewaGiraffe_EN-US0571205457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Sunrise on the solstice
 
 Kokino, an ancient megalithic observatory, North Macedonia (© stoimilov/Shutterstock)
@@ -116,16 +126,6 @@ Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)
 Date: 2024-06-12
 
 Download 4k: [Happy 80th, Big Bend!](https://bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## These antelopes are real gems
-
-Gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)
-
-![These antelopes are real gems](https://bing.com/th?id=OHR.GemsbokBotswana_EN-US7126985499_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-11
-
-Download 4k: [These antelopes are real gems](https://bing.com/th?id=OHR.GemsbokBotswana_EN-US7126985499_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
