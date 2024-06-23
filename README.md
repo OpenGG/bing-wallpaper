@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Dark night, city lights
+
+Aerial view of an intersection in Dhaka, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)
+
+![Dark night, city lights](https://bing.com/th?id=OHR.DhakaBangladesh_EN-US0835586345_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-23
+
+Download 4k: [Dark night, city lights](https://bing.com/th?id=OHR.DhakaBangladesh_EN-US0835586345_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Getting lost in the mist
 
 Amazon rainforest, Brazil (© Claus Meyer/plainpicture)
@@ -116,16 +126,6 @@ Flag display at the Washington Monument, Washington, DC  (© tristanbnz/Adobe St
 Date: 2024-06-14
 
 Download 4k: [Long may it wave](https://bing.com/th?id=OHR.FlagsDC_EN-US9363778856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Tile tales
-
-Mosaic façade in the Registan, Samarkand, Uzbekistan (© da-kuk/Getty Images)
-
-![Tile tales](https://bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-13
-
-Download 4k: [Tile tales](https://bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
