@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Flowing through Valley of Fire
+
+Fire Wave, a rock formation in Valley of Fire State Park, Nevada (© Clint Losee/Tandem Stills + Motion)
+
+![Flowing through Valley of Fire](https://bing.com/th?id=OHR.FireWave_EN-US1154414797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-25
+
+Download 4k: [Flowing through Valley of Fire](https://bing.com/th?id=OHR.FireWave_EN-US1154414797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The sacred lakes of Kelimutu
 
 Volcanic crater lakes on Kelimutu, Flores, Indonesia (© Shane P. White/Minden Pictures)
@@ -116,16 +126,6 @@ Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)
 Date: 2024-06-16
 
 Download 4k: [This father won't be outfoxed](https://bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where there's a will, there's a wave
-
-Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)
-
-![Where there's a will, there's a wave](https://bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-15
-
-Download 4k: [Where there's a will, there's a wave](https://bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
