@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Stripe-tacular!
+
+Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)
+
+![Stripe-tacular!](https://bing.com/th?id=OHR.CardinalfishAnemone_EN-US1278259894_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-26
+
+Download 4k: [Stripe-tacular!](https://bing.com/th?id=OHR.CardinalfishAnemone_EN-US1278259894_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Flowing through Valley of Fire
 
 Fire Wave, a rock formation in Valley of Fire State Park, Nevada (© Clint Losee/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Cost
 Date: 2024-06-17
 
 Download 4k: [Spread the pollen](https://bing.com/th?id=OHR.HummingThistle_EN-US9897642087_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## This father won't be outfoxed
-
-Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)
-
-![This father won't be outfoxed](https://bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-16
-
-Download 4k: [This father won't be outfoxed](https://bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
