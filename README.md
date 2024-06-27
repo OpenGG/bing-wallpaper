@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Dome sweet dome
+
+Duomo Santa Maria del Fiore at dusk, Florence, Italy (© Elena Pueyo/Getty Images)
+
+![Dome sweet dome](https://bing.com/th?id=OHR.FlorenceDuomo_EN-US1448955167_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-27
+
+Download 4k: [Dome sweet dome](https://bing.com/th?id=OHR.FlorenceDuomo_EN-US1448955167_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Stripe-tacular!
 
 Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)
@@ -116,16 +126,6 @@ Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo 
 Date: 2024-06-18
 
 Download 4k: ['Lupin' into summer](https://bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Spread the pollen
-
-Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)
-
-![Spread the pollen](https://bing.com/th?id=OHR.HummingThistle_EN-US9897642087_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-17
-
-Download 4k: [Spread the pollen](https://bing.com/th?id=OHR.HummingThistle_EN-US9897642087_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
