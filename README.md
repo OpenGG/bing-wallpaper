@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Saddle up for Le Tour!
+
+Cyclists in the 2013 Tour de France, Corsica, France (© Pascal Pochard-Casabianca/AFP via Getty Images)
+
+![Saddle up for Le Tour!](https://bing.com/th?id=OHR.TourCorsica_EN-US3437831281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-06-29
+
+Download 4k: [Saddle up for Le Tour!](https://bing.com/th?id=OHR.TourCorsica_EN-US3437831281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The pride of New York City
 
 Pride flags at Christopher Park, Stonewall National Monument, New York City (© Noam Galai/Getty Images)
@@ -116,16 +126,6 @@ Kokino, an ancient megalithic observatory, North Macedonia (© stoimilov/Shutter
 Date: 2024-06-20
 
 Download 4k: [Sunrise on the solstice](https://bing.com/th?id=OHR.KokinoMacedonia_EN-US0466604378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Happy Juneteenth!
-
-Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York (© Alpha Stock/Alamy)
-
-![Happy Juneteenth!](https://bing.com/th?id=OHR.LawrenceMosaic_EN-US0314379909_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-19
-
-Download 4k: [Happy Juneteenth!](https://bing.com/th?id=OHR.LawrenceMosaic_EN-US0314379909_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
