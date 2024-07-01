@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Cheers to Canada!
+
+Fisgard Lighthouse, Esquimalt Harbor, Colwood, British Columbia, Canada (© davemantel/Getty Images)
+
+![Cheers to Canada!](https://bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-01
+
+Download 4k: [Cheers to Canada!](https://bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## You won't forget 'Ubud' it!
 
 Stone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)
@@ -117,17 +127,9 @@ Date: 2024-06-22
 
 Download 4k: [Getting lost in the mist](https://bing.com/th?id=OHR.BrazilRainforest_EN-US0704211658_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Spot-on connection
-
-Reticulated giraffe mother greeting calf, Lewa Wildlife Conservancy, Kenya (© Sean Crane/Minden Pictures)
-
-![Spot-on connection](https://bing.com/th?id=OHR.LewaGiraffe_EN-US0571205457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-21
-
-Download 4k: [Spot-on connection](https://bing.com/th?id=OHR.LewaGiraffe_EN-US0571205457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2024-07](./archive/2024/07.md)
 
 [2024-06](./archive/2024/06.md)
 
