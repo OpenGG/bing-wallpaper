@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Ghosts of cities past
+
+The Roman amphitheater of Italica, near Seville, Spain (© Moses Palermo/Amazing Aerial Agency)
+
+![Ghosts of cities past](https://bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-02
+
+Download 4k: [Ghosts of cities past](https://bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Cheers to Canada!
 
 Fisgard Lighthouse, Esquimalt Harbor, Colwood, British Columbia, Canada (© davemantel/Getty Images)
@@ -116,16 +126,6 @@ Aerial view of an intersection in Dhaka, Bangladesh (© Azim Khan Ronnie/Amazing
 Date: 2024-06-23
 
 Download 4k: [Dark night, city lights](https://bing.com/th?id=OHR.DhakaBangladesh_EN-US0835586345_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Getting lost in the mist
-
-Amazon rainforest, Brazil (© Claus Meyer/plainpicture)
-
-![Getting lost in the mist](https://bing.com/th?id=OHR.BrazilRainforest_EN-US0704211658_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-22
-
-Download 4k: [Getting lost in the mist](https://bing.com/th?id=OHR.BrazilRainforest_EN-US0704211658_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
