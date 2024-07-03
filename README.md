@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Heads up!
+
+Meerkat family (© anetapics/Shutterstock)
+
+![Heads up!](https://bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-03
+
+Download 4k: [Heads up!](https://bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Ghosts of cities past
 
 The Roman amphitheater of Italica, near Seville, Spain (© Moses Palermo/Amazing Aerial Agency)
@@ -116,16 +126,6 @@ Volcanic crater lakes on Kelimutu, Flores, Indonesia (© Shane P. White/Minden P
 Date: 2024-06-24
 
 Download 4k: [The sacred lakes of Kelimutu](https://bing.com/th?id=OHR.FloresIsland_EN-US1042279828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Dark night, city lights
-
-Aerial view of an intersection in Dhaka, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)
-
-![Dark night, city lights](https://bing.com/th?id=OHR.DhakaBangladesh_EN-US0835586345_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-23
-
-Download 4k: [Dark night, city lights](https://bing.com/th?id=OHR.DhakaBangladesh_EN-US0835586345_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
