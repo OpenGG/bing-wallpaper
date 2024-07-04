@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Happy Independence Day!
+
+Fireworks over the Hudson River on the Fourth of July, New York (© New York on Air/Shutterstock)
+
+![Happy Independence Day!](https://bing.com/th?id=OHR.HudsonFireworks_EN-US4304057228_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-04
+
+Download 4k: [Happy Independence Day!](https://bing.com/th?id=OHR.HudsonFireworks_EN-US4304057228_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Heads up!
 
 Meerkat family (© anetapics/Shutterstock)
@@ -116,16 +126,6 @@ Fire Wave, a rock formation in Valley of Fire State Park, Nevada (© Clint Losee
 Date: 2024-06-25
 
 Download 4k: [Flowing through Valley of Fire](https://bing.com/th?id=OHR.FireWave_EN-US1154414797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The sacred lakes of Kelimutu
-
-Volcanic crater lakes on Kelimutu, Flores, Indonesia (© Shane P. White/Minden Pictures)
-
-![The sacred lakes of Kelimutu](https://bing.com/th?id=OHR.FloresIsland_EN-US1042279828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-24
-
-Download 4k: [The sacred lakes of Kelimutu](https://bing.com/th?id=OHR.FloresIsland_EN-US1042279828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
