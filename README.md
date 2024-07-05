@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A coastal encounter
+
+Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)
+
+![A coastal encounter](https://bing.com/th?id=OHR.NoahBeach_EN-US4383778312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-05
+
+Download 4k: [A coastal encounter](https://bing.com/th?id=OHR.NoahBeach_EN-US4383778312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Happy Independence Day!
 
 Fireworks over the Hudson River on the Fourth of July, New York (© New York on Air/Shutterstock)
@@ -116,16 +126,6 @@ Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, I
 Date: 2024-06-26
 
 Download 4k: [Stripe-tacular!](https://bing.com/th?id=OHR.CardinalfishAnemone_EN-US1278259894_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Flowing through Valley of Fire
-
-Fire Wave, a rock formation in Valley of Fire State Park, Nevada (© Clint Losee/Tandem Stills + Motion)
-
-![Flowing through Valley of Fire](https://bing.com/th?id=OHR.FireWave_EN-US1154414797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-25
-
-Download 4k: [Flowing through Valley of Fire](https://bing.com/th?id=OHR.FireWave_EN-US1154414797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
