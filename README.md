@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Built to last
+
+Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)
+
+![Built to last](https://bing.com/th?id=OHR.ConwyRiver_EN-US4472231451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-06
+
+Download 4k: [Built to last](https://bing.com/th?id=OHR.ConwyRiver_EN-US4472231451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A coastal encounter
 
 Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)
@@ -116,16 +126,6 @@ Duomo Santa Maria del Fiore at dusk, Florence, Italy (© Elena Pueyo/Getty Image
 Date: 2024-06-27
 
 Download 4k: [Dome sweet dome](https://bing.com/th?id=OHR.FlorenceDuomo_EN-US1448955167_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Stripe-tacular!
-
-Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)
-
-![Stripe-tacular!](https://bing.com/th?id=OHR.CardinalfishAnemone_EN-US1278259894_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-26
-
-Download 4k: [Stripe-tacular!](https://bing.com/th?id=OHR.CardinalfishAnemone_EN-US1278259894_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
