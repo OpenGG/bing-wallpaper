@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Berry beautiful
+
+Blueberries growing in the wild (© Baac3nes/Getty Images)
+
+![Berry beautiful](https://bing.com/th?id=OHR.NorwayBlueberries_EN-US4598733420_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-08
+
+Download 4k: [Berry beautiful](https://bing.com/th?id=OHR.NorwayBlueberries_EN-US4598733420_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Rice and shine
 
 Rice terraces of Mù Cang Chải, Yên Bái province, Vietnam (© Kiatanan Sugsompian/Getty Images)
@@ -116,16 +126,6 @@ Cyclists in the 2013 Tour de France, Corsica, France (© Pascal Pochard-Casabian
 Date: 2024-06-29
 
 Download 4k: [Saddle up for Le Tour!](https://bing.com/th?id=OHR.TourCorsica_EN-US3437831281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The pride of New York City
-
-Pride flags at Christopher Park, Stonewall National Monument, New York City (© Noam Galai/Getty Images)
-
-![The pride of New York City](https://bing.com/th?id=OHR.ChristopherPark_EN-US9362447266_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-28
-
-Download 4k: [The pride of New York City](https://bing.com/th?id=OHR.ChristopherPark_EN-US9362447266_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
