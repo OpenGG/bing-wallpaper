@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Towering Talampaya
+
+Talampaya National Park, La Rioja province, Argentina (© Gonzalo Azumendi/Getty Images)
+
+![Towering Talampaya](https://bing.com/th?id=OHR.TalampayaNP_EN-US4761770918_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-09
+
+Download 4k: [Towering Talampaya](https://bing.com/th?id=OHR.TalampayaNP_EN-US4761770918_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Berry beautiful
 
 Blueberries growing in the wild (© Baac3nes/Getty Images)
@@ -116,16 +126,6 @@ Stone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpictu
 Date: 2024-06-30
 
 Download 4k: [You won't forget 'Ubud' it!](https://bing.com/th?id=OHR.UbudBali_EN-US3541248173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Saddle up for Le Tour!
-
-Cyclists in the 2013 Tour de France, Corsica, France (© Pascal Pochard-Casabianca/AFP via Getty Images)
-
-![Saddle up for Le Tour!](https://bing.com/th?id=OHR.TourCorsica_EN-US3437831281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-29
-
-Download 4k: [Saddle up for Le Tour!](https://bing.com/th?id=OHR.TourCorsica_EN-US3437831281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
