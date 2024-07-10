@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A 'toucan' of appreciation
+
+Collared aracari, Costa Rica (© Juan Carlos Vindas/Getty Images)
+
+![A 'toucan' of appreciation](https://bing.com/th?id=OHR.CollaredAracari_EN-US4924599176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-10
+
+Download 4k: [A 'toucan' of appreciation](https://bing.com/th?id=OHR.CollaredAracari_EN-US4924599176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Towering Talampaya
 
 Talampaya National Park, La Rioja province, Argentina (© Gonzalo Azumendi/Getty Images)
@@ -116,16 +126,6 @@ Fisgard Lighthouse, Esquimalt Harbor, Colwood, British Columbia, Canada (© dave
 Date: 2024-07-01
 
 Download 4k: [Cheers to Canada!](https://bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## You won't forget 'Ubud' it!
-
-Stone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)
-
-![You won't forget 'Ubud' it!](https://bing.com/th?id=OHR.UbudBali_EN-US3541248173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-06-30
-
-Download 4k: [You won't forget 'Ubud' it!](https://bing.com/th?id=OHR.UbudBali_EN-US3541248173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
