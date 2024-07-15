@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Seas the day
+
+Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)
+
+![Seas the day](https://bing.com/th?id=OHR.TateishiPark_EN-US8384642632_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-15
+
+Download 4k: [Seas the day](https://bing.com/th?id=OHR.TateishiPark_EN-US8384642632_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Sip, sip, hooray!
 
 Volcanic vineyard in the La Geria wine region of Lanzarote, Canary Islands, Spain (© Pol Albarrán/Getty Images)
@@ -116,16 +126,6 @@ Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)
 Date: 2024-07-06
 
 Download 4k: [Built to last](https://bing.com/th?id=OHR.ConwyRiver_EN-US4472231451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A coastal encounter
-
-Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)
-
-![A coastal encounter](https://bing.com/th?id=OHR.NoahBeach_EN-US4383778312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-05
-
-Download 4k: [A coastal encounter](https://bing.com/th?id=OHR.NoahBeach_EN-US4383778312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
