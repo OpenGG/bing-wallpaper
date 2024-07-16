@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Digging into the past
+
+The Neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)
+
+![Digging into the past](https://bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-16
+
+Download 4k: [Digging into the past](https://bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Seas the day
 
 Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)
@@ -116,16 +126,6 @@ Rice terraces of Mù Cang Chải, Yên Bái province, Vietnam (© Kiatanan Sugso
 Date: 2024-07-07
 
 Download 4k: [Rice and shine](https://bing.com/th?id=OHR.YenBaiTerraces_EN-US4542290370_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Built to last
-
-Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)
-
-![Built to last](https://bing.com/th?id=OHR.ConwyRiver_EN-US4472231451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-06
-
-Download 4k: [Built to last](https://bing.com/th?id=OHR.ConwyRiver_EN-US4472231451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
