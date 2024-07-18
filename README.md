@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Deep and meaningful
+
+Coral reef in the Indian Ocean, Mayotte, France (© Gabriel Barathieu/Minden Pictures)
+
+![Deep and meaningful](https://bing.com/th?id=OHR.MayotteCoral_EN-US8740739098_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-18
+
+Download 4k: [Deep and meaningful](https://bing.com/th?id=OHR.MayotteCoral_EN-US8740739098_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Towering with history
 
 Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)
@@ -116,16 +126,6 @@ Talampaya National Park, La Rioja province, Argentina (© Gonzalo Azumendi/Getty
 Date: 2024-07-09
 
 Download 4k: [Towering Talampaya](https://bing.com/th?id=OHR.TalampayaNP_EN-US4761770918_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Berry beautiful
-
-Blueberries growing in the wild (© Baac3nes/Getty Images)
-
-![Berry beautiful](https://bing.com/th?id=OHR.NorwayBlueberries_EN-US4598733420_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-08
-
-Download 4k: [Berry beautiful](https://bing.com/th?id=OHR.NorwayBlueberries_EN-US4598733420_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
