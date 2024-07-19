@@ -29,13 +29,13 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 ## Deep and meaningful
 
-Coral reef in the Indian Ocean, Mayotte, France (© Gabriel Barathieu/Minden Pictures)
+Coral reef in the Indian Ocean, overseas department of Mayotte, France (© Gabriel Barathieu/Minden Pictures)
 
-![Deep and meaningful](https://bing.com/th?id=OHR.MayotteCoral_EN-US8740739098_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+![Deep and meaningful](https://bing.com/th?id=OHR.MayotteCoral_EN-US4102346691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
 
 Date: 2024-07-18
 
-Download 4k: [Deep and meaningful](https://bing.com/th?id=OHR.MayotteCoral_EN-US8740739098_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+Download 4k: [Deep and meaningful](https://bing.com/th?id=OHR.MayotteCoral_EN-US4102346691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 ## Towering with history
 
