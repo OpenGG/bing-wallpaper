@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Clever camouflage
+
+A young jaguar on a riverbank, Pantanal, Brazil (© Tambako the Jaguar/Getty Images)
+
+![Clever camouflage](https://bing.com/th?id=OHR.YoungJaguar_EN-US8866928893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-19
+
+Download 4k: [Clever camouflage](https://bing.com/th?id=OHR.YoungJaguar_EN-US8866928893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Deep and meaningful
 
 Coral reef in the Indian Ocean, overseas department of Mayotte, France (© Gabriel Barathieu/Minden Pictures)
@@ -116,16 +126,6 @@ Collared aracari, Costa Rica (© Juan Carlos Vindas/Getty Images)
 Date: 2024-07-10
 
 Download 4k: [A 'toucan' of appreciation](https://bing.com/th?id=OHR.CollaredAracari_EN-US4924599176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Towering Talampaya
-
-Talampaya National Park, La Rioja province, Argentina (© Gonzalo Azumendi/Getty Images)
-
-![Towering Talampaya](https://bing.com/th?id=OHR.TalampayaNP_EN-US4761770918_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-09
-
-Download 4k: [Towering Talampaya](https://bing.com/th?id=OHR.TalampayaNP_EN-US4761770918_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
