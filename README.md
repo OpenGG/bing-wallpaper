@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## To the moon and back
+
+The moon (© Victor Blum/Getty Images)
+
+![To the moon and back](https://bing.com/th?id=OHR.MineralMoon_EN-US8936600169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-20
+
+Download 4k: [To the moon and back](https://bing.com/th?id=OHR.MineralMoon_EN-US8936600169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Clever camouflage
 
 A young jaguar on a riverbank, Pantanal, Brazil (© Tambako the Jaguar/Getty Images)
@@ -116,16 +126,6 @@ Gangi, Sicily, Italy (© Andrea Caruso/Amazing Aerial Agency)
 Date: 2024-07-11
 
 Download 4k: [You are one in 8.1 billion](https://bing.com/th?id=OHR.GangiSicily_EN-US5325083744_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A 'toucan' of appreciation
-
-Collared aracari, Costa Rica (© Juan Carlos Vindas/Getty Images)
-
-![A 'toucan' of appreciation](https://bing.com/th?id=OHR.CollaredAracari_EN-US4924599176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-10
-
-Download 4k: [A 'toucan' of appreciation](https://bing.com/th?id=OHR.CollaredAracari_EN-US4924599176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
