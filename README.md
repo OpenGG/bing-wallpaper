@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Smooth sailing
+
+Wooden fishing boats at Kendwa, Zanzibar, Tanzania (© Lubos Paukeje/Alamy)
+
+![Smooth sailing](https://bing.com/th?id=OHR.ZanzibarBoats_EN-US9009404410_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-21
+
+Download 4k: [Smooth sailing](https://bing.com/th?id=OHR.ZanzibarBoats_EN-US9009404410_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## To the moon and back
 
 The moon (© Victor Blum/Getty Images)
@@ -116,16 +126,6 @@ Wildflowers in Mount Rainier National Park, Washington (© RomanKhomlyak/Getty I
 Date: 2024-07-12
 
 Download 4k: [Come Rainier or shine](https://bing.com/th?id=OHR.RainierWildflowers_EN-US8010104719_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## You are one in 8.1 billion
-
-Gangi, Sicily, Italy (© Andrea Caruso/Amazing Aerial Agency)
-
-![You are one in 8.1 billion](https://bing.com/th?id=OHR.GangiSicily_EN-US5325083744_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-11
-
-Download 4k: [You are one in 8.1 billion](https://bing.com/th?id=OHR.GangiSicily_EN-US5325083744_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
