@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Just hanging out
+
+Hammock camping on a lake in Central Florida (© Mac Stone/Tandem Stills + Motion)
+
+![Just hanging out](https://bing.com/th?id=OHR.HammockCamping_EN-US9298465355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-22
+
+Download 4k: [Just hanging out](https://bing.com/th?id=OHR.HammockCamping_EN-US9298465355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Smooth sailing
 
 Wooden fishing boats at Kendwa, Zanzibar, Tanzania (© Lubos Paukeje/Alamy)
@@ -116,16 +126,6 @@ Fairy chimneys and cave dwellings in Cappadocia, Türkiye (© Storm Is Me/Shutte
 Date: 2024-07-13
 
 Download 4k: [Türkiye's stony spires](https://bing.com/th?id=OHR.CappadociaRocks_EN-US8162611189_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Come Rainier or shine
-
-Wildflowers in Mount Rainier National Park, Washington (© RomanKhomlyak/Getty Images)
-
-![Come Rainier or shine](https://bing.com/th?id=OHR.RainierWildflowers_EN-US8010104719_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-12
-
-Download 4k: [Come Rainier or shine](https://bing.com/th?id=OHR.RainierWildflowers_EN-US8010104719_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
