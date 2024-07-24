@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Baa-utiful family
+
+Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)
+
+![Baa-utiful family](https://bing.com/th?id=OHR.SheepCousins_EN-US9566915151_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-24
+
+Download 4k: [Baa-utiful family](https://bing.com/th?id=OHR.SheepCousins_EN-US9566915151_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Echoes of history
 
 Methoni Castle, Messenia, Greece (© Andrew Mayovskyy/Shutterstock)
@@ -116,16 +126,6 @@ Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)
 Date: 2024-07-15
 
 Download 4k: [Seas the day](https://bing.com/th?id=OHR.TateishiPark_EN-US8384642632_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Sip, sip, hooray!
-
-Volcanic vineyard in the La Geria wine region of Lanzarote, Canary Islands, Spain (© Pol Albarrán/Getty Images)
-
-![Sip, sip, hooray!](https://bing.com/th?id=OHR.LaGeriaLanzarote_EN-US4849523931_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-14
-
-Download 4k: [Sip, sip, hooray!](https://bing.com/th?id=OHR.LaGeriaLanzarote_EN-US4849523931_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
