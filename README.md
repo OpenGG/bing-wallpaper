@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Into the thick of it
+
+Forest path in Great Smoky Mountains National Park, Tennessee (© putmanphoto/Getty Images)
+
+![Into the thick of it](https://bing.com/th?id=OHR.SmokyMountainTrail_EN-US9730767535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-25
+
+Download 4k: [Into the thick of it](https://bing.com/th?id=OHR.SmokyMountainTrail_EN-US9730767535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Baa-utiful family
 
 Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)
@@ -116,16 +126,6 @@ The Neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - Fun
 Date: 2024-07-16
 
 Download 4k: [Digging into the past](https://bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Seas the day
-
-Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)
-
-![Seas the day](https://bing.com/th?id=OHR.TateishiPark_EN-US8384642632_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-15
-
-Download 4k: [Seas the day](https://bing.com/th?id=OHR.TateishiPark_EN-US8384642632_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
