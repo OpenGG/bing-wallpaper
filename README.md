@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Let the Games begin!
+
+Pont Neuf over the Seine, Paris, France (© f11photo/Getty Images)
+
+![Let the Games begin!](https://bing.com/th?id=OHR.PontNeuf_EN-US5735328254_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-26
+
+Download 4k: [Let the Games begin!](https://bing.com/th?id=OHR.PontNeuf_EN-US5735328254_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Into the thick of it
 
 Forest path in Great Smoky Mountains National Park, Tennessee (© putmanphoto/Getty Images)
@@ -116,16 +126,6 @@ Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)
 Date: 2024-07-17
 
 Download 4k: [Towering with history](https://bing.com/th?id=OHR.MedievalRothenburg_EN-US8575765997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Digging into the past
-
-The Neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)
-
-![Digging into the past](https://bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-16
-
-Download 4k: [Digging into the past](https://bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
