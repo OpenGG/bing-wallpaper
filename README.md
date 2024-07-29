@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Roar and explore
+
+Tiger siblings in Jim Corbett National Park, Uttarakhand, India (© Sourabh Bharti/Getty Images)
+
+![Roar and explore](https://bing.com/th?id=OHR.CorbettTigers_EN-US6183924498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-29
+
+Download 4k: [Roar and explore](https://bing.com/th?id=OHR.CorbettTigers_EN-US6183924498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Chromatic coastline
 
 Bathing huts on the beach in Skåne County, Sweden (© Martin Wahlborg/Getty Images)
@@ -116,16 +126,6 @@ The moon (© Victor Blum/Getty Images)
 Date: 2024-07-20
 
 Download 4k: [To the moon and back](https://bing.com/th?id=OHR.MineralMoon_EN-US8936600169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Clever camouflage
-
-A young jaguar on a riverbank, Pantanal, Brazil (© Tambako the Jaguar/Getty Images)
-
-![Clever camouflage](https://bing.com/th?id=OHR.YoungJaguar_EN-US8866928893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-19
-
-Download 4k: [Clever camouflage](https://bing.com/th?id=OHR.YoungJaguar_EN-US8866928893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
