@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## 'Hoodoo' we have here?
+
+Hoodoos, Sunset Point, Bryce Canyon National Park, Utah (© Tim Fitzharris/Minden Pictures)
+
+!['Hoodoo' we have here?](https://bing.com/th?id=OHR.HoodoosBryce_EN-US6434628044_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-07-31
+
+Download 4k: ['Hoodoo' we have here?](https://bing.com/th?id=OHR.HoodoosBryce_EN-US6434628044_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A medieval Manhattan
 
 San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)
@@ -116,16 +126,6 @@ Hammock camping on a lake in Central Florida (© Mac Stone/Tandem Stills + Motio
 Date: 2024-07-22
 
 Download 4k: [Just hanging out](https://bing.com/th?id=OHR.HammockCamping_EN-US9298465355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Smooth sailing
-
-Wooden fishing boats at Kendwa, Zanzibar, Tanzania (© Lubos Paukeje/Alamy)
-
-![Smooth sailing](https://bing.com/th?id=OHR.ZanzibarBoats_EN-US9009404410_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-21
-
-Download 4k: [Smooth sailing](https://bing.com/th?id=OHR.ZanzibarBoats_EN-US9009404410_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
