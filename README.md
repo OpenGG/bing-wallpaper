@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Somewhere under the rainbow
+
+Trunk Bay, St. John, Virgin Islands National Park (© cdwheatley/Getty Images)
+
+![Somewhere under the rainbow](https://bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-02
+
+Download 4k: [Somewhere under the rainbow](https://bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## There's a boatload of bargains here
 
 Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)
@@ -116,16 +126,6 @@ Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Image
 Date: 2024-07-24
 
 Download 4k: [Baa-utiful family](https://bing.com/th?id=OHR.SheepCousins_EN-US9566915151_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Echoes of history
-
-Methoni Castle, Messenia, Greece (© Andrew Mayovskyy/Shutterstock)
-
-![Echoes of history](https://bing.com/th?id=OHR.MethoniCastle_EN-US9447007951_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-23
-
-Download 4k: [Echoes of history](https://bing.com/th?id=OHR.MethoniCastle_EN-US9447007951_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
