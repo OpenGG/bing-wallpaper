@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## You've got a friend in me
+
+Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images)
+
+![You've got a friend in me](https://bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-04
+
+Download 4k: [You've got a friend in me](https://bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Towering over Wulong
 
 Three Natural Bridges, Wulong Karst National Geology Park, China (© Pav-Pro Photography Ltd/Shutterstock)
@@ -116,16 +126,6 @@ Pont Neuf over the Seine, Paris, France (© f11photo/Getty Images)
 Date: 2024-07-26
 
 Download 4k: [Let the Games begin!](https://bing.com/th?id=OHR.PontNeuf_EN-US5735328254_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Into the thick of it
-
-Forest path in Great Smoky Mountains National Park, Tennessee (© putmanphoto/Getty Images)
-
-![Into the thick of it](https://bing.com/th?id=OHR.SmokyMountainTrail_EN-US9730767535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-25
-
-Download 4k: [Into the thick of it](https://bing.com/th?id=OHR.SmokyMountainTrail_EN-US9730767535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
