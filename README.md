@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A sea of purple
+
+Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)
+
+![A sea of purple](https://bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-05
+
+Download 4k: [A sea of purple](https://bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## You've got a friend in me
 
 Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images)
@@ -116,16 +126,6 @@ Vineyards in the Mosel Valley, Rhineland-Palatinate, Germany (© Jorg Greuel/Get
 Date: 2024-07-27
 
 Download 4k: ['Riesling' to perfection](https://bing.com/th?id=OHR.RhinelandVineyards_EN-US5864380431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Let the Games begin!
-
-Pont Neuf over the Seine, Paris, France (© f11photo/Getty Images)
-
-![Let the Games begin!](https://bing.com/th?id=OHR.PontNeuf_EN-US5735328254_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-26
-
-Download 4k: [Let the Games begin!](https://bing.com/th?id=OHR.PontNeuf_EN-US5735328254_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
