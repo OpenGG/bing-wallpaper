@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A very pleasant crescent
+
+Molokini Crater, Maui, Hawaii (© Douglas Peebles/eStock Photo)
+
+![A very pleasant crescent](https://bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-06
+
+Download 4k: [A very pleasant crescent](https://bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A sea of purple
 
 Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)
@@ -116,16 +126,6 @@ Bathing huts on the beach in Skåne County, Sweden (© Martin Wahlborg/Getty Ima
 Date: 2024-07-28
 
 Download 4k: [Chromatic coastline](https://bing.com/th?id=OHR.BeachHutsSweden_EN-US6029381108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## 'Riesling' to perfection
-
-Vineyards in the Mosel Valley, Rhineland-Palatinate, Germany (© Jorg Greuel/Getty Images)
-
-!['Riesling' to perfection](https://bing.com/th?id=OHR.RhinelandVineyards_EN-US5864380431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-27
-
-Download 4k: ['Riesling' to perfection](https://bing.com/th?id=OHR.RhinelandVineyards_EN-US5864380431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
