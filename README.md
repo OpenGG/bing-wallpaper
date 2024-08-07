@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## More than nautical necessity
+
+St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images)
+
+![More than nautical necessity](https://bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-07
+
+Download 4k: [More than nautical necessity](https://bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A very pleasant crescent
 
 Molokini Crater, Maui, Hawaii (© Douglas Peebles/eStock Photo)
@@ -116,16 +126,6 @@ Tiger siblings in Jim Corbett National Park, Uttarakhand, India (© Sourabh Bhar
 Date: 2024-07-29
 
 Download 4k: [Roar and explore](https://bing.com/th?id=OHR.CorbettTigers_EN-US6183924498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Chromatic coastline
-
-Bathing huts on the beach in Skåne County, Sweden (© Martin Wahlborg/Getty Images)
-
-![Chromatic coastline](https://bing.com/th?id=OHR.BeachHutsSweden_EN-US6029381108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-28
-
-Download 4k: [Chromatic coastline](https://bing.com/th?id=OHR.BeachHutsSweden_EN-US6029381108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
