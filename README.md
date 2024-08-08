@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Big stare for a little owl
+
+Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)
+
+![Big stare for a little owl](https://bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-08
+
+Download 4k: [Big stare for a little owl](https://bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## More than nautical necessity
 
 St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images)
@@ -116,16 +126,6 @@ San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)
 Date: 2024-07-30
 
 Download 4k: [A medieval Manhattan](https://bing.com/th?id=OHR.GimignanoTuscany_EN-US6339668180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Roar and explore
-
-Tiger siblings in Jim Corbett National Park, Uttarakhand, India (© Sourabh Bharti/Getty Images)
-
-![Roar and explore](https://bing.com/th?id=OHR.CorbettTigers_EN-US6183924498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-29
-
-Download 4k: [Roar and explore](https://bing.com/th?id=OHR.CorbettTigers_EN-US6183924498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
