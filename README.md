@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Celebrating Indigenous culture
+
+Inca ruin of Sacsayhuamán near Cusco, Peru (© SL_Photography/Getty Images)
+
+![Celebrating Indigenous culture](https://bing.com/th?id=OHR.IncaRuinPeru_EN-US1209778539_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-09
+
+Download 4k: [Celebrating Indigenous culture](https://bing.com/th?id=OHR.IncaRuinPeru_EN-US1209778539_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Big stare for a little owl
 
 Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)
@@ -116,16 +126,6 @@ Hoodoos, Sunset Point, Bryce Canyon National Park, Utah (© Tim Fitzharris/Minde
 Date: 2024-07-31
 
 Download 4k: ['Hoodoo' we have here?](https://bing.com/th?id=OHR.HoodoosBryce_EN-US6434628044_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A medieval Manhattan
-
-San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)
-
-![A medieval Manhattan](https://bing.com/th?id=OHR.GimignanoTuscany_EN-US6339668180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-30
-
-Download 4k: [A medieval Manhattan](https://bing.com/th?id=OHR.GimignanoTuscany_EN-US6339668180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
