@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Joshua under a starry blanket
+
+Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)
+
+![Joshua under a starry blanket](https://bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-10
+
+Download 4k: [Joshua under a starry blanket](https://bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Celebrating Indigenous culture
 
 Inca ruin of Sacsayhuamán near Cusco, Peru (© SL_Photography/Getty Images)
@@ -116,16 +126,6 @@ Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing
 Date: 2024-08-01
 
 Download 4k: [There's a boatload of bargains here](https://bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## 'Hoodoo' we have here?
-
-Hoodoos, Sunset Point, Bryce Canyon National Park, Utah (© Tim Fitzharris/Minden Pictures)
-
-!['Hoodoo' we have here?](https://bing.com/th?id=OHR.HoodoosBryce_EN-US6434628044_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-07-31
-
-Download 4k: ['Hoodoo' we have here?](https://bing.com/th?id=OHR.HoodoosBryce_EN-US6434628044_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
