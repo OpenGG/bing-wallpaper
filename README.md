@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The path less taken
+
+Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)
+
+![The path less taken](https://bing.com/th?id=OHR.TofinoVancouver_EN-US1466348668_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-11
+
+Download 4k: [The path less taken](https://bing.com/th?id=OHR.TofinoVancouver_EN-US1466348668_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Joshua under a starry blanket
 
 Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Trunk Bay, St. John, Virgin Islands National Park (© cdwheatley/Getty Images)
 Date: 2024-08-02
 
 Download 4k: [Somewhere under the rainbow](https://bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## There's a boatload of bargains here
-
-Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)
-
-![There's a boatload of bargains here](https://bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-01
-
-Download 4k: [There's a boatload of bargains here](https://bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
