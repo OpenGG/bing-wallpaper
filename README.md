@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Herd you loud and clear
+
+African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images)
+
+![Herd you loud and clear](https://bing.com/th?id=OHR.ElephantsAmboseli_EN-US1913542949_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-12
+
+Download 4k: [Herd you loud and clear](https://bing.com/th?id=OHR.ElephantsAmboseli_EN-US1913542949_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The path less taken
 
 Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)
@@ -116,16 +126,6 @@ Three Natural Bridges, Wulong Karst National Geology Park, China (© Pav-Pro Pho
 Date: 2024-08-03
 
 Download 4k: [Towering over Wulong](https://bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Somewhere under the rainbow
-
-Trunk Bay, St. John, Virgin Islands National Park (© cdwheatley/Getty Images)
-
-![Somewhere under the rainbow](https://bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-02
-
-Download 4k: [Somewhere under the rainbow](https://bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
