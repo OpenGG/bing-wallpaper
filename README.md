@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Adriatic heights
+
+Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)
+
+![Adriatic heights](https://bing.com/th?id=OHR.DugiOtokCroatia_EN-US1981524043_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-13
+
+Download 4k: [Adriatic heights](https://bing.com/th?id=OHR.DugiOtokCroatia_EN-US1981524043_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Herd you loud and clear
 
 African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images)
@@ -116,16 +126,6 @@ Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images)
 Date: 2024-08-04
 
 Download 4k: [You've got a friend in me](https://bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Towering over Wulong
-
-Three Natural Bridges, Wulong Karst National Geology Park, China (© Pav-Pro Photography Ltd/Shutterstock)
-
-![Towering over Wulong](https://bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-03
-
-Download 4k: [Towering over Wulong](https://bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
