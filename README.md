@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A 'hole' new world
+
+Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)
+
+![A 'hole' new world](https://bing.com/th?id=OHR.HangCave_EN-US9374263509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-15
+
+Download 4k: [A 'hole' new world](https://bing.com/th?id=OHR.HangCave_EN-US9374263509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Feeling sharp today
 
 Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)
@@ -116,16 +126,6 @@ Molokini Crater, Maui, Hawaii (© Douglas Peebles/eStock Photo)
 Date: 2024-08-06
 
 Download 4k: [A very pleasant crescent](https://bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A sea of purple
-
-Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)
-
-![A sea of purple](https://bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-05
-
-Download 4k: [A sea of purple](https://bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
