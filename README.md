@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Buckle up!
+
+Roller coaster in Nagashima Spa Land, Mie prefecture, Japan (© Japanese amateur photographer/Getty Images)
+
+![Buckle up!](https://bing.com/th?id=OHR.JapanRollerCoaster_EN-US9463845683_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-16
+
+Download 4k: [Buckle up!](https://bing.com/th?id=OHR.JapanRollerCoaster_EN-US9463845683_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A 'hole' new world
 
 Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)
@@ -116,16 +126,6 @@ St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty 
 Date: 2024-08-07
 
 Download 4k: [More than nautical necessity](https://bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A very pleasant crescent
-
-Molokini Crater, Maui, Hawaii (© Douglas Peebles/eStock Photo)
-
-![A very pleasant crescent](https://bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-06
-
-Download 4k: [A very pleasant crescent](https://bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
