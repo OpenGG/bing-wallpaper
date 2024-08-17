@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Light the way
+
+Alfanzina Lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)
+
+![Light the way](https://bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-17
+
+Download 4k: [Light the way](https://bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Buckle up!
 
 Roller coaster in Nagashima Spa Land, Mie prefecture, Japan (© Japanese amateur photographer/Getty Images)
@@ -116,16 +126,6 @@ Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)
 Date: 2024-08-08
 
 Download 4k: [Big stare for a little owl](https://bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## More than nautical necessity
-
-St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images)
-
-![More than nautical necessity](https://bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-07
-
-Download 4k: [More than nautical necessity](https://bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
