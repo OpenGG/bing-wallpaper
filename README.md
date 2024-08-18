@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Pier today ...
+
+Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)
+
+![Pier today ...](https://bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-18
+
+Download 4k: [Pier today ...](https://bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Light the way
 
 Alfanzina Lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)
@@ -116,16 +126,6 @@ Inca ruin of Sacsayhuamán near Cusco, Peru (© SL_Photography/Getty Images)
 Date: 2024-08-09
 
 Download 4k: [Celebrating Indigenous culture](https://bing.com/th?id=OHR.IncaRuinPeru_EN-US1209778539_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Big stare for a little owl
-
-Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)
-
-![Big stare for a little owl](https://bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-08
-
-Download 4k: [Big stare for a little owl](https://bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
