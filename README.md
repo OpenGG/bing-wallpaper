@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A grand view
+
+Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)
+
+![A grand view](https://bing.com/th?id=OHR.TetonSunrise_EN-US0849252457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-20
+
+Download 4k: [A grand view](https://bing.com/th?id=OHR.TetonSunrise_EN-US0849252457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## An old dream takes flight
 
 Museum of Flight, Seattle, Washington (© George Rose/Getty Images)
@@ -116,16 +126,6 @@ Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photo
 Date: 2024-08-11
 
 Download 4k: [The path less taken](https://bing.com/th?id=OHR.TofinoVancouver_EN-US1466348668_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Joshua under a starry blanket
-
-Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)
-
-![Joshua under a starry blanket](https://bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-10
-
-Download 4k: [Joshua under a starry blanket](https://bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
