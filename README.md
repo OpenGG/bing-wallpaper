@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Waiting to 'Galápa-go'
+
+Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)
+
+![Waiting to 'Galápa-go'](https://bing.com/th?id=OHR.NazcaBooby_EN-US0971401791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-21
+
+Download 4k: [Waiting to 'Galápa-go'](https://bing.com/th?id=OHR.NazcaBooby_EN-US0971401791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A grand view
 
 Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images
 Date: 2024-08-12
 
 Download 4k: [Herd you loud and clear](https://bing.com/th?id=OHR.ElephantsAmboseli_EN-US1913542949_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The path less taken
-
-Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)
-
-![The path less taken](https://bing.com/th?id=OHR.TofinoVancouver_EN-US1466348668_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-11
-
-Download 4k: [The path less taken](https://bing.com/th?id=OHR.TofinoVancouver_EN-US1466348668_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
