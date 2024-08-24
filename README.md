@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## All about the woods and waters
+
+Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)
+
+![All about the woods and waters](https://bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-24
+
+Download 4k: [All about the woods and waters](https://bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Doorway to the past
 
 Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)
@@ -116,16 +126,6 @@ Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/
 Date: 2024-08-15
 
 Download 4k: [A 'hole' new world](https://bing.com/th?id=OHR.HangCave_EN-US9374263509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Feeling sharp today
-
-Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)
-
-![Feeling sharp today](https://bing.com/th?id=OHR.WatarrkaLizard_EN-US2106702347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-14
-
-Download 4k: [Feeling sharp today](https://bing.com/th?id=OHR.WatarrkaLizard_EN-US2106702347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
