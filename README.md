@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Life's good in the swamp!
+
+Young black caiman, Tambopata National Reserve, Peru (© Maxime Aliaga/Minden Pictures)
+
+![Life's good in the swamp!](https://bing.com/th?id=OHR.YoungCaiman_EN-US8572688559_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-27
+
+Download 4k: [Life's good in the swamp!](https://bing.com/th?id=OHR.YoungCaiman_EN-US8572688559_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Idyllic island escape
 
 Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean (© Ian Shive/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem S
 Date: 2024-08-18
 
 Download 4k: [Pier today ...](https://bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Light the way
-
-Alfanzina Lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)
-
-![Light the way](https://bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-17
-
-Download 4k: [Light the way](https://bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
