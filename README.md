@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Games on
+
+Montmartre and Sacre Cœur, Paris, France (© Tuul & Bruno Morandi/Getty Images)
+
+![Games on](https://bing.com/th?id=OHR.ParalympicsParis_EN-US0355511969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-28
+
+Download 4k: [Games on](https://bing.com/th?id=OHR.ParalympicsParis_EN-US0355511969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Life's good in the swamp!
 
 Young black caiman, Tambopata National Reserve, Peru (© Maxime Aliaga/Minden Pictures)
@@ -116,16 +126,6 @@ Museum of Flight, Seattle, Washington (© George Rose/Getty Images)
 Date: 2024-08-19
 
 Download 4k: [An old dream takes flight](https://bing.com/th?id=OHR.FlightMuseum_EN-US0151236175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Pier today ...
-
-Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)
-
-![Pier today ...](https://bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-18
-
-Download 4k: [Pier today ...](https://bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
