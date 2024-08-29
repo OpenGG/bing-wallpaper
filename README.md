@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A Catalan cliffhanger
+
+Castellfollit de la Roca, Catalonia, Spain (© Eloi_Omella/Getty Images)
+
+![A Catalan cliffhanger](https://bing.com/th?id=OHR.CastellfollitSpain_EN-US8880313790_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-29
+
+Download 4k: [A Catalan cliffhanger](https://bing.com/th?id=OHR.CastellfollitSpain_EN-US8880313790_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Games on
 
 Montmartre and Sacre Cœur, Paris, France (© Tuul & Bruno Morandi/Getty Images)
@@ -116,16 +126,6 @@ Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + 
 Date: 2024-08-20
 
 Download 4k: [A grand view](https://bing.com/th?id=OHR.TetonSunrise_EN-US0849252457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## An old dream takes flight
-
-Museum of Flight, Seattle, Washington (© George Rose/Getty Images)
-
-![An old dream takes flight](https://bing.com/th?id=OHR.FlightMuseum_EN-US0151236175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-19
-
-Download 4k: [An old dream takes flight](https://bing.com/th?id=OHR.FlightMuseum_EN-US0151236175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
