@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Dune days and desert haze
+
+Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria (© Airpano/Amazing Aerial Agency)
+
+![Dune days and desert haze](https://bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-08-31
+
+Download 4k: [Dune days and desert haze](https://bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Being gentle to the giants
 
 A whale shark in Cenderawasih Bay, West Papua, Indonesia (© Andy Lerner/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Ocean City, Maryland, at sunrise (© Kevin Olson/Amazing Aerial Agency)
 Date: 2024-08-22
 
 Download 4k: [The morning glow](https://bing.com/th?id=OHR.OceanCityMD_EN-US1389904046_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Waiting to 'Galápa-go'
-
-Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)
-
-![Waiting to 'Galápa-go'](https://bing.com/th?id=OHR.NazcaBooby_EN-US0971401791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-21
-
-Download 4k: [Waiting to 'Galápa-go'](https://bing.com/th?id=OHR.NazcaBooby_EN-US0971401791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
