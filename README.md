@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Workers of the world, relax
+
+'Power of the Titans' mural by Andrei Krautsou, North Kansas City, Missouri (© Stephen Taylor/Alamy)
+
+![Workers of the world, relax](https://bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-02
+
+Download 4k: [Workers of the world, relax](https://bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Row your boat gently down the Thames
 
 River Thames, London, England (© Puthipong Worasaran/Getty Images)
@@ -116,16 +126,6 @@ Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan I
 Date: 2024-08-24
 
 Download 4k: [All about the woods and waters](https://bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Doorway to the past
-
-Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)
-
-![Doorway to the past](https://bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-23
-
-Download 4k: [Doorway to the past](https://bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
