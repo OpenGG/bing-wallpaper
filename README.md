@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Lights, camera, TIFF '24!
+
+Toronto city skyline seen from Lake Ontario, Canada (© Roberto Machado Noa/Getty Images)
+
+![Lights, camera, TIFF '24!](https://bing.com/th?id=OHR.TIFF2024_EN-US9586964456_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-05
+
+Download 4k: [Lights, camera, TIFF '24!](https://bing.com/th?id=OHR.TIFF2024_EN-US9586964456_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Birds of a feather hoot together
 
 Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)
@@ -116,16 +126,6 @@ Young black caiman, Tambopata National Reserve, Peru (© Maxime Aliaga/Minden Pi
 Date: 2024-08-27
 
 Download 4k: [Life's good in the swamp!](https://bing.com/th?id=OHR.YoungCaiman_EN-US8572688559_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Idyllic island escape
-
-Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean (© Ian Shive/Tandem Stills + Motion)
-
-![Idyllic island escape](https://bing.com/th?id=OHR.PalmyraAtoll_EN-US8399787979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-26
-
-Download 4k: [Idyllic island escape](https://bing.com/th?id=OHR.PalmyraAtoll_EN-US8399787979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
