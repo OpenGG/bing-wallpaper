@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Humming along
+
+Anna's hummingbird, Santa Cruz, California (© yhelfman/Getty Images)
+
+![Humming along](https://bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-07
+
+Download 4k: [Humming along](https://bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## 'Wood' you believe this view?
 
 Ancient beech tree, Glenariff Forest Park, County Antrim, Northern Ireland (© Dawid K Photography/Shutterstock)
@@ -116,16 +126,6 @@ Castellfollit de la Roca, Catalonia, Spain (© Eloi_Omella/Getty Images)
 Date: 2024-08-29
 
 Download 4k: [A Catalan cliffhanger](https://bing.com/th?id=OHR.CastellfollitSpain_EN-US8880313790_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Games on
-
-Montmartre and Sacre Cœur, Paris, France (© Tuul & Bruno Morandi/Getty Images)
-
-![Games on](https://bing.com/th?id=OHR.ParalympicsParis_EN-US0355511969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-28
-
-Download 4k: [Games on](https://bing.com/th?id=OHR.ParalympicsParis_EN-US0355511969_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
