@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A global chapter
+
+Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy)
+
+![A global chapter](https://bing.com/th?id=OHR.StockholmLibrary_EN-US4140921886_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-08
+
+Download 4k: [A global chapter](https://bing.com/th?id=OHR.StockholmLibrary_EN-US4140921886_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Humming along
 
 Anna's hummingbird, Santa Cruz, California (© yhelfman/Getty Images)
@@ -116,16 +126,6 @@ A whale shark in Cenderawasih Bay, West Papua, Indonesia (© Andy Lerner/Tandem 
 Date: 2024-08-30
 
 Download 4k: [Being gentle to the giants](https://bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A Catalan cliffhanger
-
-Castellfollit de la Roca, Catalonia, Spain (© Eloi_Omella/Getty Images)
-
-![A Catalan cliffhanger](https://bing.com/th?id=OHR.CastellfollitSpain_EN-US8880313790_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-29
-
-Download 4k: [A Catalan cliffhanger](https://bing.com/th?id=OHR.CastellfollitSpain_EN-US8880313790_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
