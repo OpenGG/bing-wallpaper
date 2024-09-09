@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Rainbow waves in 'big water'
+
+Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)
+
+![Rainbow waves in 'big water'](https://bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-09
+
+Download 4k: [Rainbow waves in 'big water'](https://bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A global chapter
 
 Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy)
@@ -116,16 +126,6 @@ Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria (© Air
 Date: 2024-08-31
 
 Download 4k: [Dune days and desert haze](https://bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Being gentle to the giants
-
-A whale shark in Cenderawasih Bay, West Papua, Indonesia (© Andy Lerner/Tandem Stills + Motion)
-
-![Being gentle to the giants](https://bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-30
-
-Download 4k: [Being gentle to the giants](https://bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
