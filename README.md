@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## From skyline to water
+
+Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)
+
+![From skyline to water](https://bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-10
+
+Download 4k: [From skyline to water](https://bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Rainbow waves in 'big water'
 
 Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)
@@ -116,16 +126,6 @@ River Thames, London, England (© Puthipong Worasaran/Getty Images)
 Date: 2024-09-01
 
 Download 4k: [Row your boat gently down the Thames](https://bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Dune days and desert haze
-
-Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria (© Airpano/Amazing Aerial Agency)
-
-![Dune days and desert haze](https://bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-08-31
-
-Download 4k: [Dune days and desert haze](https://bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
