@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Patriot Day
+
+National September 11 Memorial & Museum, New York City (© Antonino Bartuccio/Sime/eStock Photo)
+
+![Patriot Day](https://bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-11
+
+Download 4k: [Patriot Day](https://bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## From skyline to water
 
 Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)
@@ -116,16 +126,6 @@ Download 4k: [Unspoiled beauty for all](https://bing.com/th?id=OHR.AlpineLakes_E
 Date: 2024-09-02
 
 Download 4k: [Workers of the world, relax](https://bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Row your boat gently down the Thames
-
-River Thames, London, England (© Puthipong Worasaran/Getty Images)
-
-![Row your boat gently down the Thames](https://bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-01
-
-Download 4k: [Row your boat gently down the Thames](https://bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
