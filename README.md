@@ -37,15 +37,15 @@ Date: 2024-09-10
 
 Download 4k: [From skyline to water](https://bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Rainbow waves in 'big water'
+## The mighty Iguazu Falls
 
 Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)
 
-![Rainbow waves in 'big water'](https://bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+![The mighty Iguazu Falls](https://bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
 
 Date: 2024-09-09
 
-Download 4k: [Rainbow waves in 'big water'](https://bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+Download 4k: [The mighty Iguazu Falls](https://bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 ## A global chapter
 
@@ -67,15 +67,15 @@ Date: 2024-09-07
 
 Download 4k: [Humming along](https://bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## 'Wood' you believe this view?
+## Queen of the Glens
 
 Ancient beech tree, Glenariff Forest Park, County Antrim, Northern Ireland (© Dawid K Photography/Shutterstock)
 
-!['Wood' you believe this view?](https://bing.com/th?id=OHR.GlenariffPark_EN-US3914128007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+![Queen of the Glens](https://bing.com/th?id=OHR.GlenariffPark_EN-US3914128007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
 
 Date: 2024-09-06
 
-Download 4k: ['Wood' you believe this view?](https://bing.com/th?id=OHR.GlenariffPark_EN-US3914128007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+Download 4k: [Queen of the Glens](https://bing.com/th?id=OHR.GlenariffPark_EN-US3914128007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 ## Lights, camera, TIFF '24!
 
