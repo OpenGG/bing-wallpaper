@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Finding safe haven
+
+Lighthouse at Point Reyes National Seashore, California (© RMB Images/Photography by Robert Bowman/Getty Images)
+
+![Finding safe haven](https://bing.com/th?id=OHR.PointReyes_EN-US4731803211_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-13
+
+Download 4k: [Finding safe haven](https://bing.com/th?id=OHR.PointReyes_EN-US4731803211_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Have a fin-tastic day
 
 Dolphin pod near Réunion, overseas department of France, Indian Ocean (© Joost van Uffelen/Shutterstock)
@@ -116,16 +126,6 @@ Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)
 Date: 2024-09-04
 
 Download 4k: [Birds of a feather hoot together](https://bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Unspoiled beauty for all
-
-Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington (© Mitch Pittman/Tandem Stills + Motion)
-
-![Unspoiled beauty for all](https://bing.com/th?id=OHR.AlpineLakes_EN-US9676616320_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-03
-
-Download 4k: [Unspoiled beauty for all](https://bing.com/th?id=OHR.AlpineLakes_EN-US9676616320_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
