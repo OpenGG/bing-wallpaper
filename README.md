@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Celebrating Hispanic heritage
+
+Casa del Prado, Balboa Park, San Diego, California (© f11photo/Getty Images)
+
+![Celebrating Hispanic heritage](https://bing.com/th?id=OHR.BalboaPark_EN-US5050015037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-15
+
+Download 4k: [Celebrating Hispanic heritage](https://bing.com/th?id=OHR.BalboaPark_EN-US5050015037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Radiant Rapa Nui
 
 Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)
@@ -116,16 +126,6 @@ Ancient beech tree, Glenariff Forest Park, County Antrim, Northern Ireland (© D
 Date: 2024-09-06
 
 Download 4k: [Queen of the Glens](https://bing.com/th?id=OHR.GlenariffPark_EN-US3914128007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Lights, camera, TIFF '24!
-
-Toronto city skyline seen from Lake Ontario, Canada (© Roberto Machado Noa/Getty Images)
-
-![Lights, camera, TIFF '24!](https://bing.com/th?id=OHR.TIFF2024_EN-US9586964456_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-05
-
-Download 4k: [Lights, camera, TIFF '24!](https://bing.com/th?id=OHR.TIFF2024_EN-US9586964456_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
