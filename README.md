@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Lanterns and mooncakes
+
+Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy)
+
+![Lanterns and mooncakes](https://bing.com/th?id=OHR.MidAutumnSingapore_EN-US5283310908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-17
+
+Download 4k: [Lanterns and mooncakes](https://bing.com/th?id=OHR.MidAutumnSingapore_EN-US5283310908_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Wallabies on the watch
 
 Wallabies at sunrise, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)
@@ -116,16 +126,6 @@ Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy)
 Date: 2024-09-08
 
 Download 4k: [A global chapter](https://bing.com/th?id=OHR.StockholmLibrary_EN-US4140921886_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Humming along
-
-Anna's hummingbird, Santa Cruz, California (© yhelfman/Getty Images)
-
-![Humming along](https://bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-07
-
-Download 4k: [Humming along](https://bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
