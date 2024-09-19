@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Avast, landlubbers!
+
+Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images)
+
+![Avast, landlubbers!](https://bing.com/th?id=OHR.PiratePlayground_EN-US3254868743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-19
+
+Download 4k: [Avast, landlubbers!](https://bing.com/th?id=OHR.PiratePlayground_EN-US3254868743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Castle in the clouds
 
 Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images)
@@ -116,16 +126,6 @@ Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)
 Date: 2024-09-10
 
 Download 4k: [From skyline to water](https://bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The mighty Iguazu Falls
-
-Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)
-
-![The mighty Iguazu Falls](https://bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-09
-
-Download 4k: [The mighty Iguazu Falls](https://bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
