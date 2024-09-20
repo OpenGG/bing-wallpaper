@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Light dawns on Ocracoke
+
+Ocracoke Lighthouse on Ocracoke Island, North Carolina (© Chansak Joe/Getty Images)
+
+![Light dawns on Ocracoke](https://bing.com/th?id=OHR.OcracokeLight_EN-US3638306974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-20
+
+Download 4k: [Light dawns on Ocracoke](https://bing.com/th?id=OHR.OcracokeLight_EN-US3638306974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Avast, landlubbers!
 
 Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images)
@@ -116,16 +126,6 @@ National September 11 Memorial & Museum, New York City (© Antonino Bartuccio/Si
 Date: 2024-09-11
 
 Download 4k: [Patriot Day](https://bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## From skyline to water
-
-Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)
-
-![From skyline to water](https://bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-10
-
-Download 4k: [From skyline to water](https://bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
