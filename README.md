@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Prost! Oktoberfest begins
+
+Oktoberfest in Munich, Germany, at sunset (© AllesSuper21/iStock/Getty Images)
+
+![Prost! Oktoberfest begins](https://bing.com/th?id=OHR.MunichBeerfest_EN-US3708656793_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-21
+
+Download 4k: [Prost! Oktoberfest begins](https://bing.com/th?id=OHR.MunichBeerfest_EN-US3708656793_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Light dawns on Ocracoke
 
 Ocracoke Lighthouse on Ocracoke Island, North Carolina (© Chansak Joe/Getty Images)
@@ -116,16 +126,6 @@ Dolphin pod near Réunion, overseas department of France, Indian Ocean (© Joost
 Date: 2024-09-12
 
 Download 4k: [Have a fin-tastic day](https://bing.com/th?id=OHR.DolphinReunion_EN-US4598756391_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Patriot Day
-
-National September 11 Memorial & Museum, New York City (© Antonino Bartuccio/Sime/eStock Photo)
-
-![Patriot Day](https://bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-11
-
-Download 4k: [Patriot Day](https://bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
