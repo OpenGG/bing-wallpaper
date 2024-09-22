@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Fall into reflection
+
+Buttermere, Lake District National Park, England (© Alan Novelli/Alamy)
+
+![Fall into reflection](https://bing.com/th?id=OHR.AutumnCumbria_EN-US3797009731_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-22
+
+Download 4k: [Fall into reflection](https://bing.com/th?id=OHR.AutumnCumbria_EN-US3797009731_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Prost! Oktoberfest begins
 
 Oktoberfest in Munich, Germany, at sunset (© AllesSuper21/iStock/Getty Images)
@@ -116,16 +126,6 @@ Lighthouse at Point Reyes National Seashore, California (© RMB Images/Photograp
 Date: 2024-09-13
 
 Download 4k: [Finding safe haven](https://bing.com/th?id=OHR.PointReyes_EN-US4731803211_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Have a fin-tastic day
-
-Dolphin pod near Réunion, overseas department of France, Indian Ocean (© Joost van Uffelen/Shutterstock)
-
-![Have a fin-tastic day](https://bing.com/th?id=OHR.DolphinReunion_EN-US4598756391_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-12
-
-Download 4k: [Have a fin-tastic day](https://bing.com/th?id=OHR.DolphinReunion_EN-US4598756391_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
