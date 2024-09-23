@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Otter-ly amazing
+
+Sea otter, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)
+
+![Otter-ly amazing](https://bing.com/th?id=OHR.IcebergOtter_EN-US3869054406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-23
+
+Download 4k: [Otter-ly amazing](https://bing.com/th?id=OHR.IcebergOtter_EN-US3869054406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Fall into reflection
 
 Buttermere, Lake District National Park, England (© Alan Novelli/Alamy)
@@ -116,16 +126,6 @@ Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriy
 Date: 2024-09-14
 
 Download 4k: [Radiant Rapa Nui](https://bing.com/th?id=OHR.RapaNuiSunrise_EN-US4872610843_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Finding safe haven
-
-Lighthouse at Point Reyes National Seashore, California (© RMB Images/Photography by Robert Bowman/Getty Images)
-
-![Finding safe haven](https://bing.com/th?id=OHR.PointReyes_EN-US4731803211_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-13
-
-Download 4k: [Finding safe haven](https://bing.com/th?id=OHR.PointReyes_EN-US4731803211_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
