@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Falling for this view?
+
+Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)
+
+![Falling for this view?](https://bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-24
+
+Download 4k: [Falling for this view?](https://bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Otter-ly amazing
 
 Sea otter, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)
@@ -116,16 +126,6 @@ Casa del Prado, Balboa Park, San Diego, California (© f11photo/Getty Images)
 Date: 2024-09-15
 
 Download 4k: [Celebrating Hispanic heritage](https://bing.com/th?id=OHR.BalboaPark_EN-US5050015037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Radiant Rapa Nui
-
-Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)
-
-![Radiant Rapa Nui](https://bing.com/th?id=OHR.RapaNuiSunrise_EN-US4872610843_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-14
-
-Download 4k: [Radiant Rapa Nui](https://bing.com/th?id=OHR.RapaNuiSunrise_EN-US4872610843_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
