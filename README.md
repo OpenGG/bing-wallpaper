@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The realm of ancient giants
+
+Giant sequoias, Sequoia National Park, California (© Galyna Andrushko/Shutterstock)
+
+![The realm of ancient giants](https://bing.com/th?id=OHR.GiantSequoias_EN-US4034909984_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-25
+
+Download 4k: [The realm of ancient giants](https://bing.com/th?id=OHR.GiantSequoias_EN-US4034909984_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Falling for this view?
 
 Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)
@@ -116,16 +126,6 @@ Wallabies at sunrise, Adelaide River, Northern Territory, Australia (© Jeremy W
 Date: 2024-09-16
 
 Download 4k: [Wallabies on the watch](https://bing.com/th?id=OHR.SunriseWallabies_EN-US5210230008_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Celebrating Hispanic heritage
-
-Casa del Prado, Balboa Park, San Diego, California (© f11photo/Getty Images)
-
-![Celebrating Hispanic heritage](https://bing.com/th?id=OHR.BalboaPark_EN-US5050015037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-15
-
-Download 4k: [Celebrating Hispanic heritage](https://bing.com/th?id=OHR.BalboaPark_EN-US5050015037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
