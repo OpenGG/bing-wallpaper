@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Golden glimpses
+
+Cottonwoods seen through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)
+
+![Golden glimpses](https://bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-28
+
+Download 4k: [Golden glimpses](https://bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Above the floating city
 
 Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)
@@ -116,16 +126,6 @@ Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAG
 Date: 2024-09-19
 
 Download 4k: [Avast, landlubbers!](https://bing.com/th?id=OHR.PiratePlayground_EN-US3254868743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Castle in the clouds
-
-Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images)
-
-![Castle in the clouds](https://bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-18
-
-Download 4k: [Castle in the clouds](https://bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
