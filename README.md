@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Connecting Connecticut
+
+West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)
+
+![Connecting Connecticut](https://bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-29
+
+Download 4k: [Connecting Connecticut](https://bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Golden glimpses
 
 Cottonwoods seen through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Ocracoke Lighthouse on Ocracoke Island, North Carolina (© Chansak Joe/Getty Ima
 Date: 2024-09-20
 
 Download 4k: [Light dawns on Ocracoke](https://bing.com/th?id=OHR.OcracokeLight_EN-US3638306974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Avast, landlubbers!
-
-Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images)
-
-![Avast, landlubbers!](https://bing.com/th?id=OHR.PiratePlayground_EN-US3254868743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-19
-
-Download 4k: [Avast, landlubbers!](https://bing.com/th?id=OHR.PiratePlayground_EN-US3254868743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
