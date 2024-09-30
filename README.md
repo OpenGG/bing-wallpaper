@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Go with the floe
+
+Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/Danita Delimont)
+
+![Go with the floe](https://bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-09-30
+
+Download 4k: [Go with the floe](https://bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Connecting Connecticut
 
 West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)
@@ -116,16 +126,6 @@ Oktoberfest in Munich, Germany, at sunset (© AllesSuper21/iStock/Getty Images)
 Date: 2024-09-21
 
 Download 4k: [Prost! Oktoberfest begins](https://bing.com/th?id=OHR.MunichBeerfest_EN-US3708656793_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Light dawns on Ocracoke
-
-Ocracoke Lighthouse on Ocracoke Island, North Carolina (© Chansak Joe/Getty Images)
-
-![Light dawns on Ocracoke](https://bing.com/th?id=OHR.OcracokeLight_EN-US3638306974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-20
-
-Download 4k: [Light dawns on Ocracoke](https://bing.com/th?id=OHR.OcracokeLight_EN-US3638306974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
