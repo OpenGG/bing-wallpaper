@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Wind River's wild dance
+
+Wind River, Brooks Range, Arctic National Wildlife Refuge, Alaska (© Design Pics/Danita Delimont)
+
+![Wind River's wild dance](https://bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-02
+
+Download 4k: [Wind River's wild dance](https://bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Dome sweet dome
 
 Last light on Half Dome, Yosemite National Park, California (© Adam Burton/Alamy)
@@ -116,16 +126,6 @@ Sea otter, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)
 Date: 2024-09-23
 
 Download 4k: [Otter-ly amazing](https://bing.com/th?id=OHR.IcebergOtter_EN-US3869054406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Fall into reflection
-
-Buttermere, Lake District National Park, England (© Alan Novelli/Alamy)
-
-![Fall into reflection](https://bing.com/th?id=OHR.AutumnCumbria_EN-US3797009731_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-22
-
-Download 4k: [Fall into reflection](https://bing.com/th?id=OHR.AutumnCumbria_EN-US3797009731_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
