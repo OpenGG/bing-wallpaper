@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Grand gesture of love
+
+Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)
+
+![Grand gesture of love](https://bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-03
+
+Download 4k: [Grand gesture of love](https://bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Wind River's wild dance
 
 Wind River, Brooks Range, Arctic National Wildlife Refuge, Alaska (© Design Pics/Danita Delimont)
@@ -116,16 +126,6 @@ Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowath
 Date: 2024-09-24
 
 Download 4k: [Falling for this view?](https://bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Otter-ly amazing
-
-Sea otter, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)
-
-![Otter-ly amazing](https://bing.com/th?id=OHR.IcebergOtter_EN-US3869054406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-23
-
-Download 4k: [Otter-ly amazing](https://bing.com/th?id=OHR.IcebergOtter_EN-US3869054406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
