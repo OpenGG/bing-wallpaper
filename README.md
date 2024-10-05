@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Follow the teacher!
+
+African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)
+
+![Follow the teacher!](https://bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-05
+
+Download 4k: [Follow the teacher!](https://bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A blue moon
 
 Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)
@@ -116,16 +126,6 @@ Blue-throated toucanet, Los Quetzales National Park, Costa Rica (© Oscar Doming
 Date: 2024-09-26
 
 Download 4k: [Flying colors](https://bing.com/th?id=OHR.LittleToucanet_EN-US4236893251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The realm of ancient giants
-
-Giant sequoias, Sequoia National Park, California (© Galyna Andrushko/Shutterstock)
-
-![The realm of ancient giants](https://bing.com/th?id=OHR.GiantSequoias_EN-US4034909984_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-25
-
-Download 4k: [The realm of ancient giants](https://bing.com/th?id=OHR.GiantSequoias_EN-US4034909984_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
