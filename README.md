@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The stone town of Tuscany
+
+Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo)
+
+![The stone town of Tuscany](https://bing.com/th?id=OHR.SoranoItaly_EN-US2208208147_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-06
+
+Download 4k: [The stone town of Tuscany](https://bing.com/th?id=OHR.SoranoItaly_EN-US2208208147_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Follow the teacher!
 
 African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)
@@ -116,16 +126,6 @@ Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Ven
 Date: 2024-09-27
 
 Download 4k: [Above the floating city](https://bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Flying colors
-
-Blue-throated toucanet, Los Quetzales National Park, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion)
-
-![Flying colors](https://bing.com/th?id=OHR.LittleToucanet_EN-US4236893251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-26
-
-Download 4k: [Flying colors](https://bing.com/th?id=OHR.LittleToucanet_EN-US4236893251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
