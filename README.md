@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Celebrating architecture
+
+The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)
+
+![Celebrating architecture](https://bing.com/th?id=OHR.ElbePhilharmonic_EN-US8658450086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-07
+
+Download 4k: [Celebrating architecture](https://bing.com/th?id=OHR.ElbePhilharmonic_EN-US8658450086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The stone town of Tuscany
 
 Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo)
@@ -116,16 +126,6 @@ Cottonwoods seen through an arch in Coyote Gulch, Glen Canyon Recreation Area, U
 Date: 2024-09-28
 
 Download 4k: [Golden glimpses](https://bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Above the floating city
-
-Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)
-
-![Above the floating city](https://bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-27
-
-Download 4k: [Above the floating city](https://bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
