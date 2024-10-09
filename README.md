@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Colorado in full color
+
+Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)
+
+![Colorado in full color](https://bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-09
+
+Download 4k: [Colorado in full color](https://bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Ocean's eight
 
 Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy)
@@ -116,16 +126,6 @@ Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL I
 Date: 2024-09-30
 
 Download 4k: [Go with the floe](https://bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Connecting Connecticut
-
-West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)
-
-![Connecting Connecticut](https://bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-29
-
-Download 4k: [Connecting Connecticut](https://bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
