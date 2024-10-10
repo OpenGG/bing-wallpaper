@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Rolling into fall
+
+Kochia, Ibaraki prefecture, Japan (© DigiPub/Getty Images)
+
+![Rolling into fall](https://bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-10
+
+Download 4k: [Rolling into fall](https://bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Colorado in full color
 
 Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Last light on Half Dome, Yosemite National Park, California (© Adam Burton/Alam
 Date: 2024-10-01
 
 Download 4k: [Dome sweet dome](https://bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Go with the floe
-
-Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/Danita Delimont)
-
-![Go with the floe](https://bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-09-30
-
-Download 4k: [Go with the floe](https://bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
