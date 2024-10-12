@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## It's time to wing it!
+
+Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)
+
+![It's time to wing it!](https://bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-12
+
+Download 4k: [It's time to wing it!](https://bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Celebrate the Celts
 
 Cape Breton Highlands, Nova Scotia, Canada (© Cavan Images/Alamy)
@@ -116,16 +126,6 @@ Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)
 Date: 2024-10-03
 
 Download 4k: [Grand gesture of love](https://bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Wind River's wild dance
-
-Wind River, Brooks Range, Arctic National Wildlife Refuge, Alaska (© Design Pics/Danita Delimont)
-
-![Wind River's wild dance](https://bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-02
-
-Download 4k: [Wind River's wild dance](https://bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
