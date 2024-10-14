@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Honoring Indigenous Peoples
+
+Ancestral Pueblo granaries at Nankoweap, Grand Canyon National Park, Arizona (© Andrew Peacock/Tandem Stills + Motion)
+
+![Honoring Indigenous Peoples](https://bing.com/th?id=OHR.PuebloNankoweap_EN-US9631367700_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-14
+
+Download 4k: [Honoring Indigenous Peoples](https://bing.com/th?id=OHR.PuebloNankoweap_EN-US9631367700_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The splendor of Seville
 
 Courtyard of the Maidens, Alcázar of Seville, Spain (© Danny Lehman/Getty Images)
@@ -116,16 +126,6 @@ African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pict
 Date: 2024-10-05
 
 Download 4k: [Follow the teacher!](https://bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A blue moon
-
-Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)
-
-![A blue moon](https://bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-04
-
-Download 4k: [A blue moon](https://bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
