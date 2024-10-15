@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The race for life
+
+Great wildebeest migration at Mara River, Kenya (© Ayzenstayn/Getty Images)
+
+![The race for life](https://bing.com/th?id=OHR.MaraMigration_EN-US9704012409_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-15
+
+Download 4k: [The race for life](https://bing.com/th?id=OHR.MaraMigration_EN-US9704012409_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Honoring Indigenous Peoples
 
 Ancestral Pueblo granaries at Nankoweap, Grand Canyon National Park, Arizona (© Andrew Peacock/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo)
 Date: 2024-10-06
 
 Download 4k: [The stone town of Tuscany](https://bing.com/th?id=OHR.SoranoItaly_EN-US2208208147_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Follow the teacher!
-
-African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)
-
-![Follow the teacher!](https://bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-05
-
-Download 4k: [Follow the teacher!](https://bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
