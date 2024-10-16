@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Unearthing the past
+
+Fossils of belemnites and ammonites, Jurassic Coast, Dorset, England (© Nature Picture Library/Alamy)
+
+![Unearthing the past](https://bing.com/th?id=OHR.FossilsDorset_EN-US9782204825_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-16
+
+Download 4k: [Unearthing the past](https://bing.com/th?id=OHR.FossilsDorset_EN-US9782204825_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The race for life
 
 Great wildebeest migration at Mara River, Kenya (© Ayzenstayn/Getty Images)
@@ -116,16 +126,6 @@ The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)
 Date: 2024-10-07
 
 Download 4k: [Celebrating architecture](https://bing.com/th?id=OHR.ElbePhilharmonic_EN-US8658450086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The stone town of Tuscany
-
-Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo)
-
-![The stone town of Tuscany](https://bing.com/th?id=OHR.SoranoItaly_EN-US2208208147_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-06
-
-Download 4k: [The stone town of Tuscany](https://bing.com/th?id=OHR.SoranoItaly_EN-US2208208147_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
