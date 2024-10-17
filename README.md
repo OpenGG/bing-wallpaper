@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Astronauts, grab your skis!
+
+Frost-covered dunes on the surface of Mars (© NASA/JPL-Caltech/UArizona)
+
+![Astronauts, grab your skis!](https://bing.com/th?id=OHR.MarsDunes_EN-US3465209450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-17
+
+Download 4k: [Astronauts, grab your skis!](https://bing.com/th?id=OHR.MarsDunes_EN-US3465209450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Unearthing the past
 
 Fossils of belemnites and ammonites, Jurassic Coast, Dorset, England (© Nature Picture Library/Alamy)
@@ -116,16 +126,6 @@ Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy)
 Date: 2024-10-08
 
 Download 4k: [Ocean's eight](https://bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Celebrating architecture
-
-The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)
-
-![Celebrating architecture](https://bing.com/th?id=OHR.ElbePhilharmonic_EN-US8658450086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-07
-
-Download 4k: [Celebrating architecture](https://bing.com/th?id=OHR.ElbePhilharmonic_EN-US8658450086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
