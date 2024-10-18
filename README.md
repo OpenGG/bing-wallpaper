@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Falling for Central Park
+
+Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)
+
+![Falling for Central Park](https://bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-18
+
+Download 4k: [Falling for Central Park](https://bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Astronauts, grab your skis!
 
 Frost-covered dunes on the surface of Mars (© NASA/JPL-Caltech/UArizona)
@@ -116,16 +126,6 @@ Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem St
 Date: 2024-10-09
 
 Download 4k: [Colorado in full color](https://bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Ocean's eight
-
-Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy)
-
-![Ocean's eight](https://bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-08
-
-Download 4k: [Ocean's eight](https://bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
