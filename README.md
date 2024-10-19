@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Uncovering the past
+
+Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)
+
+![Uncovering the past](https://bing.com/th?id=OHR.DenderaTemple_EN-US2605709637_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-19
+
+Download 4k: [Uncovering the past](https://bing.com/th?id=OHR.DenderaTemple_EN-US2605709637_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Falling for Central Park
 
 Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)
@@ -116,16 +126,6 @@ Kochia, Ibaraki prefecture, Japan (© DigiPub/Getty Images)
 Date: 2024-10-10
 
 Download 4k: [Rolling into fall](https://bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Colorado in full color
-
-Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)
-
-![Colorado in full color](https://bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-09
-
-Download 4k: [Colorado in full color](https://bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
