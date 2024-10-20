@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hanging in there
+
+Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)
+
+![Hanging in there](https://bing.com/th?id=OHR.SmilingSloth_EN-US2707836219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-20
+
+Download 4k: [Hanging in there](https://bing.com/th?id=OHR.SmilingSloth_EN-US2707836219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Uncovering the past
 
 Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)
@@ -116,16 +126,6 @@ Cape Breton Highlands, Nova Scotia, Canada (© Cavan Images/Alamy)
 Date: 2024-10-11
 
 Download 4k: [Celebrate the Celts](https://bing.com/th?id=OHR.CelticColours_EN-US9284206130_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Rolling into fall
-
-Kochia, Ibaraki prefecture, Japan (© DigiPub/Getty Images)
-
-![Rolling into fall](https://bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-10
-
-Download 4k: [Rolling into fall](https://bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
