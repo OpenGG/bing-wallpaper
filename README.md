@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Standing tall in fall
+
+Cypress trees in George L. Smith State Park, Georgia (© Chris Moore/TANDEM Stills + Motion)
+
+![Standing tall in fall](https://bing.com/th?id=OHR.AutumnCypress_EN-US2771131028_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-21
+
+Download 4k: [Standing tall in fall](https://bing.com/th?id=OHR.AutumnCypress_EN-US2771131028_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hanging in there
 
 Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)
@@ -116,16 +126,6 @@ Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)
 Date: 2024-10-12
 
 Download 4k: [It's time to wing it!](https://bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Celebrate the Celts
-
-Cape Breton Highlands, Nova Scotia, Canada (© Cavan Images/Alamy)
-
-![Celebrate the Celts](https://bing.com/th?id=OHR.CelticColours_EN-US9284206130_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-11
-
-Download 4k: [Celebrate the Celts](https://bing.com/th?id=OHR.CelticColours_EN-US9284206130_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
