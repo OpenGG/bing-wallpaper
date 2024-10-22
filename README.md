@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Fearsome façade
+
+Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)
+
+![Fearsome façade](https://bing.com/th?id=OHR.MonsterDoor_EN-US2973387472_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-22
+
+Download 4k: [Fearsome façade](https://bing.com/th?id=OHR.MonsterDoor_EN-US2973387472_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Standing tall in fall
 
 Cypress trees in George L. Smith State Park, Georgia (© Chris Moore/TANDEM Stills + Motion)
@@ -116,16 +126,6 @@ Courtyard of the Maidens, Alcázar of Seville, Spain (© Danny Lehman/Getty Imag
 Date: 2024-10-13
 
 Download 4k: [The splendor of Seville](https://bing.com/th?id=OHR.AlcazarSeville_EN-US9523655289_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## It's time to wing it!
-
-Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)
-
-![It's time to wing it!](https://bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-12
-
-Download 4k: [It's time to wing it!](https://bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
