@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Stairway to nowhere
+
+Madame Sherri Forest and the ruins of an old castle, New Hampshire (© yggdrasill/Shutterstock)
+
+![Stairway to nowhere](https://bing.com/th?id=OHR.MadameSherriCastle_EN-US3066456106_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-23
+
+Download 4k: [Stairway to nowhere](https://bing.com/th?id=OHR.MadameSherriCastle_EN-US3066456106_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Fearsome façade
 
 Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)
@@ -116,16 +126,6 @@ Ancestral Pueblo granaries at Nankoweap, Grand Canyon National Park, Arizona (©
 Date: 2024-10-14
 
 Download 4k: [Honoring Indigenous Peoples](https://bing.com/th?id=OHR.PuebloNankoweap_EN-US9631367700_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The splendor of Seville
-
-Courtyard of the Maidens, Alcázar of Seville, Spain (© Danny Lehman/Getty Images)
-
-![The splendor of Seville](https://bing.com/th?id=OHR.AlcazarSeville_EN-US9523655289_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-13
-
-Download 4k: [The splendor of Seville](https://bing.com/th?id=OHR.AlcazarSeville_EN-US9523655289_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
