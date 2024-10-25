@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The heights of horror
+
+The Mont Blanc massif, near Chamonix, France (© Simon Schöpf/Getty Images)
+
+![The heights of horror](https://bing.com/th?id=OHR.MontBlancMassif_EN-US3284638409_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-25
+
+Download 4k: [The heights of horror](https://bing.com/th?id=OHR.MontBlancMassif_EN-US3284638409_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Ghosts of the gold rush
 
 Bodie State Historic Park, Mono County, California (© Julien McRoberts/Tetra Images, LLC/Alamy)
@@ -116,16 +126,6 @@ Fossils of belemnites and ammonites, Jurassic Coast, Dorset, England (© Nature 
 Date: 2024-10-16
 
 Download 4k: [Unearthing the past](https://bing.com/th?id=OHR.FossilsDorset_EN-US9782204825_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The race for life
-
-Great wildebeest migration at Mara River, Kenya (© Ayzenstayn/Getty Images)
-
-![The race for life](https://bing.com/th?id=OHR.MaraMigration_EN-US9704012409_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-15
-
-Download 4k: [The race for life](https://bing.com/th?id=OHR.MaraMigration_EN-US9704012409_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
