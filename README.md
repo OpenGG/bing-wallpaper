@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A mother's warmth in the cold
+
+Polar bear mom and cub, Churchill, Manitoba, Canada (© Design Pics/plainpicture)
+
+![A mother's warmth in the cold](https://bing.com/th?id=OHR.PolarBearHug_EN-US3461212514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-27
+
+Download 4k: [A mother's warmth in the cold](https://bing.com/th?id=OHR.PolarBearHug_EN-US3461212514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Into the woods
 
 Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany (© mauritius images GmbH/Alamy)
@@ -116,16 +126,6 @@ Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)
 Date: 2024-10-18
 
 Download 4k: [Falling for Central Park](https://bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Astronauts, grab your skis!
-
-Frost-covered dunes on the surface of Mars (© NASA/JPL-Caltech/UArizona)
-
-![Astronauts, grab your skis!](https://bing.com/th?id=OHR.MarsDunes_EN-US3465209450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-17
-
-Download 4k: [Astronauts, grab your skis!](https://bing.com/th?id=OHR.MarsDunes_EN-US3465209450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
