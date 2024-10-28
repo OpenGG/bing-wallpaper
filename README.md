@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## It's carving time
+
+Pumpkin field, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy)
+
+![It's carving time](https://bing.com/th?id=OHR.PumpkinMist_EN-US3686565863_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-28
+
+Download 4k: [It's carving time](https://bing.com/th?id=OHR.PumpkinMist_EN-US3686565863_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A mother's warmth in the cold
 
 Polar bear mom and cub, Churchill, Manitoba, Canada (© Design Pics/plainpicture)
@@ -116,16 +126,6 @@ Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photograp
 Date: 2024-10-19
 
 Download 4k: [Uncovering the past](https://bing.com/th?id=OHR.DenderaTemple_EN-US2605709637_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Falling for Central Park
-
-Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)
-
-![Falling for Central Park](https://bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-18
-
-Download 4k: [Falling for Central Park](https://bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
