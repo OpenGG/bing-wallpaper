@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hoots and haunts
+
+Great horned owl (© Mark Newman/Getty Images)
+
+![Hoots and haunts](https://bing.com/th?id=OHR.GreatOwl_EN-US3778222109_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-29
+
+Download 4k: [Hoots and haunts](https://bing.com/th?id=OHR.GreatOwl_EN-US3778222109_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## It's carving time
 
 Pumpkin field, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy)
@@ -116,16 +126,6 @@ Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)
 Date: 2024-10-20
 
 Download 4k: [Hanging in there](https://bing.com/th?id=OHR.SmilingSloth_EN-US2707836219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Uncovering the past
-
-Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)
-
-![Uncovering the past](https://bing.com/th?id=OHR.DenderaTemple_EN-US2605709637_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-19
-
-Download 4k: [Uncovering the past](https://bing.com/th?id=OHR.DenderaTemple_EN-US2605709637_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
