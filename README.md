@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A haunting history
+
+View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy)
+
+![A haunting history](https://bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-30
+
+Download 4k: [A haunting history](https://bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hoots and haunts
 
 Great horned owl (© Mark Newman/Getty Images)
@@ -116,16 +126,6 @@ Cypress trees in George L. Smith State Park, Georgia (© Chris Moore/TANDEM Stil
 Date: 2024-10-21
 
 Download 4k: [Standing tall in fall](https://bing.com/th?id=OHR.AutumnCypress_EN-US2771131028_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Hanging in there
-
-Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)
-
-![Hanging in there](https://bing.com/th?id=OHR.SmilingSloth_EN-US2707836219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-20
-
-Download 4k: [Hanging in there](https://bing.com/th?id=OHR.SmilingSloth_EN-US2707836219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
