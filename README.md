@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Stone-cold stares on Halloween
+
+Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)
+
+![Stone-cold stares on Halloween](https://bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-10-31
+
+Download 4k: [Stone-cold stares on Halloween](https://bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A haunting history
 
 View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy)
@@ -116,16 +126,6 @@ Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)
 Date: 2024-10-22
 
 Download 4k: [Fearsome façade](https://bing.com/th?id=OHR.MonsterDoor_EN-US2973387472_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Standing tall in fall
-
-Cypress trees in George L. Smith State Park, Georgia (© Chris Moore/TANDEM Stills + Motion)
-
-![Standing tall in fall](https://bing.com/th?id=OHR.AutumnCypress_EN-US2771131028_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-21
-
-Download 4k: [Standing tall in fall](https://bing.com/th?id=OHR.AutumnCypress_EN-US2771131028_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
