@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Celebrating America's Native heritage
+
+Pueblo ruins, Hovenweep National Monument, Utah (© Alan Majchrowicz/Getty Images)
+
+![Celebrating America's Native heritage](https://bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-11-01
+
+Download 4k: [Celebrating America's Native heritage](https://bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Stone-cold stares on Halloween
 
 Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)
@@ -117,17 +127,9 @@ Date: 2024-10-23
 
 Download 4k: [Stairway to nowhere](https://bing.com/th?id=OHR.MadameSherriCastle_EN-US3066456106_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Fearsome façade
-
-Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)
-
-![Fearsome façade](https://bing.com/th?id=OHR.MonsterDoor_EN-US2973387472_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-22
-
-Download 4k: [Fearsome façade](https://bing.com/th?id=OHR.MonsterDoor_EN-US2973387472_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2024-11](./archive/2024/11.md)
 
 [2024-10](./archive/2024/10.md)
 
