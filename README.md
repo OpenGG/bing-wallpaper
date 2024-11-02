@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## From near extinction to national icon
+
+American bison in Yellowstone National Park, Wyoming (© Ian Shive/TANDEM Stills + Motion)
+
+![From near extinction to national icon](https://bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-11-02
+
+Download 4k: [From near extinction to national icon](https://bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Celebrating America's Native heritage
 
 Pueblo ruins, Hovenweep National Monument, Utah (© Alan Majchrowicz/Getty Images)
@@ -116,16 +126,6 @@ Bodie State Historic Park, Mono County, California (© Julien McRoberts/Tetra Im
 Date: 2024-10-24
 
 Download 4k: [Ghosts of the gold rush](https://bing.com/th?id=OHR.BodieCalifornia_EN-US3185568116_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Stairway to nowhere
-
-Madame Sherri Forest and the ruins of an old castle, New Hampshire (© yggdrasill/Shutterstock)
-
-![Stairway to nowhere](https://bing.com/th?id=OHR.MadameSherriCastle_EN-US3066456106_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-23
-
-Download 4k: [Stairway to nowhere](https://bing.com/th?id=OHR.MadameSherriCastle_EN-US3066456106_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
