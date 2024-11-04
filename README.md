@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Worth a thousand words
+
+Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)
+
+![Worth a thousand words](https://bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-11-04
+
+Download 4k: [Worth a thousand words](https://bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Nurturing nature
 
 Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures)
@@ -116,16 +126,6 @@ Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany (© mauritius ima
 Date: 2024-10-26
 
 Download 4k: [Into the woods](https://bing.com/th?id=OHR.GhostForest_EN-US3389955484_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The heights of horror
-
-The Mont Blanc massif, near Chamonix, France (© Simon Schöpf/Getty Images)
-
-![The heights of horror](https://bing.com/th?id=OHR.MontBlancMassif_EN-US3284638409_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-25
-
-Download 4k: [The heights of horror](https://bing.com/th?id=OHR.MontBlancMassif_EN-US3284638409_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
