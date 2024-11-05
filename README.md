@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Out of many, one
+
+Autumn sunrise over the National Mall, Washington, DC (© WLDavies/iStock/Getty Images Plus)
+
+![Out of many, one](https://bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-11-05
+
+Download 4k: [Out of many, one](https://bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Worth a thousand words
 
 Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)
@@ -116,16 +126,6 @@ Polar bear mom and cub, Churchill, Manitoba, Canada (© Design Pics/plainpicture
 Date: 2024-10-27
 
 Download 4k: [A mother's warmth in the cold](https://bing.com/th?id=OHR.PolarBearHug_EN-US3461212514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Into the woods
-
-Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany (© mauritius images GmbH/Alamy)
-
-![Into the woods](https://bing.com/th?id=OHR.GhostForest_EN-US3389955484_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-26
-
-Download 4k: [Into the woods](https://bing.com/th?id=OHR.GhostForest_EN-US3389955484_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
