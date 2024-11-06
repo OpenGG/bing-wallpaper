@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Shades of sunset
+
+Shi Shi Beach in Olympic National Park, Washington (© T.M. Schultze/TANDEM Stills + Motion)
+
+![Shades of sunset](https://bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-11-06
+
+Download 4k: [Shades of sunset](https://bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Out of many, one
 
 Autumn sunrise over the National Mall, Washington, DC (© WLDavies/iStock/Getty Images Plus)
@@ -116,16 +126,6 @@ Pumpkin field, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy)
 Date: 2024-10-28
 
 Download 4k: [It's carving time](https://bing.com/th?id=OHR.PumpkinMist_EN-US3686565863_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A mother's warmth in the cold
-
-Polar bear mom and cub, Churchill, Manitoba, Canada (© Design Pics/plainpicture)
-
-![A mother's warmth in the cold](https://bing.com/th?id=OHR.PolarBearHug_EN-US3461212514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-27
-
-Download 4k: [A mother's warmth in the cold](https://bing.com/th?id=OHR.PolarBearHug_EN-US3461212514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
