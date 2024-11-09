@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Cosmic views over earthly hues
+
+Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)
+
+![Cosmic views over earthly hues](https://bing.com/th?id=OHR.MoroccoMilkyWay_EN-US4411505209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-11-09
+
+Download 4k: [Cosmic views over earthly hues](https://bing.com/th?id=OHR.MoroccoMilkyWay_EN-US4411505209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## From the land of fire and ice
 
 Aerial view of glacial rivers in Iceland (© rybarmarekk/Shutterstock)
@@ -116,16 +126,6 @@ Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)
 Date: 2024-10-31
 
 Download 4k: [Stone-cold stares on Halloween](https://bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A haunting history
-
-View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy)
-
-![A haunting history](https://bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-30
-
-Download 4k: [A haunting history](https://bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
