@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Flamboyance in flight
+
+Caribbean flamingos, Yucatán Peninsula, Mexico (© Claudio Contreras/NPL/Minden Pictures)
+
+![Flamboyance in flight](https://bing.com/th?id=OHR.YucatanFlamingos_EN-US4470232432_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-11-10
+
+Download 4k: [Flamboyance in flight](https://bing.com/th?id=OHR.YucatanFlamingos_EN-US4470232432_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Cosmic views over earthly hues
 
 Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)
@@ -116,16 +126,6 @@ Pueblo ruins, Hovenweep National Monument, Utah (© Alan Majchrowicz/Getty Image
 Date: 2024-11-01
 
 Download 4k: [Celebrating America's Native heritage](https://bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Stone-cold stares on Halloween
-
-Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)
-
-![Stone-cold stares on Halloween](https://bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-10-31
-
-Download 4k: [Stone-cold stares on Halloween](https://bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
