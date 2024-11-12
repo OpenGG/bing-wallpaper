@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Underneath the arches
+
+Double Arch seen through Cove Arch, Arches National Park, Utah (© Jeff Foott/Minden Pictures)
+
+![Underneath the arches](https://bing.com/th?id=OHR.CoveArch_EN-US4653050772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-11-12
+
+Download 4k: [Underneath the arches](https://bing.com/th?id=OHR.CoveArch_EN-US4653050772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Heroes among us
 
 Mural Wall, Korean War Veterans Memorial, Washington, DC (© Steve Tulley/Alamy)
@@ -116,16 +126,6 @@ Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© 
 Date: 2024-11-03
 
 Download 4k: [Nurturing nature](https://bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## From near extinction to national icon
-
-American bison in Yellowstone National Park, Wyoming (© Ian Shive/TANDEM Stills + Motion)
-
-![From near extinction to national icon](https://bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-02
-
-Download 4k: [From near extinction to national icon](https://bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
