@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A cliffside story
+
+Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)
+
+![A cliffside story](https://bing.com/th?id=OHR.ManarolaItaly_EN-US4826543395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-11-14
+
+Download 4k: [A cliffside story](https://bing.com/th?id=OHR.ManarolaItaly_EN-US4826543395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The forests of the sea
 
 California sea lion in a forest of giant kelp, Baja California, Mexico (© Claudio Contreras/Minden Pictures)
@@ -116,16 +126,6 @@ Autumn sunrise over the National Mall, Washington, DC (© WLDavies/iStock/Getty 
 Date: 2024-11-05
 
 Download 4k: [Out of many, one](https://bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Worth a thousand words
-
-Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)
-
-![Worth a thousand words](https://bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-04
-
-Download 4k: [Worth a thousand words](https://bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
