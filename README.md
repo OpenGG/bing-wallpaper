@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hope takes flight
+
+Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)
+
+![Hope takes flight](https://bing.com/th?id=OHR.YiPengLanterns_EN-US2889801198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-11-15
+
+Download 4k: [Hope takes flight](https://bing.com/th?id=OHR.YiPengLanterns_EN-US2889801198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A cliffside story
 
 Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)
@@ -116,16 +126,6 @@ Shi Shi Beach in Olympic National Park, Washington (© T.M. Schultze/TANDEM Stil
 Date: 2024-11-06
 
 Download 4k: [Shades of sunset](https://bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Out of many, one
-
-Autumn sunrise over the National Mall, Washington, DC (© WLDavies/iStock/Getty Images Plus)
-
-![Out of many, one](https://bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-05
-
-Download 4k: [Out of many, one](https://bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
