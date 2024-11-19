@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## An arch that rocks
+
+Tasmans Arch, Tasmania, Australia (© Gary Bell/Minden Pictures)
+
+![An arch that rocks](https://bing.com/th?id=OHR.TasmansArch_EN-US4274981499_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-11-19
+
+Download 4k: [An arch that rocks](https://bing.com/th?id=OHR.TasmansArch_EN-US4274981499_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Guiding the way since 1860
 
 Porthcawl Lighthouse, Wales (© Leighton Collins/Alamy)
@@ -116,16 +126,6 @@ Caribbean flamingos, Yucatán Peninsula, Mexico (© Claudio Contreras/NPL/Minden
 Date: 2024-11-10
 
 Download 4k: [Flamboyance in flight](https://bing.com/th?id=OHR.YucatanFlamingos_EN-US4470232432_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Cosmic views over earthly hues
-
-Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)
-
-![Cosmic views over earthly hues](https://bing.com/th?id=OHR.MoroccoMilkyWay_EN-US4411505209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-09
-
-Download 4k: [Cosmic views over earthly hues](https://bing.com/th?id=OHR.MoroccoMilkyWay_EN-US4411505209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
