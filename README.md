@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sunrise on the savanna
+
+Lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)
+
+![Sunrise on the savanna](https://bing.com/th?id=OHR.LionCubs_EN-US4742616367_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-11-21
+
+Download 4k: [Sunrise on the savanna](https://bing.com/th?id=OHR.LionCubs_EN-US4742616367_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## United for World Children’s Day
 
 Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)
@@ -116,16 +126,6 @@ Double Arch seen through Cove Arch, Arches National Park, Utah (© Jeff Foott/Mi
 Date: 2024-11-12
 
 Download 4k: [Underneath the arches](https://bing.com/th?id=OHR.CoveArch_EN-US4653050772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Heroes among us
-
-Mural Wall, Korean War Veterans Memorial, Washington, DC (© Steve Tulley/Alamy)
-
-![Heroes among us](https://bing.com/th?id=OHR.VeteranReflections_EN-US4567357121_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-11
-
-Download 4k: [Heroes among us](https://bing.com/th?id=OHR.VeteranReflections_EN-US4567357121_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
