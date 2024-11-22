@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Castle on a crag
+
+Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)
+
+![Castle on a crag](https://bing.com/th?id=OHR.ZafraCastle_EN-US5032917939_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-11-22
+
+Download 4k: [Castle on a crag](https://bing.com/th?id=OHR.ZafraCastle_EN-US5032917939_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Sunrise on the savanna
 
 Lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)
@@ -116,16 +126,6 @@ California sea lion in a forest of giant kelp, Baja California, Mexico (© Claud
 Date: 2024-11-13
 
 Download 4k: [The forests of the sea](https://bing.com/th?id=OHR.KelpForest_EN-US4745308334_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Underneath the arches
-
-Double Arch seen through Cove Arch, Arches National Park, Utah (© Jeff Foott/Minden Pictures)
-
-![Underneath the arches](https://bing.com/th?id=OHR.CoveArch_EN-US4653050772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-12
-
-Download 4k: [Underneath the arches](https://bing.com/th?id=OHR.CoveArch_EN-US4653050772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
