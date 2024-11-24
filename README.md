@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Tides and twilight
+
+Sonoma Coast State Park, California (© Rachid Dahnoun/Tandem Stills + Motion)
+
+![Tides and twilight](https://bing.com/th?id=OHR.SonomaCoast_EN-US5218026576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-11-24
+
+Download 4k: [Tides and twilight](https://bing.com/th?id=OHR.SonomaCoast_EN-US5218026576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Nature's secret code
 
 Spiral aloe, Kangaroo Island, Australia (© Michael Melford/Alamy)
@@ -116,16 +126,6 @@ Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)
 Date: 2024-11-15
 
 Download 4k: [Hope takes flight](https://bing.com/th?id=OHR.YiPengLanterns_EN-US2889801198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A cliffside story
-
-Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)
-
-![A cliffside story](https://bing.com/th?id=OHR.ManarolaItaly_EN-US4826543395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-14
-
-Download 4k: [A cliffside story](https://bing.com/th?id=OHR.ManarolaItaly_EN-US4826543395_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
