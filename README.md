@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Life in the wild
+
+Masai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)
+
+![Life in the wild](https://bing.com/th?id=OHR.AmboseliGiraffes_EN-US9072366924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-11-25
+
+Download 4k: [Life in the wild](https://bing.com/th?id=OHR.AmboseliGiraffes_EN-US9072366924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Tides and twilight
 
 Sonoma Coast State Park, California (© Rachid Dahnoun/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden
 Date: 2024-11-16
 
 Download 4k: [Mud, sea, and sky](https://bing.com/th?id=OHR.FrieslandNetherlands_EN-US3770890281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Hope takes flight
-
-Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)
-
-![Hope takes flight](https://bing.com/th?id=OHR.YiPengLanterns_EN-US2889801198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-15
-
-Download 4k: [Hope takes flight](https://bing.com/th?id=OHR.YiPengLanterns_EN-US2889801198_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
