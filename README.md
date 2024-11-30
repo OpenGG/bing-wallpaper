@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Reflecting Scotland's heritage
+
+Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)
+
+![Reflecting Scotland's heritage](https://bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-11-30
+
+Download 4k: [Reflecting Scotland's heritage](https://bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## An island of time and tide
 
 Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)
@@ -116,16 +126,6 @@ Lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)
 Date: 2024-11-21
 
 Download 4k: [Sunrise on the savanna](https://bing.com/th?id=OHR.LionCubs_EN-US4742616367_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## United for World Children’s Day
-
-Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)
-
-![United for World Children’s Day](https://bing.com/th?id=OHR.BeyondSaype_EN-US4398054405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-20
-
-Download 4k: [United for World Children’s Day](https://bing.com/th?id=OHR.BeyondSaype_EN-US4398054405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
