@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Protecting the last great wilderness
+
+Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)
+
+![Protecting the last great wilderness](https://bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-01
+
+Download 4k: [Protecting the last great wilderness](https://bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Reflecting Scotland's heritage
 
 Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)
@@ -117,17 +127,9 @@ Date: 2024-11-22
 
 Download 4k: [Castle on a crag](https://bing.com/th?id=OHR.ZafraCastle_EN-US5032917939_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Sunrise on the savanna
-
-Lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)
-
-![Sunrise on the savanna](https://bing.com/th?id=OHR.LionCubs_EN-US4742616367_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-21
-
-Download 4k: [Sunrise on the savanna](https://bing.com/th?id=OHR.LionCubs_EN-US4742616367_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2024-12](./archive/2024/12.md)
 
 [2024-11](./archive/2024/11.md)
 
