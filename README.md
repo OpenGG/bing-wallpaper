@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A wild stare
+
+Female moose, Denali National Park, Alaska (© Cavan Images/Alamy)
+
+![A wild stare](https://bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-02
+
+Download 4k: [A wild stare](https://bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Protecting the last great wilderness
 
 Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)
@@ -116,16 +126,6 @@ Spiral aloe, Kangaroo Island, Australia (© Michael Melford/Alamy)
 Date: 2024-11-23
 
 Download 4k: [Nature's secret code](https://bing.com/th?id=OHR.FibonacciAloe_EN-US5137471725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Castle on a crag
-
-Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)
-
-![Castle on a crag](https://bing.com/th?id=OHR.ZafraCastle_EN-US5032917939_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-22
-
-Download 4k: [Castle on a crag](https://bing.com/th?id=OHR.ZafraCastle_EN-US5032917939_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
