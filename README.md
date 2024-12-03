@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Pillars of the past
+
+Sattais Katcheri (Court of 27 Pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)
+
+![Pillars of the past](https://bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-03
+
+Download 4k: [Pillars of the past](https://bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A wild stare
 
 Female moose, Denali National Park, Alaska (© Cavan Images/Alamy)
@@ -116,16 +126,6 @@ Sonoma Coast State Park, California (© Rachid Dahnoun/Tandem Stills + Motion)
 Date: 2024-11-24
 
 Download 4k: [Tides and twilight](https://bing.com/th?id=OHR.SonomaCoast_EN-US5218026576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Nature's secret code
-
-Spiral aloe, Kangaroo Island, Australia (© Michael Melford/Alamy)
-
-![Nature's secret code](https://bing.com/th?id=OHR.FibonacciAloe_EN-US5137471725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-23
-
-Download 4k: [Nature's secret code](https://bing.com/th?id=OHR.FibonacciAloe_EN-US5137471725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
