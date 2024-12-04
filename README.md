@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## On the front line of extinction
+
+Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)
+
+![On the front line of extinction](https://bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-04
+
+Download 4k: [On the front line of extinction](https://bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Pillars of the past
 
 Sattais Katcheri (Court of 27 Pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)
@@ -116,16 +126,6 @@ Masai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)
 Date: 2024-11-25
 
 Download 4k: [Life in the wild](https://bing.com/th?id=OHR.AmboseliGiraffes_EN-US9072366924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Tides and twilight
-
-Sonoma Coast State Park, California (© Rachid Dahnoun/Tandem Stills + Motion)
-
-![Tides and twilight](https://bing.com/th?id=OHR.SonomaCoast_EN-US5218026576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-24
-
-Download 4k: [Tides and twilight](https://bing.com/th?id=OHR.SonomaCoast_EN-US5218026576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
