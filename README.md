@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The rise of tufa
+
+Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion)
+
+![The rise of tufa](https://bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-05
+
+Download 4k: [The rise of tufa](https://bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## On the front line of extinction
 
 Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)
@@ -116,16 +126,6 @@ Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)
 Date: 2024-11-26
 
 Download 4k: [Beneath ancient olive trees](https://bing.com/th?id=OHR.TrulliGrove_EN-US5919292259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Life in the wild
-
-Masai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)
-
-![Life in the wild](https://bing.com/th?id=OHR.AmboseliGiraffes_EN-US9072366924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-25
-
-Download 4k: [Life in the wild](https://bing.com/th?id=OHR.AmboseliGiraffes_EN-US9072366924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
