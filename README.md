@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Happy birthday, Finland!
+
+Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)
+
+![Happy birthday, Finland!](https://bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-06
+
+Download 4k: [Happy birthday, Finland!](https://bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The rise of tufa
 
 Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion)
@@ -116,16 +126,6 @@ Tombeau du Géant (Giant's Tomb) in autumn, Bouillon, Belgium (© David Briard/G
 Date: 2024-11-27
 
 Download 4k: [The giant's resting place](https://bing.com/th?id=OHR.SemoisRiver_EN-US6047540380_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Beneath ancient olive trees
-
-Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)
-
-![Beneath ancient olive trees](https://bing.com/th?id=OHR.TrulliGrove_EN-US5919292259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-26
-
-Download 4k: [Beneath ancient olive trees](https://bing.com/th?id=OHR.TrulliGrove_EN-US5919292259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
