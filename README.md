@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Remembering Pearl Harbor
+
+Pearl Harbor Memorial Bridge, New Haven, Connecticut (© Enzo Figueres/Getty Images)
+
+![Remembering Pearl Harbor](https://bing.com/th?id=OHR.NewHavenBridge_EN-US7922266620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-07
+
+Download 4k: [Remembering Pearl Harbor](https://bing.com/th?id=OHR.NewHavenBridge_EN-US7922266620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Happy birthday, Finland!
 
 Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)
@@ -116,16 +126,6 @@ Wild turkeys, New York (© John Cancalosi/Alamy)
 Date: 2024-11-28
 
 Download 4k: [Stuffed with gratitude](https://bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The giant's resting place
-
-Tombeau du Géant (Giant's Tomb) in autumn, Bouillon, Belgium (© David Briard/Getty)
-
-![The giant's resting place](https://bing.com/th?id=OHR.SemoisRiver_EN-US6047540380_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-27
-
-Download 4k: [The giant's resting place](https://bing.com/th?id=OHR.SemoisRiver_EN-US6047540380_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
