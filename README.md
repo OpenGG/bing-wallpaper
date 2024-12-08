@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The comeback of Notre-Dame
+
+Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)
+
+![The comeback of Notre-Dame](https://bing.com/th?id=OHR.ReopeningNotreDame_EN-US8084146311_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-08
+
+Download 4k: [The comeback of Notre-Dame](https://bing.com/th?id=OHR.ReopeningNotreDame_EN-US8084146311_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Remembering Pearl Harbor
 
 Pearl Harbor Memorial Bridge, New Haven, Connecticut (© Enzo Figueres/Getty Images)
@@ -116,16 +126,6 @@ Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)
 Date: 2024-11-29
 
 Download 4k: [An island of time and tide](https://bing.com/th?id=OHR.MtStMichel_EN-US6641012356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Stuffed with gratitude
-
-Wild turkeys, New York (© John Cancalosi/Alamy)
-
-![Stuffed with gratitude](https://bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-28
-
-Download 4k: [Stuffed with gratitude](https://bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
