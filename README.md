@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Attitude and altitude
+
+Guanacos, Torres del Paine National Park, Chile (© Floris van Breugel/NPL/Minden Pictures)
+
+![Attitude and altitude](https://bing.com/th?id=OHR.GuanacosChile_EN-US8209106662_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-09
+
+Download 4k: [Attitude and altitude](https://bing.com/th?id=OHR.GuanacosChile_EN-US8209106662_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The comeback of Notre-Dame
 
 Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)
@@ -116,16 +126,6 @@ Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/
 Date: 2024-11-30
 
 Download 4k: [Reflecting Scotland's heritage](https://bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## An island of time and tide
-
-Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)
-
-![An island of time and tide](https://bing.com/th?id=OHR.MtStMichel_EN-US6641012356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-29
-
-Download 4k: [An island of time and tide](https://bing.com/th?id=OHR.MtStMichel_EN-US6641012356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
