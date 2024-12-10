@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The end? Not quite.
+
+The Cornish Coast Path covered in snow, Land's End, Cornwall, England (© Josef FitzGerald-Patrick/Getty Images)
+
+![The end? Not quite.](https://bing.com/th?id=OHR.CornwallSnow_EN-US8476437458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-10
+
+Download 4k: [The end? Not quite.](https://bing.com/th?id=OHR.CornwallSnow_EN-US8476437458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Attitude and altitude
 
 Guanacos, Torres del Paine National Park, Chile (© Floris van Breugel/NPL/Minden Pictures)
@@ -116,16 +126,6 @@ Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)
 Date: 2024-12-01
 
 Download 4k: [Protecting the last great wilderness](https://bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Reflecting Scotland's heritage
-
-Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)
-
-![Reflecting Scotland's heritage](https://bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-11-30
-
-Download 4k: [Reflecting Scotland's heritage](https://bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
