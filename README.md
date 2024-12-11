@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The triumphant trio
+
+Tre Cime di Lavaredo, Sexten Dolomites, Italy (© Daniel Maran/Getty Images)
+
+![The triumphant trio](https://bing.com/th?id=OHR.DolomitesSky_EN-US8624061239_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-11
+
+Download 4k: [The triumphant trio](https://bing.com/th?id=OHR.DolomitesSky_EN-US8624061239_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The end? Not quite.
 
 The Cornish Coast Path covered in snow, Land's End, Cornwall, England (© Josef FitzGerald-Patrick/Getty Images)
@@ -116,16 +126,6 @@ Female moose, Denali National Park, Alaska (© Cavan Images/Alamy)
 Date: 2024-12-02
 
 Download 4k: [A wild stare](https://bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Protecting the last great wilderness
-
-Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)
-
-![Protecting the last great wilderness](https://bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-01
-
-Download 4k: [Protecting the last great wilderness](https://bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
