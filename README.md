@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## 'Red-y' for the holidays
+
+Wild poinsettia (aka Christmas flower) (© David Hosking/NPL/Minden Pictures)
+
+!['Red-y' for the holidays](https://bing.com/th?id=OHR.WildPoinsettia_EN-US8728271702_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-12
+
+Download 4k: ['Red-y' for the holidays](https://bing.com/th?id=OHR.WildPoinsettia_EN-US8728271702_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The triumphant trio
 
 Tre Cime di Lavaredo, Sexten Dolomites, Italy (© Daniel Maran/Getty Images)
@@ -116,16 +126,6 @@ Sattais Katcheri (Court of 27 Pillars), Amber Fort, Rajasthan, India (© Yury Ta
 Date: 2024-12-03
 
 Download 4k: [Pillars of the past](https://bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A wild stare
-
-Female moose, Denali National Park, Alaska (© Cavan Images/Alamy)
-
-![A wild stare](https://bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-02
-
-Download 4k: [A wild stare](https://bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
