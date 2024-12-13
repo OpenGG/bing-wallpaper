@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Advent at the basilica
+
+Christmas market, St. Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)
+
+![Advent at the basilica](https://bing.com/th?id=OHR.ChristmasBudapest_EN-US0865695821_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-13
+
+Download 4k: [Advent at the basilica](https://bing.com/th?id=OHR.ChristmasBudapest_EN-US0865695821_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## 'Red-y' for the holidays
 
 Wild poinsettia (aka Christmas flower) (© David Hosking/NPL/Minden Pictures)
@@ -116,16 +126,6 @@ Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)
 Date: 2024-12-04
 
 Download 4k: [On the front line of extinction](https://bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Pillars of the past
-
-Sattais Katcheri (Court of 27 Pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)
-
-![Pillars of the past](https://bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-03
-
-Download 4k: [Pillars of the past](https://bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
