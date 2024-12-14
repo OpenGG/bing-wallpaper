@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## 'Hoo' said that?
+
+Northern hawk-owl, Canada (© pchoui/Getty Images)
+
+!['Hoo' said that?](https://bing.com/th?id=OHR.NorthernHawkOwl_EN-US7592435350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-14
+
+Download 4k: ['Hoo' said that?](https://bing.com/th?id=OHR.NorthernHawkOwl_EN-US7592435350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Advent at the basilica
 
 Christmas market, St. Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)
@@ -116,16 +126,6 @@ Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Moti
 Date: 2024-12-05
 
 Download 4k: [The rise of tufa](https://bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## On the front line of extinction
-
-Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)
-
-![On the front line of extinction](https://bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-04
-
-Download 4k: [On the front line of extinction](https://bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
