@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A lake of tears
+
+Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)
+
+![A lake of tears](https://bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-15
+
+Download 4k: [A lake of tears](https://bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## 'Hoo' said that?
 
 Northern hawk-owl, Canada (© pchoui/Getty Images)
@@ -116,16 +126,6 @@ Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)
 Date: 2024-12-06
 
 Download 4k: [Happy birthday, Finland!](https://bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The rise of tufa
-
-Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion)
-
-![The rise of tufa](https://bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-05
-
-Download 4k: [The rise of tufa](https://bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
