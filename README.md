@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Twinkling streets and icy peaks
+
+Salzburg, Austria (© bluejayphoto/Getty Images)
+
+![Twinkling streets and icy peaks](https://bing.com/th?id=OHR.SalzburgSnow_EN-US8262729220_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-16
+
+Download 4k: [Twinkling streets and icy peaks](https://bing.com/th?id=OHR.SalzburgSnow_EN-US8262729220_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A lake of tears
 
 Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)
@@ -116,16 +126,6 @@ Pearl Harbor Memorial Bridge, New Haven, Connecticut (© Enzo Figueres/Getty Ima
 Date: 2024-12-07
 
 Download 4k: [Remembering Pearl Harbor](https://bing.com/th?id=OHR.NewHavenBridge_EN-US7922266620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Happy birthday, Finland!
-
-Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)
-
-![Happy birthday, Finland!](https://bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-06
-
-Download 4k: [Happy birthday, Finland!](https://bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
