@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A shore to adore
+
+Traditional red fishermen's cabins on the shore of Reinefjorden, Norway (© Pilat666/Getty Images)
+
+![A shore to adore](https://bing.com/th?id=OHR.ReinefjordenNorway_EN-US8636083241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-17
+
+Download 4k: [A shore to adore](https://bing.com/th?id=OHR.ReinefjordenNorway_EN-US8636083241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Twinkling streets and icy peaks
 
 Salzburg, Austria (© bluejayphoto/Getty Images)
@@ -116,16 +126,6 @@ Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)
 Date: 2024-12-08
 
 Download 4k: [The comeback of Notre-Dame](https://bing.com/th?id=OHR.ReopeningNotreDame_EN-US8084146311_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Remembering Pearl Harbor
-
-Pearl Harbor Memorial Bridge, New Haven, Connecticut (© Enzo Figueres/Getty Images)
-
-![Remembering Pearl Harbor](https://bing.com/th?id=OHR.NewHavenBridge_EN-US7922266620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-07
-
-Download 4k: [Remembering Pearl Harbor](https://bing.com/th?id=OHR.NewHavenBridge_EN-US7922266620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
