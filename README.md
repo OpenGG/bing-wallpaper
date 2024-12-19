@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Twinkle town
+
+Christmas market in Sibiu, Romania (© Calin Stan/Alamy)
+
+![Twinkle town](https://bing.com/th?id=OHR.SibiuRomania_EN-US9223739756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-19
+
+Download 4k: [Twinkle town](https://bing.com/th?id=OHR.SibiuRomania_EN-US9223739756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Yule really love this ballet
 
 English National Ballet performing 'The Nutcracker' (© Caroline Holden/Alamy)
@@ -116,16 +126,6 @@ The Cornish Coast Path covered in snow, Land's End, Cornwall, England (© Josef 
 Date: 2024-12-10
 
 Download 4k: [The end? Not quite.](https://bing.com/th?id=OHR.CornwallSnow_EN-US8476437458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Attitude and altitude
-
-Guanacos, Torres del Paine National Park, Chile (© Floris van Breugel/NPL/Minden Pictures)
-
-![Attitude and altitude](https://bing.com/th?id=OHR.GuanacosChile_EN-US8209106662_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-09
-
-Download 4k: [Attitude and altitude](https://bing.com/th?id=OHR.GuanacosChile_EN-US8209106662_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
