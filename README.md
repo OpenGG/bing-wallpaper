@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## He's coming to town...
+
+Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)
+
+![He's coming to town...](https://bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-20
+
+Download 4k: [He's coming to town...](https://bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Twinkle town
 
 Christmas market in Sibiu, Romania (© Calin Stan/Alamy)
@@ -116,16 +126,6 @@ Tre Cime di Lavaredo, Sexten Dolomites, Italy (© Daniel Maran/Getty Images)
 Date: 2024-12-11
 
 Download 4k: [The triumphant trio](https://bing.com/th?id=OHR.DolomitesSky_EN-US8624061239_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The end? Not quite.
-
-The Cornish Coast Path covered in snow, Land's End, Cornwall, England (© Josef FitzGerald-Patrick/Getty Images)
-
-![The end? Not quite.](https://bing.com/th?id=OHR.CornwallSnow_EN-US8476437458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-10
-
-Download 4k: [The end? Not quite.](https://bing.com/th?id=OHR.CornwallSnow_EN-US8476437458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
