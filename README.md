@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Midwinter wonderland
+
+Loisach River at Lake Kochelsee, Bavaria, Germany (© Christian Back/eStock Photo)
+
+![Midwinter wonderland](https://bing.com/th?id=OHR.BavarianWinter_EN-US9813996975_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-21
+
+Download 4k: [Midwinter wonderland](https://bing.com/th?id=OHR.BavarianWinter_EN-US9813996975_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## He's coming to town...
 
 Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)
@@ -116,16 +126,6 @@ Wild poinsettia (aka Christmas flower) (© David Hosking/Minden Pictures)
 Date: 2024-12-12
 
 Download 4k: ['Red-y' for the holidays](https://bing.com/th?id=OHR.WildPoinsettia_EN-US8728271702_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The triumphant trio
-
-Tre Cime di Lavaredo, Sexten Dolomites, Italy (© Daniel Maran/Getty Images)
-
-![The triumphant trio](https://bing.com/th?id=OHR.DolomitesSky_EN-US8624061239_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-11
-
-Download 4k: [The triumphant trio](https://bing.com/th?id=OHR.DolomitesSky_EN-US8624061239_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
