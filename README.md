@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Surf, sand, and Santa
+
+Christmas tree at Crystal Pier, Pacific Beach, San Diego, California (© SamAntonioPhotography/Getty Images)
+
+![Surf, sand, and Santa](https://bing.com/th?id=OHR.CrystalPier_EN-US0086755810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-22
+
+Download 4k: [Surf, sand, and Santa](https://bing.com/th?id=OHR.CrystalPier_EN-US0086755810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Midwinter wonderland
 
 Loisach River at Lake Kochelsee, Bavaria, Germany (© Christian Back/eStock Photo)
@@ -116,16 +126,6 @@ Christmas market, St. Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutt
 Date: 2024-12-13
 
 Download 4k: [Advent at the basilica](https://bing.com/th?id=OHR.ChristmasBudapest_EN-US0865695821_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## 'Red-y' for the holidays
-
-Wild poinsettia (aka Christmas flower) (© David Hosking/Minden Pictures)
-
-!['Red-y' for the holidays](https://bing.com/th?id=OHR.WildPoinsettia_EN-US8728271702_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-12
-
-Download 4k: ['Red-y' for the holidays](https://bing.com/th?id=OHR.WildPoinsettia_EN-US8728271702_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
