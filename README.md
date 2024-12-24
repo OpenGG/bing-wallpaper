@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Have yourself a very merry Christmas!
+
+Christmas market scene in Germany (© Cyril Gosselin/Getty Images)
+
+![Have yourself a very merry Christmas!](https://bing.com/th?id=OHR.SantaSnowglobe_EN-US0704281966_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-24
+
+Download 4k: [Have yourself a very merry Christmas!](https://bing.com/th?id=OHR.SantaSnowglobe_EN-US0704281966_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Ready to let off some steam?
 
 Red-crowned cranes in Kushiro, Hokkaido, Japan (© Wirestock, Inc./Alamy)
@@ -116,16 +126,6 @@ Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)
 Date: 2024-12-15
 
 Download 4k: [A lake of tears](https://bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## 'Hoo' said that?
-
-Northern hawk-owl, Canada (© pchoui/Getty Images)
-
-!['Hoo' said that?](https://bing.com/th?id=OHR.NorthernHawkOwl_EN-US7592435350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-14
-
-Download 4k: ['Hoo' said that?](https://bing.com/th?id=OHR.NorthernHawkOwl_EN-US7592435350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
