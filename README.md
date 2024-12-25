@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Merry Christmas!
+
+Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)
+
+![Merry Christmas!](https://bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-25
+
+Download 4k: [Merry Christmas!](https://bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Have yourself a very merry Christmas!
 
 Christmas market scene in Germany (© Cyril Gosselin/Getty Images)
@@ -116,16 +126,6 @@ Salzburg, Austria (© bluejayphoto/Getty Images)
 Date: 2024-12-16
 
 Download 4k: [Twinkling streets and icy peaks](https://bing.com/th?id=OHR.SalzburgSnow_EN-US8262729220_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A lake of tears
-
-Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)
-
-![A lake of tears](https://bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-15
-
-Download 4k: [A lake of tears](https://bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
