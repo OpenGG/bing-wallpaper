@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The holidays continue
+
+Christmas lights at Mousehole Harbour, Cornwall, England (© ianwool/Getty Images)
+
+![The holidays continue](https://bing.com/th?id=OHR.MouseholeXmas_EN-US1272999190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-26
+
+Download 4k: [The holidays continue](https://bing.com/th?id=OHR.MouseholeXmas_EN-US1272999190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Merry Christmas!
 
 Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)
@@ -116,16 +126,6 @@ Traditional red fishermen's cabins on the shore of Reinefjorden, Norway (© Pila
 Date: 2024-12-17
 
 Download 4k: [A shore to adore](https://bing.com/th?id=OHR.ReinefjordenNorway_EN-US8636083241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Twinkling streets and icy peaks
-
-Salzburg, Austria (© bluejayphoto/Getty Images)
-
-![Twinkling streets and icy peaks](https://bing.com/th?id=OHR.SalzburgSnow_EN-US8262729220_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-16
-
-Download 4k: [Twinkling streets and icy peaks](https://bing.com/th?id=OHR.SalzburgSnow_EN-US8262729220_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
