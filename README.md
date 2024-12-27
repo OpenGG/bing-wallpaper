@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Icy reflections and snow-dusted peaks
+
+Lake Bled, Slovenia (© Kesu01/Getty Images)
+
+![Icy reflections and snow-dusted peaks](https://bing.com/th?id=OHR.LakeBledSnow_EN-US5836531079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-27
+
+Download 4k: [Icy reflections and snow-dusted peaks](https://bing.com/th?id=OHR.LakeBledSnow_EN-US5836531079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The holidays continue
 
 Christmas lights at Mousehole Harbour, Cornwall, England (© ianwool/Getty Images)
@@ -116,16 +126,6 @@ English National Ballet performing 'The Nutcracker' (© Caroline Holden/Alamy)
 Date: 2024-12-18
 
 Download 4k: [Yule really love this ballet](https://bing.com/th?id=OHR.NutcrackerBallet_EN-US8927830113_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A shore to adore
-
-Traditional red fishermen's cabins on the shore of Reinefjorden, Norway (© Pilat666/Getty Images)
-
-![A shore to adore](https://bing.com/th?id=OHR.ReinefjordenNorway_EN-US8636083241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-17
-
-Download 4k: [A shore to adore](https://bing.com/th?id=OHR.ReinefjordenNorway_EN-US8636083241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
