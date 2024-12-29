@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## On the sacred mountain
+
+Borobudur Temple, Java, Indonesia (© Robertharding/Shutterstock)
+
+![On the sacred mountain](https://bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-29
+
+Download 4k: [On the sacred mountain](https://bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Shell-abrating a life
 
 A green sea turtle swims in the Pacific Ocean near the French special collectivity of New Caledonia (© Damsea/Shutterstock)
@@ -116,16 +126,6 @@ Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)
 Date: 2024-12-20
 
 Download 4k: [He's coming to town...](https://bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Twinkle town
-
-Christmas market in Sibiu, Romania (© Calin Stan/Alamy)
-
-![Twinkle town](https://bing.com/th?id=OHR.SibiuRomania_EN-US9223739756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-19
-
-Download 4k: [Twinkle town](https://bing.com/th?id=OHR.SibiuRomania_EN-US9223739756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
