@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Midnight in Rio
+
+New Year's Eve fireworks over Copacabana Beach, Rio de Janeiro, Brazil (© Wagner Meier/Getty Images)
+
+![Midnight in Rio](https://bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2024-12-31
+
+Download 4k: [Midnight in Rio](https://bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A park for all seasons
 
 Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)
@@ -116,16 +126,6 @@ Christmas tree at Crystal Pier, Pacific Beach, San Diego, California (© SamAnto
 Date: 2024-12-22
 
 Download 4k: [Surf, sand, and Santa](https://bing.com/th?id=OHR.CrystalPier_EN-US0086755810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Midwinter wonderland
-
-Loisach River at Lake Kochelsee, Bavaria, Germany (© Christian Back/eStock Photo)
-
-![Midwinter wonderland](https://bing.com/th?id=OHR.BavarianWinter_EN-US9813996975_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-21
-
-Download 4k: [Midwinter wonderland](https://bing.com/th?id=OHR.BavarianWinter_EN-US9813996975_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
