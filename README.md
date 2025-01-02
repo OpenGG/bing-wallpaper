@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The glistening village
+
+Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images)
+
+![The glistening village](https://bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-02
+
+Download 4k: [The glistening village](https://bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Have an ice New Year's Day
 
 Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock)
@@ -116,16 +126,6 @@ Christmas market scene in Germany (© Cyril Gosselin/Getty Images)
 Date: 2024-12-24
 
 Download 4k: [Have yourself a very merry Christmas!](https://bing.com/th?id=OHR.SantaSnowglobe_EN-US0704281966_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Ready to let off some steam?
-
-Red-crowned cranes in Kushiro, Hokkaido, Japan (© Wirestock, Inc./Alamy)
-
-![Ready to let off some steam?](https://bing.com/th?id=OHR.FestivusCranes_EN-US0396321898_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-23
-
-Download 4k: [Ready to let off some steam?](https://bing.com/th?id=OHR.FestivusCranes_EN-US0396321898_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
