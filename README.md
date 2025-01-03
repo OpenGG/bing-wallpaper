@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Ring in the fun
+
+The Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)
+
+![Ring in the fun](https://bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-03
+
+Download 4k: [Ring in the fun](https://bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The glistening village
 
 Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images)
@@ -116,16 +126,6 @@ Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Univer
 Date: 2024-12-25
 
 Download 4k: [Merry Christmas!](https://bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Have yourself a very merry Christmas!
-
-Christmas market scene in Germany (© Cyril Gosselin/Getty Images)
-
-![Have yourself a very merry Christmas!](https://bing.com/th?id=OHR.SantaSnowglobe_EN-US0704281966_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-24
-
-Download 4k: [Have yourself a very merry Christmas!](https://bing.com/th?id=OHR.SantaSnowglobe_EN-US0704281966_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
