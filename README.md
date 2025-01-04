@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A borderline paradise
+
+Bản Giốc–Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)
+
+![A borderline paradise](https://bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-04
+
+Download 4k: [A borderline paradise](https://bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Ring in the fun
 
 The Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)
@@ -116,16 +126,6 @@ Christmas lights at Mousehole Harbour, Cornwall, England (© ianwool/Getty Image
 Date: 2024-12-26
 
 Download 4k: [The holidays continue](https://bing.com/th?id=OHR.MouseholeXmas_EN-US1272999190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Merry Christmas!
-
-Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)
-
-![Merry Christmas!](https://bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-25
-
-Download 4k: [Merry Christmas!](https://bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
