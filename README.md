@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Rocks and rollers
+
+Moeraki Boulders at sunset, South Island, New Zealand (© Douglas Pearson/eStock Photo)
+
+![Rocks and rollers](https://bing.com/th?id=OHR.BouldersNZ_EN-US0112829210_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-07
+
+Download 4k: [Rocks and rollers](https://bing.com/th?id=OHR.BouldersNZ_EN-US0112829210_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Divine depths
 
 Flooded crypt, Basilica of San Francesco, Ravenna, Italy (© Andrea Pucci/Getty Images)
@@ -116,16 +126,6 @@ Borobudur Temple, Java, Indonesia (© Robertharding/Shutterstock)
 Date: 2024-12-29
 
 Download 4k: [On the sacred mountain](https://bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Shell-abrating a life
-
-A green sea turtle swims in the Pacific Ocean near the French special collectivity of New Caledonia (© Damsea/Shutterstock)
-
-![Shell-abrating a life](https://bing.com/th?id=OHR.CoralTurtle_EN-US6100263163_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-28
-
-Download 4k: [Shell-abrating a life](https://bing.com/th?id=OHR.CoralTurtle_EN-US6100263163_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
