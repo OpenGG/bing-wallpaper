@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Step up your game
+
+Snow on the Great Wall of China (© View Stock/Alamy)
+
+![Step up your game](https://bing.com/th?id=OHR.GreatWallStairs_EN-US0360405933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-08
+
+Download 4k: [Step up your game](https://bing.com/th?id=OHR.GreatWallStairs_EN-US0360405933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Rocks and rollers
 
 Moeraki Boulders at sunset, South Island, New Zealand (© Douglas Pearson/eStock Photo)
@@ -116,16 +126,6 @@ Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Par
 Date: 2024-12-30
 
 Download 4k: [A park for all seasons](https://bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## On the sacred mountain
-
-Borobudur Temple, Java, Indonesia (© Robertharding/Shutterstock)
-
-![On the sacred mountain](https://bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-29
-
-Download 4k: [On the sacred mountain](https://bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
