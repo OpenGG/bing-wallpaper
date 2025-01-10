@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Bubbles, bubbles everywhere
+
+Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)
+
+![Bubbles, bubbles everywhere](https://bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-10
+
+Download 4k: [Bubbles, bubbles everywhere](https://bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Honoring Jimmy Carter
 
 The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC (© J. David Ake/Getty Images)
@@ -116,16 +126,6 @@ Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock)
 Date: 2025-01-01
 
 Download 4k: [Have an ice New Year's Day](https://bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Midnight in Rio
-
-New Year's Eve fireworks over Copacabana Beach, Rio de Janeiro, Brazil (© Wagner Meier/Getty Images)
-
-![Midnight in Rio](https://bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2024-12-31
-
-Download 4k: [Midnight in Rio](https://bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
