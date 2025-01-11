@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Arches of a bygone era
+
+Heri es-Swani in Meknes, Morocco (© Calin Stan/Shutterstock)
+
+![Arches of a bygone era](https://bing.com/th?id=OHR.MeknesMorocco_EN-US6991915839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-11
+
+Download 4k: [Arches of a bygone era](https://bing.com/th?id=OHR.MeknesMorocco_EN-US6991915839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Bubbles, bubbles everywhere
 
 Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)
@@ -116,16 +126,6 @@ Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images)
 Date: 2025-01-02
 
 Download 4k: [The glistening village](https://bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Have an ice New Year's Day
-
-Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock)
-
-![Have an ice New Year's Day](https://bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-01
-
-Download 4k: [Have an ice New Year's Day](https://bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
