@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sharp vision in the depths
+
+Crescent-tail bigeye fish in the Great Barrier Reef, Australia (© Fred Bavendam/Minden Pictures)
+
+![Sharp vision in the depths](https://bing.com/th?id=OHR.CrescentTail_EN-US7217745417_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-12
+
+Download 4k: [Sharp vision in the depths](https://bing.com/th?id=OHR.CrescentTail_EN-US7217745417_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Arches of a bygone era
 
 Heri es-Swani in Meknes, Morocco (© Calin Stan/Shutterstock)
@@ -116,16 +126,6 @@ The Radcliffe Camera and All Souls College, University of Oxford, England (© at
 Date: 2025-01-03
 
 Download 4k: [Ring in the fun](https://bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The glistening village
-
-Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images)
-
-![The glistening village](https://bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-02
-
-Download 4k: [The glistening village](https://bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
