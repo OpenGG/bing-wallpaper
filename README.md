@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## 'Welsh' you a Happy Hen Galan!
+
+Cottage with Tŵr Mawr Lighthouse in the background, Ynys Llanddwyn, Wales (© Westend61 on Offset/Shutterstock)
+
+!['Welsh' you a Happy Hen Galan!](https://bing.com/th?id=OHR.CoastalWales_EN-US9397534673_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-13
+
+Download 4k: ['Welsh' you a Happy Hen Galan!](https://bing.com/th?id=OHR.CoastalWales_EN-US9397534673_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Sharp vision in the depths
 
 Crescent-tail bigeye fish in the Great Barrier Reef, Australia (© Fred Bavendam/Minden Pictures)
@@ -116,16 +126,6 @@ Bản Giốc–Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/
 Date: 2025-01-04
 
 Download 4k: [A borderline paradise](https://bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Ring in the fun
-
-The Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)
-
-![Ring in the fun](https://bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-03
-
-Download 4k: [Ring in the fun](https://bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
