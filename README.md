@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where the past is always present
+
+The Great Court of the British Museum, London, England (© Cavan Images/Offset/Shutterstock)
+
+![Where the past is always present](https://bing.com/th?id=OHR.MuseumCourt_EN-US0003531841_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-15
+
+Download 4k: [Where the past is always present](https://bing.com/th?id=OHR.MuseumCourt_EN-US0003531841_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Calmness overload
 
 Village of Zahara de la Sierra overlooking Zahara-El Gastor Reservoir, Cádiz province, Spain (© SEN LI/Getty Images)
@@ -116,16 +126,6 @@ Flooded crypt, Basilica of San Francesco, Ravenna, Italy (© Andrea Pucci/Getty 
 Date: 2025-01-06
 
 Download 4k: [Divine depths](https://bing.com/th?id=OHR.RavennaBasilica_EN-US9585765715_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Head-turner in the treetops
-
-Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy)
-
-![Head-turner in the treetops](https://bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-05
-
-Download 4k: [Head-turner in the treetops](https://bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
