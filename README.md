@@ -39,13 +39,13 @@ Download 4k: [Calmness overload](https://bing.com/th?id=OHR.CadizSpain_EN-US9699
 
 ## 'Welsh' you a Happy Hen Galan!
 
-Cottage with Tŵr Mawr Lighthouse in the background, Ynys Llanddwyn, Wales (© Westend61 on Offset/Shutterstock)
+Cottage with Tŵr Bach Lighthouse in the background, Ynys Llanddwyn, Wales (© Westend61 on Offset/Shutterstock)
 
-!['Welsh' you a Happy Hen Galan!](https://bing.com/th?id=OHR.CoastalWales_EN-US9397534673_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+!['Welsh' you a Happy Hen Galan!](https://bing.com/th?id=OHR.CoastalWales_EN-US9903529231_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
 
 Date: 2025-01-13
 
-Download 4k: ['Welsh' you a Happy Hen Galan!](https://bing.com/th?id=OHR.CoastalWales_EN-US9397534673_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+Download 4k: ['Welsh' you a Happy Hen Galan!](https://bing.com/th?id=OHR.CoastalWales_EN-US9903529231_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 ## Sharp vision in the depths
 
