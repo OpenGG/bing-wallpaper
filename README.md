@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Born from fire, built to last
+
+High Peaks Trail in Pinnacles National Park, San Benito County, California (© yhelfman/Getty Images)
+
+![Born from fire, built to last](https://bing.com/th?id=OHR.PinnaclesPeaks_EN-US0267834225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-16
+
+Download 4k: [Born from fire, built to last](https://bing.com/th?id=OHR.PinnaclesPeaks_EN-US0267834225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where the past is always present
 
 The Great Court of the British Museum, London, England (© Cavan Images/Offset/Shutterstock)
@@ -116,16 +126,6 @@ Moeraki Boulders at sunset, South Island, New Zealand (© Douglas Pearson/eStock
 Date: 2025-01-07
 
 Download 4k: [Rocks and rollers](https://bing.com/th?id=OHR.BouldersNZ_EN-US0112829210_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Divine depths
-
-Flooded crypt, Basilica of San Francesco, Ravenna, Italy (© Andrea Pucci/Getty Images)
-
-![Divine depths](https://bing.com/th?id=OHR.RavennaBasilica_EN-US9585765715_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-06
-
-Download 4k: [Divine depths](https://bing.com/th?id=OHR.RavennaBasilica_EN-US9585765715_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
