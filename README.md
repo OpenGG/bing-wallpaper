@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## 1,001 New Mexican dunes
+
+Sunset at White Sands National Park, New Mexico (© Image Professionals GmbH/Alamy)
+
+![1,001 New Mexican dunes](https://bing.com/th?id=OHR.WhiteSandsNP_EN-US0745183236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-18
+
+Download 4k: [1,001 New Mexican dunes](https://bing.com/th?id=OHR.WhiteSandsNP_EN-US0745183236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Pouch perfect
 
 Brown pelican, San Diego, California (© Arthur Morris/BIRDS AS ART/Getty Images)
@@ -116,16 +126,6 @@ The US Capitol dome with flags flying at half-staff in honor of former President
 Date: 2025-01-09
 
 Download 4k: [Honoring Jimmy Carter](https://bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Step up your game
-
-Snow on the Great Wall of China (© View Stock/Alamy)
-
-![Step up your game](https://bing.com/th?id=OHR.GreatWallStairs_EN-US0360405933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-08
-
-Download 4k: [Step up your game](https://bing.com/th?id=OHR.GreatWallStairs_EN-US0360405933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
