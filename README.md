@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A grotto fit for a god
+
+Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)
+
+![A grotto fit for a god](https://bing.com/th?id=OHR.NeptunesGrotto_EN-US1020342235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-19
+
+Download 4k: [A grotto fit for a god](https://bing.com/th?id=OHR.NeptunesGrotto_EN-US1020342235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## 1,001 New Mexican dunes
 
 Sunset at White Sands National Park, New Mexico (© Image Professionals GmbH/Alamy)
@@ -116,16 +126,6 @@ Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)
 Date: 2025-01-10
 
 Download 4k: [Bubbles, bubbles everywhere](https://bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Honoring Jimmy Carter
-
-The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC (© J. David Ake/Getty Images)
-
-![Honoring Jimmy Carter](https://bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-09
-
-Download 4k: [Honoring Jimmy Carter](https://bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
