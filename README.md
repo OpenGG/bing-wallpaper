@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Honoring the dream
+
+Martin Luther King Jr. Memorial in Washington, DC (© Win McNamee/Getty Images)
+
+![Honoring the dream](https://bing.com/th?id=OHR.KingMemorial_EN-US1319830882_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-20
+
+Download 4k: [Honoring the dream](https://bing.com/th?id=OHR.KingMemorial_EN-US1319830882_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A grotto fit for a god
 
 Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)
@@ -116,16 +126,6 @@ Heri es-Swani in Meknes, Morocco (© Calin Stan/Shutterstock)
 Date: 2025-01-11
 
 Download 4k: [Arches of a bygone era](https://bing.com/th?id=OHR.MeknesMorocco_EN-US6991915839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Bubbles, bubbles everywhere
-
-Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)
-
-![Bubbles, bubbles everywhere](https://bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-10
-
-Download 4k: [Bubbles, bubbles everywhere](https://bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
