@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Feeling squirrely?
+
+Eurasian red squirrel (© Edwin Giesbers/Minden Pictures)
+
+![Feeling squirrely?](https://bing.com/th?id=OHR.DutchSquirrel_EN-US1600993769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-21
+
+Download 4k: [Feeling squirrely?](https://bing.com/th?id=OHR.DutchSquirrel_EN-US1600993769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Honoring the dream
 
 Martin Luther King Jr. Memorial in Washington, DC (© Win McNamee/Getty Images)
@@ -116,16 +126,6 @@ Crescent-tail bigeye fish in the Great Barrier Reef, Australia (© Fred Bavendam
 Date: 2025-01-12
 
 Download 4k: [Sharp vision in the depths](https://bing.com/th?id=OHR.CrescentTail_EN-US7217745417_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Arches of a bygone era
-
-Heri es-Swani in Meknes, Morocco (© Calin Stan/Shutterstock)
-
-![Arches of a bygone era](https://bing.com/th?id=OHR.MeknesMorocco_EN-US6991915839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-11
-
-Download 4k: [Arches of a bygone era](https://bing.com/th?id=OHR.MeknesMorocco_EN-US6991915839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
