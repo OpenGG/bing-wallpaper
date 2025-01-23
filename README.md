@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Movies, mountains, and magic
+
+Deer Valley at dusk, Park City, Utah (© Adventure_Photo/Getty Images)
+
+![Movies, mountains, and magic](https://bing.com/th?id=OHR.DeerValley_EN-US2128104711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-23
+
+Download 4k: [Movies, mountains, and magic](https://bing.com/th?id=OHR.DeerValley_EN-US2128104711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Finding beauty in the Lost City
 
 Ad-Deir, Petra, Jordan (© Punnawit Suwuttananun/Getty Images)
@@ -116,16 +126,6 @@ Village of Zahara de la Sierra overlooking Zahara-El Gastor Reservoir, Cádiz pr
 Date: 2025-01-14
 
 Download 4k: [Calmness overload](https://bing.com/th?id=OHR.CadizSpain_EN-US9699586606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## 'Welsh' you a Happy Hen Galan!
-
-Cottage with Tŵr Bach Lighthouse in the background, Ynys Llanddwyn, Wales (© Westend61 on Offset/Shutterstock)
-
-!['Welsh' you a Happy Hen Galan!](https://bing.com/th?id=OHR.CoastalWales_EN-US9903529231_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-13
-
-Download 4k: ['Welsh' you a Happy Hen Galan!](https://bing.com/th?id=OHR.CoastalWales_EN-US9903529231_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
