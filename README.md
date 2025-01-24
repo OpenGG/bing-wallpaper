@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Bubbling with power
+
+Strokkur geyser in Iceland (© John and Tina Reid/Getty Images)
+
+![Bubbling with power](https://bing.com/th?id=OHR.IcelandGeyser_EN-US7648999118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-24
+
+Download 4k: [Bubbling with power](https://bing.com/th?id=OHR.IcelandGeyser_EN-US7648999118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Movies, mountains, and magic
 
 Deer Valley at dusk, Park City, Utah (© Adventure_Photo/Getty Images)
@@ -116,16 +126,6 @@ The Great Court of the British Museum, London, England (© Cavan Images/Offset/S
 Date: 2025-01-15
 
 Download 4k: [Where the past is always present](https://bing.com/th?id=OHR.MuseumCourt_EN-US0003531841_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Calmness overload
-
-Village of Zahara de la Sierra overlooking Zahara-El Gastor Reservoir, Cádiz province, Spain (© SEN LI/Getty Images)
-
-![Calmness overload](https://bing.com/th?id=OHR.CadizSpain_EN-US9699586606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-14
-
-Download 4k: [Calmness overload](https://bing.com/th?id=OHR.CadizSpain_EN-US9699586606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
