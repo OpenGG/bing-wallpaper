@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Golden hour in Porto
+
+Porto, Portugal (© Starcevic/Getty Images)
+
+![Golden hour in Porto](https://bing.com/th?id=OHR.PortoSunset_EN-US7987153816_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-25
+
+Download 4k: [Golden hour in Porto](https://bing.com/th?id=OHR.PortoSunset_EN-US7987153816_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Bubbling with power
 
 Strokkur geyser in Iceland (© John and Tina Reid/Getty Images)
@@ -116,16 +126,6 @@ High Peaks Trail in Pinnacles National Park, San Benito County, California (© y
 Date: 2025-01-16
 
 Download 4k: [A monumental milestone](https://bing.com/th?id=OHR.PinnaclesPeaks_EN-US6350520288_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where the past is always present
-
-The Great Court of the British Museum, London, England (© Cavan Images/Offset/Shutterstock)
-
-![Where the past is always present](https://bing.com/th?id=OHR.MuseumCourt_EN-US0003531841_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-15
-
-Download 4k: [Where the past is always present](https://bing.com/th?id=OHR.MuseumCourt_EN-US0003531841_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
