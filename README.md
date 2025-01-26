@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Aging gracefully
+
+European beech forest in Belgium (© Philippe Moes/Minden Pictures)
+
+![Aging gracefully](https://bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-26
+
+Download 4k: [Aging gracefully](https://bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Golden hour in Porto
 
 Porto, Portugal (© Starcevic/Getty Images)
@@ -116,16 +126,6 @@ Brown pelican, San Diego, California (© Arthur Morris/BIRDS AS ART/Getty Images
 Date: 2025-01-17
 
 Download 4k: [Pouch perfect](https://bing.com/th?id=OHR.PelicanPortrait_EN-US0510978735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A monumental milestone
-
-High Peaks Trail in Pinnacles National Park, San Benito County, California (© yhelfman/Getty Images)
-
-![A monumental milestone](https://bing.com/th?id=OHR.PinnaclesPeaks_EN-US6350520288_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-16
-
-Download 4k: [A monumental milestone](https://bing.com/th?id=OHR.PinnaclesPeaks_EN-US6350520288_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
