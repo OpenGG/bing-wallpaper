@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Snow-way you'll miss it
+
+Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)
+
+![Snow-way you'll miss it](https://bing.com/th?id=OHR.FlyingOwl_EN-US8779625388_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-28
+
+Download 4k: [Snow-way you'll miss it](https://bing.com/th?id=OHR.FlyingOwl_EN-US8779625388_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Peaked your curiosity
 
 Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)
 Date: 2025-01-19
 
 Download 4k: [A grotto fit for a god](https://bing.com/th?id=OHR.NeptunesGrotto_EN-US1020342235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## 1,001 New Mexican dunes
-
-Sunset at White Sands National Park, New Mexico (© Image Professionals GmbH/Alamy)
-
-![1,001 New Mexican dunes](https://bing.com/th?id=OHR.WhiteSandsNP_EN-US0745183236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-18
-
-Download 4k: [1,001 New Mexican dunes](https://bing.com/th?id=OHR.WhiteSandsNP_EN-US0745183236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
