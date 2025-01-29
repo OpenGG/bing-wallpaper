@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Happy Chinese New Year!
+
+Dragon dance, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)
+
+![Happy Chinese New Year!](https://bing.com/th?id=OHR.LunarDragon_EN-US9011723385_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-01-29
+
+Download 4k: [Happy Chinese New Year!](https://bing.com/th?id=OHR.LunarDragon_EN-US9011723385_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Snow-way you'll miss it
 
 Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)
@@ -116,16 +126,6 @@ Martin Luther King Jr. Memorial in Washington, DC (© Win McNamee/Getty Images)
 Date: 2025-01-20
 
 Download 4k: [Honoring the dream](https://bing.com/th?id=OHR.KingMemorial_EN-US1319830882_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A grotto fit for a god
-
-Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)
-
-![A grotto fit for a god](https://bing.com/th?id=OHR.NeptunesGrotto_EN-US1020342235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-19
-
-Download 4k: [A grotto fit for a god](https://bing.com/th?id=OHR.NeptunesGrotto_EN-US1020342235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
