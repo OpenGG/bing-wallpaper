@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Roots of freedom
+
+National Museum of African American History & Culture, Washington, DC (© BrianPIrwin/Shutterstock)
+
+![Roots of freedom](https://bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-01
+
+Download 4k: [Roots of freedom](https://bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Anything but plain
 
 Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)
@@ -117,17 +127,9 @@ Date: 2025-01-23
 
 Download 4k: [Movies, mountains, and magic](https://bing.com/th?id=OHR.DeerValley_EN-US2128104711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Finding beauty in the Lost City
-
-Ad-Deir, Petra, Jordan (© Punnawit Suwuttananun/Getty Images)
-
-![Finding beauty in the Lost City](https://bing.com/th?id=OHR.PetraMonastery_EN-US1834130511_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-22
-
-Download 4k: [Finding beauty in the Lost City](https://bing.com/th?id=OHR.PetraMonastery_EN-US1834130511_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2025-02](./archive/2025/02.md)
 
 [2025-01](./archive/2025/01.md)
 
