@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Weather or not
+
+Young alpine marmot (© Jonas Fichtner-Pflaum/Getty Images)
+
+![Weather or not](https://bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-02
+
+Download 4k: [Weather or not](https://bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Roots of freedom
 
 National Museum of African American History & Culture, Washington, DC (© BrianPIrwin/Shutterstock)
@@ -116,16 +126,6 @@ Strokkur geyser in Iceland (© John and Tina Reid/Getty Images)
 Date: 2025-01-24
 
 Download 4k: [Bubbling with power](https://bing.com/th?id=OHR.IcelandGeyser_EN-US7648999118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Movies, mountains, and magic
-
-Deer Valley at dusk, Park City, Utah (© Adventure_Photo/Getty Images)
-
-![Movies, mountains, and magic](https://bing.com/th?id=OHR.DeerValley_EN-US2128104711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-23
-
-Download 4k: [Movies, mountains, and magic](https://bing.com/th?id=OHR.DeerValley_EN-US2128104711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
