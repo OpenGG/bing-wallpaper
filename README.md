@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Bridging history, one arch at a time
+
+Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England (© AWL Images/DanitaDelimont.com)
+
+![Bridging history, one arch at a time](https://bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-03
+
+Download 4k: [Bridging history, one arch at a time](https://bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Weather or not
 
 Young alpine marmot (© Jonas Fichtner-Pflaum/Getty Images)
@@ -116,16 +126,6 @@ Porto, Portugal (© Starcevic/Getty Images)
 Date: 2025-01-25
 
 Download 4k: [Golden hour in Porto](https://bing.com/th?id=OHR.PortoSunset_EN-US7987153816_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Bubbling with power
-
-Strokkur geyser in Iceland (© John and Tina Reid/Getty Images)
-
-![Bubbling with power](https://bing.com/th?id=OHR.IcelandGeyser_EN-US7648999118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-24
-
-Download 4k: [Bubbling with power](https://bing.com/th?id=OHR.IcelandGeyser_EN-US7648999118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
