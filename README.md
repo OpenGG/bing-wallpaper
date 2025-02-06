@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Reflections of a nation's legacy
+
+Archway Islands, Wharariki Beach, South Island, New Zealand (© Francesco Vaninetti/AWL/plainpicture)
+
+![Reflections of a nation's legacy](https://bing.com/th?id=OHR.WhararikiBeach_EN-US3505877495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-06
+
+Download 4k: [Reflections of a nation's legacy](https://bing.com/th?id=OHR.WhararikiBeach_EN-US3505877495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Baa, baa, black sheep? No.
 
 Scottish Blackface sheep, Aberdeenshire, Scotland  (© Mike Powles/Getty Images)
@@ -116,16 +126,6 @@ Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)
 Date: 2025-01-28
 
 Download 4k: [Snow-way you'll miss it](https://bing.com/th?id=OHR.FlyingOwl_EN-US8779625388_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Peaked your curiosity
-
-Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)
-
-![Peaked your curiosity](https://bing.com/th?id=OHR.CanyonSnow_EN-US8514636141_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-27
-
-Download 4k: [Peaked your curiosity](https://bing.com/th?id=OHR.CanyonSnow_EN-US8514636141_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
