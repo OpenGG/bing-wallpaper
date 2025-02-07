@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Stuck in a blue moment
+
+Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)
+
+![Stuck in a blue moment](https://bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-07
+
+Download 4k: [Stuck in a blue moment](https://bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Reflections of a nation's legacy
 
 Archway Islands, Wharariki Beach, South Island, New Zealand (© Francesco Vaninetti/AWL/plainpicture)
@@ -116,16 +126,6 @@ Dragon dance, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group v
 Date: 2025-01-29
 
 Download 4k: [Happy Chinese New Year!](https://bing.com/th?id=OHR.LunarDragon_EN-US9011723385_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Snow-way you'll miss it
-
-Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)
-
-![Snow-way you'll miss it](https://bing.com/th?id=OHR.FlyingOwl_EN-US8779625388_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-28
-
-Download 4k: [Snow-way you'll miss it](https://bing.com/th?id=OHR.FlyingOwl_EN-US8779625388_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
