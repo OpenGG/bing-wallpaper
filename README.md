@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A point worth pondering
+
+Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)
+
+![A point worth pondering](https://bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-09
+
+Download 4k: [A point worth pondering](https://bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Frozen in time
 
 Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)
@@ -116,16 +126,6 @@ Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutte
 Date: 2025-01-31
 
 Download 4k: [Anything but plain](https://bing.com/th?id=OHR.PlainsZebra_EN-US9488790690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Once more unto the breach
-
-La Brecha de Rolando, Ordesa y Monte Perdido National Park, Spain (© Inaki Relanzon/Nature Picture Library/Alamy)
-
-![Once more unto the breach](https://bing.com/th?id=OHR.OrdesaSpain_EN-US9252424531_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-30
-
-Download 4k: [Once more unto the breach](https://bing.com/th?id=OHR.OrdesaSpain_EN-US9252424531_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
