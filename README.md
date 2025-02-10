@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Under my umbrella
+
+Art installation of umbrellas at Borough Market in London, England (© Malcolm P Chapman/Getty Images)
+
+![Under my umbrella](https://bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-10
+
+Download 4k: [Under my umbrella](https://bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A point worth pondering
 
 Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)
@@ -116,16 +126,6 @@ National Museum of African American History & Culture, Washington, DC (© BrianP
 Date: 2025-02-01
 
 Download 4k: [Roots of freedom](https://bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Anything but plain
-
-Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)
-
-![Anything but plain](https://bing.com/th?id=OHR.PlainsZebra_EN-US9488790690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-01-31
-
-Download 4k: [Anything but plain](https://bing.com/th?id=OHR.PlainsZebra_EN-US9488790690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
