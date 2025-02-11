@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The watchful eyes of history
+
+Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)
+
+![The watchful eyes of history](https://bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-11
+
+Download 4k: [The watchful eyes of history](https://bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Under my umbrella
 
 Art installation of umbrellas at Borough Market in London, England (© Malcolm P Chapman/Getty Images)
@@ -116,16 +126,6 @@ Young alpine marmot (© Jonas Fichtner-Pflaum/Getty Images)
 Date: 2025-02-02
 
 Download 4k: [Weather or not](https://bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Roots of freedom
-
-National Museum of African American History & Culture, Washington, DC (© BrianPIrwin/Shutterstock)
-
-![Roots of freedom](https://bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-01
-
-Download 4k: [Roots of freedom](https://bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
