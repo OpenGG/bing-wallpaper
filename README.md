@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Darwin's blueprint
+
+Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)
+
+![Darwin's blueprint](https://bing.com/th?id=OHR.GalapagosIguana_EN-US6976814194_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-12
+
+Download 4k: [Darwin's blueprint](https://bing.com/th?id=OHR.GalapagosIguana_EN-US6976814194_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The watchful eyes of history
 
 Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)
@@ -116,16 +126,6 @@ Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England (© AWL I
 Date: 2025-02-03
 
 Download 4k: [Bridging history, one arch at a time](https://bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Weather or not
-
-Young alpine marmot (© Jonas Fichtner-Pflaum/Getty Images)
-
-![Weather or not](https://bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-02
-
-Download 4k: [Weather or not](https://bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
