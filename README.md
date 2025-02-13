@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Salt of the earth
+
+Lake Tyrrell, Victoria, Australia (© Monica Bertolazzi/Getty Images)
+
+![Salt of the earth](https://bing.com/th?id=OHR.LakeTyrrell_EN-US7326346900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-13
+
+Download 4k: [Salt of the earth](https://bing.com/th?id=OHR.LakeTyrrell_EN-US7326346900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Darwin's blueprint
 
 Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)
@@ -116,16 +126,6 @@ Golden Bridge, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)
 Date: 2025-02-04
 
 Download 4k: [A walk among the clouds](https://bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Bridging history, one arch at a time
-
-Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England (© AWL Images/DanitaDelimont.com)
-
-![Bridging history, one arch at a time](https://bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-03
-
-Download 4k: [Bridging history, one arch at a time](https://bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
