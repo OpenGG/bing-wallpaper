@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Look at these lovebirds
+
+Magellanic penguins in the Falkland Islands (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)
+
+![Look at these lovebirds](https://bing.com/th?id=OHR.PenguinLove_EN-US7515315710_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-14
+
+Download 4k: [Look at these lovebirds](https://bing.com/th?id=OHR.PenguinLove_EN-US7515315710_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Salt of the earth
 
 Lake Tyrrell, Victoria, Australia (© Monica Bertolazzi/Getty Images)
@@ -116,16 +126,6 @@ Scottish Blackface sheep, Aberdeenshire, Scotland  (© Mike Powles/Getty Images)
 Date: 2025-02-05
 
 Download 4k: [Baa, baa, black sheep? No.](https://bing.com/th?id=OHR.ScottishSheep_EN-US3449526052_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A walk among the clouds
-
-Golden Bridge, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)
-
-![A walk among the clouds](https://bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-04
-
-Download 4k: [A walk among the clouds](https://bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
