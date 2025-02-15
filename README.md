@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## These are so nice-icle
+
+Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/Shutterstock)
+
+![These are so nice-icle](https://bing.com/th?id=OHR.Misotsuchi2025_EN-US8130053956_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-15
+
+Download 4k: [These are so nice-icle](https://bing.com/th?id=OHR.Misotsuchi2025_EN-US8130053956_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Look at these lovebirds
 
 Magellanic penguins in the Falkland Islands (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)
@@ -116,16 +126,6 @@ Archway Islands, Wharariki Beach, South Island, New Zealand (© Francesco Vanine
 Date: 2025-02-06
 
 Download 4k: [Reflections of a nation's legacy](https://bing.com/th?id=OHR.WhararikiBeach_EN-US3505877495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Baa, baa, black sheep? No.
-
-Scottish Blackface sheep, Aberdeenshire, Scotland  (© Mike Powles/Getty Images)
-
-![Baa, baa, black sheep? No.](https://bing.com/th?id=OHR.ScottishSheep_EN-US3449526052_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-05
-
-Download 4k: [Baa, baa, black sheep? No.](https://bing.com/th?id=OHR.ScottishSheep_EN-US3449526052_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
