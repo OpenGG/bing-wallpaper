@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Protecting the giants of the sea
+
+Humpback whale mother and calf, Tonga (© Chase Dekker/Minden Pictures)
+
+![Protecting the giants of the sea](https://bing.com/th?id=OHR.HumpbackMother_EN-US8033380725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-16
+
+Download 4k: [Protecting the giants of the sea](https://bing.com/th?id=OHR.HumpbackMother_EN-US8033380725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## These are so nice-icle
 
 Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/Shutterstock)
@@ -116,16 +126,6 @@ Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)
 Date: 2025-02-07
 
 Download 4k: [Stuck in a blue moment](https://bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Reflections of a nation's legacy
-
-Archway Islands, Wharariki Beach, South Island, New Zealand (© Francesco Vaninetti/AWL/plainpicture)
-
-![Reflections of a nation's legacy](https://bing.com/th?id=OHR.WhararikiBeach_EN-US3505877495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-06
-
-Download 4k: [Reflections of a nation's legacy](https://bing.com/th?id=OHR.WhararikiBeach_EN-US3505877495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
