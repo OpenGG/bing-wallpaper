@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Honoring our presidents
+
+The Washington Monument seen from the Lincoln Memorial, Washington, DC (© lucky-photographer/Alamy)
+
+![Honoring our presidents](https://bing.com/th?id=OHR.LincolnSunrise_EN-US7725604655_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-17
+
+Download 4k: [Honoring our presidents](https://bing.com/th?id=OHR.LincolnSunrise_EN-US7725604655_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Protecting the giants of the sea
 
 Humpback whale mother and calf, Tonga (© Chase Dekker/Minden Pictures)
@@ -116,16 +126,6 @@ Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)
 Date: 2025-02-08
 
 Download 4k: [Frozen in time](https://bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Stuck in a blue moment
-
-Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)
-
-![Stuck in a blue moment](https://bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-07
-
-Download 4k: [Stuck in a blue moment](https://bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
