@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Endless blue
+
+Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)
+
+![Endless blue](https://bing.com/th?id=OHR.BlueBelize_EN-US7787222240_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-18
+
+Download 4k: [Endless blue](https://bing.com/th?id=OHR.BlueBelize_EN-US7787222240_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Honoring our presidents
 
 The Washington Monument seen from the Lincoln Memorial, Washington, DC (© lucky-photographer/Alamy)
@@ -116,16 +126,6 @@ Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)
 Date: 2025-02-09
 
 Download 4k: [A point worth pondering](https://bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Frozen in time
-
-Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)
-
-![Frozen in time](https://bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-08
-
-Download 4k: [Frozen in time](https://bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
