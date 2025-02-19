@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The 'otter' side of life
+
+European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)
+
+![The 'otter' side of life](https://bing.com/th?id=OHR.IceHoleOtter_EN-US7859051687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-19
+
+Download 4k: [The 'otter' side of life](https://bing.com/th?id=OHR.IceHoleOtter_EN-US7859051687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Endless blue
 
 Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)
@@ -116,16 +126,6 @@ Art installation of umbrellas at Borough Market in London, England (© Malcolm P
 Date: 2025-02-10
 
 Download 4k: [Under my umbrella](https://bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A point worth pondering
-
-Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)
-
-![A point worth pondering](https://bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-09
-
-Download 4k: [A point worth pondering](https://bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
