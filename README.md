@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Celebrating Ansel Adams
+
+Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)
+
+![Celebrating Ansel Adams](https://bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-20
+
+Download 4k: [Celebrating Ansel Adams](https://bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The 'otter' side of life
 
 European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)
@@ -116,16 +126,6 @@ Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)
 Date: 2025-02-11
 
 Download 4k: [The watchful eyes of history](https://bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Under my umbrella
-
-Art installation of umbrellas at Borough Market in London, England (© Malcolm P Chapman/Getty Images)
-
-![Under my umbrella](https://bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-10
-
-Download 4k: [Under my umbrella](https://bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
