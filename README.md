@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A tale of still waters
+
+Champaka Sarasi pond near Shivamogga, Karnataka, India (© Amith Nag Photography/Getty Images)
+
+![A tale of still waters](https://bing.com/th?id=OHR.ChampakaSarasi_EN-US0671131929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-21
+
+Download 4k: [A tale of still waters](https://bing.com/th?id=OHR.ChampakaSarasi_EN-US0671131929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Celebrating Ansel Adams
 
 Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)
@@ -116,16 +126,6 @@ Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)
 Date: 2025-02-12
 
 Download 4k: [Darwin's blueprint](https://bing.com/th?id=OHR.GalapagosIguana_EN-US6976814194_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The watchful eyes of history
-
-Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)
-
-![The watchful eyes of history](https://bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-11
-
-Download 4k: [The watchful eyes of history](https://bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
