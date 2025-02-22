@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Bending towards brilliance
+
+The Gateway Arch in St. Louis, Missouri (© f11photo/Getty Images)
+
+![Bending towards brilliance](https://bing.com/th?id=OHR.StLouisArch_EN-US1920417205_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-22
+
+Download 4k: [Bending towards brilliance](https://bing.com/th?id=OHR.StLouisArch_EN-US1920417205_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A tale of still waters
 
 Champaka Sarasi pond near Shivamogga, Karnataka, India (© Amith Nag Photography/Getty Images)
@@ -116,16 +126,6 @@ Lake Tyrrell, Victoria, Australia (© Monica Bertolazzi/Getty Images)
 Date: 2025-02-13
 
 Download 4k: [Salt of the earth](https://bing.com/th?id=OHR.LakeTyrrell_EN-US7326346900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Darwin's blueprint
-
-Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)
-
-![Darwin's blueprint](https://bing.com/th?id=OHR.GalapagosIguana_EN-US6976814194_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-12
-
-Download 4k: [Darwin's blueprint](https://bing.com/th?id=OHR.GalapagosIguana_EN-US6976814194_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
