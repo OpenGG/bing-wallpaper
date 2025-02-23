@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Wind of Fuji, my souvenir from Edo
+
+Mount Fuji at sunrise, Lake Kawaguchi, Japan (© Twenty47studio/Getty Images)
+
+![Wind of Fuji, my souvenir from Edo](https://bing.com/th?id=OHR.MtFujiSunrise_EN-US2218385739_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-23
+
+Download 4k: [Wind of Fuji, my souvenir from Edo](https://bing.com/th?id=OHR.MtFujiSunrise_EN-US2218385739_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Bending towards brilliance
 
 The Gateway Arch in St. Louis, Missouri (© f11photo/Getty Images)
@@ -116,16 +126,6 @@ Magellanic penguins in the Falkland Islands (© Vicki Jauron, Babylon and Beyond
 Date: 2025-02-14
 
 Download 4k: [Look at these lovebirds](https://bing.com/th?id=OHR.PenguinLove_EN-US7515315710_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Salt of the earth
-
-Lake Tyrrell, Victoria, Australia (© Monica Bertolazzi/Getty Images)
-
-![Salt of the earth](https://bing.com/th?id=OHR.LakeTyrrell_EN-US7326346900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-13
-
-Download 4k: [Salt of the earth](https://bing.com/th?id=OHR.LakeTyrrell_EN-US7326346900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
