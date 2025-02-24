@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Inked and undercover
+
+Group of giant cuttlefish in Spencer Gulf, off Whyalla, South Australia (© Gary Bell/Minden Pictures)
+
+![Inked and undercover](https://bing.com/th?id=OHR.GiantCuttlefish_EN-US2276053377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-24
+
+Download 4k: [Inked and undercover](https://bing.com/th?id=OHR.GiantCuttlefish_EN-US2276053377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Wind of Fuji, my souvenir from Edo
 
 Mount Fuji at sunrise, Lake Kawaguchi, Japan (© Twenty47studio/Getty Images)
@@ -116,16 +126,6 @@ Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/Shutterstock)
 Date: 2025-02-15
 
 Download 4k: [These are so nice-icle](https://bing.com/th?id=OHR.Misotsuchi2025_EN-US8130053956_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Look at these lovebirds
-
-Magellanic penguins in the Falkland Islands (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)
-
-![Look at these lovebirds](https://bing.com/th?id=OHR.PenguinLove_EN-US7515315710_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-14
-
-Download 4k: [Look at these lovebirds](https://bing.com/th?id=OHR.PenguinLove_EN-US7515315710_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
