@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hoodoo you do?
+
+Sandstone hoodoos, Bryce Canyon National Park, Utah (© Stephen Matera/TANDEM Stills + Motion)
+
+![Hoodoo you do?](https://bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-25
+
+Download 4k: [Hoodoo you do?](https://bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Inked and undercover
 
 Group of giant cuttlefish in Spencer Gulf, off Whyalla, South Australia (© Gary Bell/Minden Pictures)
@@ -116,16 +126,6 @@ Humpback whale mother and calf, Tonga (© Chase Dekker/Minden Pictures)
 Date: 2025-02-16
 
 Download 4k: [Protecting the giants of the sea](https://bing.com/th?id=OHR.HumpbackMother_EN-US8033380725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## These are so nice-icle
-
-Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/Shutterstock)
-
-![These are so nice-icle](https://bing.com/th?id=OHR.Misotsuchi2025_EN-US8130053956_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-15
-
-Download 4k: [These are so nice-icle](https://bing.com/th?id=OHR.Misotsuchi2025_EN-US8130053956_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
