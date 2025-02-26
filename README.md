@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Scottish strategy at its finest
+
+Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)
+
+![Scottish strategy at its finest](https://bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-26
+
+Download 4k: [Scottish strategy at its finest](https://bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hoodoo you do?
 
 Sandstone hoodoos, Bryce Canyon National Park, Utah (© Stephen Matera/TANDEM Stills + Motion)
@@ -116,16 +126,6 @@ The Washington Monument seen from the Lincoln Memorial, Washington, DC (© lucky
 Date: 2025-02-17
 
 Download 4k: [Honoring our presidents](https://bing.com/th?id=OHR.LincolnSunrise_EN-US7725604655_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Protecting the giants of the sea
-
-Humpback whale mother and calf, Tonga (© Chase Dekker/Minden Pictures)
-
-![Protecting the giants of the sea](https://bing.com/th?id=OHR.HumpbackMother_EN-US8033380725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-16
-
-Download 4k: [Protecting the giants of the sea](https://bing.com/th?id=OHR.HumpbackMother_EN-US8033380725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
