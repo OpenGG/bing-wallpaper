@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Have a rest at the Tiger's Nest
+
+Paro Taktsang, a Buddhist monastery in Bhutan (© Baron Reznik/Getty Images)
+
+![Have a rest at the Tiger's Nest](https://bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-02-28
+
+Download 4k: [Have a rest at the Tiger's Nest](https://bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Polar care
 
 Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)
@@ -116,16 +126,6 @@ European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)
 Date: 2025-02-19
 
 Download 4k: [The 'otter' side of life](https://bing.com/th?id=OHR.IceHoleOtter_EN-US7859051687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Endless blue
-
-Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)
-
-![Endless blue](https://bing.com/th?id=OHR.BlueBelize_EN-US7787222240_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-18
-
-Download 4k: [Endless blue](https://bing.com/th?id=OHR.BlueBelize_EN-US7787222240_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
