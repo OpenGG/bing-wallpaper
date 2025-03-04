@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Not your ordinary Tuesday
+
+Jackson Square, New Orleans, Louisiana (© SeanPavonePhoto/Getty Images)
+
+![Not your ordinary Tuesday](https://bing.com/th?id=OHR.MardiGrasJackson_EN-US3277683692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-04
+
+Download 4k: [Not your ordinary Tuesday](https://bing.com/th?id=OHR.MardiGrasJackson_EN-US3277683692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Wild about wildlife
 
 Southern yellow-billed hornbills in Kruger National Park, South Africa (© Richard Du Toit/Minden Pictures)
@@ -116,16 +126,6 @@ Mount Fuji at sunrise, Lake Kawaguchi, Japan (© Twenty47studio/Getty Images)
 Date: 2025-02-23
 
 Download 4k: [Wind of Fuji, my souvenir from Edo](https://bing.com/th?id=OHR.MtFujiSunrise_EN-US2218385739_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Bending towards brilliance
-
-The Gateway Arch in St. Louis, Missouri (© f11photo/Getty Images)
-
-![Bending towards brilliance](https://bing.com/th?id=OHR.StLouisArch_EN-US1920417205_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-22
-
-Download 4k: [Bending towards brilliance](https://bing.com/th?id=OHR.StLouisArch_EN-US1920417205_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
