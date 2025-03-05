@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A jungle adventure
+
+Aerial view of Khao Sok National Park, Surat Thani, Thailand (© Peetatham Kongkapech/Getty Images)
+
+![A jungle adventure](https://bing.com/th?id=OHR.SuratThani_EN-US3326265231_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-05
+
+Download 4k: [A jungle adventure](https://bing.com/th?id=OHR.SuratThani_EN-US3326265231_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Not your ordinary Tuesday
 
 Jackson Square, New Orleans, Louisiana (© SeanPavonePhoto/Getty Images)
@@ -116,16 +126,6 @@ Group of giant cuttlefish in Spencer Gulf, off Whyalla, South Australia (© Gary
 Date: 2025-02-24
 
 Download 4k: [Inked and undercover](https://bing.com/th?id=OHR.GiantCuttlefish_EN-US2276053377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Wind of Fuji, my souvenir from Edo
-
-Mount Fuji at sunrise, Lake Kawaguchi, Japan (© Twenty47studio/Getty Images)
-
-![Wind of Fuji, my souvenir from Edo](https://bing.com/th?id=OHR.MtFujiSunrise_EN-US2218385739_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-23
-
-Download 4k: [Wind of Fuji, my souvenir from Edo](https://bing.com/th?id=OHR.MtFujiSunrise_EN-US2218385739_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
