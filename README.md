@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Rocky relationship
+
+Desert bighorn sheep in Valley of Fire State Park, Nevada (© Rachid Dahnoun/Cavan Images)
+
+![Rocky relationship](https://bing.com/th?id=OHR.NevadaBigHorns_EN-US3434258986_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-06
+
+Download 4k: [Rocky relationship](https://bing.com/th?id=OHR.NevadaBigHorns_EN-US3434258986_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A jungle adventure
 
 Aerial view of Khao Sok National Park, Surat Thani, Thailand (© Peetatham Kongkapech/Getty Images)
@@ -116,16 +126,6 @@ Sandstone hoodoos, Bryce Canyon National Park, Utah (© Stephen Matera/TANDEM St
 Date: 2025-02-25
 
 Download 4k: [Hoodoo you do?](https://bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Inked and undercover
-
-Group of giant cuttlefish in Spencer Gulf, off Whyalla, South Australia (© Gary Bell/Minden Pictures)
-
-![Inked and undercover](https://bing.com/th?id=OHR.GiantCuttlefish_EN-US2276053377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-24
-
-Download 4k: [Inked and undercover](https://bing.com/th?id=OHR.GiantCuttlefish_EN-US2276053377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
