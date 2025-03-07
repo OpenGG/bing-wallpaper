@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## China in bloom
+
+Plum blossoms in China (© zhikun sun/Getty Images)
+
+![China in bloom](https://bing.com/th?id=OHR.PlumBlossom_EN-US7055526666_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-07
+
+Download 4k: [China in bloom](https://bing.com/th?id=OHR.PlumBlossom_EN-US7055526666_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Rocky relationship
 
 Desert bighorn sheep in Valley of Fire State Park, Nevada (© Rachid Dahnoun/Cavan Images)
@@ -116,16 +126,6 @@ Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)
 Date: 2025-02-26
 
 Download 4k: [Scottish strategy at its finest](https://bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Hoodoo you do?
-
-Sandstone hoodoos, Bryce Canyon National Park, Utah (© Stephen Matera/TANDEM Stills + Motion)
-
-![Hoodoo you do?](https://bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-25
-
-Download 4k: [Hoodoo you do?](https://bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
