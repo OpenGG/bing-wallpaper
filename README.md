@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Making her-story!
+
+Fearless Girl statue facing the New York Stock Exchange, New York City (© JOHANNES EISELE/AFP via Getty Images)
+
+![Making her-story!](https://bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-08
+
+Download 4k: [Making her-story!](https://bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## China in bloom
 
 Plum blossoms in China (© zhikun sun/Getty Images)
@@ -116,16 +126,6 @@ Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures
 Date: 2025-02-27
 
 Download 4k: [Polar care](https://bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Scottish strategy at its finest
-
-Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)
-
-![Scottish strategy at its finest](https://bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-26
-
-Download 4k: [Scottish strategy at its finest](https://bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
