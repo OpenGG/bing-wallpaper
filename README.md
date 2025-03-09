@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The March of time
+
+St. Mark's Clock Tower, Venice, Italy (© scaliger/Getty Images)
+
+![The March of time](https://bing.com/th?id=OHR.ItalyClock_EN-US7397391355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-09
+
+Download 4k: [The March of time](https://bing.com/th?id=OHR.ItalyClock_EN-US7397391355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Making her-story!
 
 Fearless Girl statue facing the New York Stock Exchange, New York City (© JOHANNES EISELE/AFP via Getty Images)
@@ -116,16 +126,6 @@ Paro Taktsang, a Buddhist monastery in Bhutan (© Baron Reznik/Getty Images)
 Date: 2025-02-28
 
 Download 4k: [Have a rest at the Tiger's Nest](https://bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Polar care
-
-Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)
-
-![Polar care](https://bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-27
-
-Download 4k: [Polar care](https://bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
