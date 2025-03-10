@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Snooze and conquer
+
+A lion sleeping in Ishasha Sector, Queen Elizabeth National Park, Uganda (© Gunter Nuyts/Getty Images)
+
+![Snooze and conquer](https://bing.com/th?id=OHR.NappingLion_EN-US8441298325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-10
+
+Download 4k: [Snooze and conquer](https://bing.com/th?id=OHR.NappingLion_EN-US8441298325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The March of time
 
 St. Mark's Clock Tower, Venice, Italy (© scaliger/Getty Images)
@@ -116,16 +126,6 @@ Dr. Anna Howard Shaw leading a suffrage parade in 1910s New York City (© Bettma
 Date: 2025-03-01
 
 Download 4k: [Women's History Month](https://bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Have a rest at the Tiger's Nest
-
-Paro Taktsang, a Buddhist monastery in Bhutan (© Baron Reznik/Getty Images)
-
-![Have a rest at the Tiger's Nest](https://bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-02-28
-
-Download 4k: [Have a rest at the Tiger's Nest](https://bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
