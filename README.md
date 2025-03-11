@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## When the ocean breaks the rules
+
+Broken Beach in Nusa Penida, Bali, Indonesia (© joakimbkk/Getty Images)
+
+![When the ocean breaks the rules](https://bing.com/th?id=OHR.NusaPenida_EN-US8722184767_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-11
+
+Download 4k: [When the ocean breaks the rules](https://bing.com/th?id=OHR.NusaPenida_EN-US8722184767_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Snooze and conquer
 
 A lion sleeping in Ishasha Sector, Queen Elizabeth National Park, Uganda (© Gunter Nuyts/Getty Images)
@@ -116,16 +126,6 @@ Eucalyptus trees, Megalong Valley, Blue Mountains National Park, NSW, Australia 
 Date: 2025-03-02
 
 Download 4k: [A eucalyp-tastic view](https://bing.com/th?id=OHR.EucalyptusForest_EN-US3015819767_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Women's History Month
-
-Dr. Anna Howard Shaw leading a suffrage parade in 1910s New York City (© Bettmann/Getty Images)
-
-![Women's History Month](https://bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-01
-
-Download 4k: [Women's History Month](https://bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
