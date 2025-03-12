@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Standing strong
+
+Château de Sully-sur-Loire, Center-Val de Loire, France (© StockPhotoAstur/Shutterstock)
+
+![Standing strong](https://bing.com/th?id=OHR.ChateauLoire_EN-US8827570825_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-12
+
+Download 4k: [Standing strong](https://bing.com/th?id=OHR.ChateauLoire_EN-US8827570825_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## When the ocean breaks the rules
 
 Broken Beach in Nusa Penida, Bali, Indonesia (© joakimbkk/Getty Images)
@@ -116,16 +126,6 @@ Southern yellow-billed hornbills in Kruger National Park, South Africa (© Richa
 Date: 2025-03-03
 
 Download 4k: [Wild about wildlife](https://bing.com/th?id=OHR.HornbillPair_EN-US3168408482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A eucalyp-tastic view
-
-Eucalyptus trees, Megalong Valley, Blue Mountains National Park, NSW, Australia (© Andrew Peacock/TANDEM Stills + Motion)
-
-![A eucalyp-tastic view](https://bing.com/th?id=OHR.EucalyptusForest_EN-US3015819767_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-02
-
-Download 4k: [A eucalyp-tastic view](https://bing.com/th?id=OHR.EucalyptusForest_EN-US3015819767_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
