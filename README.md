@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Holi color splash
+
+Holi celebration in Jaipur, India (© powerofforever/Getty Images)
+
+![Holi color splash](https://bing.com/th?id=OHR.HoliColors_EN-US9033637774_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-13
+
+Download 4k: [Holi color splash](https://bing.com/th?id=OHR.HoliColors_EN-US9033637774_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Standing strong
 
 Château de Sully-sur-Loire, Center-Val de Loire, France (© StockPhotoAstur/Shutterstock)
@@ -116,16 +126,6 @@ Jackson Square, New Orleans, Louisiana (© SeanPavonePhoto/Getty Images)
 Date: 2025-03-04
 
 Download 4k: [Not your ordinary Tuesday](https://bing.com/th?id=OHR.MardiGrasJackson_EN-US3277683692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Wild about wildlife
-
-Southern yellow-billed hornbills in Kruger National Park, South Africa (© Richard Du Toit/Minden Pictures)
-
-![Wild about wildlife](https://bing.com/th?id=OHR.HornbillPair_EN-US3168408482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-03
-
-Download 4k: [Wild about wildlife](https://bing.com/th?id=OHR.HornbillPair_EN-US3168408482_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
