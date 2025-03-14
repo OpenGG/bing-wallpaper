@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Pi in the sky
+
+Dolmen of Sorginetxe, Basque Country, Álava, Spain (© David Herraez Calzada/plainpicture)
+
+![Pi in the sky](https://bing.com/th?id=OHR.BasqueDolmen_EN-US9089569057_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-14
+
+Download 4k: [Pi in the sky](https://bing.com/th?id=OHR.BasqueDolmen_EN-US9089569057_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Holi color splash
 
 Holi celebration in Jaipur, India (© powerofforever/Getty Images)
@@ -116,16 +126,6 @@ Aerial view of Khao Sok National Park, Surat Thani, Thailand (© Peetatham Kongk
 Date: 2025-03-05
 
 Download 4k: [A jungle adventure](https://bing.com/th?id=OHR.SuratThani_EN-US3326265231_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Not your ordinary Tuesday
-
-Jackson Square, New Orleans, Louisiana (© SeanPavonePhoto/Getty Images)
-
-![Not your ordinary Tuesday](https://bing.com/th?id=OHR.MardiGrasJackson_EN-US3277683692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-04
-
-Download 4k: [Not your ordinary Tuesday](https://bing.com/th?id=OHR.MardiGrasJackson_EN-US3277683692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
