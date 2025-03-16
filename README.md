@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Back to black ... and white
+
+Baby giant panda in the snow, China (© Cheryl Schneider/Alamy)
+
+![Back to black ... and white](https://bing.com/th?id=OHR.PandaSnow_EN-US9432739016_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-16
+
+Download 4k: [Back to black ... and white](https://bing.com/th?id=OHR.PandaSnow_EN-US9432739016_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Friends, Romans, countrymen
 
 The Temple of Saturn in the Roman Forum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)
@@ -116,16 +126,6 @@ Plum blossoms in China (© zhikun sun/Getty Images)
 Date: 2025-03-07
 
 Download 4k: [China in bloom](https://bing.com/th?id=OHR.PlumBlossom_EN-US7055526666_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Rocky relationship
-
-Desert bighorn sheep in Valley of Fire State Park, Nevada (© Rachid Dahnoun/Cavan Images)
-
-![Rocky relationship](https://bing.com/th?id=OHR.NevadaBigHorns_EN-US3434258986_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-06
-
-Download 4k: [Rocky relationship](https://bing.com/th?id=OHR.NevadaBigHorns_EN-US3434258986_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
