@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## St. Patrick's enchantment
+
+Samuel Beckett Bridge, Dublin, Ireland (© Colm Keating/Tandem Stills + Motion)
+
+![St. Patrick's enchantment](https://bing.com/th?id=OHR.BeckettBridge_EN-US9511078525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-17
+
+Download 4k: [St. Patrick's enchantment](https://bing.com/th?id=OHR.BeckettBridge_EN-US9511078525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Back to black ... and white
 
 Baby giant panda in the snow, China (© Cheryl Schneider/Alamy)
@@ -116,16 +126,6 @@ Fearless Girl statue facing the New York Stock Exchange, New York City (© JOHAN
 Date: 2025-03-08
 
 Download 4k: [Making her-story!](https://bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## China in bloom
-
-Plum blossoms in China (© zhikun sun/Getty Images)
-
-![China in bloom](https://bing.com/th?id=OHR.PlumBlossom_EN-US7055526666_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-07
-
-Download 4k: [China in bloom](https://bing.com/th?id=OHR.PlumBlossom_EN-US7055526666_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
