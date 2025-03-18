@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A vortex state of mind
+
+Red rock formations, Sedona, Arizona (© Jim Ekstrand/Alamy)
+
+![A vortex state of mind](https://bing.com/th?id=OHR.SedonaSpring_EN-US9611080272_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-18
+
+Download 4k: [A vortex state of mind](https://bing.com/th?id=OHR.SedonaSpring_EN-US9611080272_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## St. Patrick's enchantment
 
 Samuel Beckett Bridge, Dublin, Ireland (© Colm Keating/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ St. Mark's Clock Tower, Venice, Italy (© scaliger/Getty Images)
 Date: 2025-03-09
 
 Download 4k: [The March of time](https://bing.com/th?id=OHR.ItalyClock_EN-US7397391355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Making her-story!
-
-Fearless Girl statue facing the New York Stock Exchange, New York City (© JOHANNES EISELE/AFP via Getty Images)
-
-![Making her-story!](https://bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-08
-
-Download 4k: [Making her-story!](https://bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
