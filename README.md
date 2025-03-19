@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Umbrella maneuver
+
+A black heron canopy feeding, Chobe National Park, Botswana (© Paul Souders/Minden Pictures)
+
+![Umbrella maneuver](https://bing.com/th?id=OHR.BlackHeron_EN-US9662351796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-19
+
+Download 4k: [Umbrella maneuver](https://bing.com/th?id=OHR.BlackHeron_EN-US9662351796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A vortex state of mind
 
 Red rock formations, Sedona, Arizona (© Jim Ekstrand/Alamy)
@@ -116,16 +126,6 @@ A lion sleeping in Ishasha Sector, Queen Elizabeth National Park, Uganda (© Gun
 Date: 2025-03-10
 
 Download 4k: [Snooze and conquer](https://bing.com/th?id=OHR.NappingLion_EN-US8441298325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The March of time
-
-St. Mark's Clock Tower, Venice, Italy (© scaliger/Getty Images)
-
-![The March of time](https://bing.com/th?id=OHR.ItalyClock_EN-US7397391355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-09
-
-Download 4k: [The March of time](https://bing.com/th?id=OHR.ItalyClock_EN-US7397391355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
