@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Spring awakening
+
+Spring daffodils glowing in morning light (© LedyX/Shutterstock)
+
+![Spring awakening](https://bing.com/th?id=OHR.SpringDaffodils_EN-US9726346116_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-20
+
+Download 4k: [Spring awakening](https://bing.com/th?id=OHR.SpringDaffodils_EN-US9726346116_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Umbrella maneuver
 
 A black heron canopy feeding, Chobe National Park, Botswana (© Paul Souders/Minden Pictures)
@@ -116,16 +126,6 @@ Broken Beach in Nusa Penida, Bali, Indonesia (© joakimbkk/Getty Images)
 Date: 2025-03-11
 
 Download 4k: [When the ocean breaks the rules](https://bing.com/th?id=OHR.NusaPenida_EN-US8722184767_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Snooze and conquer
-
-A lion sleeping in Ishasha Sector, Queen Elizabeth National Park, Uganda (© Gunter Nuyts/Getty Images)
-
-![Snooze and conquer](https://bing.com/th?id=OHR.NappingLion_EN-US8441298325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-10
-
-Download 4k: [Snooze and conquer](https://bing.com/th?id=OHR.NappingLion_EN-US8441298325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
