@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Wat-er wonderful world!
+
+Water lilies at the surface of Cenote Nicte-Ha, Tulum, Mexico (© Franco Banfi/NPL/Minden Pictures)
+
+![Wat-er wonderful world!](https://bing.com/th?id=OHR.CenoteLilies_EN-US1076301699_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-22
+
+Download 4k: [Wat-er wonderful world!](https://bing.com/th?id=OHR.CenoteLilies_EN-US1076301699_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Long live the trees
 
 Mist over a lowland rainforest, Danum Valley, Sabah, Borneo, Malaysia (© Nick Garbutt/Alamy)
@@ -116,16 +126,6 @@ Holi celebration in Jaipur, India (© powerofforever/Getty Images)
 Date: 2025-03-13
 
 Download 4k: [Holi color splash](https://bing.com/th?id=OHR.HoliColors_EN-US9033637774_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Standing strong
-
-Château de Sully-sur-Loire, Center-Val de Loire, France (© StockPhotoAstur/Shutterstock)
-
-![Standing strong](https://bing.com/th?id=OHR.ChateauLoire_EN-US8827570825_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-12
-
-Download 4k: [Standing strong](https://bing.com/th?id=OHR.ChateauLoire_EN-US8827570825_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
