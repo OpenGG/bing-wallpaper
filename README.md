@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## You can't silence thunder
+
+Lightning and storm clouds at sunset near Bowman, Nebraska (© john finney photography/Getty Images)
+
+![You can't silence thunder](https://bing.com/th?id=OHR.NebraskaStorm_EN-US1163295363_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-23
+
+Download 4k: [You can't silence thunder](https://bing.com/th?id=OHR.NebraskaStorm_EN-US1163295363_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Wat-er wonderful world!
 
 Water lilies at the surface of Cenote Nicte-Ha, Tulum, Mexico (© Franco Banfi/NPL/Minden Pictures)
@@ -116,16 +126,6 @@ Dolmen of Sorginetxe, Basque Country, Álava, Spain (© David Herraez Calzada/pl
 Date: 2025-03-14
 
 Download 4k: [Pi in the sky](https://bing.com/th?id=OHR.BasqueDolmen_EN-US9089569057_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Holi color splash
-
-Holi celebration in Jaipur, India (© powerofforever/Getty Images)
-
-![Holi color splash](https://bing.com/th?id=OHR.HoliColors_EN-US9033637774_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-13
-
-Download 4k: [Holi color splash](https://bing.com/th?id=OHR.HoliColors_EN-US9033637774_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
