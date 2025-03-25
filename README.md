@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## In a hole, there was a story
+
+Hobbit-hole in Hobbiton Movie Set, Waikato, New Zealand (© Kim Petersen/Alamy)
+
+![In a hole, there was a story](https://bing.com/th?id=OHR.HobbitHole_EN-US1602468401_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-25
+
+Download 4k: [In a hole, there was a story](https://bing.com/th?id=OHR.HobbitHole_EN-US1602468401_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Feasting in the tall grass
 
 Desert elephant with calf feeding on tall grass, Namibia (© Christophe Courteau/Minden Pictures)
@@ -116,16 +126,6 @@ Baby giant panda in the snow, China (© Cheryl Schneider/Alamy)
 Date: 2025-03-16
 
 Download 4k: [Back to black ... and white](https://bing.com/th?id=OHR.PandaSnow_EN-US9432739016_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Friends, Romans, countrymen
-
-The Temple of Saturn in the Roman Forum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)
-
-![Friends, Romans, countrymen](https://bing.com/th?id=OHR.ForumRomanum_EN-US9379132630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-15
-
-Download 4k: [Friends, Romans, countrymen](https://bing.com/th?id=OHR.ForumRomanum_EN-US9379132630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
