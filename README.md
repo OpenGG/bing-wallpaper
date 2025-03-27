@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A standing ovation for theaters
+
+Odeon of Herodes Atticus, Acropolis of Athens, Greece (© f11photo/Getty Images)
+
+![A standing ovation for theaters](https://bing.com/th?id=OHR.OdeonAthens_EN-US2159327450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-27
+
+Download 4k: [A standing ovation for theaters](https://bing.com/th?id=OHR.OdeonAthens_EN-US2159327450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Life below the surface
 
 Manatee in Three Sisters Springs, Crystal River National Wildlife Refuge, Florida (© Stephen Frink/Getty Images)
@@ -116,16 +126,6 @@ Red rock formations, Sedona, Arizona (© Jim Ekstrand/Alamy)
 Date: 2025-03-18
 
 Download 4k: [A vortex state of mind](https://bing.com/th?id=OHR.SedonaSpring_EN-US9611080272_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## St. Patrick's enchantment
-
-Samuel Beckett Bridge, Dublin, Ireland (© Colm Keating/Tandem Stills + Motion)
-
-![St. Patrick's enchantment](https://bing.com/th?id=OHR.BeckettBridge_EN-US9511078525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-17
-
-Download 4k: [St. Patrick's enchantment](https://bing.com/th?id=OHR.BeckettBridge_EN-US9511078525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
