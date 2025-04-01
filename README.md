@@ -27,6 +27,36 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Apulia's White City
+
+Ostuni at dusk, Apulia, Italy (© Feng Wei Photography/Getty Images)
+
+![Apulia's White City](https://bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-31
+
+Download 4k: [Apulia's White City](https://bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+## Harboring nice views
+
+Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)
+
+![Harboring nice views](https://bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-30
+
+Download 4k: [Harboring nice views](https://bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+## Burst of blooms
+
+Superbloom in Carrizo Plain National Monument, California (© Robb Hirsch/TANDEM Stills + Motion)
+
+![Burst of blooms](https://bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-03-29
+
+Download 4k: [Burst of blooms](https://bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A cozy cradle
 
 Female black-naped monarch nesting (© komkrit tonusin/Alamy)
@@ -96,36 +126,6 @@ Water lilies at the surface of Cenote Nicte-Ha, Tulum, Mexico (© Franco Banfi/N
 Date: 2025-03-22
 
 Download 4k: [Wat-er wonderful world!](https://bing.com/th?id=OHR.CenoteLilies_EN-US1076301699_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Long live the trees
-
-Mist over a lowland rainforest, Danum Valley, Sabah, Borneo, Malaysia (© Nick Garbutt/Alamy)
-
-![Long live the trees](https://bing.com/th?id=OHR.DanumValley_EN-US1030783251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-21
-
-Download 4k: [Long live the trees](https://bing.com/th?id=OHR.DanumValley_EN-US1030783251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Spring awakening
-
-Spring daffodils glowing in morning light (© LedyX/Shutterstock)
-
-![Spring awakening](https://bing.com/th?id=OHR.SpringDaffodils_EN-US9726346116_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-20
-
-Download 4k: [Spring awakening](https://bing.com/th?id=OHR.SpringDaffodils_EN-US9726346116_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Umbrella maneuver
-
-A black heron canopy feeding, Chobe National Park, Botswana (© Paul Souders/Minden Pictures)
-
-![Umbrella maneuver](https://bing.com/th?id=OHR.BlackHeron_EN-US9662351796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-19
-
-Download 4k: [Umbrella maneuver](https://bing.com/th?id=OHR.BlackHeron_EN-US9662351796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
