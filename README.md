@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Waves of time
+
+Sandstone formations in the badlands near Caineville, Utah (© Chris Moore/TANDEM Stills + Motion)
+
+![Waves of time](https://bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-02
+
+Download 4k: [Waves of time](https://bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hoppin' into National Frog Month
 
 Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)
@@ -116,16 +126,6 @@ Desert elephant with calf feeding on tall grass, Namibia (© Christophe Courteau
 Date: 2025-03-24
 
 Download 4k: [Feasting in the tall grass](https://bing.com/th?id=OHR.ElephantGrass_EN-US1398774650_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## You can't silence thunder
-
-Lightning and storm clouds at sunset near Bowman, Nebraska (© john finney photography/Getty Images)
-
-![You can't silence thunder](https://bing.com/th?id=OHR.NebraskaStorm_EN-US1163295363_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-23
-
-Download 4k: [You can't silence thunder](https://bing.com/th?id=OHR.NebraskaStorm_EN-US1163295363_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
