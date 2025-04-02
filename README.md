@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hoppin' into National Frog Month
+
+Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)
+
+![Hoppin' into National Frog Month](https://bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-01
+
+Download 4k: [Hoppin' into National Frog Month](https://bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Apulia's White City
 
 Ostuni at dusk, Apulia, Italy (© Feng Wei Photography/Getty Images)
@@ -117,17 +127,9 @@ Date: 2025-03-23
 
 Download 4k: [You can't silence thunder](https://bing.com/th?id=OHR.NebraskaStorm_EN-US1163295363_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Wat-er wonderful world!
-
-Water lilies at the surface of Cenote Nicte-Ha, Tulum, Mexico (© Franco Banfi/NPL/Minden Pictures)
-
-![Wat-er wonderful world!](https://bing.com/th?id=OHR.CenoteLilies_EN-US1076301699_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-22
-
-Download 4k: [Wat-er wonderful world!](https://bing.com/th?id=OHR.CenoteLilies_EN-US1076301699_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2025-04](./archive/2025/04.md)
 
 [2025-03](./archive/2025/03.md)
 
