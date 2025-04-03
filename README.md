@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The sky is the limit
+
+Rainbow over Wasson Peak, Saguaro National Park, Arizona (© Frank Staub/Getty Images)
+
+![The sky is the limit](https://bing.com/th?id=OHR.SaguaroRainbow_EN-US3149462337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-03
+
+Download 4k: [The sky is the limit](https://bing.com/th?id=OHR.SaguaroRainbow_EN-US3149462337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Waves of time
 
 Sandstone formations in the badlands near Caineville, Utah (© Chris Moore/TANDEM Stills + Motion)
@@ -116,16 +126,6 @@ Hobbit-hole in Hobbiton Movie Set, Waikato, New Zealand (© Kim Petersen/Alamy)
 Date: 2025-03-25
 
 Download 4k: [In a hole, there was a story](https://bing.com/th?id=OHR.HobbitHole_EN-US1602468401_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Feasting in the tall grass
-
-Desert elephant with calf feeding on tall grass, Namibia (© Christophe Courteau/Minden Pictures)
-
-![Feasting in the tall grass](https://bing.com/th?id=OHR.ElephantGrass_EN-US1398774650_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-24
-
-Download 4k: [Feasting in the tall grass](https://bing.com/th?id=OHR.ElephantGrass_EN-US1398774650_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
