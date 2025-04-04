@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Cherry, cherry, bloom, bloom
+
+The National Cherry Blossom Festival in Washington, DC (© f11photo/Getty Images)
+
+![Cherry, cherry, bloom, bloom](https://bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-04
+
+Download 4k: [Cherry, cherry, bloom, bloom](https://bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The sky is the limit
 
 Rainbow over Wasson Peak, Saguaro National Park, Arizona (© Frank Staub/Getty Images)
@@ -116,16 +126,6 @@ Manatee in Three Sisters Springs, Crystal River National Wildlife Refuge, Florid
 Date: 2025-03-26
 
 Download 4k: [Life below the surface](https://bing.com/th?id=OHR.CrystalManatee_EN-US1724106178_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## In a hole, there was a story
-
-Hobbit-hole in Hobbiton Movie Set, Waikato, New Zealand (© Kim Petersen/Alamy)
-
-![In a hole, there was a story](https://bing.com/th?id=OHR.HobbitHole_EN-US1602468401_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-25
-
-Download 4k: [In a hole, there was a story](https://bing.com/th?id=OHR.HobbitHole_EN-US1602468401_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
