@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Lost in titles
+
+George Peabody Library, Baltimore, Maryland (© Wim Wiskerke/Alamy)
+
+![Lost in titles](https://bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-06
+
+Download 4k: [Lost in titles](https://bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Pilgrimage to San Juan de Gaztelugatxe
 
 Gaztelugatxe at sunset, Basque Country, Spain (© Eloi_Omella/Getty Images)
@@ -116,16 +126,6 @@ Female black-naped monarch nesting (© komkrit tonusin/Alamy)
 Date: 2025-03-28
 
 Download 4k: [A cozy cradle](https://bing.com/th?id=OHR.NestingMonarch_EN-US2312410271_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A standing ovation for theaters
-
-Odeon of Herodes Atticus, Acropolis of Athens, Greece (© f11photo/Getty Images)
-
-![A standing ovation for theaters](https://bing.com/th?id=OHR.OdeonAthens_EN-US2159327450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-27
-
-Download 4k: [A standing ovation for theaters](https://bing.com/th?id=OHR.OdeonAthens_EN-US2159327450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
