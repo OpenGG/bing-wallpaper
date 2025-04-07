@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hello, Mr. Beaver!
+
+North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images)
+
+![Hello, Mr. Beaver!](https://bing.com/th?id=OHR.BeaverDay_EN-US0090956170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-07
+
+Download 4k: [Hello, Mr. Beaver!](https://bing.com/th?id=OHR.BeaverDay_EN-US0090956170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Lost in titles
 
 George Peabody Library, Baltimore, Maryland (© Wim Wiskerke/Alamy)
@@ -116,16 +126,6 @@ Superbloom in Carrizo Plain National Monument, California (© Robb Hirsch/TANDEM
 Date: 2025-03-29
 
 Download 4k: [Burst of blooms](https://bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A cozy cradle
-
-Female black-naped monarch nesting (© komkrit tonusin/Alamy)
-
-![A cozy cradle](https://bing.com/th?id=OHR.NestingMonarch_EN-US2312410271_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-28
-
-Download 4k: [A cozy cradle](https://bing.com/th?id=OHR.NestingMonarch_EN-US2312410271_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
