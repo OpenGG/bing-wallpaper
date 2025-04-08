@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Patterns from the past
+
+Women in traditional dress at the Paro Tshechu Festival in Bhutan (© Richard I'Anson/Getty Images)
+
+![Patterns from the past](https://bing.com/th?id=OHR.ParoTsechu_EN-US0177055246_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-08
+
+Download 4k: [Patterns from the past](https://bing.com/th?id=OHR.ParoTsechu_EN-US0177055246_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hello, Mr. Beaver!
 
 North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images)
@@ -116,16 +126,6 @@ Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty I
 Date: 2025-03-30
 
 Download 4k: [Harboring nice views](https://bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Burst of blooms
-
-Superbloom in Carrizo Plain National Monument, California (© Robb Hirsch/TANDEM Stills + Motion)
-
-![Burst of blooms](https://bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-29
-
-Download 4k: [Burst of blooms](https://bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
