@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Before the stars take over
+
+Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)
+
+![Before the stars take over](https://bing.com/th?id=OHR.BlueNaxos_EN-US0374867860_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-09
+
+Download 4k: [Before the stars take over](https://bing.com/th?id=OHR.BlueNaxos_EN-US0374867860_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Patterns from the past
 
 Women in traditional dress at the Paro Tshechu Festival in Bhutan (© Richard I'Anson/Getty Images)
@@ -116,16 +126,6 @@ Ostuni at dusk, Apulia, Italy (© Feng Wei Photography/Getty Images)
 Date: 2025-03-31
 
 Download 4k: [Apulia's White City](https://bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Harboring nice views
-
-Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)
-
-![Harboring nice views](https://bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-30
-
-Download 4k: [Harboring nice views](https://bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
