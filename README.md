@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Wild at heart
+
+Red fox cubs near their den (© WildMedia/Shutterstock)
+
+![Wild at heart](https://bing.com/th?id=OHR.LittleFoxes_EN-US8078019606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-10
+
+Download 4k: [Wild at heart](https://bing.com/th?id=OHR.LittleFoxes_EN-US8078019606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Before the stars take over
 
 Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)
@@ -116,16 +126,6 @@ Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)
 Date: 2025-04-01
 
 Download 4k: [Hoppin' into National Frog Month](https://bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Apulia's White City
-
-Ostuni at dusk, Apulia, Italy (© Feng Wei Photography/Getty Images)
-
-![Apulia's White City](https://bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-03-31
-
-Download 4k: [Apulia's White City](https://bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
