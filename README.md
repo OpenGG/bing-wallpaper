@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## 108 minutes that changed the world
+
+View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)
+
+![108 minutes that changed the world](https://bing.com/th?id=OHR.SpaceFlight_EN-US8143075629_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-12
+
+Download 4k: [108 minutes that changed the world](https://bing.com/th?id=OHR.SpaceFlight_EN-US8143075629_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A blooming good time
 
 Tulip fields in Netherlands (© 1111IESPDJ/Getty Images)
@@ -116,16 +126,6 @@ Rainbow over Wasson Peak, Saguaro National Park, Arizona (© Frank Staub/Getty I
 Date: 2025-04-03
 
 Download 4k: [The sky is the limit](https://bing.com/th?id=OHR.SaguaroRainbow_EN-US0296037572_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Waves of time
-
-Sandstone formations in the badlands near Caineville, Utah (© Chris Moore/TANDEM Stills + Motion)
-
-![Waves of time](https://bing.com/th?id=OHR.UtahBadlands_EN-US0210675034_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-02
-
-Download 4k: [Waves of time](https://bing.com/th?id=OHR.UtahBadlands_EN-US0210675034_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
