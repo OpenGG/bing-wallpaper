@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The chase begins!
+
+Atlantic spotted dolphins near Santa Maria Island, Azores, Portugal (© Jordi Chias/Minden Pictures)
+
+![The chase begins!](https://bing.com/th?id=OHR.SpottedDolphins_EN-US0872892049_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-14
+
+Download 4k: [The chase begins!](https://bing.com/th?id=OHR.SpottedDolphins_EN-US0872892049_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Let's celebrate Songkran!
 
 Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)
@@ -116,16 +126,6 @@ Gaztelugatxe at sunset, Basque Country, Spain (© Eloi_Omella/Getty Images)
 Date: 2025-04-05
 
 Download 4k: [Pilgrimage to San Juan de Gaztelugatxe](https://bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9011894832_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Cherry, cherry, bloom, bloom
-
-The National Cherry Blossom Festival in Washington, DC (© f11photo/Getty Images)
-
-![Cherry, cherry, bloom, bloom](https://bing.com/th?id=OHR.CherryBlossomDC_EN-US7897872936_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-04
-
-Download 4k: [Cherry, cherry, bloom, bloom](https://bing.com/th?id=OHR.CherryBlossomDC_EN-US7897872936_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
