@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## See Art, Do Art, Be Art
+
+Beach art by Zarpõ at plage de Sauveterre, Les Sables-d'Olonne, France (© Hemis/Alamy)
+
+![See Art, Do Art, Be Art](https://bing.com/th?id=OHR.BeachArt_EN-US0911239616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-15
+
+Download 4k: [See Art, Do Art, Be Art](https://bing.com/th?id=OHR.BeachArt_EN-US0911239616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The chase begins!
 
 Atlantic spotted dolphins near Santa Maria Island, Azores, Portugal (© Jordi Chias/Minden Pictures)
@@ -116,16 +126,6 @@ George Peabody Library, Baltimore, Maryland (© Wim Wiskerke/Alamy)
 Date: 2025-04-06
 
 Download 4k: [Lost in titles](https://bing.com/th?id=OHR.PeabodyBaltimore_EN-US7933142212_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Pilgrimage to San Juan de Gaztelugatxe
-
-Gaztelugatxe at sunset, Basque Country, Spain (© Eloi_Omella/Getty Images)
-
-![Pilgrimage to San Juan de Gaztelugatxe](https://bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9011894832_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-05
-
-Download 4k: [Pilgrimage to San Juan de Gaztelugatxe](https://bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9011894832_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
