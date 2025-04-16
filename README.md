@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A passage through time
+
+Kachina Bridge, Natural Bridges National Monument, Utah (© Alan Majchrowicz/Getty Images)
+
+![A passage through time](https://bing.com/th?id=OHR.KachinaBridge_EN-US1000475196_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-16
+
+Download 4k: [A passage through time](https://bing.com/th?id=OHR.KachinaBridge_EN-US1000475196_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## See Art, Do Art, Be Art
 
 Beach art by Zarpõ at plage de Sauveterre, Les Sables-d'Olonne, France (© Hemis/Alamy)
@@ -116,16 +126,6 @@ North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images)
 Date: 2025-04-07
 
 Download 4k: [Hello, Mr. Beaver!](https://bing.com/th?id=OHR.BeaverDay_EN-US0006495238_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Lost in titles
-
-George Peabody Library, Baltimore, Maryland (© Wim Wiskerke/Alamy)
-
-![Lost in titles](https://bing.com/th?id=OHR.PeabodyBaltimore_EN-US7933142212_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-06
-
-Download 4k: [Lost in titles](https://bing.com/th?id=OHR.PeabodyBaltimore_EN-US7933142212_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
