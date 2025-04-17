@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Double the drama
+
+Andean cocks-of-the-rock, Ecuador (© Kit Day/Alamy)
+
+![Double the drama](https://bing.com/th?id=OHR.EcuadorBird_EN-US1037921621_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-17
+
+Download 4k: [Double the drama](https://bing.com/th?id=OHR.EcuadorBird_EN-US1037921621_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A passage through time
 
 Kachina Bridge, Natural Bridges National Monument, Utah (© Alan Majchrowicz/Getty Images)
@@ -116,16 +126,6 @@ Benagil Cave, Algarve, Portugal (© Westend61/Getty Images)
 Date: 2025-04-08
 
 Download 4k: [Nature's skylight](https://bing.com/th?id=OHR.LagoaPortugal_EN-US2211601955_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Hello, Mr. Beaver!
-
-North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images)
-
-![Hello, Mr. Beaver!](https://bing.com/th?id=OHR.BeaverDay_EN-US0006495238_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-07
-
-Download 4k: [Hello, Mr. Beaver!](https://bing.com/th?id=OHR.BeaverDay_EN-US0006495238_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
