@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Celebrating history
+
+Hot air balloons over Göreme Historical National Park in Cappadocia, Türkiye (© Anton Petrus/Getty Images)
+
+![Celebrating history](https://bing.com/th?id=OHR.GoremeTurkey_EN-US1897945450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-18
+
+Download 4k: [Celebrating history](https://bing.com/th?id=OHR.GoremeTurkey_EN-US1897945450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Double the drama
 
 Andean cocks-of-the-rock, Ecuador (© Kit Day/Alamy)
@@ -116,16 +126,6 @@ Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)
 Date: 2025-04-09
 
 Download 4k: [Before the stars take over](https://bing.com/th?id=OHR.BlueNaxos_EN-US8006377229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Nature's skylight
-
-Benagil Cave, Algarve, Portugal (© Westend61/Getty Images)
-
-![Nature's skylight](https://bing.com/th?id=OHR.LagoaPortugal_EN-US2211601955_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-08
-
-Download 4k: [Nature's skylight](https://bing.com/th?id=OHR.LagoaPortugal_EN-US2211601955_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
