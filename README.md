@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## National Park Week begins
+
+Zion National Park, Utah (© Simon Dannhauer/Getty Images)
+
+![National Park Week begins](https://bing.com/th?id=OHR.ZionValley_EN-US2520458606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-19
+
+Download 4k: [National Park Week begins](https://bing.com/th?id=OHR.ZionValley_EN-US2520458606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Celebrating history
 
 Hot air balloons over Göreme Historical National Park in Cappadocia, Türkiye (© Anton Petrus/Getty Images)
@@ -116,16 +126,6 @@ Red fox cubs near their den (© WildMedia/Shutterstock)
 Date: 2025-04-10
 
 Download 4k: [Wild at heart](https://bing.com/th?id=OHR.LittleFoxes_EN-US8078019606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Before the stars take over
-
-Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)
-
-![Before the stars take over](https://bing.com/th?id=OHR.BlueNaxos_EN-US8006377229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-09
-
-Download 4k: [Before the stars take over](https://bing.com/th?id=OHR.BlueNaxos_EN-US8006377229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
