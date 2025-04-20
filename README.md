@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The Easter Bunny is coming to town
+
+Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images)
+
+![The Easter Bunny is coming to town](https://bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-20
+
+Download 4k: [The Easter Bunny is coming to town](https://bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## National Park Week begins
 
 Zion National Park, Utah (© Simon Dannhauer/Getty Images)
@@ -116,16 +126,6 @@ Tulip fields in Netherlands (© 1111IESPDJ/Getty Images)
 Date: 2025-04-11
 
 Download 4k: [A blooming good time](https://bing.com/th?id=OHR.TulipsWindmill_EN-US8114977846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Wild at heart
-
-Red fox cubs near their den (© WildMedia/Shutterstock)
-
-![Wild at heart](https://bing.com/th?id=OHR.LittleFoxes_EN-US8078019606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-10
-
-Download 4k: [Wild at heart](https://bing.com/th?id=OHR.LittleFoxes_EN-US8078019606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
