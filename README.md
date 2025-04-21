@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Under the spell of the Milky Way
+
+Joshua trees under the Milky Way, California (© Chao Zhang/Getty Images)
+
+![Under the spell of the Milky Way](https://bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-21
+
+Download 4k: [Under the spell of the Milky Way](https://bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The Easter Bunny is coming to town
 
 Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images)
@@ -116,16 +126,6 @@ View from the cupola of the International Space Station above the South Pacific 
 Date: 2025-04-12
 
 Download 4k: [108 minutes that changed the world](https://bing.com/th?id=OHR.SpaceFlight_EN-US8143075629_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A blooming good time
-
-Tulip fields in Netherlands (© 1111IESPDJ/Getty Images)
-
-![A blooming good time](https://bing.com/th?id=OHR.TulipsWindmill_EN-US8114977846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-11
-
-Download 4k: [A blooming good time](https://bing.com/th?id=OHR.TulipsWindmill_EN-US8114977846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
