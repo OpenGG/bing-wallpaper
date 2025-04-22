@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## 'Our Power, Our Planet'
+
+Grand Prismatic Spring, Yellowstone National Park, Wyoming (© Ajith Kumar/Getty Images)
+
+!['Our Power, Our Planet'](https://bing.com/th?id=OHR.YellowstoneSpring_EN-US2710865870_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-22
+
+Download 4k: ['Our Power, Our Planet'](https://bing.com/th?id=OHR.YellowstoneSpring_EN-US2710865870_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Under the spell of the Milky Way
 
 Joshua trees under the Milky Way, California (© Chao Zhang/Getty Images)
@@ -116,16 +126,6 @@ Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Ima
 Date: 2025-04-13
 
 Download 4k: [Let's celebrate Songkran!](https://bing.com/th?id=OHR.ThailandPagodas_EN-US8039751329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## 108 minutes that changed the world
-
-View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)
-
-![108 minutes that changed the world](https://bing.com/th?id=OHR.SpaceFlight_EN-US8143075629_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-12
-
-Download 4k: [108 minutes that changed the world](https://bing.com/th?id=OHR.SpaceFlight_EN-US8143075629_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
