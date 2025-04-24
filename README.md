@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Rugged peaks and wild waters
+
+Spire Cove in Kenai Fjords National Park, Seward, Alaska (© Wander Photography/Getty Images)
+
+![Rugged peaks and wild waters](https://bing.com/th?id=OHR.KenaiSpires_EN-US3294247007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-24
+
+Download 4k: [Rugged peaks and wild waters](https://bing.com/th?id=OHR.KenaiSpires_EN-US3294247007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Much ado about Shakespeare
 
 Shakespeare's Globe, London, England (© Peter Dazeley/Getty Images)
@@ -116,16 +126,6 @@ Beach art by Zarpõ at plage de Sauveterre, Les Sables-d'Olonne, France (© Hemi
 Date: 2025-04-15
 
 Download 4k: [See Art, Do Art, Be Art](https://bing.com/th?id=OHR.BeachArt_EN-US0911239616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The chase begins!
-
-Atlantic spotted dolphins near Santa Maria Island, Azores, Portugal (© Jordi Chias/Minden Pictures)
-
-![The chase begins!](https://bing.com/th?id=OHR.SpottedDolphins_EN-US0872892049_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-14
-
-Download 4k: [The chase begins!](https://bing.com/th?id=OHR.SpottedDolphins_EN-US0872892049_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
