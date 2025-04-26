@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Park it here
+
+Grove of redwoods in Redwood National and State Parks, California (© Bob Pool/Getty Images)
+
+![Park it here](https://bing.com/th?id=OHR.RedwoodGrove_EN-US3412092024_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-26
+
+Download 4k: [Park it here](https://bing.com/th?id=OHR.RedwoodGrove_EN-US3412092024_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Tuxedoed mariners
 
 Magellanic penguins, Volunteer Point, Falkland Islands (© imageBROKER/Matthias Graben/Getty Images)
@@ -116,16 +126,6 @@ Andean cocks-of-the-rock, Ecuador (© Kit Day/Alamy)
 Date: 2025-04-17
 
 Download 4k: [Double the drama](https://bing.com/th?id=OHR.EcuadorBird_EN-US1037921621_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A passage through time
-
-Kachina Bridge, Natural Bridges National Monument, Utah (© Alan Majchrowicz/Getty Images)
-
-![A passage through time](https://bing.com/th?id=OHR.KachinaBridge_EN-US1000475196_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-16
-
-Download 4k: [A passage through time](https://bing.com/th?id=OHR.KachinaBridge_EN-US1000475196_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
