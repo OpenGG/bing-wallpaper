@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A scene of wild beauty
+
+Halema'uma'u Crater's lava lake, Kīlauea Caldera, Hawai'i Volcanoes National Park, Hawaii (© Stephen Matera/Tandem Stills + Motion)
+
+![A scene of wild beauty](https://bing.com/th?id=OHR.KilaueaCaldera_EN-US7764962675_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-27
+
+Download 4k: [A scene of wild beauty](https://bing.com/th?id=OHR.KilaueaCaldera_EN-US7764962675_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Park it here
 
 Grove of redwoods in Redwood National and State Parks, California (© Bob Pool/Getty Images)
@@ -116,16 +126,6 @@ Hot air balloons over Göreme Historical National Park in Cappadocia, Türkiye (
 Date: 2025-04-18
 
 Download 4k: [Celebrating history](https://bing.com/th?id=OHR.GoremeTurkey_EN-US1897945450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Double the drama
-
-Andean cocks-of-the-rock, Ecuador (© Kit Day/Alamy)
-
-![Double the drama](https://bing.com/th?id=OHR.EcuadorBird_EN-US1037921621_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-17
-
-Download 4k: [Double the drama](https://bing.com/th?id=OHR.EcuadorBird_EN-US1037921621_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
