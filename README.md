@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Geometry in bloom
+
+Formal garden at Château de Villandry, Loire Valley, France (© Mint Images/Getty Images)
+
+![Geometry in bloom](https://bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-29
+
+Download 4k: [Geometry in bloom](https://bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Pause and pose
 
 Impala with red-billed oxpecker in Moremi Game Reserve, Botswana (© Paul Souders/Getty Images)
@@ -116,16 +126,6 @@ Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images)
 Date: 2025-04-20
 
 Download 4k: [The Easter Bunny is coming to town](https://bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## National Park Week begins
-
-Zion National Park, Utah (© Simon Dannhauer/Getty Images)
-
-![National Park Week begins](https://bing.com/th?id=OHR.ZionValley_EN-US2520458606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-19
-
-Download 4k: [National Park Week begins](https://bing.com/th?id=OHR.ZionValley_EN-US2520458606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
