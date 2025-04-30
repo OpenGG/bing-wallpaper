@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## All that jazz and more
+
+Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)
+
+![All that jazz and more](https://bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-04-30
+
+Download 4k: [All that jazz and more](https://bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Geometry in bloom
 
 Formal garden at Château de Villandry, Loire Valley, France (© Mint Images/Getty Images)
@@ -116,16 +126,6 @@ Joshua trees under the Milky Way, California (© Chao Zhang/Getty Images)
 Date: 2025-04-21
 
 Download 4k: [Under the spell of the Milky Way](https://bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The Easter Bunny is coming to town
-
-Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images)
-
-![The Easter Bunny is coming to town](https://bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-20
-
-Download 4k: [The Easter Bunny is coming to town](https://bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
