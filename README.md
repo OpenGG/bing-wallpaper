@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A fragrant tradition
+
+Plumeria flowers, Hawaii (© Miranda Jans/Getty Images)
+
+![A fragrant tradition](https://bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-01
+
+Download 4k: [A fragrant tradition](https://bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## All that jazz and more
 
 Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)
@@ -117,17 +127,9 @@ Date: 2025-04-22
 
 Download 4k: ['Our Power, Our Planet'](https://bing.com/th?id=OHR.YellowstoneSpring_EN-US2710865870_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Under the spell of the Milky Way
-
-Joshua trees under the Milky Way, California (© Chao Zhang/Getty Images)
-
-![Under the spell of the Milky Way](https://bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-21
-
-Download 4k: [Under the spell of the Milky Way](https://bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2025-05](./archive/2025/05.md)
 
 [2025-04](./archive/2025/04.md)
 
