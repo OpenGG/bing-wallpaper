@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sailing solo
+
+Striated heron on a Victoria water lily, Pantanal, Brazil (© Gerald Corsi/Getty Images)
+
+![Sailing solo](https://bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-02
+
+Download 4k: [Sailing solo](https://bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A fragrant tradition
 
 Plumeria flowers, Hawaii (© Miranda Jans/Getty Images)
@@ -116,16 +126,6 @@ Shakespeare's Globe, London, England (© Peter Dazeley/Getty Images)
 Date: 2025-04-23
 
 Download 4k: [Much ado about Shakespeare](https://bing.com/th?id=OHR.GlobeTheatre_EN-US3262022178_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## 'Our Power, Our Planet'
-
-Grand Prismatic Spring, Yellowstone National Park, Wyoming (© Ajith Kumar/Getty Images)
-
-!['Our Power, Our Planet'](https://bing.com/th?id=OHR.YellowstoneSpring_EN-US2710865870_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-22
-
-Download 4k: ['Our Power, Our Planet'](https://bing.com/th?id=OHR.YellowstoneSpring_EN-US2710865870_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
