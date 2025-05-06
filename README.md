@@ -27,6 +27,46 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Not your average desert trip
+
+An ultralight aircraft flying over the sands of Namibia (© Burt Johnson/Alamy)
+
+![Not your average desert trip](https://bing.com/th?id=OHR.FlyoverNamibia_EN-US6033011196_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-06
+
+Download 4k: [Not your average desert trip](https://bing.com/th?id=OHR.FlyoverNamibia_EN-US6033011196_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+## Viva Mexico!
+
+Paper flags strung over a street in San Miguel de Allende, Mexico (© William Zinn/Getty Images)
+
+![Viva Mexico!](https://bing.com/th?id=OHR.CincoFlags_EN-US5873749093_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-05
+
+Download 4k: [Viva Mexico!](https://bing.com/th?id=OHR.CincoFlags_EN-US5873749093_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+## Welcome to planet Naboo!
+
+Plaza de España, Seville, Spain (© Horia Merla/Getty Images)
+
+![Welcome to planet Naboo!](https://bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-04
+
+Download 4k: [Welcome to planet Naboo!](https://bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+## Let's celebrate the cosmos
+
+The Milky Way framed by Double Arch in Arches National Park, Utah (© Adventure_Photo/Getty Images)
+
+![Let's celebrate the cosmos](https://bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-03
+
+Download 4k: [Let's celebrate the cosmos](https://bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Sailing solo
 
 Striated heron on a Victoria water lily, Pantanal, Brazil (© Gerald Corsi/Getty Images)
@@ -86,46 +126,6 @@ Halema'uma'u Crater's lava lake, Kīlauea Caldera, Hawai'i Volcanoes National Pa
 Date: 2025-04-27
 
 Download 4k: [A scene of wild beauty](https://bing.com/th?id=OHR.KilaueaCaldera_EN-US7764962675_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Park it here
-
-Grove of redwoods in Redwood National and State Parks, California (© Bob Pool/Getty Images)
-
-![Park it here](https://bing.com/th?id=OHR.RedwoodGrove_EN-US3412092024_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-26
-
-Download 4k: [Park it here](https://bing.com/th?id=OHR.RedwoodGrove_EN-US3412092024_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Tuxedoed mariners
-
-Magellanic penguins, Volunteer Point, Falkland Islands (© imageBROKER/Matthias Graben/Getty Images)
-
-![Tuxedoed mariners](https://bing.com/th?id=OHR.MagellanicPenguin_EN-US3332048594_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-25
-
-Download 4k: [Tuxedoed mariners](https://bing.com/th?id=OHR.MagellanicPenguin_EN-US3332048594_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Rugged peaks and wild waters
-
-Spire Cove in Kenai Fjords National Park, Seward, Alaska (© Wander Photography/Getty Images)
-
-![Rugged peaks and wild waters](https://bing.com/th?id=OHR.KenaiSpires_EN-US3294247007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-24
-
-Download 4k: [Rugged peaks and wild waters](https://bing.com/th?id=OHR.KenaiSpires_EN-US3294247007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Much ado about Shakespeare
-
-Shakespeare's Globe, London, England (© Peter Dazeley/Getty Images)
-
-![Much ado about Shakespeare](https://bing.com/th?id=OHR.GlobeTheatre_EN-US3262022178_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-23
-
-Download 4k: [Much ado about Shakespeare](https://bing.com/th?id=OHR.GlobeTheatre_EN-US3262022178_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
