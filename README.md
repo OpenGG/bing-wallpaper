@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A day to bray about
+
+Donkeys in a valley near Rhyolite, Nevada (© Moelyn Photos/Getty Images)
+
+![A day to bray about](https://bing.com/th?id=OHR.RhyoliteDonkeys_EN-US6439068828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-08
+
+Download 4k: [A day to bray about](https://bing.com/th?id=OHR.RhyoliteDonkeys_EN-US6439068828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Castle on the rocks
 
 Dunluce Castle, County Antrim, Northern Ireland (© DieterMeyrl/Getty Images)
@@ -116,16 +126,6 @@ Formal garden at Château de Villandry, Loire Valley, France (© Mint Images/Get
 Date: 2025-04-29
 
 Download 4k: [Geometry in bloom](https://bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Pause and pose
-
-Impala with red-billed oxpecker in Moremi Game Reserve, Botswana (© Paul Souders/Getty Images)
-
-![Pause and pose](https://bing.com/th?id=OHR.OrangeImpala_EN-US3494359572_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-28
-
-Download 4k: [Pause and pose](https://bing.com/th?id=OHR.OrangeImpala_EN-US3494359572_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
