@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Blending in and standing out
+
+Common chameleon (© Photostock-Israel/SPL/Getty Images)
+
+![Blending in and standing out](https://bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-09
+
+Download 4k: [Blending in and standing out](https://bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A day to bray about
 
 Donkeys in a valley near Rhyolite, Nevada (© Moelyn Photos/Getty Images)
@@ -116,16 +126,6 @@ Jazz saxophonist John Coltrane and band performing in 1961 in London, England (�
 Date: 2025-04-30
 
 Download 4k: [All that jazz and more](https://bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Geometry in bloom
-
-Formal garden at Château de Villandry, Loire Valley, France (© Mint Images/Getty Images)
-
-![Geometry in bloom](https://bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-29
-
-Download 4k: [Geometry in bloom](https://bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
