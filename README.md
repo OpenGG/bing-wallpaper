@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Gilded glory
+
+Minnesota State Capitol, St. Paul, Minnesota (© lavin photography/Getty Images)
+
+![Gilded glory](https://bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-10
+
+Download 4k: [Gilded glory](https://bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Blending in and standing out
 
 Common chameleon (© Photostock-Israel/SPL/Getty Images)
@@ -116,16 +126,6 @@ Plumeria flowers, Hawaii (© Miranda Jans/Getty Images)
 Date: 2025-05-01
 
 Download 4k: [A fragrant tradition](https://bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## All that jazz and more
-
-Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)
-
-![All that jazz and more](https://bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-04-30
-
-Download 4k: [All that jazz and more](https://bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
