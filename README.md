@@ -27,6 +27,46 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Celebrate saving species
+
+Great green macaw, Mexico (© Ondrej Prosicky/Shutterstock)
+
+![Celebrate saving species](https://bing.com/th?id=OHR.GreenMacaw_EN-US1646325635_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-16
+
+Download 4k: [Celebrate saving species](https://bing.com/th?id=OHR.GreenMacaw_EN-US1646325635_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+## London o'clock
+
+Big Ben and the Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)
+
+![London o'clock](https://bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-15
+
+Download 4k: [London o'clock](https://bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+## Ore and more
+
+Porto Flavia, Sardinia, Italy (© Francesco Riccardo Iacomino/Getty Images)
+
+![Ore and more](https://bing.com/th?id=OHR.SardiniaFlavia_EN-US6889153804_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-14
+
+Download 4k: [Ore and more](https://bing.com/th?id=OHR.SardiniaFlavia_EN-US6889153804_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+## 66 and still gorgeous
+
+Torres del Paine National Park, Patagonia, Chile (© Marco Bottigelli/Getty Images)
+
+![66 and still gorgeous](https://bing.com/th?id=OHR.TorresChile_EN-US6814348961_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-13
+
+Download 4k: [66 and still gorgeous](https://bing.com/th?id=OHR.TorresChile_EN-US6814348961_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Waves of purple
 
 An iris garden in Tokyo, Japan (© M.Arai/Getty Images)
@@ -86,46 +126,6 @@ Dunluce Castle, County Antrim, Northern Ireland (© DieterMeyrl/Getty Images)
 Date: 2025-05-07
 
 Download 4k: [Castle on the rocks](https://bing.com/th?id=OHR.DunluceIreland_EN-US6236791025_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Not your average desert trip
-
-An ultralight aircraft flying over the sands of Namibia (© Burt Johnson/Alamy)
-
-![Not your average desert trip](https://bing.com/th?id=OHR.FlyoverNamibia_EN-US6033011196_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-06
-
-Download 4k: [Not your average desert trip](https://bing.com/th?id=OHR.FlyoverNamibia_EN-US6033011196_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Viva Mexico!
-
-Paper flags strung over a street in San Miguel de Allende, Mexico (© William Zinn/Getty Images)
-
-![Viva Mexico!](https://bing.com/th?id=OHR.CincoFlags_EN-US5873749093_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-05
-
-Download 4k: [Viva Mexico!](https://bing.com/th?id=OHR.CincoFlags_EN-US5873749093_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Welcome to planet Naboo!
-
-Plaza de España, Seville, Spain (© Horia Merla/Getty Images)
-
-![Welcome to planet Naboo!](https://bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-04
-
-Download 4k: [Welcome to planet Naboo!](https://bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Let's celebrate the cosmos
-
-The Milky Way framed by Double Arch in Arches National Park, Utah (© Adventure_Photo/Getty Images)
-
-![Let's celebrate the cosmos](https://bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-03
-
-Download 4k: [Let's celebrate the cosmos](https://bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
