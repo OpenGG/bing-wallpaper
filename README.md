@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The Venetian 'dolce vita'
+
+A delta in the Venetian Lagoon, Italy (© Dimitri Weber/Amazing Aerial Agency)
+
+![The Venetian 'dolce vita'](https://bing.com/th?id=OHR.VeniceLagoon_EN-US3686079353_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-17
+
+Download 4k: [The Venetian 'dolce vita'](https://bing.com/th?id=OHR.VeniceLagoon_EN-US3686079353_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Celebrate saving species
 
 Great green macaw, Mexico (© Ondrej Prosicky/Shutterstock)
@@ -116,16 +126,6 @@ Donkeys in a valley near Rhyolite, Nevada (© Moelyn Photos/Getty Images)
 Date: 2025-05-08
 
 Download 4k: [A day to bray about](https://bing.com/th?id=OHR.RhyoliteDonkeys_EN-US6439068828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Castle on the rocks
-
-Dunluce Castle, County Antrim, Northern Ireland (© DieterMeyrl/Getty Images)
-
-![Castle on the rocks](https://bing.com/th?id=OHR.DunluceIreland_EN-US6236791025_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-07
-
-Download 4k: [Castle on the rocks](https://bing.com/th?id=OHR.DunluceIreland_EN-US6236791025_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
