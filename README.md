@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Let's visit a museum today
+
+'The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France (© BERTRAND GUAY/AFP via Getty Images)
+
+![Let's visit a museum today](https://bing.com/th?id=OHR.DufyRoom_EN-US3759763345_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-18
+
+Download 4k: [Let's visit a museum today](https://bing.com/th?id=OHR.DufyRoom_EN-US3759763345_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The Venetian 'dolce vita'
 
 A delta in the Venetian Lagoon, Italy (© Dimitri Weber/Amazing Aerial Agency)
@@ -116,16 +126,6 @@ Common chameleon (© Photostock-Israel/SPL/Getty Images)
 Date: 2025-05-09
 
 Download 4k: [Blending in and standing out](https://bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A day to bray about
-
-Donkeys in a valley near Rhyolite, Nevada (© Moelyn Photos/Getty Images)
-
-![A day to bray about](https://bing.com/th?id=OHR.RhyoliteDonkeys_EN-US6439068828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-08
-
-Download 4k: [A day to bray about](https://bing.com/th?id=OHR.RhyoliteDonkeys_EN-US6439068828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
