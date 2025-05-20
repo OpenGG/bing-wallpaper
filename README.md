@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Small wings, big job
+
+Honey bee on lavender flowers (© Anthony Brown/Alamy)
+
+![Small wings, big job](https://bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-20
+
+Download 4k: [Small wings, big job](https://bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Twists and turns of Mount Hamilton
 
 Mount Hamilton, near San Jose, California (© Jeffrey Lewis/TANDEM Stills + Motion)
@@ -116,16 +126,6 @@ Leopard mother grooming her cub, Jao Reserve, Botswana (© Suzi Eszterhas/Minden
 Date: 2025-05-11
 
 Download 4k: [Celebrating motherhood feline style](https://bing.com/th?id=OHR.LeopardMother_EN-US6709981831_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Gilded glory
-
-Minnesota State Capitol, St. Paul, Minnesota (© lavin photography/Getty Images)
-
-![Gilded glory](https://bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-10
-
-Download 4k: [Gilded glory](https://bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
