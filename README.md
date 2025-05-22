@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Baobab boulevard
+
+Baobab trees at sunset, Avenue of the Baobabs, Madagascar (© Framalicious/Shutterstock)
+
+![Baobab boulevard](https://bing.com/th?id=OHR.BaobabAvenue_EN-US3968050605_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-22
+
+Download 4k: [Baobab boulevard](https://bing.com/th?id=OHR.BaobabAvenue_EN-US3968050605_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Teatime
 
 Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)
@@ -116,16 +126,6 @@ Torres del Paine National Park, Patagonia, Chile (© Marco Bottigelli/Getty Imag
 Date: 2025-05-13
 
 Download 4k: [66 and still gorgeous](https://bing.com/th?id=OHR.TorresChile_EN-US6814348961_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Waves of purple
-
-An iris garden in Tokyo, Japan (© M.Arai/Getty Images)
-
-![Waves of purple](https://bing.com/th?id=OHR.IrisGarden_EN-US6778843108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-12
-
-Download 4k: [Waves of purple](https://bing.com/th?id=OHR.IrisGarden_EN-US6778843108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
