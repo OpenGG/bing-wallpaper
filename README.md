@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Shell yeah!
+
+A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador (© Westend61/Getty Images)
+
+![Shell yeah!](https://bing.com/th?id=OHR.ButterflyTurtle_EN-US4083359630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-23
+
+Download 4k: [Shell yeah!](https://bing.com/th?id=OHR.ButterflyTurtle_EN-US4083359630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Baobab boulevard
 
 Baobab trees at sunset, Avenue of the Baobabs, Madagascar (© Framalicious/Shutterstock)
@@ -116,16 +126,6 @@ Porto Flavia, Sardinia, Italy (© Francesco Riccardo Iacomino/Getty Images)
 Date: 2025-05-14
 
 Download 4k: [Ore and more](https://bing.com/th?id=OHR.SardiniaFlavia_EN-US6889153804_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## 66 and still gorgeous
-
-Torres del Paine National Park, Patagonia, Chile (© Marco Bottigelli/Getty Images)
-
-![66 and still gorgeous](https://bing.com/th?id=OHR.TorresChile_EN-US6814348961_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-13
-
-Download 4k: [66 and still gorgeous](https://bing.com/th?id=OHR.TorresChile_EN-US6814348961_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
