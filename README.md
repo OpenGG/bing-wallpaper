@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Bloom where you're planted
+
+Butchart Gardens in Brentwood Bay, British Columbia, Canada (© 2009fotofriends/Shutterstock)
+
+![Bloom where you're planted](https://bing.com/th?id=OHR.ButchartFlowers_EN-US3361647368_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-25
+
+Download 4k: [Bloom where you're planted](https://bing.com/th?id=OHR.ButchartFlowers_EN-US3361647368_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Europe's wild side
 
 Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)
@@ -116,16 +126,6 @@ Great green macaw, Mexico (© Ondrej Prosicky/Shutterstock)
 Date: 2025-05-16
 
 Download 4k: [Celebrate saving species](https://bing.com/th?id=OHR.GreenMacaw_EN-US1646325635_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## London o'clock
-
-Big Ben and the Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)
-
-![London o'clock](https://bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-15
-
-Download 4k: [London o'clock](https://bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
