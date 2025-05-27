@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A shore thing
+
+Mona Vale Rockpool, Sydney, Australia (© jamenpercy/Getty Images)
+
+![A shore thing](https://bing.com/th?id=OHR.MonaValePool_EN-US4805820773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-27
+
+Download 4k: [A shore thing](https://bing.com/th?id=OHR.MonaValePool_EN-US4805820773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Honoring the fallen
 
 Arlington National Cemetery in Virginia (© Dennis Govoni/Getty Images)
@@ -116,16 +126,6 @@ Download 4k: [Twists and turns of Mount Hamilton](https://bing.com/th?id=OHR.Mou
 Date: 2025-05-18
 
 Download 4k: [Let's visit a museum today](https://bing.com/th?id=OHR.DufyRoom_EN-US3759763345_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The Venetian 'dolce vita'
-
-A delta in the Venetian Lagoon, Italy (© Dimitri Weber/Amazing Aerial Agency)
-
-![The Venetian 'dolce vita'](https://bing.com/th?id=OHR.VeniceLagoon_EN-US3686079353_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-17
-
-Download 4k: [The Venetian 'dolce vita'](https://bing.com/th?id=OHR.VeniceLagoon_EN-US3686079353_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
