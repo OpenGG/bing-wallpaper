@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## An ancient glacial landscape
+
+Knuthöjdsmossen, a nature reserve in Sweden (© Sven Halling/DEEPOL/plainpicture)
+
+![An ancient glacial landscape](https://bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-05-31
+
+Download 4k: [An ancient glacial landscape](https://bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Flowing through the Smokies
 
 Little Pigeon River, Great Smoky Mountains National Park, Tennessee (© GreenStock/Getty Images)
@@ -116,16 +126,6 @@ Baobab trees at sunset, Avenue of the Baobabs, Madagascar (© Framalicious/Shutt
 Date: 2025-05-22
 
 Download 4k: [Baobab boulevard](https://bing.com/th?id=OHR.BaobabAvenue_EN-US3968050605_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Teatime
-
-Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)
-
-![Teatime](https://bing.com/th?id=OHR.SongyangTeaGarden_EN-US3919106941_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-21
-
-Download 4k: [Teatime](https://bing.com/th?id=OHR.SongyangTeaGarden_EN-US3919106941_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
