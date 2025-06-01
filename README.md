@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Under the sea
+
+Barrier reef off the island of Grande Terre in the French overseas territory of New Caledonia (© Karsten Wrobel/Getty Images)
+
+![Under the sea](https://bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-01
+
+Download 4k: [Under the sea](https://bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## An ancient glacial landscape
 
 Knuthöjdsmossen, a nature reserve in Sweden (© Sven Halling/DEEPOL/plainpicture)
@@ -117,17 +127,9 @@ Date: 2025-05-23
 
 Download 4k: [Shell yeah!](https://bing.com/th?id=OHR.ButterflyTurtle_EN-US4083359630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Baobab boulevard
-
-Baobab trees at sunset, Avenue of the Baobabs, Madagascar (© Framalicious/Shutterstock)
-
-![Baobab boulevard](https://bing.com/th?id=OHR.BaobabAvenue_EN-US3968050605_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-22
-
-Download 4k: [Baobab boulevard](https://bing.com/th?id=OHR.BaobabAvenue_EN-US3968050605_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2025-06](./archive/2025/06.md)
 
 [2025-05](./archive/2025/05.md)
 
