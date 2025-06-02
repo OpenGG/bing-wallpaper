@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Flower power
+
+Skipper butterfly on a coneflower, Rockefeller State Park Preserve, New York (© Marianne A. Campolongo/Alamy)
+
+![Flower power](https://bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-02
+
+Download 4k: [Flower power](https://bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Under the sea
 
 Barrier reef off the island of Grande Terre in the French overseas territory of New Caledonia (© Karsten Wrobel/Getty Images)
@@ -116,16 +126,6 @@ Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)
 Date: 2025-05-24
 
 Download 4k: [Europe's wild side](https://bing.com/th?id=OHR.JotunheimenPark_EN-US4200824377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Shell yeah!
-
-A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador (© Westend61/Getty Images)
-
-![Shell yeah!](https://bing.com/th?id=OHR.ButterflyTurtle_EN-US4083359630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-23
-
-Download 4k: [Shell yeah!](https://bing.com/th?id=OHR.ButterflyTurtle_EN-US4083359630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
