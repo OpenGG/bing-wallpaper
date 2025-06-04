@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Crisp blues, sharp views
+
+The beach at Cala Luna, Sardinia, Italy (© guenterguni/Getty Images)
+
+![Crisp blues, sharp views](https://bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-04
+
+Download 4k: [Crisp blues, sharp views](https://bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Break for joy
 
 Bicycles on a bridge in Utrecht, Netherlands (© George Pachantouris/Getty Images)
@@ -116,16 +126,6 @@ Arlington National Cemetery in Virginia (© Dennis Govoni/Getty Images)
 Date: 2025-05-26
 
 Download 4k: [Honoring the fallen](https://bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Bloom where you're planted
-
-Butchart Gardens in Brentwood Bay, British Columbia, Canada (© 2009fotofriends/Shutterstock)
-
-![Bloom where you're planted](https://bing.com/th?id=OHR.ButchartFlowers_EN-US3361647368_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-25
-
-Download 4k: [Bloom where you're planted](https://bing.com/th?id=OHR.ButchartFlowers_EN-US3361647368_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
