@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Recycling never looked so good
+
+Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)
+
+![Recycling never looked so good](https://bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-05
+
+Download 4k: [Recycling never looked so good](https://bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Crisp blues, sharp views
 
 The beach at Cala Luna, Sardinia, Italy (© guenterguni/Getty Images)
@@ -116,16 +126,6 @@ Mona Vale Rockpool, Sydney, Australia (© jamenpercy/Getty Images)
 Date: 2025-05-27
 
 Download 4k: [A shore thing](https://bing.com/th?id=OHR.MonaValePool_EN-US4805820773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Honoring the fallen
-
-Arlington National Cemetery in Virginia (© Dennis Govoni/Getty Images)
-
-![Honoring the fallen](https://bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-26
-
-Download 4k: [Honoring the fallen](https://bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
