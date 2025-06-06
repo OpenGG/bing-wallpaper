@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The day the tide turned
+
+Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)
+
+![The day the tide turned](https://bing.com/th?id=OHR.NormandyBeach_EN-US8863709180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-06
+
+Download 4k: [The day the tide turned](https://bing.com/th?id=OHR.NormandyBeach_EN-US8863709180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Recycling never looked so good
 
 Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)
@@ -116,16 +126,6 @@ Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge (©
 Date: 2025-05-28
 
 Download 4k: [Otterly important](https://bing.com/th?id=OHR.KelpOtter_EN-US4867923884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A shore thing
-
-Mona Vale Rockpool, Sydney, Australia (© jamenpercy/Getty Images)
-
-![A shore thing](https://bing.com/th?id=OHR.MonaValePool_EN-US4805820773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-27
-
-Download 4k: [A shore thing](https://bing.com/th?id=OHR.MonaValePool_EN-US4805820773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
