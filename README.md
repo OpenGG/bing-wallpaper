@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Taking the high road
+
+Summit of Pine Mountain, Angeles National Forest, California (© Matthew Kuhns/TANDEM Stills + Motion)
+
+![Taking the high road](https://bing.com/th?id=OHR.PacificCrestTrail_EN-US8903844619_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-07
+
+Download 4k: [Taking the high road](https://bing.com/th?id=OHR.PacificCrestTrail_EN-US8903844619_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The day the tide turned
 
 Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)
@@ -116,16 +126,6 @@ Miravet on the Ebro River, Tarragona, Catalonia, Spain (© Eloi_Omella/Getty Ima
 Date: 2025-05-29
 
 Download 4k: [Flowing through the centuries](https://bing.com/th?id=OHR.MiravetSpain_EN-US4967052818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Otterly important
-
-Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge (© Gerry Ellis/Minden Pictures)
-
-![Otterly important](https://bing.com/th?id=OHR.KelpOtter_EN-US4867923884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-28
-
-Download 4k: [Otterly important](https://bing.com/th?id=OHR.KelpOtter_EN-US4867923884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
