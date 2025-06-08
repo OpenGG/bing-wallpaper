@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hello from the other side
+
+Steller sea lions, Vancouver Island, British Columbia, Canada (© Steve Woods Photography/Getty Images)
+
+![Hello from the other side](https://bing.com/th?id=OHR.StellarSeaLions_EN-US8941740506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-08
+
+Download 4k: [Hello from the other side](https://bing.com/th?id=OHR.StellarSeaLions_EN-US8941740506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Taking the high road
 
 Summit of Pine Mountain, Angeles National Forest, California (© Matthew Kuhns/TANDEM Stills + Motion)
@@ -116,16 +126,6 @@ Little Pigeon River, Great Smoky Mountains National Park, Tennessee (© GreenSto
 Date: 2025-05-30
 
 Download 4k: [Flowing through the Smokies](https://bing.com/th?id=OHR.LittlePigeonRiver_EN-US1765916005_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Flowing through the centuries
-
-Miravet on the Ebro River, Tarragona, Catalonia, Spain (© Eloi_Omella/Getty Images)
-
-![Flowing through the centuries](https://bing.com/th?id=OHR.MiravetSpain_EN-US4967052818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-29
-
-Download 4k: [Flowing through the centuries](https://bing.com/th?id=OHR.MiravetSpain_EN-US4967052818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
