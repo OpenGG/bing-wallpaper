@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Explore King's Landing
+
+Old City of Dubrovnik in Dalmatia, Croatia (© bluejayphoto/Getty Images)
+
+![Explore King's Landing](https://bing.com/th?id=OHR.DubrovnikTwilight_EN-US9005720216_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-09
+
+Download 4k: [Explore King's Landing](https://bing.com/th?id=OHR.DubrovnikTwilight_EN-US9005720216_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hello from the other side
 
 Steller sea lions, Vancouver Island, British Columbia, Canada (© Steve Woods Photography/Getty Images)
@@ -116,16 +126,6 @@ Knuthöjdsmossen, a nature reserve in Sweden (© Sven Halling/DEEPOL/plainpictur
 Date: 2025-05-31
 
 Download 4k: [An ancient glacial landscape](https://bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Flowing through the Smokies
-
-Little Pigeon River, Great Smoky Mountains National Park, Tennessee (© GreenStock/Getty Images)
-
-![Flowing through the Smokies](https://bing.com/th?id=OHR.LittlePigeonRiver_EN-US1765916005_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-30
-
-Download 4k: [Flowing through the Smokies](https://bing.com/th?id=OHR.LittlePigeonRiver_EN-US1765916005_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
