@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A river of grass
+
+Aerial view of Everglades National Park, Florida (© Robert DelVecchio - OcuDrone/Getty Images)
+
+![A river of grass](https://bing.com/th?id=OHR.AerialEverglades_EN-US9045585896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-10
+
+Download 4k: [A river of grass](https://bing.com/th?id=OHR.AerialEverglades_EN-US9045585896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Explore King's Landing
 
 Old City of Dubrovnik in Dalmatia, Croatia (© bluejayphoto/Getty Images)
@@ -116,16 +126,6 @@ Barrier reef off the island of Grande Terre in the French overseas territory of 
 Date: 2025-06-01
 
 Download 4k: [Under the sea](https://bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## An ancient glacial landscape
-
-Knuthöjdsmossen, a nature reserve in Sweden (© Sven Halling/DEEPOL/plainpicture)
-
-![An ancient glacial landscape](https://bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-05-31
-
-Download 4k: [An ancient glacial landscape](https://bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
