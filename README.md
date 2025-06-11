@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A tidal ballet
+
+Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)
+
+![A tidal ballet](https://bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-11
+
+Download 4k: [A tidal ballet](https://bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A river of grass
 
 Aerial view of Everglades National Park, Florida (© Robert DelVecchio - OcuDrone/Getty Images)
@@ -116,16 +126,6 @@ Skipper butterfly on a coneflower, Rockefeller State Park Preserve, New York (©
 Date: 2025-06-02
 
 Download 4k: [Flower power](https://bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Under the sea
-
-Barrier reef off the island of Grande Terre in the French overseas territory of New Caledonia (© Karsten Wrobel/Getty Images)
-
-![Under the sea](https://bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-01
-
-Download 4k: [Under the sea](https://bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
