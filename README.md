@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Stars, stone, and solitude
+
+Chisos Mountains, Big Bend National Park, Texas (© Dean Fikar/Getty Images)
+
+![Stars, stone, and solitude](https://bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-12
+
+Download 4k: [Stars, stone, and solitude](https://bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A tidal ballet
 
 Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)
@@ -116,16 +126,6 @@ Bicycles on a bridge in Utrecht, Netherlands (© George Pachantouris/Getty Image
 Date: 2025-06-03
 
 Download 4k: [Break for joy](https://bing.com/th?id=OHR.BicyclesUtrecht_EN-US8449213938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Flower power
-
-Skipper butterfly on a coneflower, Rockefeller State Park Preserve, New York (© Marianne A. Campolongo/Alamy)
-
-![Flower power](https://bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-02
-
-Download 4k: [Flower power](https://bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
