@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The ocean's hidden heartbeat
+
+Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)
+
+![The ocean's hidden heartbeat](https://bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-13
+
+Download 4k: [The ocean's hidden heartbeat](https://bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Stars, stone, and solitude
 
 Chisos Mountains, Big Bend National Park, Texas (© Dean Fikar/Getty Images)
@@ -116,16 +126,6 @@ The beach at Cala Luna, Sardinia, Italy (© guenterguni/Getty Images)
 Date: 2025-06-04
 
 Download 4k: [Crisp blues, sharp views](https://bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Break for joy
-
-Bicycles on a bridge in Utrecht, Netherlands (© George Pachantouris/Getty Images)
-
-![Break for joy](https://bing.com/th?id=OHR.BicyclesUtrecht_EN-US8449213938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-03
-
-Download 4k: [Break for joy](https://bing.com/th?id=OHR.BicyclesUtrecht_EN-US8449213938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
