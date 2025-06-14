@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Waving with pride
+
+Flag display at the US Capitol, Washington, DC (© kmiragaya/Adobe Stock)
+
+![Waving with pride](https://bing.com/th?id=OHR.FlagCapitolDC_EN-US1553861171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-14
+
+Download 4k: [Waving with pride](https://bing.com/th?id=OHR.FlagCapitolDC_EN-US1553861171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The ocean's hidden heartbeat
 
 Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)
@@ -116,16 +126,6 @@ Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA
 Date: 2025-06-05
 
 Download 4k: [Recycling never looked so good](https://bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Crisp blues, sharp views
-
-The beach at Cala Luna, Sardinia, Italy (© guenterguni/Getty Images)
-
-![Crisp blues, sharp views](https://bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-04
-
-Download 4k: [Crisp blues, sharp views](https://bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
