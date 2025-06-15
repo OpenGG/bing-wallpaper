@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Feathered father figure
+
+Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile (© Ignacio Yufera/Minden Pictures)
+
+![Feathered father figure](https://bing.com/th?id=OHR.RheaDad_EN-US1643943847_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-15
+
+Download 4k: [Feathered father figure](https://bing.com/th?id=OHR.RheaDad_EN-US1643943847_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Waving with pride
 
 Flag display at the US Capitol, Washington, DC (© kmiragaya/Adobe Stock)
@@ -116,16 +126,6 @@ Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)
 Date: 2025-06-06
 
 Download 4k: [The day the tide turned](https://bing.com/th?id=OHR.NormandyBeach_EN-US8863709180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Recycling never looked so good
-
-Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)
-
-![Recycling never looked so good](https://bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-05
-
-Download 4k: [Recycling never looked so good](https://bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
