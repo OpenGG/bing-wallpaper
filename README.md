@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Ancient swimmers, modern struggles
+
+Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)
+
+![Ancient swimmers, modern struggles](https://bing.com/th?id=OHR.SeaTurtleBrazil_EN-US1789042400_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-16
+
+Download 4k: [Ancient swimmers, modern struggles](https://bing.com/th?id=OHR.SeaTurtleBrazil_EN-US1789042400_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Feathered father figure
 
 Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile (© Ignacio Yufera/Minden Pictures)
@@ -116,16 +126,6 @@ Summit of Pine Mountain, Angeles National Forest, California (© Matthew Kuhns/T
 Date: 2025-06-07
 
 Download 4k: [Taking the high road](https://bing.com/th?id=OHR.PacificCrestTrail_EN-US8903844619_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The day the tide turned
-
-Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)
-
-![The day the tide turned](https://bing.com/th?id=OHR.NormandyBeach_EN-US8863709180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-06
-
-Download 4k: [The day the tide turned](https://bing.com/th?id=OHR.NormandyBeach_EN-US8863709180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
