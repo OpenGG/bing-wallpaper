@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Coastal quiet, untamed life
+
+Maritime forest in Cumberland Island National Seashore, Georgia (© Chris Moore/TANDEM Stills + Motion)
+
+![Coastal quiet, untamed life](https://bing.com/th?id=OHR.CumberlandOaks_EN-US1850139942_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-17
+
+Download 4k: [Coastal quiet, untamed life](https://bing.com/th?id=OHR.CumberlandOaks_EN-US1850139942_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Ancient swimmers, modern struggles
 
 Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)
@@ -116,16 +126,6 @@ Steller sea lions, Vancouver Island, British Columbia, Canada (© Steve Woods Ph
 Date: 2025-06-08
 
 Download 4k: [Hello from the other side](https://bing.com/th?id=OHR.StellarSeaLions_EN-US8941740506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Taking the high road
-
-Summit of Pine Mountain, Angeles National Forest, California (© Matthew Kuhns/TANDEM Stills + Motion)
-
-![Taking the high road](https://bing.com/th?id=OHR.PacificCrestTrail_EN-US8903844619_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-07
-
-Download 4k: [Taking the high road](https://bing.com/th?id=OHR.PacificCrestTrail_EN-US8903844619_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
