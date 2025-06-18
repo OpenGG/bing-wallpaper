@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Let the pollinating games begin!
+
+Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)
+
+![Let the pollinating games begin!](https://bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-18
+
+Download 4k: [Let the pollinating games begin!](https://bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Coastal quiet, untamed life
 
 Maritime forest in Cumberland Island National Seashore, Georgia (© Chris Moore/TANDEM Stills + Motion)
@@ -116,16 +126,6 @@ Old City of Dubrovnik in Dalmatia, Croatia (© bluejayphoto/Getty Images)
 Date: 2025-06-09
 
 Download 4k: [Explore King's Landing](https://bing.com/th?id=OHR.DubrovnikTwilight_EN-US9005720216_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Hello from the other side
-
-Steller sea lions, Vancouver Island, British Columbia, Canada (© Steve Woods Photography/Getty Images)
-
-![Hello from the other side](https://bing.com/th?id=OHR.StellarSeaLions_EN-US8941740506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-08
-
-Download 4k: [Hello from the other side](https://bing.com/th?id=OHR.StellarSeaLions_EN-US8941740506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
