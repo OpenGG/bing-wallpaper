@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Celebrating freedom and resilience
+
+Texas State Capitol in Austin (© joe daniel price/Getty Images)
+
+![Celebrating freedom and resilience](https://bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-19
+
+Download 4k: [Celebrating freedom and resilience](https://bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Let the pollinating games begin!
 
 Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)
@@ -116,16 +126,6 @@ Aerial view of Everglades National Park, Florida (© Robert DelVecchio - OcuDron
 Date: 2025-06-10
 
 Download 4k: [A river of grass](https://bing.com/th?id=OHR.AerialEverglades_EN-US9045585896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Explore King's Landing
-
-Old City of Dubrovnik in Dalmatia, Croatia (© bluejayphoto/Getty Images)
-
-![Explore King's Landing](https://bing.com/th?id=OHR.DubrovnikTwilight_EN-US9005720216_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-09
-
-Download 4k: [Explore King's Landing](https://bing.com/th?id=OHR.DubrovnikTwilight_EN-US9005720216_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
