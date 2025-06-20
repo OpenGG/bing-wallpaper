@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## All set for sunset
+
+Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)
+
+![All set for sunset](https://bing.com/th?id=OHR.IcelandSolstice_EN-US2057542769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-20
+
+Download 4k: [All set for sunset](https://bing.com/th?id=OHR.IcelandSolstice_EN-US2057542769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Celebrating freedom and resilience
 
 Texas State Capitol in Austin (© joe daniel price/Getty Images)
@@ -116,16 +126,6 @@ Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)
 Date: 2025-06-11
 
 Download 4k: [A tidal ballet](https://bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A river of grass
-
-Aerial view of Everglades National Park, Florida (© Robert DelVecchio - OcuDrone/Getty Images)
-
-![A river of grass](https://bing.com/th?id=OHR.AerialEverglades_EN-US9045585896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-10
-
-Download 4k: [A river of grass](https://bing.com/th?id=OHR.AerialEverglades_EN-US9045585896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
