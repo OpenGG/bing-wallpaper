@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Spot the spots
+
+Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Cassani/Getty Images)
+
+![Spot the spots](https://bing.com/th?id=OHR.SerengetiGiraffe_EN-US2127484447_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-21
+
+Download 4k: [Spot the spots](https://bing.com/th?id=OHR.SerengetiGiraffe_EN-US2127484447_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## All set for sunset
 
 Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)
@@ -116,16 +126,6 @@ Chisos Mountains, Big Bend National Park, Texas (© Dean Fikar/Getty Images)
 Date: 2025-06-12
 
 Download 4k: [Stars, stone, and solitude](https://bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A tidal ballet
-
-Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)
-
-![A tidal ballet](https://bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-11
-
-Download 4k: [A tidal ballet](https://bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
