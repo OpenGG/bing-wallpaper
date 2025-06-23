@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## From ruins to resilience
+
+The Elbe in Dresden, Germany (© Sean Pavone/Getty Images)
+
+![From ruins to resilience](https://bing.com/th?id=OHR.DresdenElbe_EN-US2259441179_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-23
+
+Download 4k: [From ruins to resilience](https://bing.com/th?id=OHR.DresdenElbe_EN-US2259441179_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Jungle all the way
 
 Amazon rainforest, Ecuador (© Mark Fox/Getty Images)
@@ -116,16 +126,6 @@ Flag display at the US Capitol, Washington, DC (© kmiragaya/Adobe Stock)
 Date: 2025-06-14
 
 Download 4k: [Waving with pride](https://bing.com/th?id=OHR.FlagCapitolDC_EN-US1553861171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The ocean's hidden heartbeat
-
-Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)
-
-![The ocean's hidden heartbeat](https://bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-13
-
-Download 4k: [The ocean's hidden heartbeat](https://bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
