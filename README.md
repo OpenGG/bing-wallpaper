@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Nature took its time
+
+Delicate Arch, Arches National Park, Utah (© mmac72/Getty Images)
+
+![Nature took its time](https://bing.com/th?id=OHR.DelicateArch_EN-US2369284902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-24
+
+Download 4k: [Nature took its time](https://bing.com/th?id=OHR.DelicateArch_EN-US2369284902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## From ruins to resilience
 
 The Elbe in Dresden, Germany (© Sean Pavone/Getty Images)
@@ -116,16 +126,6 @@ Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, C
 Date: 2025-06-15
 
 Download 4k: [Feathered father figure](https://bing.com/th?id=OHR.RheaDad_EN-US1643943847_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Waving with pride
-
-Flag display at the US Capitol, Washington, DC (© kmiragaya/Adobe Stock)
-
-![Waving with pride](https://bing.com/th?id=OHR.FlagCapitolDC_EN-US1553861171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-14
-
-Download 4k: [Waving with pride](https://bing.com/th?id=OHR.FlagCapitolDC_EN-US1553861171_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
