@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Tor and tunes: Glastonbury begins
+
+St. Michael's Church Tower on Glastonbury Tor, Glastonbury, Somerset, England (© Gavin Hellier/Getty Images)
+
+![Tor and tunes: Glastonbury begins](https://bing.com/th?id=OHR.GlastonburyScenic_EN-US2433998806_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-25
+
+Download 4k: [Tor and tunes: Glastonbury begins](https://bing.com/th?id=OHR.GlastonburyScenic_EN-US2433998806_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Nature took its time
 
 Delicate Arch, Arches National Park, Utah (© mmac72/Getty Images)
@@ -116,16 +126,6 @@ Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)
 Date: 2025-06-16
 
 Download 4k: [Ancient swimmers, modern struggles](https://bing.com/th?id=OHR.SeaTurtleBrazil_EN-US1789042400_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Feathered father figure
-
-Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile (© Ignacio Yufera/Minden Pictures)
-
-![Feathered father figure](https://bing.com/th?id=OHR.RheaDad_EN-US1643943847_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-15
-
-Download 4k: [Feathered father figure](https://bing.com/th?id=OHR.RheaDad_EN-US1643943847_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
