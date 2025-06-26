@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Horsing around the coastline
+
+The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)
+
+![Horsing around the coastline](https://bing.com/th?id=OHR.HorseheadRock_EN-US2494437641_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-26
+
+Download 4k: [Horsing around the coastline](https://bing.com/th?id=OHR.HorseheadRock_EN-US2494437641_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Tor and tunes: Glastonbury begins
 
 St. Michael's Church Tower on Glastonbury Tor, Glastonbury, Somerset, England (© Gavin Hellier/Getty Images)
@@ -116,16 +126,6 @@ Maritime forest in Cumberland Island National Seashore, Georgia (© Chris Moore/
 Date: 2025-06-17
 
 Download 4k: [Coastal quiet, untamed life](https://bing.com/th?id=OHR.CumberlandOaks_EN-US1850139942_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Ancient swimmers, modern struggles
-
-Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)
-
-![Ancient swimmers, modern struggles](https://bing.com/th?id=OHR.SeaTurtleBrazil_EN-US1789042400_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-16
-
-Download 4k: [Ancient swimmers, modern struggles](https://bing.com/th?id=OHR.SeaTurtleBrazil_EN-US1789042400_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
