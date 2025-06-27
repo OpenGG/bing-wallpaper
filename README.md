@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A splendid creature
+
+Splendid leaf frog (© Jan Stria/Shutterstock)
+
+![A splendid creature](https://bing.com/th?id=OHR.SplendidFrog_EN-US9346105347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-27
+
+Download 4k: [A splendid creature](https://bing.com/th?id=OHR.SplendidFrog_EN-US9346105347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Horsing around the coastline
 
 The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)
@@ -116,16 +126,6 @@ Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)
 Date: 2025-06-18
 
 Download 4k: [Let the pollinating games begin!](https://bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Coastal quiet, untamed life
-
-Maritime forest in Cumberland Island National Seashore, Georgia (© Chris Moore/TANDEM Stills + Motion)
-
-![Coastal quiet, untamed life](https://bing.com/th?id=OHR.CumberlandOaks_EN-US1850139942_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-17
-
-Download 4k: [Coastal quiet, untamed life](https://bing.com/th?id=OHR.CumberlandOaks_EN-US1850139942_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
