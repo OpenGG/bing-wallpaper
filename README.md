@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Flying the flag for Pride
+
+Rainbow flags at New York Pride (© Alan Schein/Getty Images)
+
+![Flying the flag for Pride](https://bing.com/th?id=OHR.PrideParade_EN-US9405333794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-28
+
+Download 4k: [Flying the flag for Pride](https://bing.com/th?id=OHR.PrideParade_EN-US9405333794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A splendid creature
 
 Splendid leaf frog (© Jan Stria/Shutterstock)
@@ -116,16 +126,6 @@ Texas State Capitol in Austin (© joe daniel price/Getty Images)
 Date: 2025-06-19
 
 Download 4k: [Celebrating freedom and resilience](https://bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Let the pollinating games begin!
-
-Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)
-
-![Let the pollinating games begin!](https://bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-18
-
-Download 4k: [Let the pollinating games begin!](https://bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
