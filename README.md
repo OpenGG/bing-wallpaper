@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where history gets spicy
+
+Blue lagoon at Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy)
+
+![Where history gets spicy](https://bing.com/th?id=OHR.BandaIsland_EN-US9494080788_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-29
+
+Download 4k: [Where history gets spicy](https://bing.com/th?id=OHR.BandaIsland_EN-US9494080788_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Flying the flag for Pride
 
 Rainbow flags at New York Pride (© Alan Schein/Getty Images)
@@ -116,16 +126,6 @@ Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)
 Date: 2025-06-20
 
 Download 4k: [All set for sunset](https://bing.com/th?id=OHR.IcelandSolstice_EN-US2057542769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Celebrating freedom and resilience
-
-Texas State Capitol in Austin (© joe daniel price/Getty Images)
-
-![Celebrating freedom and resilience](https://bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-19
-
-Download 4k: [Celebrating freedom and resilience](https://bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
