@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Rock-solid defense
+
+Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)
+
+![Rock-solid defense](https://bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-06-30
+
+Download 4k: [Rock-solid defense](https://bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where history gets spicy
 
 Blue lagoon at Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy)
@@ -116,16 +126,6 @@ Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Ca
 Date: 2025-06-21
 
 Download 4k: [Spot the spots](https://bing.com/th?id=OHR.SerengetiGiraffe_EN-US2127484447_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## All set for sunset
-
-Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)
-
-![All set for sunset](https://bing.com/th?id=OHR.IcelandSolstice_EN-US2057542769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-20
-
-Download 4k: [All set for sunset](https://bing.com/th?id=OHR.IcelandSolstice_EN-US2057542769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
