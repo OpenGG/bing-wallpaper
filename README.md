@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## In the bubble-tip zone
+
+Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea (© Fred Bavendam/Nature Picture Library)
+
+![In the bubble-tip zone](https://bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-02
+
+Download 4k: [In the bubble-tip zone](https://bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Canada turns 158
 
 Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada (© FedevPhoto/Getty Images)
@@ -116,16 +126,6 @@ The Elbe in Dresden, Germany (© Sean Pavone/Getty Images)
 Date: 2025-06-23
 
 Download 4k: [From ruins to resilience](https://bing.com/th?id=OHR.DresdenElbe_EN-US2259441179_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Jungle all the way
-
-Amazon rainforest, Ecuador (© Mark Fox/Getty Images)
-
-![Jungle all the way](https://bing.com/th?id=OHR.AmazonEcuador_EN-US2195278379_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-22
-
-Download 4k: [Jungle all the way](https://bing.com/th?id=OHR.AmazonEcuador_EN-US2195278379_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
