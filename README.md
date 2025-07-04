@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sparks over Seattle
+
+Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)
+
+![Sparks over Seattle](https://bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-04
+
+Download 4k: [Sparks over Seattle](https://bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The clear embrace of Rainbow River
 
 Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)
@@ -116,16 +126,6 @@ St. Michael's Church Tower on Glastonbury Tor, Glastonbury, Somerset, England (�
 Date: 2025-06-25
 
 Download 4k: [Tor and tunes: Glastonbury begins](https://bing.com/th?id=OHR.GlastonburyScenic_EN-US2433998806_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Nature took its time
-
-Delicate Arch, Arches National Park, Utah (© mmac72/Getty Images)
-
-![Nature took its time](https://bing.com/th?id=OHR.DelicateArch_EN-US2369284902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-24
-
-Download 4k: [Nature took its time](https://bing.com/th?id=OHR.DelicateArch_EN-US2369284902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
