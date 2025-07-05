@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Pedaling through history
+
+Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France (© THOMAS SAMSON/AFP via Getty Images)
+
+![Pedaling through history](https://bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-05
+
+Download 4k: [Pedaling through history](https://bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Sparks over Seattle
 
 Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)
@@ -116,16 +126,6 @@ The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurst
 Date: 2025-06-26
 
 Download 4k: [Horsing around the coastline](https://bing.com/th?id=OHR.HorseheadRock_EN-US2494437641_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Tor and tunes: Glastonbury begins
-
-St. Michael's Church Tower on Glastonbury Tor, Glastonbury, Somerset, England (© Gavin Hellier/Getty Images)
-
-![Tor and tunes: Glastonbury begins](https://bing.com/th?id=OHR.GlastonburyScenic_EN-US2433998806_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-25
-
-Download 4k: [Tor and tunes: Glastonbury begins](https://bing.com/th?id=OHR.GlastonburyScenic_EN-US2433998806_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
