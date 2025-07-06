@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sands of time
+
+Mesquite Flat Sand Dunes in Death Valley National Park, California (© Bryan Jolley/TANDEM Stills + Motion)
+
+![Sands of time](https://bing.com/th?id=OHR.MesquiteFlats_EN-US0638943216_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-06
+
+Download 4k: [Sands of time](https://bing.com/th?id=OHR.MesquiteFlats_EN-US0638943216_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Pedaling through history
 
 Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France (© THOMAS SAMSON/AFP via Getty Images)
@@ -116,16 +126,6 @@ Splendid leaf frog (© Jan Stria/Shutterstock)
 Date: 2025-06-27
 
 Download 4k: [A splendid creature](https://bing.com/th?id=OHR.SplendidFrog_EN-US9346105347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Horsing around the coastline
-
-The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)
-
-![Horsing around the coastline](https://bing.com/th?id=OHR.HorseheadRock_EN-US2494437641_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-26
-
-Download 4k: [Horsing around the coastline](https://bing.com/th?id=OHR.HorseheadRock_EN-US2494437641_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
