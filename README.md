@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Flash, splash, then snack
+
+Northern gannets diving for fish, Shetland Islands, Scotland (© Richard Shucksmith/Minden Pictures)
+
+![Flash, splash, then snack](https://bing.com/th?id=OHR.ShetlandGannets_EN-US0812287314_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-07
+
+Download 4k: [Flash, splash, then snack](https://bing.com/th?id=OHR.ShetlandGannets_EN-US0812287314_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Sands of time
 
 Mesquite Flat Sand Dunes in Death Valley National Park, California (© Bryan Jolley/TANDEM Stills + Motion)
@@ -116,16 +126,6 @@ Rainbow flags at New York Pride (© Alan Schein/Getty Images)
 Date: 2025-06-28
 
 Download 4k: [Flying the flag for Pride](https://bing.com/th?id=OHR.PrideParade_EN-US9405333794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A splendid creature
-
-Splendid leaf frog (© Jan Stria/Shutterstock)
-
-![A splendid creature](https://bing.com/th?id=OHR.SplendidFrog_EN-US9346105347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-27
-
-Download 4k: [A splendid creature](https://bing.com/th?id=OHR.SplendidFrog_EN-US9346105347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
