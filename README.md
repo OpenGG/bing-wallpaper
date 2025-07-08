@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Beauty with an edge
+
+Seceda, a peak in the Dolomites, South Tyrol, Italy (© Kalyakan/Adobe Stock)
+
+![Beauty with an edge](https://bing.com/th?id=OHR.SecedaPeak_EN-US0983713623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-08
+
+Download 4k: [Beauty with an edge](https://bing.com/th?id=OHR.SecedaPeak_EN-US0983713623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Flash, splash, then snack
 
 Northern gannets diving for fish, Shetland Islands, Scotland (© Richard Shucksmith/Minden Pictures)
@@ -116,16 +126,6 @@ Blue lagoon at Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy)
 Date: 2025-06-29
 
 Download 4k: [Where history gets spicy](https://bing.com/th?id=OHR.BandaIsland_EN-US9494080788_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Flying the flag for Pride
-
-Rainbow flags at New York Pride (© Alan Schein/Getty Images)
-
-![Flying the flag for Pride](https://bing.com/th?id=OHR.PrideParade_EN-US9405333794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-28
-
-Download 4k: [Flying the flag for Pride](https://bing.com/th?id=OHR.PrideParade_EN-US9405333794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
