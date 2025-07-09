@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The rise of a republic
+
+Constitución railway station, Buenos Aires, Argentina (© Grafissimo/Getty Images)
+
+![The rise of a republic](https://bing.com/th?id=OHR.ConstitucionStation_EN-US1235857389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-09
+
+Download 4k: [The rise of a republic](https://bing.com/th?id=OHR.ConstitucionStation_EN-US1235857389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Beauty with an edge
 
 Seceda, a peak in the Dolomites, South Tyrol, Italy (© Kalyakan/Adobe Stock)
@@ -116,16 +126,6 @@ Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)
 Date: 2025-06-30
 
 Download 4k: [Rock-solid defense](https://bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where history gets spicy
-
-Blue lagoon at Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy)
-
-![Where history gets spicy](https://bing.com/th?id=OHR.BandaIsland_EN-US9494080788_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-29
-
-Download 4k: [Where history gets spicy](https://bing.com/th?id=OHR.BandaIsland_EN-US9494080788_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
