@@ -27,6 +27,26 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Counting us all in
+
+Tokyo at sunrise (© pongnathee kluaythong/Getty Images)
+
+![Counting us all in](https://bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-11
+
+Download 4k: [Counting us all in](https://bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+## To the waves of freedom
+
+Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)
+
+![To the waves of freedom](https://bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-10
+
+Download 4k: [To the waves of freedom](https://bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The rise of a republic
 
 Constitución railway station, Buenos Aires, Argentina (© Grafissimo/Getty Images)
@@ -106,26 +126,6 @@ Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New
 Date: 2025-07-02
 
 Download 4k: [In the bubble-tip zone](https://bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Canada turns 158
-
-Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada (© FedevPhoto/Getty Images)
-
-![Canada turns 158](https://bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-01
-
-Download 4k: [Canada turns 158](https://bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Rock-solid defense
-
-Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)
-
-![Rock-solid defense](https://bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-06-30
-
-Download 4k: [Rock-solid defense](https://bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
