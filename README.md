@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Following mom's lead
+
+Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)
+
+![Following mom's lead](https://bing.com/th?id=OHR.ThomsonGazelle_EN-US4354285846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-12
+
+Download 4k: [Following mom's lead](https://bing.com/th?id=OHR.ThomsonGazelle_EN-US4354285846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Counting us all in
 
 Tokyo at sunrise (© pongnathee kluaythong/Getty Images)
@@ -116,16 +126,6 @@ Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pic
 Date: 2025-07-03
 
 Download 4k: [The clear embrace of Rainbow River](https://bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## In the bubble-tip zone
-
-Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea (© Fred Bavendam/Nature Picture Library)
-
-![In the bubble-tip zone](https://bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-02
-
-Download 4k: [In the bubble-tip zone](https://bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
