@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Rockin' those layers
+
+Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)
+
+![Rockin' those layers](https://bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-13
+
+Download 4k: [Rockin' those layers](https://bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Following mom's lead
 
 Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)
@@ -116,16 +126,6 @@ Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)
 Date: 2025-07-04
 
 Download 4k: [Sparks over Seattle](https://bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The clear embrace of Rainbow River
-
-Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)
-
-![The clear embrace of Rainbow River](https://bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-03
-
-Download 4k: [The clear embrace of Rainbow River](https://bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
