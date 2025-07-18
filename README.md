@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Gulf Islands glow
+
+Beach at sunrise, Gulf Islands National Seashore, Florida (© Tim Fitzharris/Minden Pictures)
+
+![Gulf Islands glow](https://bing.com/th?id=OHR.FloridaSeashore_EN-US9038929616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-18
+
+Download 4k: [Gulf Islands glow](https://bing.com/th?id=OHR.FloridaSeashore_EN-US9038929616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Fragrant horizons
 
 Lavender fields in Plateau de Valensole, France (© zpagistock/Getty Images)
@@ -116,16 +126,6 @@ Constitución railway station, Buenos Aires, Argentina (© Grafissimo/Getty Imag
 Date: 2025-07-09
 
 Download 4k: [The rise of a republic](https://bing.com/th?id=OHR.ConstitucionStation_EN-US1235857389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Beauty with an edge
-
-Seceda, a peak in the Dolomites, South Tyrol, Italy (© Kalyakan/Adobe Stock)
-
-![Beauty with an edge](https://bing.com/th?id=OHR.SecedaPeak_EN-US0983713623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-08
-
-Download 4k: [Beauty with an edge](https://bing.com/th?id=OHR.SecedaPeak_EN-US0983713623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
