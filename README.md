@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Moth-ers day
+
+Luna moth resting on cedar elm, New Braunfels, Texas, USA (© Rolf Nussbaumer/Nature Picture Library)
+
+![Moth-ers day](https://bing.com/th?id=OHR.MothWeek_EN-US5360572836_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-19
+
+Download 4k: [Moth-ers day](https://bing.com/th?id=OHR.MothWeek_EN-US5360572836_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Gulf Islands glow
 
 Beach at sunrise, Gulf Islands National Seashore, Florida (© Tim Fitzharris/Minden Pictures)
@@ -116,16 +126,6 @@ Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)
 Date: 2025-07-10
 
 Download 4k: [To the waves of freedom](https://bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The rise of a republic
-
-Constitución railway station, Buenos Aires, Argentina (© Grafissimo/Getty Images)
-
-![The rise of a republic](https://bing.com/th?id=OHR.ConstitucionStation_EN-US1235857389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-09
-
-Download 4k: [The rise of a republic](https://bing.com/th?id=OHR.ConstitucionStation_EN-US1235857389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
