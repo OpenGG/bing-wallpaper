@@ -30,7 +30,7 @@ export class ProjectMarkdown {
             }
             linksMap.set(name, index.mdPath);
         });
-        const latestContent = formatLatestWallpapersInReadme(markdowns);
+        const latestContent = formatLatestWallpapersInReadme(wallpaperContents);
         const linksContent = formatArchiveLinksInReadme(linksMap);
         const index = readme.indexOf(README_MARK);
         if (index === -1) {

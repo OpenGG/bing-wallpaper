@@ -12,7 +12,7 @@ export class MonthlyMarkdown {
         this.path = join(ARCHIVE_DIR, year, `${month}.md`);
     }
     async getContent() {
-        const monthDir = getMonthDirPath(this.year, this.month)
+        const monthDir = getMonthDirPath({year: this.year, month: this.month})
         const dailyMarkdowns = (await readdir(monthDir))
             .filter(f => /^\d+\.md$/.test(f))
             .sort(collator.compare)
