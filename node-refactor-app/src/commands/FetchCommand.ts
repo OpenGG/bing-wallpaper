@@ -1,8 +1,8 @@
-import { Inject, Injectable } from "../utils/di.js";
-import { BingService } from "../services/bing/BingService.js";
-import { retry } from "../utils/retry.ts";
-import { BingWallpaper } from "../utils/bing/BingWallpaper.js";
-import { ArchiveService } from "../services/archive/ArchiveService.js";
+import { Inject, Injectable } from "@/utils/di.ts";
+import { BingService } from "@/services/bing/BingService.ts";
+import { retry } from "@/utils/retry.ts";
+import { BingWallpaper } from "@/utils/bing/BingWallpaper.ts";
+import { ArchiveService } from "@/services/archive/ArchiveService.ts";
 
 @Injectable()
 export class FetchCommand {

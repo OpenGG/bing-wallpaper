@@ -1,9 +1,9 @@
-import { Inject, Injectable } from "../../utils/di.js";
-import { ALL_WALLPAPERS_PATH } from "../../constants.js";
-import { IWallpaper } from "../../types/IWallpaper.ts";
-import { FileService } from "../file/FileService.js";
-import { IWallpaperIndex } from "../../types/IWallpaperIndex.ts";
-import { BingWallpaperIndex } from "../../utils/bing/BingWallpaperIndex.js";
+import { Injectable } from "@/utils/di.js";
+import { ALL_WALLPAPERS_PATH } from "@/constants.js";
+import { IWallpaper } from "@/types/IWallpaper.ts";
+import { IWallpaperIndex } from "@/types/IWallpaperIndex.ts";
+import { BingWallpaperIndex } from "@/utils/bing/BingWallpaperIndex.js";
+import { readFile, writeFile } from "node:fs/promises";
 
 const enCollator = new Intl.Collator("en");
 
@@ -13,14 +13,13 @@ const formatLine = (index: IWallpaperIndex): string => {
 
 @Injectable()
 export class IndexService {
-  constructor(@Inject(FileService) private fs: FileService) {}
 
   private indexesMap: Map<string, IWallpaperIndex> = new Map();
   private indexKeys: string[] = [];
   private indexValues: IWallpaperIndex[] = [];
 
   async loadIndexes(): Promise<IWallpaperIndex[]> {
-    const content = await this.fs.readTextFile(ALL_WALLPAPERS_PATH);
+    const content = await readFile(ALL_WALLPAPERS_PATH, 'utf8');
     content.split("\n").filter(Boolean)
       .filter((line) => line)
       .forEach((line) => {
@@ -82,6 +81,6 @@ export class IndexService {
   }
 
   async save() {
-    await this.fs.writeTextFile(ALL_WALLPAPERS_PATH, this.getContent());
+    await writeFile(ALL_WALLPAPERS_PATH, this.getContent());
   }
 }

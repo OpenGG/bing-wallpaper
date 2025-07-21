@@ -1,5 +1,5 @@
-import { ArchiveService } from "../services/archive/ArchiveService.ts";
-import { Inject, Injectable } from "../utils/di.ts";
+import { ArchiveService } from "@/services/archive/ArchiveService.ts";
+import { Inject, Injectable } from "@/utils/di.ts";
 
 @Injectable()
 export class BuildArchiveCommand {

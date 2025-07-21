@@ -1,11 +1,11 @@
 import { spawn } from "child_process";
-import { promises as fs } from "fs";
-import { Inject, Injectable } from "../../utils/di.js";
-import { TempService } from "../temp/TempService.js";
+import { Inject, Injectable } from "@/utils/di.js";
+import { TempService } from "@/services/temp/TempService.js";
+import { readFile, rename, writeFile } from "node:fs/promises";
 
 @Injectable()
 export class ObjectService {
-  constructor(@Inject(TempService) private tempService: TempService) {}
+  constructor(@Inject(TempService) private tempService: TempService) { }
 
   public getObject(
     options: { bucket: string; path: string; type: "text" },
@@ -29,9 +29,9 @@ export class ObjectService {
         tempFilePath,
       ]);
       if (type === "text") {
-        return await fs.readFile(tempFilePath, "utf-8");
+        return await readFile(tempFilePath, "utf-8");
       } else {
-        return await fs.readFile(tempFilePath);
+        return await readFile(tempFilePath);
       }
     });
   }
@@ -50,7 +50,7 @@ export class ObjectService {
         "--file",
         tempFilePath,
       ]);
-      await fs.rename(tempFilePath, filePath);
+      await rename(tempFilePath, filePath);
     });
   }
 
@@ -102,11 +102,11 @@ export class ObjectService {
       throw new Error("Unsupported data type for putObject");
     }
     await this.tempService.withTempFile(async (tempFilePath) => {
-      if (typeof data === "string") {
-        await fs.writeFile(tempFilePath, data);
-      } else { // data is Uint8Array
-        await fs.writeFile(tempFilePath, data);
-      }
+      // if (typeof data === "string") {
+      //   await writeFile(tempFilePath, data);
+      // } else { // data is Uint8Array
+      await writeFile(tempFilePath, data);
+      // }
 
       await this.putObjectWithFile({
         bucket,

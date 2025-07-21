@@ -12,8 +12,18 @@
     "allowImportingTsExtensions": true,
     "noEmit": true,
     "rootDir": "src",
-    "baseUrl": "src"
+    "baseUrl": "src",
+    "outDir": "dist",
+    "paths": {
+      "@/*": [
+        "./*"
+      ],
+    }
   },
-  "include": ["src"],
-  "exclude": ["node_modules"]
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
 }

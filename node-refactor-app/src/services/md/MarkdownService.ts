@@ -1,6 +1,56 @@
-import { join } from "path";import { Inject, Injectable } from "../../utils/di.js";import {  LATEST_WALLPAPERS_COUNT,  README_MARK,  README_PATH,} from "../../constants.js";import { IWallpaper } from "../../types/IWallpaper.js";import { FileService } from "../file/FileService.js";import { IWallpaperIndex } from "../../types/IWallpaperIndex.ts";import {  formatArchiveLinksInReadme,  formatDailyMarkdown,  formatLatestWallpapersInReadme,  formatMonth,  formatMonthlyMarkdown,} from "../../utils/md/formats.js";import {  getDailyMdPath,  getMonthDirPath,  getMonthMdPath,} from "../../utils/md/paths.js";@Injectable()export class MarkdownService {  constructor(@Inject(FileService) private fs: FileService) {}  addWallpaper(wp: IWallpaper) {    const dailyMdPath = getDailyMdPath(wp);    return this.fs.writeTextFile(dailyMdPath, formatDailyMarkdown(wp));  }  async updateReadme(indexes: IWallpaperIndex[]) {    const readme = await this.fs.readTextFile(README_PATH);    const latestIndexes = indexes.slice(0, LATEST_WALLPAPERS_COUNT);    const markdowns = await Promise.all(      latestIndexes.map((index) => this.fs.readTextFile(index.mdPath)),    );    const linksMap = new Map<string, string>();    indexes.forEach((index) => {      const name = formatMonth(index.year, index.month);      if (linksMap.has(name)) {        return;      }      linksMap.set(name, index.mdPath);    });    const latestContent = formatLatestWallpapersInReadme(markdowns);    const linksContent = formatArchiveLinksInReadme(linksMap);    const index = readme.indexOf(README_MARK);    if (index === -1) {      throw new Error("Readme format invalid");    }    return `${readme.slice(0, index + README_MARK.length)}
+import { Injectable } from "@/utils/di.js";
+import {
+    LATEST_WALLPAPERS_COUNT,
+    README_MARK,
+    README_PATH,
+} from "@/constants.js";
+import { IWallpaper } from "@/types/IWallpaper.js";
+import { IWallpaperIndex } from "@/types/IWallpaperIndex.ts";
+import {
+    formatArchiveLinksInReadme,
+    formatLatestWallpapersInReadme,
+    formatMonth,
+} from "@/utils/md/formats.js";
+import { DailyMarkdown } from "@/utils/md/daily.ts";
+import { readFile, writeFile } from "node:fs/promises";
+import { MonthlyMarkdown } from "@/utils/md/monthly.ts";
+
+@Injectable()
+export class MarkdownService {
+    addDailyMarkdown(wp: IWallpaper) {
+        const md = new DailyMarkdown(wp)
+        return writeFile(md.path, md.getContent());
+    }
+    async updateReadme(indexes: IWallpaperIndex[]) {
+        const readme = await readFile(README_PATH, 'utf8');
+        const latestIndexes = indexes.slice(0, LATEST_WALLPAPERS_COUNT);
+        const markdowns = await Promise.all(
+            latestIndexes.map((index) => readFile(index.mdPath, 'utf8')),
+        );
+        const linksMap = new Map<string, string>();
+        indexes.forEach((index) => {
+            const name = formatMonth(index.year, index.month);
+            if (linksMap.has(name)) {
+                return;
+            }
+            linksMap.set(name, index.mdPath);
+        });
+        const latestContent = formatLatestWallpapersInReadme(markdowns);
+        const linksContent = formatArchiveLinksInReadme(linksMap);
+        const index = readme.indexOf(README_MARK);
+        if (index === -1) {
+            throw new Error("Readme format invalid");
+        }
+        return `${readme.slice(0, index + README_MARK.length)}
 
 ${latestContent}
 
 ${linksContent}
-`;  }  async updateMonthlyMarkdown(    year: string,    month: string,  ) {    const path = getMonthMdPath(year, month);    const dir = getMonthDirPath(year, month);    const files = (await this.fs.readDir(dir))      .filter((f) => f.endsWith(".md"))      .sort()      .reverse();    const allMdContents = await Promise.all(      files.map((f) => this.fs.readTextFile(join(dir, f))),    );    await this.fs.writeTextFile(      path,      formatMonthlyMarkdown(year, month, allMdContents),    );  }}
+`;
+    }
+    async updateMonthlyMarkdown(year: string, month: string) {
+        const md = new MonthlyMarkdown(year, month)
+
+        return writeFile(md.path, await md.getContent());
+    }
+}

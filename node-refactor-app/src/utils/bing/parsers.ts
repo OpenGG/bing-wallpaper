@@ -1,4 +1,4 @@
-import { IMAGE_FILENAME_REGEX } from "../../constants.js";
+import { IMAGE_FILENAME_REGEX } from "@/constants.js";
 
 export const parseBingWalpaperUrl = (
   url: string,

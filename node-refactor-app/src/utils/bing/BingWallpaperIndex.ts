@@ -1,13 +1,13 @@
-import { IWallpaper } from "../../types/IWallpaper.ts";
-import { getDailyMdPath } from "../md/paths.js";
-import { getDailyObjectPath } from "../object/paths.js";
+import { IWallpaper } from "@/types/IWallpaper.ts";
+import { getDailyMdPath } from "@/utils/md/paths.js";
+import { getDailyObjectPath } from "@/utils/object/paths.js";
 import { parseBingWalpaperUrl } from "./parsers.js";
-import type { IWallpaperIndex } from "../../types/IWallpaperIndex.ts";
+import type { IWallpaperIndex } from "@/types/IWallpaperIndex.ts";
 
 const parseMdPath = (mdPath: string) => {
   const matches = mdPath.match(/^(\d+)\/(\d+)\/(\d+)\.md$/);
   if (!matches) {
-    throw new Error("Invalid mdPath");
+    throw new Error(`Invalid mdPath: ${mdPath}`);
   }
   const [year, month, day] = mdPath.split("/").filter((a) => a);
   return {

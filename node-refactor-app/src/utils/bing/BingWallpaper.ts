@@ -1,8 +1,8 @@
-import type { IBingImageDTO } from "../../types/IBingImageDTO.ts";
-import type { IWallpaper } from "../../types/IWallpaper.ts";
-import { getDailyMdPath } from "../md/paths.js";
+import type { IBingImageDTO } from "@/types/IBingImageDTO.ts";
+import type { IWallpaper } from "@/types/IWallpaper.ts";
+import { getDailyMdPath } from "@/utils/md/paths.js";
 import { parseBingWalpaperUrl } from "./parsers.js";
-import { getDailyObjectPath } from "../object/paths.js";
+import { getDailyObjectPath } from "@/utils/object/paths.js";
 
 /**
  * 代表一张壁纸的纯数据模型。

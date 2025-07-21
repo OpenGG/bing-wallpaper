@@ -1,11 +1,11 @@
-import { BUCKET, CURSOR_PATH } from "../constants.ts";
-import { TempService } from "../services/temp/TempService.ts";
-import { retry } from "../utils/retry.ts";
-import { IndexService } from "../services/indexes/IndexService.ts";
-import { ObjectService } from "../services/object/ObjectService.ts";
-import { DownloadService } from "../services/download/DownloadService.ts";
-import { ImageService } from "../services/image/ImageService.ts";
-import { Inject, Injectable } from "../utils/di.ts";
+import { BUCKET, CURSOR_PATH } from "@/constants.ts";
+import { TempService } from "@/services/temp/TempService.ts";
+import { retry } from "@/utils/retry.ts";
+import { IndexService } from "@/services/indexes/IndexService.ts";
+import { ObjectService } from "@/services/object/ObjectService.ts";
+import { DownloadService } from "@/services/download/DownloadService.ts";
+import { ImageService } from "@/services/image/ImageService.ts";
+import { Inject, Injectable } from "@/utils/di.ts";
 
 @Injectable()
 export class UploadImagesCommand {

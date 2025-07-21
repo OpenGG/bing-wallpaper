@@ -1,4 +1,4 @@
-import { exec } from "child_process";
+import { exec } from "node:child_process";
 
 export class ImageService {
   async validateImage(filePath: string): Promise<boolean> {

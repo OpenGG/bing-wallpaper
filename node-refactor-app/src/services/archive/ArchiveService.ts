@@ -1,21 +1,19 @@
-import { Inject, Injectable } from "../../utils/di.js";
-import { IWallpaper } from "../../types/IWallpaper.ts";
-import { FileService } from "../file/FileService.js";
-import { IndexService } from "../indexes/IndexService.js";
-import { MarkdownService } from "../md/MarkdownService.js";
+import { Inject, Injectable } from "@/utils/di.js";
+import { IWallpaper } from "@/types/IWallpaper.ts";
+import { IndexService } from "@/services/indexes/IndexService.js";
+import { MarkdownService } from "@/services/md/MarkdownService.js";
 
 @Injectable()
 export class ArchiveService {
   constructor(
-    @Inject(FileService) private fs: FileService,
     @Inject(IndexService) private index: IndexService,
     @Inject(MarkdownService) private md: MarkdownService,
-  ) {}
+  ) { }
 
   public async archiveWallpapers(newWallpapers: IWallpaper[]): Promise<void> {
     // 写入每日文件
     await Promise.all(newWallpapers.map((wp) => {
-      return this.md.addWallpaper(wp);
+      return this.md.addDailyMarkdown(wp);
     }));
 
     // 更新每月归档

@@ -1,0 +1,23 @@
+import { ARCHIVE_DIR } from "@/constants.js";
+import { readdir, readFile } from "node:fs/promises";
+import { join } from "node:path";
+import { getMonthDirPath } from "./paths.ts";
+import { formatMonthlyMarkdown } from "./formats.ts";
+
+export class MonthlyMarkdown {
+    public path: string
+    constructor(private year: string, private month: string) {
+        this.path = join(ARCHIVE_DIR, year, `${month}.md`);
+    }
+    async getContent() {
+        const monthDir = getMonthDirPath(this.year, this.month)
+        const dailyMarkdowns = (await readdir(monthDir)).filter(f => /^\d+\.md$/.test(f))
+
+        const contents = await Promise.all(dailyMarkdowns.map(f => readFile(
+            join(monthDir, f),
+            'utf8'
+        )))
+
+        return formatMonthlyMarkdown(this.year, this.month, contents)
+    }
+}

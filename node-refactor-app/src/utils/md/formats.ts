@@ -1,7 +1,7 @@
-import type { IWallpaper } from "../../types/IWallpaper.ts";
+import type { IWallpaper } from "@/types/IWallpaper.ts";
 
 export const formatDailyMarkdown = (wallpaper: IWallpaper): string => {
-  return `## ${wallpaper.title}
+  return `# ${wallpaper.title}
 
 ${wallpaper.copyright}
 

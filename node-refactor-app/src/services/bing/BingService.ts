@@ -1,6 +1,6 @@
-import { Injectable } from "../../utils/di.js";
-import { LATEST_WALLPAPERS_COUNT } from "../../constants.js";
-import { IBingImageDTO } from "../../types/IBingImageDTO.ts";
+import { Injectable } from "@/utils/di.js";
+import { LATEST_WALLPAPERS_COUNT } from "@/constants.js";
+import { IBingImageDTO } from "@/types/IBingImageDTO.ts";
 
 @Injectable()
 export class BingService {
