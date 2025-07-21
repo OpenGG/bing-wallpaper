@@ -1,27 +1,21 @@
-import { BUCKET, CURSOR_PATH } from "/constants.ts";
-import { TempService } from "/services/temp/TempService.ts";
-import { retry } from "/utils/retry.ts";
-import { IndexService } from "/services/indexes/IndexService.ts";
-import { ObjectService } from "/services/object/ObjectService.ts";
-import { DownloadService } from "/services/download/DownloadService.ts";
-import { ImageService } from "/services/image/ImageService.ts";
-import { Inject } from "/utils/di.ts";
+import { BUCKET, CURSOR_PATH } from "../constants.ts";
+import { TempService } from "../services/temp/TempService.ts";
+import { retry } from "../utils/retry.ts";
+import { IndexService } from "../services/indexes/IndexService.ts";
+import { ObjectService } from "../services/object/ObjectService.ts";
+import { DownloadService } from "../services/download/DownloadService.ts";
+import { ImageService } from "../services/image/ImageService.ts";
+import { Inject, Injectable } from "../utils/di.ts";
 
+@Injectable()
 export class UploadImagesCommand {
-  @Inject(IndexService)
-  private indexService!: IndexService;
-
-  @Inject(ObjectService)
-  private objectService!: ObjectService;
-
-  @Inject(TempService)
-  private tempService!: TempService;
-
-  @Inject(DownloadService)
-  private downloadService!: DownloadService;
-
-  @Inject(ImageService)
-  private imageService!: ImageService;
+  constructor(
+    @Inject(IndexService) private indexService: IndexService,
+    @Inject(ObjectService) private objectService: ObjectService,
+    @Inject(TempService) private tempService: TempService,
+    @Inject(DownloadService) private downloadService: DownloadService,
+    @Inject(ImageService) private imageService: ImageService,
+  ) {}
 
   /**
    * 增量式地上传新的壁纸图片到 R2 云存储。
@@ -47,7 +41,7 @@ export class UploadImagesCommand {
           console.log(`Dealing with new wallpaper: ${date}`);
 
           try {
-            await this.tempService.withTempFile(async (tempFilePath) => {
+            await this.tempService.withTempFile(async (tempFilePath: string) => {
               // 5. 下载
               console.log(`  Downloading from ${url}`);
               await retry(async () => {

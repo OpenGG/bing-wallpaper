@@ -6,11 +6,10 @@ import { ArchiveService } from "../services/archive/ArchiveService.js";
 
 @Injectable()
 export class FetchCommand {
-  @Inject("BingService")
-  private bingService!: BingService;
-
-  @Inject("ArchiveService")
-  private archiveService!: ArchiveService;
+  constructor(
+    @Inject(BingService) private bingService: BingService,
+    @Inject(ArchiveService) private archiveService: ArchiveService,
+  ) {}
 
   async execute() {
     console.log("Starting: Fetch and archive new wallpapers...");

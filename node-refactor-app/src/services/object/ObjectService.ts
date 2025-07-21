@@ -5,8 +5,7 @@ import { TempService } from "../temp/TempService.js";
 
 @Injectable()
 export class ObjectService {
-  @Inject("TempService")
-  private tempService!: TempService;
+  constructor(@Inject(TempService) private tempService: TempService) {}
 
   public getObject(
     options: { bucket: string; path: string; type: "text" },

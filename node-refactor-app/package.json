@@ -7,6 +7,9 @@
   "scripts": {
     "ts:check": "tsc",
     "command:fetch": "tsx src/main.ts fetch",
+    "command:build-index": "tsx src/main.ts build-index",
+    "command:build-archives": "tsx src/main.ts build-archives",
+    "command:upload-images": "tsx src/main.ts upload-images",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

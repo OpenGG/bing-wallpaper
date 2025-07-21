@@ -6,14 +6,11 @@ import { MarkdownService } from "../md/MarkdownService.js";
 
 @Injectable()
 export class ArchiveService {
-  @Inject("FileService")
-  private fs!: FileService;
-
-  @Inject("IndexService")
-  private index!: IndexService;
-
-  @Inject("MarkdownService")
-  private md!: MarkdownService;
+  constructor(
+    @Inject(FileService) private fs: FileService,
+    @Inject(IndexService) private index: IndexService,
+    @Inject(MarkdownService) private md: MarkdownService,
+  ) {}
 
   public async archiveWallpapers(newWallpapers: IWallpaper[]): Promise<void> {
     // 写入每日文件

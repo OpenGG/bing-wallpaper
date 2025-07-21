@@ -13,8 +13,7 @@ const formatLine = (index: IWallpaperIndex): string => {
 
 @Injectable()
 export class IndexService {
-  @Inject("FileService")
-  private fs!: FileService;
+  constructor(@Inject(FileService) private fs: FileService) {}
 
   private indexesMap: Map<string, IWallpaperIndex> = new Map();
   private indexKeys: string[] = [];

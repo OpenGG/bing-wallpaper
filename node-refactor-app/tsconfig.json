@@ -9,7 +9,10 @@
     "emitDecoratorMetadata": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "noEmit": true
+    "allowImportingTsExtensions": true,
+    "noEmit": true,
+    "rootDir": "src",
+    "baseUrl": "src"
   },
   "include": ["src"],
   "exclude": ["node_modules"]

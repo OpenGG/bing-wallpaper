@@ -1,9 +1,9 @@
-import { ArchiveService } from "/services/archive/ArchiveService.ts";
-import { Inject } from "/utils/di.ts";
+import { ArchiveService } from "../services/archive/ArchiveService.ts";
+import { Inject, Injectable } from "../utils/di.ts";
 
+@Injectable()
 export class BuildIndexCommand {
-  @Inject(ArchiveService)
-  private archiveService!: ArchiveService;
+  constructor(@Inject(ArchiveService) private archiveService: ArchiveService) {}
 
   async execute() {
     console.log("Starting: Build index...");

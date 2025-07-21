@@ -1,3 +1,5 @@
+import { writeFile } from "fs/promises";
+
 export class DownloadService {
   async downloadFile(url: string, filePath: string) {
     const imageResponse = await fetch(url);
@@ -6,6 +8,7 @@ export class DownloadService {
         `Failed to download image: ${imageResponse.statusText}`,
       );
     }
-    await Deno.writeFile(filePath, imageResponse.body);
+    const buffer = await imageResponse.arrayBuffer();
+    await writeFile(filePath, Buffer.from(buffer));
   }
 }
