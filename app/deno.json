@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "@x/monopolo": "https://deno.land/x/monopole/mod.ts",
+    "@std/fs": "jsr:@std/fs@1",
+    "@std/path": "jsr:@std/path@1",
+    "@std/assert": "jsr:@std/assert@1",
+    "/": "./",
+    "./": "./"
+  }
+}
