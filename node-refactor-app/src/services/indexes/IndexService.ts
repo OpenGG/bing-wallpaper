@@ -83,9 +83,10 @@ export class IndexService {
   }
 
   private getContent() {
-    return this.indexValues.map((index) => {
+    return `${this.indexValues.map((index) => {
       return index.getContent();
-    }).join("\n");
+    }).join("\n")}
+`;
   }
 
   async save() {

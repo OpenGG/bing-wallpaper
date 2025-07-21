@@ -29,7 +29,7 @@ export const parseDailyMdPath = (mdPath: string) => {
   if (!matches) {
     throw new Error(`Invalid mdPath: ${mdPath}`);
   }
-  const [year, month, day] = mdPath.split("/").filter((a) => a);
+  const [,year, month, day] = matches;
   return {
     year,
     month,
