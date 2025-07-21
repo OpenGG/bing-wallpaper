@@ -6,7 +6,6 @@ import { parseBingWalpaperUrl } from "./parsers.js";
  * 代表一张壁纸的纯数据模型。
  */
 export class BingWallpaper implements IWallpaper {
-  public readonly date: string;
   public readonly year: string;
   public readonly month: string;
   public readonly day: string;
@@ -14,7 +13,6 @@ export class BingWallpaper implements IWallpaper {
   public readonly downloadUrl: string;
   public readonly title: string;
   public readonly copyright: string;
-  public readonly filename: string | null;
 
   constructor(data: IBingImageDTO) {
     this.title = data.title;
@@ -22,14 +20,11 @@ export class BingWallpaper implements IWallpaper {
     this.year = data.startdate.slice(0, 4);
     this.month = data.startdate.slice(4, 6);
     this.day = data.startdate.slice(6, 8);
-    this.date = `${this.year}-${this.month}-${this.day}`;
 
-    const { previewUrl, downloadUrl, filename } = parseBingWalpaperUrl(
+    const { previewUrl, downloadUrl } = parseBingWalpaperUrl(
       data.url,
     );
     this.previewUrl = previewUrl;
     this.downloadUrl = downloadUrl;
-
-    this.filename = filename;
   }
 }

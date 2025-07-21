@@ -28,7 +28,7 @@ export class ProjectMarkdown {
             if (linksMap.has(name)) {
                 return;
             }
-            linksMap.set(name, index.mdPath);
+            linksMap.set(name, getDailyMdPath(index));
         });
         const latestContent = formatLatestWallpapersInReadme(wallpaperContents);
         const linksContent = formatArchiveLinksInReadme(linksMap);

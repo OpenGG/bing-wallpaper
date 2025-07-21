@@ -7,7 +7,7 @@ ${wallpaper.copyright}
 
 ![${wallpaper.title}](${wallpaper.previewUrl})
 
-Date: ${wallpaper.date}
+Date: ${wallpaper.year}-${wallpaper.month}-${wallpaper.day}
 
 Download 4k: [${wallpaper.title}](${wallpaper.downloadUrl})
 

@@ -34,6 +34,5 @@ export const parseDailyMdPath = (mdPath: string) => {
     year,
     month,
     day,
-    date: `${year}/${month}/${day}`,
   };
 };

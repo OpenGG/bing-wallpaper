@@ -6,6 +6,16 @@ import { readFile, writeFile } from "node:fs/promises";
 
 const enCollator = new Intl.Collator("en");
 
+const getDate = ({
+  year,
+  month,
+  day,
+}: {
+  year: string
+  month: string
+  day: string
+}) => `${year}/${month}/${day}`
+
 @Injectable()
 export class IndexService {
 
@@ -21,7 +31,7 @@ export class IndexService {
         try {
           const index = BingWallpaperIndex.fromIndexLine(line);
           if (index) {
-            this.indexesMap.set(index.date, index);
+            this.indexesMap.set(getDate(index), index);
           }
         } catch (e) {
           console.warn("Index error", e);
@@ -46,14 +56,15 @@ export class IndexService {
   addIndexes(indexes: BingWallpaperIndex[]) {
     let addCount = 0;
     indexes.forEach((index) => {
+      const date = getDate(index)
       if (
-        this.indexesMap.has(index.date) &&
-        this.indexesMap.get(index.date)?.url === index.url
+        this.indexesMap.has(date) &&
+        this.indexesMap.get(date)?.url === index.url
       ) {
         return;
       }
       addCount += 1;
-      this.indexesMap.set(index.date, index);
+      this.indexesMap.set(date, index);
     });
 
     if (addCount > 0) {

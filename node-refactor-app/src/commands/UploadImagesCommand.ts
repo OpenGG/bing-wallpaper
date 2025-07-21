@@ -6,6 +6,8 @@ import { ObjectService } from "@/services/object/ObjectService.ts";
 import { DownloadService } from "@/services/download/DownloadService.ts";
 import { ImageService } from "@/services/image/ImageService.ts";
 import { Inject, Injectable } from "@/utils/di.ts";
+import { getDailyObjectPath } from "@/utils/object/paths.ts";
+import { parseBingWalpaperUrl } from "@/utils/bing/parsers.ts";
 
 @Injectable()
 export class UploadImagesCommand {
@@ -34,11 +36,11 @@ export class UploadImagesCommand {
     try {
       // 3. 核心处理循环
       for (const index of indexes) {
-        const { date, url } = index;
+        const { url } = index;
 
         // 4. 增量检查
-        if (date > cursor) {
-          console.log(`Dealing with new wallpaper: ${date}`);
+        if (index.getContent() > cursor) {
+          console.log(`Dealing with new wallpaper: ${index.year}-${index.month}-${index.day}`);
 
           try {
             await this.tempService.withTempFile(async (tempFilePath: string) => {
@@ -54,7 +56,12 @@ export class UploadImagesCommand {
                 throw new Error("Corrupt image detected");
               }
 
-              const targetPath = index.objectPath;
+              const targetPath = getDailyObjectPath({
+                year: index.year,
+                month: index.month,
+                day: index.day,
+                filename: parseBingWalpaperUrl(index.url).filename
+              });
 
               // 7. 上传
               console.log(
@@ -68,12 +75,12 @@ export class UploadImagesCommand {
             });
 
             // 8. 更新光标
-            lastSuccessfulCursor = date;
+            lastSuccessfulCursor = index.getContent();
             console.log(
               `  Successfully processed. New cursor position: ${lastSuccessfulCursor}`,
             );
           } catch (error) {
-            console.error(`Failed to process ${date}:`, error);
+            console.error(`Failed to process ${index.year}-${index.month}-${index.day}:`, error);
             throw error; // 中断整个循环
           }
         }

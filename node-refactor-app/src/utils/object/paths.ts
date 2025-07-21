@@ -5,7 +5,6 @@ export const getDailyObjectPath = (wp: {
   month: string;
   day: string;
   filename: string | null;
-  date: string;
 }): string => {
-  return join(wp.year, wp.month, wp.day, wp.filename || `${wp.date}.jpg`);
+  return join(wp.year, wp.month, wp.day, wp.filename || 'image.jpg');
 };
