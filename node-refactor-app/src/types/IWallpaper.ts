@@ -5,8 +5,6 @@ export interface IWallpaper {
   readonly year: string;
   readonly month: string;
   readonly day: string;
-  readonly mdPath: string;
-  readonly objectPath: string;
   readonly previewUrl: string;
   readonly downloadUrl: string;
   readonly title: string;

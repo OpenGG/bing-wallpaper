@@ -1,4 +1,3 @@
-import type { IWallpaper } from "@/types/IWallpaper.js";
 import { ARCHIVE_DIR, WALLPAPERS_DIR } from "@/constants.js";
 import { join } from "path";
 
@@ -22,4 +21,19 @@ export const getMonthDirPath = (wp: {
   month: string;
 }): string => {
   return join(WALLPAPERS_DIR, wp.year, wp.month);
+};
+
+
+export const parseDailyMdPath = (mdPath: string) => {
+  const matches = mdPath.match(/^(\d+)\/(\d+)\/(\d+)\.md$/);
+  if (!matches) {
+    throw new Error(`Invalid mdPath: ${mdPath}`);
+  }
+  const [year, month, day] = mdPath.split("/").filter((a) => a);
+  return {
+    year,
+    month,
+    day,
+    date: `${year}/${month}/${day}`,
+  };
 };

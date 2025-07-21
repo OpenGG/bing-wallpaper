@@ -1,24 +1,19 @@
 import { Injectable } from "@/utils/di.js";
 import { ALL_WALLPAPERS_PATH } from "@/constants.js";
 import { IWallpaper } from "@/types/IWallpaper.ts";
-import { IWallpaperIndex } from "@/types/IWallpaperIndex.ts";
 import { BingWallpaperIndex } from "@/utils/bing/BingWallpaperIndex.js";
 import { readFile, writeFile } from "node:fs/promises";
 
 const enCollator = new Intl.Collator("en");
 
-const formatLine = (index: IWallpaperIndex): string => {
-  return `${index.mdPath} ${index.url}`;
-};
-
 @Injectable()
 export class IndexService {
 
-  private indexesMap: Map<string, IWallpaperIndex> = new Map();
+  private indexesMap: Map<string, BingWallpaperIndex> = new Map();
   private indexKeys: string[] = [];
-  private indexValues: IWallpaperIndex[] = [];
+  private indexValues: BingWallpaperIndex[] = [];
 
-  async loadIndexes(): Promise<IWallpaperIndex[]> {
+  async loadIndexes(): Promise<BingWallpaperIndex[]> {
     const content = await readFile(ALL_WALLPAPERS_PATH, 'utf8');
     content.split("\n").filter(Boolean)
       .filter((line) => line)
@@ -44,11 +39,11 @@ export class IndexService {
       .reverse();
 
     this.indexValues = this.indexKeys.map((k) =>
-      this.indexesMap.get(k) as IWallpaperIndex
+      this.indexesMap.get(k) as BingWallpaperIndex
     );
   }
 
-  addIndexes(indexes: IWallpaperIndex[]) {
+  addIndexes(indexes: BingWallpaperIndex[]) {
     let addCount = 0;
     indexes.forEach((index) => {
       if (
@@ -77,7 +72,9 @@ export class IndexService {
   }
 
   private getContent() {
-    return this.indexValues.map(formatLine).join("\n");
+    return this.indexValues.map((index) => {
+      return index.getContent();
+    }).join("\n");
   }
 
   async save() {

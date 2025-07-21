@@ -1,8 +1,6 @@
 import type { IBingImageDTO } from "@/types/IBingImageDTO.ts";
 import type { IWallpaper } from "@/types/IWallpaper.ts";
-import { getDailyMdPath } from "@/utils/md/paths.js";
 import { parseBingWalpaperUrl } from "./parsers.js";
-import { getDailyObjectPath } from "@/utils/object/paths.js";
 
 /**
  * 代表一张壁纸的纯数据模型。
@@ -12,8 +10,6 @@ export class BingWallpaper implements IWallpaper {
   public readonly year: string;
   public readonly month: string;
   public readonly day: string;
-  public readonly mdPath: string;
-  public readonly objectPath: string;
   public readonly previewUrl: string;
   public readonly downloadUrl: string;
   public readonly title: string;
@@ -35,7 +31,5 @@ export class BingWallpaper implements IWallpaper {
     this.downloadUrl = downloadUrl;
 
     this.filename = filename;
-    this.mdPath = getDailyMdPath(this);
-    this.objectPath = getDailyObjectPath(this);
   }
 }
