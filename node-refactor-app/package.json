@@ -1,0 +1,22 @@
+{
+  "name": "refactor-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "ts:check": "tsc src/**/*.ts",
+    "command:fetch": "tsx src/main.ts fetch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^24.0.15",
+    "reflect-metadata": "^0.2.2",
+    "tsx": "^4.20.3",
+    "tsyringe": "^4.10.0",
+    "typescript": "^5.8.3"
+  }
+}
