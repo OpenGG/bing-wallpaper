@@ -1,7 +1,10 @@
 #!/usr/bin/env node
 import { Command } from 'commander';
+import { join } from 'path';
 import { updateCommand } from './commands/update.js';
 import { migrateCommand } from './commands/migrate.js';
+import { buildIndexCommand } from './commands/buildIndex.js';
+import { buildArchiveCommand } from './commands/buildArchive.js';
 
 const program = new Command();
 
@@ -31,6 +34,22 @@ program
       dest,
       force: !!opts.force,
     });
+  });
+
+program
+  .command('build-index')
+  .description('generate index files')
+  .action(async () => {
+    const { dest } = program.optsWithGlobals();
+    await buildIndexCommand(dest);
+  });
+
+program
+  .command('build-archive')
+  .description('generate README and archives')
+  .action(async () => {
+    const { dest } = program.optsWithGlobals();
+    await buildArchiveCommand(dest, join('..', 'README.md'));
   });
 
 program.parseAsync(process.argv);

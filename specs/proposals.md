@@ -23,6 +23,8 @@ app/
     commands/
       update.ts         # fetch and store today's images
       migrate.ts        # migrate existing markdown files via plugins
+      buildIndex.ts     # rebuild all.txt files
+      buildArchive.ts   # regenerate README and monthly archives
     plugins/            # migration plugins
     lib/
       bing.ts           # call Bing API
@@ -37,11 +39,10 @@ section storing the original Bing API payload together with calculated URLs.
 The body of the file is the same as before so existing readers continue to work.
 
 ### Commands
-* **update** – fetches the latest 10 images and writes them using the repository.
-* **migrate** – loads data through a user-provided plugin (`--plugin`) and saves it to the target directory. Plugins only need to return a list of `BingImage` objects and are agnostic of the repository implementation. This allows importing datasets from `scripts/legacy*` or other sources.
-
-Additional commands (uploading, archive generation) can be added later using the
-same pattern.
+* **update** – fetch the latest 10 images and store them.
+* **migrate** – load data through a plugin (`--plugin` and `--source`).
+* **build-index** – regenerate `all.txt` and `current.txt` lists.
+* **build-archive** – update README with the newest items and rebuild monthly archives.
 
 ## Testing & CI
 
