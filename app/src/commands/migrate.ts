@@ -1,9 +1,8 @@
 import { existsSync } from 'fs';
-import { join } from 'path';
 import { pathToFileURL } from 'url';
 import { processImageUrl } from '../lib/url.js';
 import { BingImage } from '../lib/bing.js';
-import { saveWallpaper } from '../repositories/wallpaperRepository.js';
+import { saveWallpaper, wallpaperPath } from '../repositories/wallpaperRepository.js';
 
 export interface MigrateOptions {
   plugin: string;
@@ -17,10 +16,7 @@ export async function migrateCommand(opts: MigrateOptions) {
   const loader: (src: string) => Promise<BingImage[]> = mod.default;
   const images = await loader(opts.source);
   for (const img of images) {
-    const year = img.startdate.slice(0, 4);
-    const month = img.startdate.slice(4, 6);
-    const day = img.startdate.slice(6);
-    const file = join(opts.dest, year, month, `${day}.md`);
+    const file = wallpaperPath(opts.dest, img.startdate);
     if (!opts.force && existsSync(file)) {
       continue;
     }

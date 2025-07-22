@@ -1,28 +1,10 @@
-import { join, relative } from 'path';
-import { readdir, readFile, writeFile } from 'fs/promises';
+import { join } from 'path';
+import { writeFile } from 'fs/promises';
+import { listWallpapers } from '../repositories/wallpaperRepository.js';
 
-async function collectMarkdown(root: string): Promise<{file: string, url: string}[]> {
-  const years = await readdir(root, { withFileTypes: true });
-  const results: {file: string, url: string}[] = [];
-  for (const year of years) {
-    if (!year.isDirectory()) continue;
-    const ydir = join(root, year.name);
-    const months = await readdir(ydir, { withFileTypes: true });
-    for (const month of months) {
-      if (!month.isDirectory()) continue;
-      const mdir = join(ydir, month.name);
-      const days = await readdir(mdir);
-      for (const file of days) {
-        if (!file.endsWith('.md')) continue;
-        const content = await readFile(join(mdir, file), 'utf8');
-        const match = content.match(/Download 4k: \[[^\]]+\]\(([^)]+)\)/);
-        if (!match) continue;
-        const rel = relative(root, join(mdir, file));
-        results.push({file: rel, url: match[1]});
-      }
-    }
-  }
-  return results.sort().reverse();
+async function collectMarkdown(root: string): Promise<{file: string; url: string}[]> {
+  const records = await listWallpapers(root);
+  return records.map(r => ({ file: r.file, url: r.meta.downloadUrl }));
 }
 
 export async function buildIndexCommand(root: string) {
