@@ -18,11 +18,19 @@ program
   });
 
 program
-  .command('migrate <src>')
+  .command('migrate')
   .description('migrate old data')
-  .action(async (src: string) => {
+  .option('--plugin <file>', 'plugin module file')
+  .option('--source <src>', 'data source')
+  .option('-f, --force', 'overwrite existing files')
+  .action(async (opts) => {
     const { dest } = program.optsWithGlobals();
-    await migrateCommand(src, dest);
+    await migrateCommand({
+      plugin: opts.plugin,
+      source: opts.source,
+      dest,
+      force: !!opts.force,
+    });
   });
 
 program.parseAsync(process.argv);

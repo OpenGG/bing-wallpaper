@@ -1,4 +1,4 @@
-import { fetchBingImages } from '../lib/bing.js';
+import { fetchBingImages, BingImage } from '../lib/bing.js';
 import { processImageUrl } from '../lib/url.js';
 import { saveWallpaper } from '../repositories/wallpaperRepository.js';
 
@@ -9,7 +9,7 @@ export async function updateCommand(root: string) {
     await saveWallpaper(root, {
       previewUrl,
       downloadUrl,
-      bing: img as any,
+      bing: img,
     }, img.startdate);
   }
 }

@@ -1,28 +1,34 @@
+import { existsSync } from 'fs';
 import { join } from 'path';
-import { readdir, readFile } from 'fs/promises';
+import { pathToFileURL } from 'url';
+import { processImageUrl } from '../lib/url.js';
+import { BingImage } from '../lib/bing.js';
 import { saveWallpaper } from '../repositories/wallpaperRepository.js';
 
-export async function migrateCommand(srcRoot: string, destRoot: string) {
-  const years = await readdir(srcRoot);
-  for (const year of years) {
-    const months = await readdir(join(srcRoot, year));
-    for (const month of months) {
-      const dir = join(srcRoot, year, month);
-      const days = await readdir(dir);
-      for (const file of days) {
-        if (!file.endsWith('.md')) continue;
-        const content = await readFile(join(dir, file), 'utf8');
-        const lines = content.split(/\n/).map((l) => l.trim());
-        const title = lines[0].replace(/^#\s*/, '');
-        const previewMatch = content.match(/!\[[^\]]*\]\(([^)]+)\)/);
-        const downloadMatch = content.match(/Download 4k: \[[^\]]*\]\(([^)]+)\)/);
-        const date = `${year}${month}${file.replace(/\.md$/, '')}`;
-        await saveWallpaper(destRoot, {
-          previewUrl: previewMatch ? previewMatch[1] : '',
-          downloadUrl: downloadMatch ? downloadMatch[1] : '',
-          bing: { title, startdate: date },
-        }, date);
-      }
+export interface MigrateOptions {
+  plugin: string;
+  source: string;
+  dest: string;
+  force?: boolean;
+}
+
+export async function migrateCommand(opts: MigrateOptions) {
+  const mod = await import(pathToFileURL(opts.plugin).href);
+  const loader: (src: string) => Promise<BingImage[]> = mod.default;
+  const images = await loader(opts.source);
+  for (const img of images) {
+    const year = img.startdate.slice(0, 4);
+    const month = img.startdate.slice(4, 6);
+    const day = img.startdate.slice(6);
+    const file = join(opts.dest, year, month, `${day}.md`);
+    if (!opts.force && existsSync(file)) {
+      continue;
     }
+    const { previewUrl, downloadUrl } = processImageUrl(img.url);
+    await saveWallpaper(
+      opts.dest,
+      { previewUrl, downloadUrl, bing: img },
+      img.startdate,
+    );
   }
 }

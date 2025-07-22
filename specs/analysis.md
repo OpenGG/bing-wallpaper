@@ -43,8 +43,9 @@ again with ImageMagick.  The check is implemented using Deno and a shell helper
 ## Legacy Scripts
 
 Several `scripts/legacy*` folders contain one-off migration utilities used to
-convert historical data sources.  They parse third‑party JSON/Markdown datasets
-and output files using the same template as the daily script.
+convert historical data sources. They parse third‑party JSON/Markdown datasets
+and output files using the same template as the daily script. Our refactor keeps
+this idea via a plugin system so new migrations can be added easily.
 
 ## Mac Helper
 

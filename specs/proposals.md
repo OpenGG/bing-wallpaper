@@ -22,7 +22,8 @@ app/
     cli.ts              # command dispatcher
     commands/
       update.ts         # fetch and store today's images
-      migrate.ts        # migrate existing markdown files
+      migrate.ts        # migrate existing markdown files via plugins
+    plugins/            # migration plugins
     lib/
       bing.ts           # call Bing API
       url.ts            # convert preview/download urls
@@ -36,9 +37,8 @@ section storing the original Bing API payload together with calculated URLs.
 The body of the file is the same as before so existing readers continue to work.
 
 ### Commands
-- **update** – fetches the latest 10 images and writes them using the repository.
-- **migrate** – converts the old `wallpaper` folder into the new front‑matter
-  format in place or to a separate directory.
+* **update** – fetches the latest 10 images and writes them using the repository.
+* **migrate** – loads data through a user-provided plugin (`--plugin`) and saves it to the target directory. Plugins only need to return a list of `BingImage` objects and are agnostic of the repository implementation. This allows importing datasets from `scripts/legacy*` or other sources.
 
 Additional commands (uploading, archive generation) can be added later using the
 same pattern.
