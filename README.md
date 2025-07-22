@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Epic sunsets and ancient secrets
+
+Sunset over Badlands National Park, South Dakota (© Petr Bednarik/Danita Delimont/Alamy)
+
+![Epic sunsets and ancient secrets](https://bing.com/th?id=OHR.BadlandsSunset_EN-US5821746223_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-22
+
+Download 4k: [Epic sunsets and ancient secrets](https://bing.com/th?id=OHR.BadlandsSunset_EN-US5821746223_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Rainforests of the sea
 
 Staghorn coral off the island of Bonaire, Caribbean Netherlands (© blue-sea.cz/Shutterstock)
@@ -116,16 +126,6 @@ Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture
 Date: 2025-07-13
 
 Download 4k: [Rockin' those layers](https://bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Following mom's lead
-
-Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)
-
-![Following mom's lead](https://bing.com/th?id=OHR.ThomsonGazelle_EN-US4354285846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-12
-
-Download 4k: [Following mom's lead](https://bing.com/th?id=OHR.ThomsonGazelle_EN-US4354285846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
