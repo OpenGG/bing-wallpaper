@@ -2,13 +2,15 @@ import { join, relative } from 'path';
 import { readdir, readFile, writeFile } from 'fs/promises';
 
 async function collectMarkdown(root: string): Promise<{file: string, url: string}[]> {
-  const years = await readdir(root);
+  const years = await readdir(root, { withFileTypes: true });
   const results: {file: string, url: string}[] = [];
   for (const year of years) {
-    const ydir = join(root, year);
-    const months = await readdir(ydir);
+    if (!year.isDirectory()) continue;
+    const ydir = join(root, year.name);
+    const months = await readdir(ydir, { withFileTypes: true });
     for (const month of months) {
-      const mdir = join(ydir, month);
+      if (!month.isDirectory()) continue;
+      const mdir = join(ydir, month.name);
       const days = await readdir(mdir);
       for (const file of days) {
         if (!file.endsWith('.md')) continue;
