@@ -1,0 +1,14 @@
+{
+  "files": {
+    "ignore": ["dist"]
+  },
+  "formatter": {
+    "indentWidth": 2,
+    "lineWidth": 120
+  },
+  "linter": {
+    "rules": {
+      "recommended": true
+    }
+  }
+}
