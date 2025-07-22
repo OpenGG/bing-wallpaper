@@ -1,5 +1,4 @@
 {
-    "deno.enable": true,
     "editor.indentSize": 2,
     "files.trimTrailingWhitespace": true
 }
