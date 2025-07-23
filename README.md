@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A country within a city
+
+Vatican City with St. Peter's Basilica (© RudyBalasko/Getty Images)
+
+![A country within a city](https://bing.com/th?id=OHR.VaticanCity_EN-US5915643866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-23
+
+Download 4k: [A country within a city](https://bing.com/th?id=OHR.VaticanCity_EN-US5915643866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Epic sunsets and ancient secrets
 
 Sunset over Badlands National Park, South Dakota (© Petr Bednarik/Danita Delimont/Alamy)
@@ -116,16 +126,6 @@ Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Ima
 Date: 2025-07-14
 
 Download 4k: [Chasing waves](https://bing.com/th?id=OHR.YoungShark_EN-US4689572794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Rockin' those layers
-
-Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)
-
-![Rockin' those layers](https://bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-13
-
-Download 4k: [Rockin' those layers](https://bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
