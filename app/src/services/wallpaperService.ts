@@ -23,7 +23,7 @@ export async function updateWallpapers() {
 }
 
 export async function migrateWallpapers(plugin: string, source: string, opts: SaveOptions = {}) {
-  const mod = await import(pathToFileURL(plugin).href);
+  const mod = await import(/* @vite-ignore */ pathToFileURL(plugin).href);
   const loader: (src: string) => Promise<BingImage[]> = mod.default;
   const images = await loader(source);
   await saveImages(images, opts);
