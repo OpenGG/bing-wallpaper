@@ -1,19 +1,27 @@
-import { describe, it, expect } from 'vitest';
-import { join } from 'path';
-import plugin from './wallpaperFolder.js';
-import { tmpdir } from 'os';
-import { mkdtemp, rm } from 'fs/promises';
+import { describe, it, expect, vi } from 'vitest';
+import { dirname, join } from 'path';
+import { fileURLToPath } from 'url';
+import { readFile } from 'fs/promises';
+import { vol } from 'memfs';
+
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const fixture = join(__dirname, '../fixtures/wallpaper/2025/07/10.md');
 
 describe('wallpaperFolder plugin', () => {
   it('reads existing wallpaper markdown', async () => {
-    const root = await mkdtemp(join(tmpdir(), 'lf-'));
+    const content = await readFile(fixture, 'utf8');
+    vol.fromJSON({ '/wallpaper/2025/07/10.md': content });
+    vi.doMock('node:fs/promises', () => vol.promises);
 
     try {
-      const images = await plugin(root);
+      const { default: plugin } = await import('./wallpaperFolder.js');
+      const images = await plugin('/wallpaper');
       const found = images.find(i => i.startdate === '20250710');
       expect(found?.title).toContain('freedom');
     } finally {
-      await rm(root, { recursive: true, force: true });
+      vi.resetModules();
+      vol.reset();
     }
   });
 });

@@ -7,7 +7,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 
 describe('archiveMonth plugin', () => {
   it('parses monthly archive file', async () => {
-    const file = join(__dirname, '../../../archive/2025/07.md');
+    const file = join(__dirname, '../fixtures/archive/2025/07.md');
     const images = await plugin(file);
     expect(images[0].startdate).toBe('20250721');
     expect(images[0].title).toContain('Rainforests');
