@@ -5,7 +5,7 @@ export default async function archiveMonth(file: string): Promise<BingImage[]> {
   const text = await readFile(file, 'utf8');
   const regex = /##\s*(?<title>[^\n]+)\n\n(?<copy>[^\n]+)\n\n!\[[^\]]*\]\([^\)]+\)\n\nDate:\s*(?<date>\d{4}-\d{2}-\d{2})\n\nDownload 4k: \[[^\]]+\]\((?<url>[^)]+)\)/g;
   const images: BingImage[] = [];
-  for (;;) {
+  for (; ;) {
     const m = regex.exec(text);
     if (!m) break;
     images.push({

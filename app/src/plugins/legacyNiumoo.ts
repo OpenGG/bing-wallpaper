@@ -12,7 +12,7 @@ export default async function legacyNiumoo(source: string): Promise<BingImage[]>
   }
   const regex = /(?<year>\d{4})-(?<month>\d{2})-(?<date>\d{2})[^[]+\[(?<desc>[^\]]+)\]\((?<img>[^\)]+)\)/g;
   const images: BingImage[] = [];
-  for (;;) {
+  for (; ;) {
     const match = regex.exec(text);
     if (!match || !match.groups) break;
     const { year, month, date, desc, img } = match.groups as any;
