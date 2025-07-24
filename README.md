@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sticking together
+
+Family of ashy woodswallows perched on a branch in Thailand (© Captain Skyhigh/Getty Images)
+
+![Sticking together](https://bing.com/th?id=OHR.AshyWoodswallow_EN-US7005770998_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-24
+
+Download 4k: [Sticking together](https://bing.com/th?id=OHR.AshyWoodswallow_EN-US7005770998_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A country within a city
 
 Vatican City with St. Peter's Basilica (© RudyBalasko/Getty Images)
@@ -116,16 +126,6 @@ Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park
 Date: 2025-07-15
 
 Download 4k: [Timeless glow](https://bing.com/th?id=OHR.PerseidsPine_EN-US4826682211_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Chasing waves
-
-Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)
-
-![Chasing waves](https://bing.com/th?id=OHR.YoungShark_EN-US4689572794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-14
-
-Download 4k: [Chasing waves](https://bing.com/th?id=OHR.YoungShark_EN-US4689572794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
