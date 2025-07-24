@@ -6,6 +6,7 @@
     "lint": "biome check src --apply",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
+    "coverage": "vitest run --coverage",
     "cli": "tsx ./src/cli.tsx"
   },
   "dependencies": {
@@ -18,7 +19,10 @@
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
     "@types/node": "^20.8.10",
+    "@vitest/coverage-v8": "1.6.1",
     "biome": "^0.3.3",
+    "fs-monkey": "^1.1.0",
+    "memfs": "^3.4.13",
     "ts-node": "^10.9.1",
     "tsx": "^4.7.0",
     "typescript": "^5.4.2",

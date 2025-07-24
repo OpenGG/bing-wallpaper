@@ -1,8 +1,7 @@
-import { describe, it, expect, vi } from 'vitest';
-import { tmpdir } from 'os';
-import { mkdtemp, rm } from 'fs/promises';
+import { describe, it, expect } from 'vitest';
 import { join } from 'path';
-import { saveWallpaper, readWallpaper, listWallpapers, wallpaperPath } from './wallpaperRepository.js';
+import { vol } from 'memfs';
+import { vi } from 'vitest';
 
 const sampleMeta = {
   previewUrl: 'https://bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4',
@@ -17,18 +16,31 @@ const sampleMeta = {
 
 describe('wallpaper repository', () => {
   it('writes and reads markdown with front matter', async () => {
-    const dir = await mkdtemp(join(tmpdir(), 'wp-'));
-    vi.spyOn(process, 'cwd').mockReturnValue(dir)
+    vi.mock('fs-extra', () => ({
+      ensureDir: async (p: string) => vol.promises.mkdir(p, { recursive: true }),
+      readFile: vol.promises.readFile,
+      writeFile: vol.promises.writeFile,
+    }));
+    vi.mock('node:fs/promises', () => vol.promises);
+
+    const {
+      saveWallpaper,
+      readWallpaper,
+      listWallpapers,
+      wallpaperPath,
+    } = await import('./wallpaperRepository.js');
+
     try {
       const file = await saveWallpaper(sampleMeta, '20250721');
       const rec = await readWallpaper(file);
       expect(rec.meta.previewUrl).toBe(sampleMeta.previewUrl);
       expect(rec.meta.bing.title).toBe('Rainforests of the sea');
-      const list = await listWallpapers(dir);
+      const list = await listWallpapers('wallpaper');
       expect(list[0].file).toBe(join('2025', '07', '21.md'));
       expect(wallpaperPath('20250721')).toBe(file);
     } finally {
-      await rm(dir, { recursive: true, force: true });
+      vi.resetModules();
+      vol.reset();
     }
   });
 });
