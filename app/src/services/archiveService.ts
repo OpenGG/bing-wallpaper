@@ -25,6 +25,7 @@ function groupByMonth(records: WallpaperRecord[]): Map<string, WallpaperRecord[]
 }
 
 async function buildArchiveLinks(): Promise<string> {
+  await ensureDir(DIR_ARCHIVE)
   const years = await readdir(DIR_ARCHIVE);
   const links: string[] = [];
   for (const y of years.sort().reverse()) {
@@ -32,7 +33,7 @@ async function buildArchiveLinks(): Promise<string> {
     months
       .sort()
       .reverse()
-      .forEach((m) => links.push(`[${y}-${m}](./archive/${y}/${m}.md)`));
+      .forEach((m) => links.push(`[${y}-${m}](./${DIR_ARCHIVE}/${y}/${m})`));
   }
   return links.join('\n');
 }
@@ -50,6 +51,7 @@ async function writeMonthlyArchives(records: WallpaperRecord[]) {
 
 export async function buildArchive() {
   const records = await listWallpapers(DIR_WALLPAPER);
+  await writeMonthlyArchives(records);
   const latest = records.slice(0, 10);
   const latestSection = latest.map((r) => transform(r.body)).join('\n');
 
@@ -60,6 +62,5 @@ export async function buildArchive() {
   const body = `# Latest wallpapers\n\n${latestSection}\n\n# Archives\n\n${links}\n`;
   await writeFile(PATH_README, `${prefix}\n${body}`);
 
-  await writeMonthlyArchives(records);
 }
 

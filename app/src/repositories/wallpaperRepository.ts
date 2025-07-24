@@ -1,5 +1,6 @@
 import { join, relative } from 'node:path';
-import { ensureDir, readFile, writeFile } from 'fs-extra';
+import { ensureDir } from 'fs-extra';
+import { readFile, writeFile } from 'node:fs/promises';
 import matter from 'gray-matter';
 
 import type { BingImage } from '../lib/bing.js';

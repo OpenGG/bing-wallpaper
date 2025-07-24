@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 import { Command } from 'commander';
-import { join } from 'node:path';
 import { updateCommand } from './commands/update.js';
 import { migrateCommand } from './commands/migrate.js';
 import { buildIndexCommand } from './commands/buildIndex.js';

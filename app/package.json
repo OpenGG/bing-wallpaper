@@ -7,7 +7,7 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "coverage": "vitest run --coverage",
-    "cli": "tsx ./src/cli.tsx"
+    "cli": "tsx ./src/cli.ts"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.560.0",

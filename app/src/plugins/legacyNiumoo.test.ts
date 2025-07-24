@@ -1,7 +1,7 @@
 import { describe, it, expect, vi } from 'vitest';
-import { tmpdir } from 'os';
-import { mkdtemp, writeFile, rm } from 'fs/promises';
-import { join } from 'path';
+import { tmpdir } from 'node:os';
+import { mkdtemp, writeFile, rm } from 'node:fs/promises';
+import { join } from 'node:path';
 import plugin from './legacyNiumoo.js';
 
 const fixture = `## Bing Wallpaper
