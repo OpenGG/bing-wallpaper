@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { promises as fs } from 'fs';
+import { promises as fs } from 'node:fs';
 import { BingImage } from '../lib/bing.js';
 
 export default async function legacyNiumoo(source: string): Promise<BingImage[]> {

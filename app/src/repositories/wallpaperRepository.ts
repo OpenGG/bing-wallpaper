@@ -1,8 +1,9 @@
-import { join, relative } from 'path';
+import { join, relative } from 'node:path';
 import { ensureDir, readFile, writeFile } from 'fs-extra';
 import matter from 'gray-matter';
 
 import type { BingImage } from '../lib/bing.js';
+import { DIR_WALLPAPER } from '../lib/config.js';
 
 export interface WallpaperMeta {
   previewUrl: string;
@@ -10,11 +11,11 @@ export interface WallpaperMeta {
   bing: BingImage;
 }
 
-export function wallpaperPath(root: string, date: string): string {
+export function wallpaperPath(date: string): string {
   const year = date.slice(0, 4);
   const month = date.slice(4, 6);
   const day = date.slice(6);
-  return join(root, year, month, `${day}.md`);
+  return join(DIR_WALLPAPER, year, month, `${day}.md`);
 }
 
 export function buildContent(meta: WallpaperMeta, date: string): string {
@@ -25,9 +26,9 @@ export function buildContent(meta: WallpaperMeta, date: string): string {
   return matter.stringify(body, meta);
 }
 
-export async function saveWallpaper(root: string, meta: WallpaperMeta, date: string) {
-  const file = wallpaperPath(root, date);
-  await ensureDir(join(root, date.slice(0, 4), date.slice(4, 6)));
+export async function saveWallpaper(meta: WallpaperMeta, date: string) {
+  const file = wallpaperPath(date);
+  await ensureDir(join(DIR_WALLPAPER, date.slice(0, 4), date.slice(4, 6)));
   const content = buildContent(meta, date);
   await writeFile(file, content, 'utf8');
   return file;

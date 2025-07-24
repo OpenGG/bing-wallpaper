@@ -5,7 +5,8 @@
   "scripts": {
     "lint": "biome check src --apply",
     "typecheck": "tsc --noEmit",
-    "test": "vitest run"
+    "test": "vitest run",
+    "cli": "tsx ./src/cli.tsx"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.560.0",

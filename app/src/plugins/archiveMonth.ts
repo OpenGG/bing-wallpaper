@@ -1,4 +1,4 @@
-import { readFile } from 'fs/promises';
+import { readFile } from 'node:fs/promises';
 import { BingImage } from '../lib/bing.js';
 
 export default async function archiveMonth(file: string): Promise<BingImage[]> {

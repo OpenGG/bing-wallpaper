@@ -1,5 +1,5 @@
-import { readdir, readFile } from 'fs/promises';
-import { join } from 'path';
+import { readdir, readFile } from 'node:fs/promises';
+import { join } from 'node:path';
 import { BingImage } from '../lib/bing.js';
 
 export default async function wallpaperFolder(root: string): Promise<BingImage[]> {

@@ -1,4 +1,4 @@
-import { describe, it, expect } from 'vitest';
+import { describe, it, expect, vi } from 'vitest';
 import { tmpdir } from 'os';
 import { mkdtemp, writeFile, rm } from 'fs/promises';
 import { join } from 'path';
@@ -11,6 +11,7 @@ const fixture = `## Bing Wallpaper
 describe('legacyNiumoo plugin', () => {
   it('parses markdown list', async () => {
     const dir = await mkdtemp(join(tmpdir(), 'lf-'));
+    vi.spyOn(process, 'cwd').mockReturnValue(dir)
     const file = join(dir, 'sample.md');
     await writeFile(file, fixture);
     try {

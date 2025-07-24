@@ -1,4 +1,4 @@
-import { describe, it, expect } from 'vitest';
+import { describe, it, expect, vi } from 'vitest';
 import { tmpdir } from 'os';
 import { mkdtemp, rm } from 'fs/promises';
 import { join } from 'path';
@@ -18,14 +18,15 @@ const sampleMeta = {
 describe('wallpaper repository', () => {
   it('writes and reads markdown with front matter', async () => {
     const dir = await mkdtemp(join(tmpdir(), 'wp-'));
+    vi.spyOn(process, 'cwd').mockReturnValue(dir)
     try {
-      const file = await saveWallpaper(dir, sampleMeta, '20250721');
+      const file = await saveWallpaper(sampleMeta, '20250721');
       const rec = await readWallpaper(file);
       expect(rec.meta.previewUrl).toBe(sampleMeta.previewUrl);
       expect(rec.meta.bing.title).toBe('Rainforests of the sea');
       const list = await listWallpapers(dir);
       expect(list[0].file).toBe(join('2025', '07', '21.md'));
-      expect(wallpaperPath(dir, '20250721')).toBe(file);
+      expect(wallpaperPath('20250721')).toBe(file);
     } finally {
       await rm(dir, { recursive: true, force: true });
     }

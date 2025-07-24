@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import { Command } from 'commander';
-import { join } from 'path';
+import { join } from 'node:path';
 import { updateCommand } from './commands/update.js';
 import { migrateCommand } from './commands/migrate.js';
 import { buildIndexCommand } from './commands/buildIndex.js';
@@ -15,9 +15,8 @@ program
 program
   .command('update')
   .description('fetch latest images')
-  .action(async (opts, cmd) => {
-    const { dest } = program.optsWithGlobals();
-    await updateCommand(dest);
+  .action(async () => {
+    await updateCommand();
   });
 
 program
@@ -31,7 +30,6 @@ program
     await migrateCommand({
       plugin: opts.plugin,
       source: opts.source,
-      dest,
       force: !!opts.force,
     });
   });
@@ -40,16 +38,14 @@ program
   .command('build-index')
   .description('generate index files')
   .action(async () => {
-    const { dest } = program.optsWithGlobals();
-    await buildIndexCommand(dest);
+    await buildIndexCommand();
   });
 
 program
   .command('build-archive')
   .description('generate README and archives')
   .action(async () => {
-    const { dest } = program.optsWithGlobals();
-    await buildArchiveCommand(dest, join('..', 'README.md'));
+    await buildArchiveCommand();
   });
 
 program.parseAsync(process.argv);
