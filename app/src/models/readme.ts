@@ -29,7 +29,7 @@ export class ReadmeFile {
 
   async updateLatestWallpaper(records: WallpaperRecord[]) {
     const files = await Promise.all(records.map((r) => DailyMarkdown.fromPath(r.path)));
-    const latest = files.map((f: DailyMarkdown) => transformBody(f.content())).join("\n");
+    const latest = files.map((f: DailyMarkdown) => transformBody(f.body)).join("\n");
     const links = await MonthlyArchive.buildLinks();
     await this.updateLatestSection(latest, links);
   }

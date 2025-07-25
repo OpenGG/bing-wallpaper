@@ -12,6 +12,36 @@ export interface WallpaperMeta {
   bing: BingImage;
 }
 
+const parseLegacy = (content: string): { data: WallpaperMeta } => {
+  const lines = content
+    .split("\n")
+    .map((s) => s.trim())
+    .filter((s) => s);
+  const title = lines[0].slice(1);
+  const copyright = lines[1];
+  const previewUrl = lines[2].match(/!\[.*?\]\((\S*?)\)/)?.[1];
+  const date = lines[3].match(/\d{4}-\d{2}-\d{2}/)?.[0]?.replace(/-/g, "");
+  const downloadUrl = lines[4].match(/4k:\s*\[.*?\]\((\S*?)\)/)?.[1];
+  if (!title || !copyright || !previewUrl || !date || !downloadUrl) {
+    throw new Error("Invalid legacy markdown format");
+  }
+
+  const data = {
+    previewUrl,
+    downloadUrl,
+    bing: {
+      copyright,
+      startdate: date,
+      title: copyright,
+      url: "",
+    },
+  };
+
+  return {
+    data,
+  };
+};
+
 export class DailyMarkdown {
   constructor(
     public date: string,
@@ -20,7 +50,7 @@ export class DailyMarkdown {
 
   static async fromPath(path: string): Promise<DailyMarkdown> {
     const text = await readFile(path, "utf8");
-    const parsed = matter(text);
+    const parsed = text.startsWith("#") ? parseLegacy(text) : matter(text);
     const meta = parsed.data as WallpaperMeta;
     const date = meta?.bing?.startdate ?? "";
     return new DailyMarkdown(date, meta);
@@ -65,18 +95,22 @@ export class DailyMarkdown {
 
   async save(): Promise<void> {
     await ensureDir(dirname(this.path));
-    return writeFile(this.path, this.content(), "utf8");
+    return writeFile(this.path, this.content, "utf8");
+  }
+
+  get body() {
+    return (
+      `# ${this.meta.bing.title}\n\n${this.meta.bing.copyright ?? ""}\n\n` +
+      `![${this.meta.bing.title}](${this.meta.previewUrl})\n\n` +
+      `Date: ${this.year}-${this.month}-${this.day}\n\n` +
+      `Download 4k: [${this.meta.bing.title}](${this.meta.downloadUrl})\n`
+    );
   }
 
   /**
    * Generate markdown content including front matter
    */
-  content(): string {
-    const body =
-      `# ${this.meta.bing.title}\n\n${this.meta.bing.copyright ?? ""}\n\n` +
-      `![${this.meta.bing.title}](${this.meta.previewUrl})\n\n` +
-      `Date: ${this.year}-${this.month}-${this.day}\n\n` +
-      `Download 4k: [${this.meta.bing.title}](${this.meta.downloadUrl})\n`;
-    return matter.stringify(body, this.meta);
+  get content() {
+    return matter.stringify(this.body, this.meta);
   }
 }

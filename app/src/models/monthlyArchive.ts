@@ -54,7 +54,7 @@ export class MonthlyArchive {
       const archive = MonthlyArchive.fromKey(key);
       await ensureDir(archive.dir);
       const files = await Promise.all(items.map((item) => DailyMarkdown.fromPath(item.path)));
-      const content = `# ${archive.key}\n\n${files.map((r: DailyMarkdown) => transformBody(r.content())).join("\n")}`;
+      const content = `# ${archive.key}\n\n${files.map((r: DailyMarkdown) => transformBody(r.body)).join("\n")}`;
       await writeFile(archive.file, content);
     }
   }
