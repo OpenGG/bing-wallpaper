@@ -1,4 +1,4 @@
-import { migrateWallpapers } from '../services/wallpaperService.js';
+import { migrateWallpapers } from "../services/wallpaperService.js";
 
 export interface MigrateOptions {
   plugin: string;

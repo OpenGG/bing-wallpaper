@@ -1,10 +1,7 @@
 import { describe, it, expect } from "vitest";
 import { mockFS } from "../lib/testUtils.js";
 
-import {
-  saveWallpaper,
-  listWallpapers,
-} from "../repositories/wallpaperRepository.js";
+import { saveWallpaper, listWallpapers } from "../repositories/wallpaperRepository.js";
 import { DailyMarkdown } from "./dailyMarkdown.js";
 import { MonthlyArchive } from "./monthlyArchive.js";
 import { transformBody } from "./readme.js";

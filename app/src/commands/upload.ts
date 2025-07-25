@@ -1,4 +1,4 @@
-import { uploadImages } from '../services/uploadService.js';
+import { uploadImages } from "../services/uploadService.js";
 
 export interface UploadOptions {
   bucket: string;

@@ -1,7 +1,7 @@
-import { listWallpapers } from '../repositories/wallpaperRepository.js';
-import { DIR_WALLPAPER } from '../lib/config.js';
-import { MonthlyArchive } from '../models/monthlyArchive.js';
-import { ReadmeFile } from '../models/readme.js';
+import { listWallpapers } from "../repositories/wallpaperRepository.js";
+import { DIR_WALLPAPER } from "../lib/config.js";
+import { MonthlyArchive } from "../models/monthlyArchive.js";
+import { ReadmeFile } from "../models/readme.js";
 
 export async function buildArchive() {
   const records = await listWallpapers(DIR_WALLPAPER);

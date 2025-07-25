@@ -1,7 +1,7 @@
 import { relative } from "node:path";
 import { writeFile } from "node:fs/promises";
 import { DIR_WALLPAPER } from "../lib/config.js";
-import { DailyMarkdown } from "./dailyMarkdown.js";
+import type { DailyMarkdown } from "./dailyMarkdown.js";
 
 export interface IndexEntry {
   date: string;
@@ -27,7 +27,10 @@ function format(items: DailyMarkdown[]): string {
 export class WallpaperIndex {
   static parseIndexLine = parseIndexLine;
 
-  constructor(public allPath: string, public currentPath: string) {}
+  constructor(
+    public allPath: string,
+    public currentPath: string,
+  ) {}
 
   async updateWallpapers(items: DailyMarkdown[]) {
     await writeFile(this.allPath, format(items));

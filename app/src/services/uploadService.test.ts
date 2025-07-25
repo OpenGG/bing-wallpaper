@@ -1,4 +1,4 @@
-import { describe, it, expect, vi, Mock } from "vitest";
+import { describe, it, expect, vi, type Mock } from "vitest";
 import { mockFS, setupMockFs } from "../lib/testUtils.js";
 import { uploadImages } from "./uploadService.js";
 import * as s3Module from "@aws-sdk/client-s3";
@@ -27,8 +27,6 @@ describe("uploadImages", () => {
       bucket: "test",
       client: new (await import("@aws-sdk/client-s3")).S3Client({}),
     });
-    expect(s3.__sendMock).toHaveBeenCalledWith(
-      expect.objectContaining({ __type: "PutObjectCommand", Bucket: "test" })
-    );
+    expect(s3.__sendMock).toHaveBeenCalledWith(expect.objectContaining({ __type: "PutObjectCommand", Bucket: "test" }));
   });
 });

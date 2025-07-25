@@ -1,16 +1,19 @@
-import { join } from 'node:path';
-import { readdir, writeFile } from 'node:fs/promises';
-import { ensureDir } from 'fs-extra';
-import { DIR_ARCHIVE } from '../lib/config.js';
-import { DailyMarkdown } from './dailyMarkdown.js';
-import { transformBody } from './readme.js';
-import type { WallpaperRecord } from '../repositories/wallpaperRepository.js';
+import { join } from "node:path";
+import { readdir, writeFile } from "node:fs/promises";
+import { ensureDir } from "fs-extra";
+import { DIR_ARCHIVE } from "../lib/config.js";
+import { DailyMarkdown } from "./dailyMarkdown.js";
+import { transformBody } from "./readme.js";
+import type { WallpaperRecord } from "../repositories/wallpaperRepository.js";
 
 export class MonthlyArchive {
-  constructor(public year: string, public month: string) {}
+  constructor(
+    public year: string,
+    public month: string,
+  ) {}
 
   static fromKey(key: string): MonthlyArchive {
-    const [y, m] = key.split('-');
+    const [y, m] = key.split("-");
     return new MonthlyArchive(y, m);
   }
 
@@ -30,7 +33,6 @@ export class MonthlyArchive {
     return join(this.dir, `${this.month}.md`);
   }
 
-
   static group(records: WallpaperRecord[]): Map<string, WallpaperRecord[]> {
     const map = new Map<string, WallpaperRecord[]>();
     for (const r of records) {
@@ -46,8 +48,7 @@ export class MonthlyArchive {
     for (const [key, items] of map) {
       const archive = MonthlyArchive.fromKey(key);
       await ensureDir(archive.dir);
-      const content = `# ${archive.key}\n\n` +
-        items.map((r) => transformBody(r.body)).join('\n');
+      const content = `# ${archive.key}\n\n` + items.map((r) => transformBody(r.body)).join("\n");
       await writeFile(archive.file, content);
     }
   }
@@ -62,10 +63,10 @@ export class MonthlyArchive {
         .sort()
         .reverse()
         .forEach((m) => {
-          const name = m.replace(/\.md$/, '');
+          const name = m.replace(/\.md$/, "");
           links.push(`[${y}-${name}](./${DIR_ARCHIVE}/${y}/${m})`);
         });
     }
-    return links.join('\n');
+    return links.join("\n");
   }
 }

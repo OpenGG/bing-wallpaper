@@ -1,30 +1,29 @@
-import { describe, it, expect, vi } from 'vitest';
-import { vol } from 'memfs';
+import { describe, it, expect, vi } from "vitest";
+import { vol } from "memfs";
 
-vi.mock('fs-extra', () => ({
+vi.mock("fs-extra", () => ({
   ensureDir: async (p: string) => vol.promises.mkdir(p, { recursive: true }),
   readFile: vol.promises.readFile,
   writeFile: vol.promises.writeFile,
 }));
-vi.mock('node:fs/promises', () => vol.promises);
+vi.mock("node:fs/promises", () => vol.promises);
 
-import { saveWallpaper } from '../repositories/wallpaperRepository.js';
-import { buildIndexes } from './indexService.js';
+import { saveWallpaper } from "../repositories/wallpaperRepository.js";
+import { buildIndexes } from "./indexService.js";
 
 const meta = {
-  previewUrl: 'https://p/prev.jpg',
-  downloadUrl: 'https://p/dl.jpg',
-  bing: { startdate: '20250721', url: 'https://p/dl.jpg', title: 't', copyright: 'c' }
+  previewUrl: "https://p/prev.jpg",
+  downloadUrl: "https://p/dl.jpg",
+  bing: { startdate: "20250721", url: "https://p/dl.jpg", title: "t", copyright: "c" },
 };
 
-describe('indexService', () => {
-  it('writes index files', async () => {
-    await saveWallpaper(meta, '20250721');
+describe("indexService", () => {
+  it("writes index files", async () => {
+    await saveWallpaper(meta, "20250721");
     await buildIndexes();
-    const all = await vol.promises.readFile('wallpaper/all.txt', 'utf8');
-    expect(all).toContain('2025/07/21.md');
-    const monthAll = await vol.promises.readFile('wallpaper/2025/07/all.txt', 'utf8');
-    expect(monthAll).toContain('21.md');
+    const all = await vol.promises.readFile("wallpaper/all.txt", "utf8");
+    expect(all).toContain("2025/07/21.md");
+    const yearAll = await vol.promises.readFile("archive/2025/all.txt", "utf8");
+    expect(yearAll).toContain("2025/07/21.md");
   });
 });
-

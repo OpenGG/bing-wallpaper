@@ -2,12 +2,7 @@ import { describe, it, expect, beforeEach } from "vitest";
 import { mockFS, resetMockFs } from "../lib/testUtils.js";
 import { join } from "node:path";
 
-import {
-  saveWallpaper,
-  readWallpaper,
-  listWallpapers,
-  wallpaperPath,
-} from "./wallpaperRepository.js";
+import { saveWallpaper, readWallpaper, listWallpapers, wallpaperPath } from "./wallpaperRepository.js";
 
 mockFS();
 
@@ -20,8 +15,7 @@ const sampleMeta = {
     title: "Rainforests of the sea",
     startdate: "20250721",
     url: "https://example.com",
-    copyright:
-      "Staghorn coral off the island of Bonaire, Caribbean Netherlands (© blue-sea.cz/Shutterstock)",
+    copyright: "Staghorn coral off the island of Bonaire, Caribbean Netherlands (© blue-sea.cz/Shutterstock)",
   },
 };
 
