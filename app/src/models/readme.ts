@@ -23,7 +23,7 @@ export class ReadmeFile {
     const text = await this.read();
     const headerIndex = text.indexOf("# Latest wallpapers");
     const prefix = text.slice(0, headerIndex).trimEnd();
-    const body = `# Latest wallpapers\n\n${latest}\n\n# Archives\n\n${links}\n`;
+    const body = `# Latest wallpapers\n\n${latest.trim()}\n\n# Archives\n\n${links.trim()}\n`;
     await this.write(`${prefix}\n${body}`);
   }
 

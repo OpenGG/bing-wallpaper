@@ -73,6 +73,6 @@ export class MonthlyArchive {
           links.push(`[${y}-${name}](./${DIR_ARCHIVE}/${y}/${m})`);
         });
     }
-    return links.join("\n");
+    return links.join("\n\n");
   }
 }
