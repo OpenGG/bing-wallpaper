@@ -1,4 +1,4 @@
-import { join, relative } from 'node:path';
+import { join } from 'node:path';
 import matter from 'gray-matter';
 import { DIR_WALLPAPER } from '../lib/config.js';
 import type { WallpaperMeta, WallpaperRecord } from '../repositories/wallpaperRepository.js';
@@ -53,13 +53,6 @@ export class DailyMarkdown {
     return join(DIR_WALLPAPER, this.monthPath);
   }
 
-  /**
-   * Format the entry for all.txt or current.txt
-   */
-  indexLine(): string {
-    return `${relative(DIR_WALLPAPER, this.file)} ${this.meta.downloadUrl}`;
-  }
-
   async save(): Promise<string> {
     return saveWallpaper(this.meta, this.date);
   }
@@ -75,10 +68,4 @@ export class DailyMarkdown {
     return matter.stringify(body, this.meta);
   }
 
-  static parseIndexLine(line: string): { date: string; url: string; key: string } {
-    const [path, url] = line.split(' ').map((s) => s.trim());
-    const date = path.replace(/\.md$/, '');
-    const id = url.replace(/.*[?&]id=/, '').replace(/&.*$/, '');
-    return { date, url, key: `${date}/${id}` };
-  }
 }
