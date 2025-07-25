@@ -1,19 +1,16 @@
-import { join } from 'node:path';
+import { join } from "node:path";
 
-import { listWallpapers } from '../repositories/wallpaperRepository.js';
-import { DailyMarkdown } from '../models/dailyMarkdown.js';
-import {
-  WallpaperIndex,
-  format,
-  groupByMonth,
-} from '../models/wallpaperIndex.js';
+import { listWallpapers } from "../repositories/wallpaperRepository.js";
+import { DailyMarkdown } from "../models/dailyMarkdown.js";
+import { WallpaperIndex } from "../models/wallpaperIndex.js";
 import {
   DIR_WALLPAPER,
   ALL_TXT,
   CURRENT_TXT,
   PATH_ALL_TXT,
   PATH_CURRENT_TXT,
-} from '../lib/config.js';
+  DIR_ARCHIVE,
+} from "../lib/config.js";
 
 export async function buildIndexes() {
   const records = await listWallpapers(DIR_WALLPAPER);
@@ -22,11 +19,19 @@ export async function buildIndexes() {
   const globalIndex = new WallpaperIndex(PATH_ALL_TXT, PATH_CURRENT_TXT);
   await globalIndex.updateWallpapers(items);
 
-  const monthMap = groupByMonth(items);
-  for (const [, arr] of monthMap) {
-    const dir = arr[0].monthDir;
-    const index = new WallpaperIndex(join(dir, ALL_TXT), join(dir, CURRENT_TXT));
+  const yearMap = new Map<string, DailyMarkdown[]>();
+  for (const item of items) {
+    const { year } = item;
+    if (!yearMap.has(year)) {
+      yearMap.set(year, []);
+    }
+    yearMap.get(year)!.push(item);
+  }
+  for (const [year, arr] of yearMap) {
+    const index = new WallpaperIndex(
+      join(DIR_ARCHIVE, year, ALL_TXT),
+      join(DIR_ARCHIVE, year, CURRENT_TXT)
+    );
     await index.updateWallpapers(arr);
   }
 }
-

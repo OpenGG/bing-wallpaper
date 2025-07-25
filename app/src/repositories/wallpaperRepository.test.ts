@@ -1,4 +1,4 @@
-import { describe, it, expect } from "vitest";
+import { describe, it, expect, beforeEach } from "vitest";
 import { mockFS, resetMockFs } from "../lib/testUtils.js";
 import { join } from "node:path";
 
@@ -8,7 +8,6 @@ import {
   listWallpapers,
   wallpaperPath,
 } from "./wallpaperRepository.js";
-import { beforeEach } from "node:test";
 
 mockFS();
 

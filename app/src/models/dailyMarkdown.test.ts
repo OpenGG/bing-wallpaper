@@ -1,10 +1,8 @@
-import { describe, it, expect } from "vitest";
+import { describe, it, expect, beforeEach } from "vitest";
 import { mockFS, resetMockFs } from "../lib/testUtils.js";
 import { DailyMarkdown } from "./dailyMarkdown.js";
-import { parseIndexLine, indexLine } from "./wallpaperIndex.js";
 import type { WallpaperMeta } from "../repositories/wallpaperRepository.js";
 import { readFile } from "node:fs/promises";
-import { beforeEach } from "node:test";
 
 mockFS();
 
@@ -32,17 +30,8 @@ describe("DailyMarkdown", () => {
     expect(daily.monthPath).toBe("2025/07");
     expect(daily.monthDir).toBe("wallpaper/2025/07");
     expect(daily.file).toMatch("2025/07/21.md");
-    const line = indexLine(daily);
-    expect(line).toContain("2025/07/21.md");
-    expect(line).toContain(meta.downloadUrl);
     await daily.save();
     const saved = await readFile(daily.file, "utf8");
     expect(saved).toContain("Download 4k");
-  });
-
-  it("parses index lines", () => {
-    const res = parseIndexLine("2025/07/21.md https://x?id=foo");
-    expect(res.key).toBe("2025/07/21/foo");
-    expect(res.date).toBe("2025/07/21");
   });
 });
