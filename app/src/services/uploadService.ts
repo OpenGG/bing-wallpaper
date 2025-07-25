@@ -5,7 +5,7 @@ import {
   GetObjectCommand,
   PutObjectCommand,
 } from '@aws-sdk/client-s3';
-import { DailyMarkdown } from '../models/dailyMarkdown.js';
+import { parseIndexLine } from '../models/wallpaperIndex.js';
 
 export interface UploadOptions {
   bucket: string;
@@ -46,7 +46,7 @@ export async function uploadImages(options: UploadOptions) {
     .filter(Boolean);
   let latest = cursor;
   for (const line of lines) {
-    const { date, url, key } = DailyMarkdown.parseIndexLine(line);
+    const { date, url, key } = parseIndexLine(line);
     if (cursor && date <= cursor) continue;
     const res = await axios.get(url, { responseType: 'arraybuffer' });
     if (res.status !== 200 || !res.headers['content-type']?.startsWith('image/')) {

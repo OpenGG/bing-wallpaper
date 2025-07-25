@@ -3,6 +3,7 @@ import { readdir, writeFile } from 'node:fs/promises';
 import { ensureDir } from 'fs-extra';
 import { DIR_ARCHIVE } from '../lib/config.js';
 import { DailyMarkdown } from './dailyMarkdown.js';
+import { transformBody } from './readme.js';
 import type { WallpaperRecord } from '../repositories/wallpaperRepository.js';
 
 export class MonthlyArchive {
@@ -29,13 +30,6 @@ export class MonthlyArchive {
     return join(this.dir, `${this.month}.md`);
   }
 
-  static transformBody(body: string): string {
-    const lines = body.split(/\r?\n/);
-    const updated = lines
-      .map((l, i) => (i === 0 && l.startsWith('# ') ? `##${l.slice(1)}` : l))
-      .join('\n');
-    return updated + '\n';
-  }
 
   static group(records: WallpaperRecord[]): Map<string, WallpaperRecord[]> {
     const map = new Map<string, WallpaperRecord[]>();
@@ -53,7 +47,7 @@ export class MonthlyArchive {
       const archive = MonthlyArchive.fromKey(key);
       await ensureDir(archive.dir);
       const content = `# ${archive.key}\n\n` +
-        items.map((r) => MonthlyArchive.transformBody(r.body)).join('\n');
+        items.map((r) => transformBody(r.body)).join('\n');
       await writeFile(archive.file, content);
     }
   }

@@ -45,18 +45,8 @@ export interface WallpaperRecord {
 export async function readWallpaper(file: string): Promise<WallpaperRecord> {
   const text = await readFile(file, 'utf8');
   const parsed = matter(text);
-  const dateMatch = parsed.content.match(/Date:\s*(\d{4})-(\d{2})-(\d{2})/);
-  const date = dateMatch ? dateMatch[1] + dateMatch[2] + dateMatch[3] : '';
-  const meta = (parsed.data as unknown as WallpaperMeta) || {
-    previewUrl: parsed.content.match(/!\[[^\]]*\]\(([^)]+)\)/)?.[1] ?? '',
-    downloadUrl: parsed.content.match(/Download 4k: \[[^\]]+\]\(([^)]+)\)/)?.[1] ?? '',
-    bing: {
-      startdate: date,
-      url: parsed.content.match(/!\[[^\]]*\]\(([^)]+)\)/)?.[1] ?? '',
-      title: parsed.content.match(/^#\s*(.*)/m)?.[1] ?? '',
-      copyright: parsed.content.split('\n')[2]?.trim() ?? '',
-    },
-  };
+  const meta = parsed.data as WallpaperMeta;
+  const date = meta?.bing?.startdate ?? '';
   return { file, date, meta, body: parsed.content };
 }
 

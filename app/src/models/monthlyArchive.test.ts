@@ -7,6 +7,7 @@ import {
 } from "../repositories/wallpaperRepository.js";
 import { DailyMarkdown } from "./dailyMarkdown.js";
 import { MonthlyArchive } from "./monthlyArchive.js";
+import { transformBody } from "./readme.js";
 import { readFile } from "node:fs/promises";
 
 mockFS();
@@ -42,7 +43,7 @@ describe("MonthlyArchive", () => {
   });
 
   it("transforms body", () => {
-    const res = MonthlyArchive.transformBody("# Title\nfoo");
+    const res = transformBody("# Title\nfoo");
     expect(res.startsWith("## Title")).toBe(true);
   });
 });
