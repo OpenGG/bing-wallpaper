@@ -24,7 +24,7 @@ export async function buildIndexes() {
   for (const [year, arr] of yearMap) {
     const dir = join(DIR_ARCHIVE, year);
     await ensureDir(dir);
-    const index = new WallpaperIndex(join(dir, ALL_TXT), join(dir, CURRENT_TXT));
+    const index = new WallpaperIndex(join(DIR_WALLPAPER, year, ALL_TXT), join(DIR_WALLPAPER, year, CURRENT_TXT));
     await index.updateWallpapers(arr);
   }
 }
