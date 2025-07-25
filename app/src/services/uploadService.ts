@@ -33,7 +33,6 @@ async function writeCursor(client: S3Client, bucket: string, key: string, value:
   );
 }
 
-
 export async function uploadImages(options: UploadOptions) {
   const bucket = options.bucket;
   if (!bucket) throw new Error('bucket required');
