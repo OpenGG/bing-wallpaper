@@ -17,7 +17,7 @@ describe("uploadImages", () => {
   it("uploads new images and updates cursor", async () => {
     setupMockFs({ "wallpaper/all.txt": "2025/07/21.md https://img.jpg\n" });
     const axios = await import("axios");
-    (axios.default.get as any) = vi.fn(async () => ({
+    (axios.default.get as Mock) = vi.fn(async () => ({
       status: 200,
       data: sampleBuffer,
       headers: { "content-type": "image/jpeg" },

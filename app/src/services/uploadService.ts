@@ -13,8 +13,12 @@ export interface UploadOptions {
 async function readCursor(client: S3Client, bucket: string, key: string) {
   try {
     const res = await client.send(new GetObjectCommand({ Bucket: bucket, Key: key }));
-    const chunks: Buffer[] = [];
-    for await (const chunk of res.Body as any as AsyncIterable<Buffer>) {
+    const chunks: Uint8Array[] = [];
+    const body = res.Body as AsyncIterable<Uint8Array> | undefined;
+    if (!body) {
+      return "";
+    }
+    for await (const chunk of body) {
       chunks.push(chunk);
     }
     return Buffer.concat(chunks).toString("utf8").trim();

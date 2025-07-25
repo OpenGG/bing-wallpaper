@@ -6,7 +6,7 @@ import type { WallpaperRecord } from "../repositories/wallpaperRepository.js";
 export function transformBody(body: string): string {
   const lines = body.split(/\r?\n/);
   const updated = lines.map((l, i) => (i === 0 && l.startsWith("# ") ? `##${l.slice(1)}` : l)).join("\n");
-  return updated + "\n";
+  return `${updated}\n`;
 }
 
 export class ReadmeFile {

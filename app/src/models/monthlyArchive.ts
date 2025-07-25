@@ -37,8 +37,10 @@ export class MonthlyArchive {
     const map = new Map<string, WallpaperRecord[]>();
     for (const r of records) {
       const key = DailyMarkdown.fromRecord(r).monthKey;
-      if (!map.has(key)) map.set(key, []);
-      map.get(key)!.push(r);
+      if (!map.has(key)) {
+        map.set(key, []);
+      }
+      map.get(key)?.push(r);
     }
     return map;
   }
@@ -48,7 +50,7 @@ export class MonthlyArchive {
     for (const [key, items] of map) {
       const archive = MonthlyArchive.fromKey(key);
       await ensureDir(archive.dir);
-      const content = `# ${archive.key}\n\n` + items.map((r) => transformBody(r.body)).join("\n");
+      const content = `# ${archive.key}\n\n${items.map((r) => transformBody(r.body)).join("\n")}`;
       await writeFile(archive.file, content);
     }
   }
