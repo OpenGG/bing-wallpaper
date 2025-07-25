@@ -1,0 +1,31 @@
+{
+  "name": "bing-wallpaper-app",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "lint": "biome check src --apply",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "coverage": "vitest run --coverage",
+    "cli": "tsx ./src/cli.ts"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.850.0",
+    "axios": "^1.11.0",
+    "commander": "^14.0.0",
+    "fs-extra": "^11.3.0",
+    "gray-matter": "^4.0.3"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^24.1.0",
+    "@vitest/coverage-v8": "3.2.4",
+    "biome": "^0.3.3",
+    "fs-monkey": "^1.1.0",
+    "memfs": "^4.17.2",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3",
+    "vitest": "^3.2.4"
+  }
+}
