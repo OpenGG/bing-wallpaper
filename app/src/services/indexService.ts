@@ -1,7 +1,8 @@
 import { join } from 'node:path';
 import { writeFile } from 'node:fs/promises';
 
-import { listWallpapers, type WallpaperRecord } from '../repositories/wallpaperRepository.js';
+import { listWallpapers } from '../repositories/wallpaperRepository.js';
+import { DailyMarkdown } from '../models/dailyMarkdown.js';
 import {
   DIR_WALLPAPER,
   ALL_TXT,
@@ -10,24 +11,14 @@ import {
   PATH_CURRENT_TXT,
 } from '../lib/config.js';
 
-interface IndexItem {
-  path: string;
-  url: string;
+function format(items: DailyMarkdown[]): string {
+  return items.map((d) => d.indexLine()).join('\n') + '\n';
 }
 
-function format(items: IndexItem[]): string {
-  return items.map((i) => `${i.path} ${i.url}`).join('\n') + '\n';
-}
-
-function toItem(rec: WallpaperRecord): IndexItem {
-  return { path: rec.file, url: rec.meta.downloadUrl };
-}
-
-function groupByMonth(items: IndexItem[]): Map<string, IndexItem[]> {
-  const map = new Map<string, IndexItem[]>();
+function groupByMonth(items: DailyMarkdown[]): Map<string, DailyMarkdown[]> {
+  const map = new Map<string, DailyMarkdown[]>();
   for (const it of items) {
-    const [year, month] = it.path.split('/');
-    const key = join(year, month);
+    const key = it.monthPath;
     if (!map.has(key)) map.set(key, []);
     map.get(key)!.push(it);
   }
@@ -36,7 +27,7 @@ function groupByMonth(items: IndexItem[]): Map<string, IndexItem[]> {
 
 export async function buildIndexes() {
   const records = await listWallpapers(DIR_WALLPAPER);
-  const items = records.map(toItem);
+  const items = records.map((rec) => DailyMarkdown.fromRecord(rec));
 
   await writeFile(PATH_ALL_TXT, format(items));
   if (items[0]) {
@@ -44,8 +35,8 @@ export async function buildIndexes() {
   }
 
   const monthMap = groupByMonth(items);
-  for (const [key, arr] of monthMap) {
-    const dir = join(DIR_WALLPAPER, key);
+  for (const [, arr] of monthMap) {
+    const dir = arr[0].monthDir;
     await writeFile(join(dir, ALL_TXT), format(arr));
     await writeFile(join(dir, CURRENT_TXT), format([arr[0]]));
   }

@@ -5,6 +5,7 @@ import {
   GetObjectCommand,
   PutObjectCommand,
 } from '@aws-sdk/client-s3';
+import { DailyMarkdown } from '../models/dailyMarkdown.js';
 
 export interface UploadOptions {
   bucket: string;
@@ -32,14 +33,6 @@ async function writeCursor(client: S3Client, bucket: string, key: string, value:
   );
 }
 
-function parseLine(line: string) {
-  const [path, url] = line.split(' ').map((s) => s.trim());
-  const date = path.replace(/\.md$/, '');
-  const id = url.replace(/.*[?&]id=/, '').replace(/&.*$/, '');
-  const key = `${date}/${id}`;
-  return { date, url, key };
-}
-
 export async function uploadImages(options: UploadOptions) {
   const bucket = options.bucket;
   if (!bucket) throw new Error('bucket required');
@@ -53,7 +46,7 @@ export async function uploadImages(options: UploadOptions) {
     .filter(Boolean);
   let latest = cursor;
   for (const line of lines) {
-    const { date, url, key } = parseLine(line);
+    const { date, url, key } = DailyMarkdown.parseIndexLine(line);
     if (cursor && date <= cursor) continue;
     const res = await axios.get(url, { responseType: 'arraybuffer' });
     if (res.status !== 200 || !res.headers['content-type']?.startsWith('image/')) {
