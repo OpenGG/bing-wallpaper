@@ -1,9 +1,9 @@
 import { describe, it, expect, beforeEach } from "vitest";
-import { mockFS, resetMockFs, setupMockFs } from "../lib/testUtils.js";
+import { mockFs, resetMockFs, setupMockFs } from "../lib/testUtils.js";
 import { ReadmeFile } from "./readme.js";
 import { readFile } from "node:fs/promises";
 
-mockFS();
+mockFs();
 
 describe("ReadmeFile", () => {
   beforeEach(() => {

@@ -1,10 +1,10 @@
 import { describe, it, expect, beforeEach } from "vitest";
 import { vol } from "memfs";
-import { mockFS, resetMockFs } from "../lib/testUtils.js";
+import { mockFs, resetMockFs } from "../lib/testUtils.js";
 import { WallpaperIndex } from "./wallpaperIndex.js";
 import { DailyMarkdown } from "./dailyMarkdown.js";
 
-mockFS();
+mockFs();
 
 const meta = {
   previewUrl: "https://p/prev.jpg",

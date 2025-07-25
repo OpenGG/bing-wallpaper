@@ -1,5 +1,5 @@
 import { describe, it, expect, vi, type Mock } from "vitest";
-import { mockFS, setupMockFs } from "../lib/testUtils.js";
+import { mockFs, setupMockFs } from "../lib/testUtils.js";
 import { uploadImages } from "./uploadService.js";
 import * as s3Module from "@aws-sdk/client-s3";
 
@@ -7,7 +7,7 @@ const s3 = s3Module as unknown as {
   __sendMock: Mock;
 };
 
-mockFS();
+mockFs();
 
 vi.mock("@aws-sdk/client-s3");
 

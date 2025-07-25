@@ -1,10 +1,10 @@
 import { describe, it, expect, vi, beforeEach } from "vitest";
-import { mockFS, resetMockFs } from "../lib/testUtils.js";
+import { mockFs, resetMockFs } from "../lib/testUtils.js";
 import { wallpaperPath } from "../repositories/wallpaperRepository.js";
 import { updateWallpapers, migrateWallpapers } from "./wallpaperService.js";
 import { readFile } from "node:fs/promises";
 
-mockFS();
+mockFs();
 
 const sampleImage = {
   startdate: "20250721",
@@ -22,16 +22,16 @@ describe("wallpaperService", () => {
     resetMockFs();
   });
   it("saves images from update", async () => {
+    const path = wallpaperPath("20250721");
     await updateWallpapers();
-    const file = wallpaperPath("20250721");
-    const text = await readFile(file, "utf8");
+    const text = await readFile(path, "utf8");
     expect(text).toContain("Download 4k");
   });
 
   it("saves images from migrate plugin", async () => {
     await migrateWallpapers("./src/fixtures/testPlugin.mjs", "src");
-    const file = wallpaperPath("20250722");
-    const text = await readFile(file, "utf8");
+    const path = wallpaperPath("20250722");
+    const text = await readFile(path, "utf8");
     expect(text).toContain("Download 4k");
   });
 });

@@ -1,10 +1,9 @@
 import { describe, it, expect, beforeEach } from "vitest";
-import { mockFS, resetMockFs } from "../lib/testUtils.js";
-import { DailyMarkdown } from "./dailyMarkdown.js";
-import type { WallpaperMeta } from "../repositories/wallpaperRepository.js";
+import { mockFs, resetMockFs } from "../lib/testUtils.js";
+import { DailyMarkdown, type WallpaperMeta } from "./dailyMarkdown.js";
 import { readFile } from "node:fs/promises";
 
-mockFS();
+mockFs();
 
 const meta: WallpaperMeta = {
   previewUrl: "https://p/prev.jpg",
@@ -29,9 +28,9 @@ describe("DailyMarkdown", () => {
     expect(daily.monthKey).toBe("2025-07");
     expect(daily.monthPath).toBe("2025/07");
     expect(daily.monthDir).toBe("wallpaper/2025/07");
-    expect(daily.file).toMatch("2025/07/21.md");
+    expect(daily.path).toMatch("2025/07/21.md");
     await daily.save();
-    const saved = await readFile(daily.file, "utf8");
+    const saved = await readFile(daily.path, "utf8");
     expect(saved).toContain("Download 4k");
   });
 });

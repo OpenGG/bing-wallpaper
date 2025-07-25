@@ -1,12 +1,12 @@
 import { describe, it, expect, afterEach, beforeEach } from "vitest";
 
-import { mockFS, realReadFile, resetMockFs, setupMockFs } from "../lib/testUtils.js";
+import { mockFs, realReadFile, resetMockFs, setupMockFs } from "../lib/testUtils.js";
 
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import plugin from "./wallpaperFolder.js";
 
-mockFS();
+mockFs();
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const fixture = join(__dirname, "../fixtures/wallpaper/2025/07/10.md");

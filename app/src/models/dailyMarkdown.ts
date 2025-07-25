@@ -1,8 +1,16 @@
-import { join } from "node:path";
+import { join, dirname } from "node:path";
 import matter from "gray-matter";
+import { ensureDir } from "fs-extra";
+import { readFile, writeFile } from "node:fs/promises";
 import { DIR_WALLPAPER } from "../lib/config.js";
-import type { WallpaperMeta, WallpaperRecord } from "../repositories/wallpaperRepository.js";
-import { wallpaperPath, saveWallpaper, readWallpaper } from "../repositories/wallpaperRepository.js";
+import type { BingImage } from "../lib/bing.js";
+import { wallpaperPath } from "../repositories/wallpaperRepository.js";
+
+export interface WallpaperMeta {
+  previewUrl: string;
+  downloadUrl: string;
+  bing: BingImage;
+}
 
 export class DailyMarkdown {
   constructor(
@@ -10,13 +18,12 @@ export class DailyMarkdown {
     public meta: WallpaperMeta,
   ) {}
 
-  static fromRecord(rec: WallpaperRecord): DailyMarkdown {
-    return new DailyMarkdown(rec.date, rec.meta);
-  }
-
-  static async fromFile(file: string): Promise<DailyMarkdown> {
-    const rec = await readWallpaper(file);
-    return new DailyMarkdown(rec.date, rec.meta);
+  static async fromPath(path: string): Promise<DailyMarkdown> {
+    const text = await readFile(path, "utf8");
+    const parsed = matter(text);
+    const meta = parsed.data as WallpaperMeta;
+    const date = meta?.bing?.startdate ?? "";
+    return new DailyMarkdown(date, meta);
   }
 
   get year(): string {
@@ -45,7 +52,7 @@ export class DailyMarkdown {
     return this.date.slice(6);
   }
 
-  get file(): string {
+  get path(): string {
     return wallpaperPath(this.date);
   }
 
@@ -56,8 +63,9 @@ export class DailyMarkdown {
     return join(DIR_WALLPAPER, this.monthPath);
   }
 
-  async save(): Promise<string> {
-    return saveWallpaper(this.meta, this.date);
+  async save(): Promise<void> {
+    await ensureDir(dirname(this.path));
+    return writeFile(this.path, this.content(), "utf8");
   }
 
   /**

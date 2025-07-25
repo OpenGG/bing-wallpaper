@@ -8,7 +8,7 @@ import { DIR_WALLPAPER, ALL_TXT, CURRENT_TXT, PATH_ALL_TXT, PATH_CURRENT_TXT, DI
 
 export async function buildIndexes() {
   const records = await listWallpapers(DIR_WALLPAPER);
-  const items = records.map((rec) => DailyMarkdown.fromRecord(rec));
+  const items = await Promise.all(records.map((rec) => DailyMarkdown.fromPath(rec.path)));
 
   const globalIndex = new WallpaperIndex(PATH_ALL_TXT, PATH_CURRENT_TXT);
   await globalIndex.updateWallpapers(items);

@@ -1,10 +1,10 @@
 import { describe, it, expect } from "vitest";
-import { mockFS, setupMockFs } from "../lib/testUtils.js";
-
-import { saveWallpaper } from "../repositories/wallpaperRepository.js";
+import { mockFs, setupMockFs } from "../lib/testUtils.js";
+import { DailyMarkdown } from "../models/dailyMarkdown.js";
 import { buildArchive } from "./archiveService.js";
 import { readFile } from "node:fs/promises";
-mockFS();
+
+mockFs();
 
 const meta = {
   previewUrl: "https://p/prev.jpg",
@@ -22,7 +22,8 @@ describe("archiveService", () => {
     setupMockFs({
       "README.md": "# Latest wallpapers\n\nold",
     });
-    await saveWallpaper(meta, "20250721");
+    const md = new DailyMarkdown("20250721", meta);
+    await md.save();
     await buildArchive();
     const updated = await readFile("README.md", "utf8");
     expect(updated).toContain("Title-random");

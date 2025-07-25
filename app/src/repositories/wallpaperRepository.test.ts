@@ -1,10 +1,11 @@
 import { describe, it, expect, beforeEach } from "vitest";
-import { mockFS, resetMockFs } from "../lib/testUtils.js";
+import { mockFs, setupMockFs, resetMockFs } from "../lib/testUtils.js";
+import { DailyMarkdown } from "../models/dailyMarkdown.js";
 import { join } from "node:path";
 
-import { saveWallpaper, readWallpaper, listWallpapers, wallpaperPath } from "./wallpaperRepository.js";
+import { listWallpapers, wallpaperPath } from "./wallpaperRepository.js";
 
-mockFS();
+mockFs();
 
 const sampleMeta = {
   previewUrl:
@@ -25,12 +26,16 @@ describe("wallpaper repository", () => {
   });
 
   it("writes and reads markdown with front matter", async () => {
-    const file = await saveWallpaper(sampleMeta, "20250721");
-    const rec = await readWallpaper(file);
+    const md = new DailyMarkdown("20250721", sampleMeta);
+    await md.save();
+    const rec = await DailyMarkdown.fromPath(md.path);
     expect(rec.meta.previewUrl).toBe(sampleMeta.previewUrl);
     expect(rec.meta.bing.title).toBe("Rainforests of the sea");
+    setupMockFs({
+      "2025/07/21.md": "",
+    });
     const list = await listWallpapers("wallpaper");
-    expect(list[0].file).toBe(join("2025", "07", "21.md"));
-    expect(wallpaperPath("20250721")).toBe(file);
+    expect(list[0].relPath).toBe(join("2025", "07", "21.md"));
+    expect(wallpaperPath("20250721")).toBe(md.path);
   });
 });

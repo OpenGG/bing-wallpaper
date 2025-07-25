@@ -1,15 +1,10 @@
-import { describe, it, expect, vi } from "vitest";
-import { vol } from "memfs";
-
-vi.mock("fs-extra", () => ({
-  ensureDir: async (p: string) => vol.promises.mkdir(p, { recursive: true }),
-  readFile: vol.promises.readFile,
-  writeFile: vol.promises.writeFile,
-}));
-vi.mock("node:fs/promises", () => vol.promises);
-
-import { saveWallpaper } from "../repositories/wallpaperRepository.js";
+import { describe, it, expect } from "vitest";
+import { mockFs } from "../lib/testUtils.js";
 import { buildIndexes } from "./indexService.js";
+import { readFile } from "node:fs/promises";
+import { DailyMarkdown } from "../models/dailyMarkdown.js";
+
+mockFs();
 
 const meta = {
   previewUrl: "https://p/prev.jpg",
@@ -19,11 +14,12 @@ const meta = {
 
 describe("indexService", () => {
   it("writes index files", async () => {
-    await saveWallpaper(meta, "20250721");
+    const md = new DailyMarkdown("20250721", meta);
+    await md.save();
     await buildIndexes();
-    const all = await vol.promises.readFile("wallpaper/all.txt", "utf8");
+    const all = await readFile("wallpaper/all.txt", "utf8");
     expect(all).toContain("2025/07/21.md");
-    const yearAll = await vol.promises.readFile("archive/2025/all.txt", "utf8");
+    const yearAll = await readFile("archive/2025/all.txt", "utf8");
     expect(yearAll).toContain("2025/07/21.md");
   });
 });

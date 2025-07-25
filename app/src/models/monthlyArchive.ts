@@ -3,8 +3,11 @@ import { readdir, writeFile } from "node:fs/promises";
 import { ensureDir } from "fs-extra";
 import { DIR_ARCHIVE } from "../lib/config.js";
 import { DailyMarkdown } from "./dailyMarkdown.js";
-import { transformBody } from "./readme.js";
 import type { WallpaperRecord } from "../repositories/wallpaperRepository.js";
+
+function transformBody(body: string): string {
+  return `${body.replace(/^# /, "## ")}\n`;
+}
 
 export class MonthlyArchive {
   constructor(
@@ -36,7 +39,7 @@ export class MonthlyArchive {
   static group(records: WallpaperRecord[]): Map<string, WallpaperRecord[]> {
     const map = new Map<string, WallpaperRecord[]>();
     for (const r of records) {
-      const key = DailyMarkdown.fromRecord(r).monthKey;
+      const key = `${r.year}-${r.month}`;
       if (!map.has(key)) {
         map.set(key, []);
       }
@@ -50,7 +53,8 @@ export class MonthlyArchive {
     for (const [key, items] of map) {
       const archive = MonthlyArchive.fromKey(key);
       await ensureDir(archive.dir);
-      const content = `# ${archive.key}\n\n${items.map((r) => transformBody(r.body)).join("\n")}`;
+      const files = await Promise.all(items.map((item) => DailyMarkdown.fromPath(item.path)));
+      const content = `# ${archive.key}\n\n${files.map((r: DailyMarkdown) => transformBody(r.content())).join("\n")}`;
       await writeFile(archive.file, content);
     }
   }

@@ -1,7 +1,7 @@
-import { existsSync } from "node:fs";
 import { pathToFileURL } from "node:url";
 import { fetchBingImages, type BingImage } from "../lib/bing.js";
 import { processImageUrl } from "../lib/url.js";
+import { checkFileExists } from "../lib/checkFileExists.js";
 import { DailyMarkdown } from "../models/dailyMarkdown.js";
 
 export interface SaveOptions {
@@ -16,7 +16,9 @@ export async function saveImages(images: BingImage[], opts: SaveOptions = {}) {
       downloadUrl,
       bing: img,
     });
-    if (!opts.force && existsSync(daily.file)) continue;
+    if (!opts.force && (await checkFileExists(daily.path))) {
+      continue;
+    }
     await daily.save();
   }
 }

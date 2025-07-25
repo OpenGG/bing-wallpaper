@@ -17,7 +17,7 @@ function parseIndexLine(line: string): IndexEntry {
 }
 
 function indexLine(daily: DailyMarkdown): string {
-  return `${relative(DIR_WALLPAPER, daily.file)} ${daily.meta.downloadUrl}`;
+  return `${relative(DIR_WALLPAPER, daily.path)} ${daily.meta.downloadUrl}`;
 }
 
 function format(items: DailyMarkdown[]): string {
