@@ -4,6 +4,7 @@ import { updateCommand } from './commands/update.js';
 import { migrateCommand } from './commands/migrate.js';
 import { buildIndexCommand } from './commands/buildIndex.js';
 import { buildArchiveCommand } from './commands/buildArchive.js';
+import { uploadCommand } from './commands/upload.js';
 
 const program = new Command();
 
@@ -45,6 +46,15 @@ program
   .description('generate README and archives')
   .action(async () => {
     await buildArchiveCommand();
+  });
+
+program
+  .command('upload')
+  .description('upload images to S3')
+  .option('--bucket <name>', 'bucket name')
+  .option('--cursor <key>', 'cursor key', 'cursor.txt')
+  .action(async (opts) => {
+    await uploadCommand({ bucket: opts.bucket, cursor: opts.cursor });
   });
 
 program.parseAsync(process.argv);

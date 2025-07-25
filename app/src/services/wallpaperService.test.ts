@@ -8,6 +8,7 @@ vi.mock('fs-extra', () => ({
   readFile: vol.promises.readFile,
   writeFile: vol.promises.writeFile,
 }));
+vi.mock('node:fs/promises', () => vol.promises);
 
 vi.mock('../lib/bing.js', () => ({
   fetchBingImages: vi.fn(() => Promise.resolve([sampleImage]))
@@ -32,10 +33,10 @@ describe('wallpaperService', () => {
   });
 
   it('saves images from migrate plugin', async () => {
-    const fs = await import('fs/promises');
-    const dir = await fs.mkdtemp('/tmp-plugin-');
+    const fs = await import('fs');
+    const dir = await fs.promises.mkdtemp('/tmp-plugin-');
     const pluginPath = `${dir}/p.mjs`;
-    await fs.writeFile(pluginPath, 'export default async () => [' + JSON.stringify(sampleImage) + '];');
+    await fs.promises.writeFile(pluginPath, 'export default async () => [' + JSON.stringify(sampleImage) + '];');
     await migrateWallpapers(pluginPath, 'src');
     const file = wallpaperPath('20250721');
     const text = await vol.promises.readFile(file, 'utf8');
