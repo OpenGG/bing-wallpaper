@@ -19,7 +19,7 @@ export async function buildIndexes() {
     if (!yearMap.has(year)) {
       yearMap.set(year, []);
     }
-    yearMap.get(year)!.push(item);
+    yearMap.get(year)?.push(item);
   }
   for (const [year, arr] of yearMap) {
     const dir = join(DIR_ARCHIVE, year);

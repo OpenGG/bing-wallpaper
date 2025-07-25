@@ -8,12 +8,13 @@ export default async function archiveMonth(file: string): Promise<BingImage[]> {
   const images: BingImage[] = [];
   for (;;) {
     const m = regex.exec(text);
-    if (!m) break;
+    if (!m || !m.groups) break;
+    const groups = m.groups;
     images.push({
-      startdate: m.groups!.date.replace(/-/g, ""),
-      url: m.groups!.url,
-      title: m.groups!.title,
-      copyright: m.groups!.copy,
+      startdate: groups.date.replace(/-/g, ""),
+      url: groups.url,
+      title: groups.title,
+      copyright: groups.copy,
     });
   }
   return images;

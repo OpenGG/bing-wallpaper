@@ -15,11 +15,11 @@ export function processImageUrl(input: string): ProcessedUrl {
   let downloadUrl = u.toString();
   if (u.pathname === "/th") {
     const id = u.searchParams.get("id");
-    if (id && id.includes("1920x1080")) {
+    if (id?.includes("1920x1080")) {
       u.searchParams.set("id", id.replace("1920x1080", "UHD"));
     }
     const rf = u.searchParams.get("rf");
-    if (rf && rf.includes("1920x1080")) {
+    if (rf?.includes("1920x1080")) {
       u.searchParams.set("rf", rf.replace("1920x1080", "UHD"));
     }
     u.searchParams.set("w", "3840");

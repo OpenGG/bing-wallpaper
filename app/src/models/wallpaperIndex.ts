@@ -21,7 +21,7 @@ function indexLine(daily: DailyMarkdown): string {
 }
 
 function format(items: DailyMarkdown[]): string {
-  return items.map((d) => indexLine(d)).join("\n") + "\n";
+  return `${items.map((d) => indexLine(d)).join("\n")}\n`;
 }
 
 export class WallpaperIndex {

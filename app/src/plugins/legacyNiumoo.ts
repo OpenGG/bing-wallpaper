@@ -15,7 +15,13 @@ export default async function legacyNiumoo(source: string): Promise<BingImage[]>
   for (;;) {
     const match = regex.exec(text);
     if (!match || !match.groups) break;
-    const { year, month, date, desc, img } = match.groups as any;
+    const { year, month, date, desc, img } = match.groups as {
+      year: string;
+      month: string;
+      date: string;
+      desc: string;
+      img: string;
+    };
     images.push({
       startdate: `${year}${month}${date}`,
       url: img,

@@ -1,3 +1,3 @@
 declare module "fs-monkey" {
-  export function patchFs(vol: any, fs?: any): () => void;
+  export function patchFs(vol: unknown, fs?: unknown): () => void;
 }
