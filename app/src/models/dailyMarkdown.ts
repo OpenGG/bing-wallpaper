@@ -32,7 +32,7 @@ const parseLegacy = (content: string): { data: WallpaperMeta } => {
     bing: {
       copyright,
       startdate: date,
-      title: copyright,
+      title,
       url: "",
     },
   };
