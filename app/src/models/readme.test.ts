@@ -1,17 +1,22 @@
-import { describe, it, expect, vi } from 'vitest';
-import { vol } from 'memfs';
+import { describe, it, expect, beforeEach } from "vitest";
+import { mockFS, resetMockFs, setupMockFs } from "../lib/testUtils.js";
+import { ReadmeFile } from "./readme.js";
+import { readFile } from "node:fs/promises";
 
-vi.mock('node:fs/promises', () => vol.promises);
+mockFS();
 
-import { ReadmeFile } from './readme.js';
-
-describe('ReadmeFile', () => {
-  it('updates latest section', async () => {
-    vol.fromJSON({ 'README.md': '# Intro\n\n# Latest wallpapers\n\nold\n\n# Archives\n\nold' });
-    const r = new ReadmeFile('README.md');
-    await r.updateLatestSection('latest', 'links');
-    const text = await vol.promises.readFile('README.md', 'utf8');
-    expect(text).toContain('latest');
-    expect(text).toContain('links');
+describe("ReadmeFile", () => {
+  beforeEach(() => {
+    resetMockFs();
+  });
+  it("updates latest section", async () => {
+    setupMockFs({
+      "README.md": "# Intro\n\n# Latest wallpapers\n\nold\n\n# Archives\n\nold",
+    });
+    const r = new ReadmeFile("README.md");
+    await r.updateLatestSection("latest", "links");
+    const text = await readFile("README.md", "utf8");
+    expect(text).toContain("latest");
+    expect(text).toContain("links");
   });
 });

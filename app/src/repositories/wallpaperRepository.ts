@@ -1,6 +1,6 @@
 import { join, relative } from 'node:path';
 import { ensureDir } from 'fs-extra';
-import { readFile, writeFile } from 'node:fs/promises';
+import { readFile, writeFile, readdir } from 'node:fs/promises';
 import matter from 'gray-matter';
 
 import type { BingImage } from '../lib/bing.js';
@@ -61,16 +61,16 @@ export async function readWallpaper(file: string): Promise<WallpaperRecord> {
 }
 
 export async function listWallpapers(root: string): Promise<WallpaperRecord[]> {
-  const years = await (await import('fs/promises')).readdir(root, { withFileTypes: true });
+  const years = await readdir(root, { withFileTypes: true });
   const records: WallpaperRecord[] = [];
   for (const y of years) {
     if (!y.isDirectory()) continue;
     const yearDir = join(root, y.name);
-    const months = await (await import('fs/promises')).readdir(yearDir, { withFileTypes: true });
+    const months = await readdir(yearDir, { withFileTypes: true });
     for (const m of months) {
       if (!m.isDirectory()) continue;
       const monthDir = join(yearDir, m.name);
-      const days = await (await import('fs/promises')).readdir(monthDir);
+      const days = await readdir(monthDir);
       for (const d of days) {
         if (!d.endsWith('.md')) continue;
         const file = join(monthDir, d);

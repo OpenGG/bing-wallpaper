@@ -75,7 +75,6 @@ export class DailyMarkdown {
     return matter.stringify(body, this.meta);
   }
 
-
   static parseIndexLine(line: string): { date: string; url: string; key: string } {
     const [path, url] = line.split(' ').map((s) => s.trim());
     const date = path.replace(/\.md$/, '');
