@@ -1,6 +1,6 @@
-import { readdir, readFile } from 'node:fs/promises';
-import { join } from 'node:path';
-import { BingImage } from '../lib/bing.js';
+import { readdir, readFile } from "node:fs/promises";
+import { join } from "node:path";
+import type { BingImage } from "../lib/bing.js";
 
 export default async function wallpaperFolder(root: string): Promise<BingImage[]> {
   const result: BingImage[] = [];
@@ -13,17 +13,17 @@ export default async function wallpaperFolder(root: string): Promise<BingImage[]
         const dir = join(yearDir, month);
         const days = await readdir(dir);
         for (const file of days) {
-          if (!file.endsWith('.md')) continue;
-          const content = await readFile(join(dir, file), 'utf8');
+          if (!file.endsWith(".md")) continue;
+          const content = await readFile(join(dir, file), "utf8");
           const titleMatch = content.match(/^#\s*(.*)/m);
           const imageMatch = content.match(/!\[[^\]]*\]\(([^)]+)\)/);
-          const copyrightMatch = content.split('\n')[2]?.trim();
-          const day = file.replace(/\.md$/, '');
+          const copyrightMatch = content.split("\n")[2]?.trim();
+          const day = file.replace(/\.md$/, "");
           result.push({
             startdate: `${year}${month}${day}`,
-            url: imageMatch ? imageMatch[1] : '',
-            title: titleMatch ? titleMatch[1] : '',
-            copyright: copyrightMatch ?? '',
+            url: imageMatch ? imageMatch[1] : "",
+            title: titleMatch ? titleMatch[1] : "",
+            copyright: copyrightMatch ?? "",
           });
         }
       }

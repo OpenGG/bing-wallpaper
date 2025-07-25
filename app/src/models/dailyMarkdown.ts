@@ -1,11 +1,14 @@
-import { join } from 'node:path';
-import matter from 'gray-matter';
-import { DIR_WALLPAPER } from '../lib/config.js';
-import type { WallpaperMeta, WallpaperRecord } from '../repositories/wallpaperRepository.js';
-import { wallpaperPath, saveWallpaper, readWallpaper } from '../repositories/wallpaperRepository.js';
+import { join } from "node:path";
+import matter from "gray-matter";
+import { DIR_WALLPAPER } from "../lib/config.js";
+import type { WallpaperMeta, WallpaperRecord } from "../repositories/wallpaperRepository.js";
+import { wallpaperPath, saveWallpaper, readWallpaper } from "../repositories/wallpaperRepository.js";
 
 export class DailyMarkdown {
-  constructor(public date: string, public meta: WallpaperMeta) {}
+  constructor(
+    public date: string,
+    public meta: WallpaperMeta,
+  ) {}
 
   static fromRecord(rec: WallpaperRecord): DailyMarkdown {
     return new DailyMarkdown(rec.date, rec.meta);
@@ -61,11 +64,11 @@ export class DailyMarkdown {
    * Generate markdown content including front matter
    */
   content(): string {
-    const body = `# ${this.meta.bing.title}\n\n${this.meta.bing.copyright ?? ''}\n\n` +
+    const body =
+      `# ${this.meta.bing.title}\n\n${this.meta.bing.copyright ?? ""}\n\n` +
       `![${this.meta.bing.title}](${this.meta.previewUrl})\n\n` +
       `Date: ${this.year}-${this.month}-${this.day}\n\n` +
       `Download 4k: [${this.meta.bing.title}](${this.meta.downloadUrl})\n`;
     return matter.stringify(body, this.meta);
   }
-
 }

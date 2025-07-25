@@ -31,7 +31,7 @@ export const setupMockFs = (fixtures: Record<string, string>) => {
 
 export const realReadFile = async <T extends "utf8" | undefined>(
   path: string,
-  encoding?: T
+  encoding?: T,
 ): Promise<T extends "utf8" ? string : Buffer<ArrayBufferLike>> => {
   const realFs = await vi.importActual<typeof fs>("node:fs/promises");
   const content = await realFs.readFile(path, encoding);

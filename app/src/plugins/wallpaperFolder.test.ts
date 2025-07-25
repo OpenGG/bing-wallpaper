@@ -1,11 +1,6 @@
 import { describe, it, expect, afterEach, beforeEach } from "vitest";
 
-import {
-  mockFS,
-  realReadFile,
-  resetMockFs,
-  setupMockFs,
-} from "../lib/testUtils.js";
+import { mockFS, realReadFile, resetMockFs, setupMockFs } from "../lib/testUtils.js";
 
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";

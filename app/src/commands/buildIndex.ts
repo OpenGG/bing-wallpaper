@@ -1,6 +1,5 @@
-import { buildIndexes } from '../services/indexService.js';
+import { buildIndexes } from "../services/indexService.js";
 
 export async function buildIndexCommand() {
   await buildIndexes();
 }
-

@@ -30,7 +30,7 @@ describe("wallpaperService", () => {
 
   it("saves images from migrate plugin", async () => {
     await migrateWallpapers("./src/fixtures/testPlugin.mjs", "src");
-    const file = wallpaperPath("20250721");
+    const file = wallpaperPath("20250722");
     const text = await readFile(file, "utf8");
     expect(text).toContain("Download 4k");
   });
