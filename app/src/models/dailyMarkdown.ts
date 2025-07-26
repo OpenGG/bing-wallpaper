@@ -17,8 +17,8 @@ const parseLegacy = (content: string): { data: WallpaperMeta } => {
     .split("\n")
     .map((s) => s.trim())
     .filter((s) => s);
-  const title = lines[0].slice(1);
-  const copyright = lines[1];
+  const title = lines[0].slice(1).trim();
+  const copyright = lines[1].trim();
   const previewUrl = lines[2].match(/!\[.*?\]\((\S*?)\)/)?.[1];
   const date = lines[3].match(/\d{4}-\d{2}-\d{2}/)?.[0]?.replace(/-/g, "");
   const downloadUrl = lines[4].match(/4k:\s*\[.*?\]\((\S*?)\)/)?.[1];
