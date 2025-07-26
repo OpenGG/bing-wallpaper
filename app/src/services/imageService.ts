@@ -28,3 +28,32 @@ export async function ensureImageValid(buf: Buffer): Promise<void> {
     proc.stdin.end();
   });
 }
+
+export async function fetchBingImage(url: string) {
+  const res = await fetch(url, {
+    headers: {
+      accept: "image/avif,image/webp,image/apng,image/svg+xml,image/*",
+      "accept-language": "en",
+      "cache-control": "no-cache",
+      pragma: "no-cache",
+      Referer: "https://bing.com/",
+    },
+    body: null,
+    method: "GET",
+  });
+  if (!res.ok) {
+    throw new Error(`response status not ok: status=${res.status} url=${url}`);
+  }
+
+  const contentType = res.headers.get("content-type") || "";
+  if (!contentType.startsWith("image/")) {
+    throw new Error(`response content type not valid: content-type=${contentType} url=${url}`);
+  }
+
+  const data = await res.arrayBuffer();
+
+  const buffer = Buffer.from(data);
+  await ensureImageValid(buffer);
+
+  return buffer;
+}
