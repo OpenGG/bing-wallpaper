@@ -1,6 +1,5 @@
-import { relative } from "node:path";
+import { relative, dirname } from "node:path";
 import { writeFile } from "node:fs/promises";
-import { DIR_WALLPAPER } from "../lib/config.js";
 import type { DailyMarkdown } from "./dailyMarkdown.js";
 
 export interface IndexEntry {
@@ -16,26 +15,30 @@ function parseIndexLine(line: string): IndexEntry {
   return { date, url, key: `${date}/${id}` };
 }
 
-function indexLine(daily: DailyMarkdown): string {
-  return `${relative(DIR_WALLPAPER, daily.path)} ${daily.meta.downloadUrl}`;
-}
-
-function format(items: DailyMarkdown[]): string {
-  return `${items.map((d) => indexLine(d)).join("\n")}\n`;
-}
-
 export class WallpaperIndex {
   static parseIndexLine = parseIndexLine;
+
+  private dirname = "";
 
   constructor(
     public allPath: string,
     public currentPath: string,
-  ) {}
+  ) {
+    this.dirname = dirname(allPath);
+  }
+
+  private indexLine(daily: DailyMarkdown): string {
+    return `${relative(this.dirname, daily.path)} ${daily.meta.downloadUrl}`;
+  }
+
+  private format(items: DailyMarkdown[]): string {
+    return `${items.map((d) => this.indexLine(d)).join("\n")}\n`;
+  }
 
   async updateWallpapers(items: DailyMarkdown[]) {
-    await writeFile(this.allPath, format(items));
+    await writeFile(this.allPath, this.format(items));
     if (items[0]) {
-      await writeFile(this.currentPath, format([items[0]]));
+      await writeFile(this.currentPath, this.format([items[0]]));
     }
   }
 }

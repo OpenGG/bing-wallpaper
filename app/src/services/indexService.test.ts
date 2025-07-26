@@ -18,8 +18,8 @@ describe("indexService", () => {
     await md.save();
     await buildIndexes();
     const all = await readFile("wallpaper/all.txt", "utf8");
-    expect(all).toContain("2025/07/21.md");
+    expect(all).toMatch(/^2025\/07\/21\.md/);
     const yearAll = await readFile("wallpaper/2025/all.txt", "utf8");
-    expect(yearAll).toContain("2025/07/21.md");
+    expect(yearAll).toMatch(/^07\/21\.md/);
   });
 });
