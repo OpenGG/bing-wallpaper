@@ -8,4 +8,4 @@ if [ ! -d node_modules ]; then
   pnpm install
 fi
 
-pnpm run cli -d $SCRIPT_DIR "$@"
+pnpm run cli -d "$SCRIPT_DIR" "$@"
