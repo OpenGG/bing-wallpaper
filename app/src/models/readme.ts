@@ -23,7 +23,7 @@ export class ReadmeFile {
     const text = await this.read();
     const headerIndex = text.indexOf("# Latest wallpapers");
     if (headerIndex === -1) {
-      throw new Error("Could not find latest wallpapers header");
+      throw new Error("Could not find '# Latest wallpapers' section in README");
     }
     const prefix = text.slice(0, headerIndex).trimEnd();
     const body = `\n# Latest wallpapers\n\n${latest.trim()}\n\n# Archives\n\n${links.trim()}\n`;
