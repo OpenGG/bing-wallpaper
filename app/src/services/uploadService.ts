@@ -17,15 +17,13 @@ export interface UploadOptions {
 async function readCursor(client: S3Client, bucket: string, key: string) {
   try {
     const res = await client.send(new GetObjectCommand({ Bucket: bucket, Key: key }));
-    const chunks: Uint8Array[] = [];
-    const body = res.Body as AsyncIterable<Uint8Array> | undefined;
+    const body = res.Body;
+
     if (!body) {
       return "";
     }
-    for await (const chunk of body) {
-      chunks.push(chunk);
-    }
-    return Buffer.concat(chunks).toString("utf8").trim();
+
+    return (await body.transformToString("utf8")).trim();
   } catch (err: unknown) {
     const code = (err as { Code?: string })?.Code;
     if (code === "NoSuchKey") {

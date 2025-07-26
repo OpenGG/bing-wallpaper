@@ -76,8 +76,8 @@ describe("uploadImages", () => {
       return sampleBuffer;
     });
     const cursorBody = {
-      async *[Symbol.asyncIterator]() {
-        yield Buffer.from("2025/07/20");
+      async transformToString() {
+        return "2025/07/20\n";
       },
     };
     s3.sendMock.mockResolvedValueOnce({ Body: cursorBody });
