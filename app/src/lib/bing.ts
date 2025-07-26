@@ -1,4 +1,5 @@
 import axios from "axios";
+import { BING_WALLPAPER_API } from "./config.js";
 
 export interface BingImage {
   startdate: string;
@@ -12,8 +13,7 @@ interface BingApiResponse {
 }
 
 export async function fetchBingImages(): Promise<BingImage[]> {
-  const api = "https://bing.com/HPImageArchive.aspx?format=js&idx=0&n=10&uhd=1&uhdwidth=3840&uhdheight=2160&mkt=en-US";
-  const res = await axios.get(api, { responseType: "json" });
+  const res = await axios.get(BING_WALLPAPER_API, { responseType: "json" });
   if (res.status !== 200) {
     throw new Error(`request failed: ${res.status}`);
   }
