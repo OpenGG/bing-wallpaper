@@ -3,6 +3,8 @@ import { S3Client, GetObjectCommand, PutObjectCommand } from "@aws-sdk/client-s3
 import { fetchBingImage } from "./imageService.js";
 import { WallpaperIndex } from "../models/wallpaperIndex.js";
 import { retry } from "../lib/retry.js";
+import { measureTime } from "../lib/measureTime.js";
+import { logger } from "../lib/logger.js";
 
 export interface UploadOptions {
   bucket: string;
@@ -38,14 +40,16 @@ async function writeCursor(client: S3Client, bucket: string, key: string, value:
 
 export async function uploadImages(options: UploadOptions) {
   const bucket = options.bucket;
-  if (!bucket) throw new Error("bucket required");
+  if (!bucket) {
+    throw new Error("bucket required");
+  }
+  logger.info("0. Start uploading. bucket=%s", bucket);
+
   const client = options.client || new S3Client({});
   const cursorKey = options.cursorKey ?? "cursor.txt";
   const allPath = options.allPath ?? "wallpaper/all.txt";
-  let cursor = await readCursor(client, bucket, cursorKey);
+  let cursor = await measureTime("readCursor", () => readCursor(client, bucket, cursorKey));
   const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: "base" });
-
-  console.log("cursor=%s", cursor);
 
   const lines = (await readFile(allPath, "utf8"))
     .split("\n")
@@ -53,50 +57,40 @@ export async function uploadImages(options: UploadOptions) {
     .filter(Boolean)
     .sort((a, b) => collator.compare(a, b));
 
+  logger.info("1. Initial cursor=%s, lines=%d", cursor, lines.length);
+
+  let uploaded = 0;
   let latest = cursor;
   for (const line of lines) {
     const { date, url, key } = WallpaperIndex.parseIndexLine(line);
-    console.log("current=%s url=%s key=%s", date, url, key);
+    logger.info("processing date=%s key=%s url=%s", date, key, url);
 
     if (cursor && date <= cursor) {
-      console.log("skipping %s", date);
+      logger.info("skipping %s", date);
       continue;
     }
 
-    console.time("fetch bing image");
+    logger.info("fetching date=%s key=%s", date, key);
+    const buffer = await measureTime("fetch bing image", () => retry(() => fetchBingImage(url)));
 
-    console.log("fetching date=%s", date);
-    const buffer = await retry(() => fetchBingImage(url));
-    console.log("fetch finish date=%s", date);
+    logger.info("upload date=%s key=%s", date, key);
+    await measureTime("upload bing image", () =>
+      client.send(new PutObjectCommand({ Bucket: bucket, Key: key, Body: buffer })),
+    );
 
-    console.timeEnd("fetch bing image");
-
-    console.time("upload bing image");
-
-    await client.send(new PutObjectCommand({ Bucket: bucket, Key: key, Body: buffer }));
-    console.log("upload finish date=%s", date);
-
-    console.timeEnd("upload bing image");
-
+    uploaded += 1;
     latest = date;
     if (date.endsWith("1")) {
-      console.time("write cursor");
-
-      console.log("update cursor=%s", latest);
-      await writeCursor(client, bucket, cursorKey, latest);
+      logger.info("write cursor=%s", latest);
+      await measureTime("write cursor", () => writeCursor(client, bucket, cursorKey, latest));
       cursor = latest;
-
-      console.timeEnd("write cursor");
     }
   }
 
+  logger.info("2. Final cursor=%s, uploaded=%d", cursor, uploaded);
   if (latest && latest !== cursor) {
-    console.time("write cursor");
-
-    console.log("update cursor=%s", latest);
-    await writeCursor(client, bucket, cursorKey, latest);
-
-    console.timeEnd("write cursor");
+    logger.info("write cursor=%s", latest);
+    await measureTime("write cursor", () => writeCursor(client, bucket, cursorKey, latest));
   }
-  console.log("finish", latest);
+  logger.info("finish", latest);
 }

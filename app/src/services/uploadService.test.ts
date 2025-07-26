@@ -5,7 +5,7 @@ import * as imageSvc from "./imageService.js";
 import * as s3Module from "@aws-sdk/client-s3";
 
 const s3 = s3Module as unknown as {
-  __sendMock: Mock;
+  sendMock: Mock;
 };
 
 const ensureMock = imageSvc.ensureImageValid as unknown as Mock;
@@ -26,7 +26,7 @@ const sampleBuffer = Buffer.from(
 
 describe("uploadImages", () => {
   it("uploads new images and updates cursor", async () => {
-    s3.__sendMock.mockClear();
+    s3.sendMock.mockClear();
     ensureMock.mockClear();
     ensureMock.mockResolvedValueOnce(undefined);
     setupMockFs({ "wallpaper/all.txt": "2025/07/21.md https://img.jpg\n" });
@@ -37,18 +37,18 @@ describe("uploadImages", () => {
     const err = new Error("not found");
     // mimic S3's NoSuchKey error
     (err as unknown as Record<string, unknown>).Code = "NoSuchKey";
-    s3.__sendMock.mockRejectedValueOnce(err); // cursor not exist
+    s3.sendMock.mockRejectedValueOnce(err); // cursor not exist
     await uploadImages({
       bucket: "test",
       client: new (await import("@aws-sdk/client-s3")).S3Client({}),
     });
-    expect(s3.__sendMock).toHaveBeenCalledWith(expect.objectContaining({ __type: "PutObjectCommand", Bucket: "test" }));
+    expect(s3.sendMock).toHaveBeenCalledWith(expect.objectContaining({ __type: "PutObjectCommand", Bucket: "test" }));
   });
 
   it("throws on invalid image response", async () => {
-    s3.__sendMock.mockClear();
+    s3.sendMock.mockClear();
     ensureMock.mockClear();
-    s3.__sendMock.mockResolvedValueOnce({}); // cursor missing
+    s3.sendMock.mockResolvedValueOnce({}); // cursor missing
     setupMockFs({ "wallpaper/all.txt": "2025/07/21.md https://img.jpg\n" });
     fetchMock.mockRejectedValue(new Error("invalid image"));
     await expect(
@@ -58,14 +58,14 @@ describe("uploadImages", () => {
   });
 
   it("requires bucket option", async () => {
-    s3.__sendMock.mockClear();
+    s3.sendMock.mockClear();
     ensureMock.mockClear();
     await expect(uploadImages({} as unknown as UploadOptions)).rejects.toThrow("bucket required");
     expect(ensureMock).not.toHaveBeenCalled();
   });
 
   it("skips already uploaded images", async () => {
-    s3.__sendMock.mockClear();
+    s3.sendMock.mockClear();
     ensureMock.mockClear();
     ensureMock.mockResolvedValueOnce(undefined);
     setupMockFs({
@@ -80,16 +80,16 @@ describe("uploadImages", () => {
         yield Buffer.from("2025/07/20");
       },
     };
-    s3.__sendMock.mockResolvedValueOnce({ Body: cursorBody });
+    s3.sendMock.mockResolvedValueOnce({ Body: cursorBody });
     await uploadImages({ bucket: "t", client: new (await import("@aws-sdk/client-s3")).S3Client({}) });
     // only one image uploaded
-    const putCalls = s3.__sendMock.mock.calls.filter((c) => c[0].__type === "PutObjectCommand");
+    const putCalls = s3.sendMock.mock.calls.filter((c) => c[0].__type === "PutObjectCommand");
     expect(putCalls.length).toBe(2); // image + cursor write
     expect(ensureMock).toHaveBeenCalledTimes(1);
   });
 
   it("throws when image is corrupt", async () => {
-    s3.__sendMock.mockClear();
+    s3.sendMock.mockClear();
     ensureMock.mockClear();
     ensureMock.mockImplementation(() => {
       throw new Error("image corrupt");
@@ -102,7 +102,7 @@ describe("uploadImages", () => {
     });
     const err2 = new Error("not found");
     (err2 as unknown as Record<string, unknown>).Code = "NoSuchKey";
-    s3.__sendMock.mockRejectedValueOnce(err2);
+    s3.sendMock.mockRejectedValueOnce(err2);
     await expect(
       uploadImages({ bucket: "b", client: new (await import("@aws-sdk/client-s3")).S3Client({}) }),
     ).rejects.toThrow("image corrupt");
