@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sentinels of the tide
+
+Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)
+
+![Sentinels of the tide](https://bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-26
+
+Download 4k: [Sentinels of the tide](https://bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Canvas of life
 
 Aerial view of colorful houses, Las Palmas de Gran Canaria, Spain (© Marco Bottigelli/Getty Images)
@@ -116,16 +126,6 @@ Lavender fields in Plateau de Valensole, France (© zpagistock/Getty Images)
 Date: 2025-07-17
 
 Download 4k: [Fragrant horizons](https://bing.com/th?id=OHR.FranceLavender_EN-US5224253118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Illuminated by Isis
-
-Temple of Philae (aka Temple of Isis), Aswan, Egypt (© Ratnakorn Piyasirisorost/Getty Images)
-
-![Illuminated by Isis](https://bing.com/th?id=OHR.TemplePhilae_EN-US5062419351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-16
-
-Download 4k: [Illuminated by Isis](https://bing.com/th?id=OHR.TemplePhilae_EN-US5062419351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
