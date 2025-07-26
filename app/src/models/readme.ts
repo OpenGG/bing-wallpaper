@@ -26,7 +26,7 @@ export class ReadmeFile {
       throw new Error("Could not find '# Latest wallpapers' section in README");
     }
     const prefix = text.slice(0, headerIndex).trimEnd();
-    const body = `\n# Latest wallpapers\n\n${latest.trim()}\n\n# Archives\n\n${links.trim()}\n`;
+    const body = `\n# Latest wallpapers\n\n${latest.trim()}\n\n# Archives\n\n${links.trim()}\n\n`;
     await this.write(`${prefix}\n${body}`);
   }
 
