@@ -22,6 +22,9 @@ export class ReadmeFile {
   async updateLatestSection(latest: string, links: string) {
     const text = await this.read();
     const headerIndex = text.indexOf("# Latest wallpapers");
+    if (headerIndex === -1) {
+      throw new Error("Could not find latest wallpapers header");
+    }
     const prefix = text.slice(0, headerIndex).trimEnd();
     const body = `\n# Latest wallpapers\n\n${latest.trim()}\n\n# Archives\n\n${links.trim()}\n`;
     await this.write(`${prefix}\n${body}`);
