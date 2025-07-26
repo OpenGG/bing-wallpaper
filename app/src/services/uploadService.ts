@@ -5,6 +5,7 @@ import { WallpaperIndex } from "../models/wallpaperIndex.js";
 import { retry } from "../lib/retry.js";
 import { measureTime } from "../lib/measureTime.js";
 import { logger } from "../lib/logger.js";
+import { numericCompare } from "../lib/numericCompare.js";
 
 export interface UploadOptions {
   bucket: string;
@@ -49,13 +50,12 @@ export async function uploadImages(options: UploadOptions) {
   const cursorKey = options.cursorKey ?? "cursor.txt";
   const allPath = options.allPath ?? "wallpaper/all.txt";
   let cursor = await measureTime("readCursor", () => readCursor(client, bucket, cursorKey));
-  const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: "base" });
 
   const lines = (await readFile(allPath, "utf8"))
     .split("\n")
     .map((l) => l.trim())
     .filter(Boolean)
-    .sort((a, b) => collator.compare(a, b));
+    .sort(numericCompare);
 
   logger.info("1. Initial cursor=%s, lines=%d", cursor, lines.length);
 

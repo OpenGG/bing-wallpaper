@@ -2,6 +2,7 @@ import { join, relative } from "node:path";
 import { readdir } from "node:fs/promises";
 
 import { DIR_WALLPAPER } from "../lib/config.js";
+import { numericCompare } from "../lib/numericCompare.js";
 
 export function wallpaperPath(date: string): string {
   const year = date.slice(0, 4);
@@ -17,8 +18,6 @@ export interface WallpaperRecord {
   month: string;
   day: string;
 }
-
-const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: "base" });
 
 export async function listWallpapers(root: string): Promise<WallpaperRecord[]> {
   const years = await readdir(root, { withFileTypes: true });
@@ -45,6 +44,6 @@ export async function listWallpapers(root: string): Promise<WallpaperRecord[]> {
       }
     }
   }
-  records.sort((a, b) => collator.compare(`${b.year}-${b.month}-${b.day}`, `${a.year}-${a.month}-${a.day}`));
+  records.sort((a, b) => numericCompare(`${b.year}-${b.month}-${b.day}`, `${a.year}-${a.month}-${a.day}`));
   return records;
 }

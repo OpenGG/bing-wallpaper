@@ -1,6 +1,7 @@
 import { join } from "node:path";
 import { readdir, writeFile } from "node:fs/promises";
 import { ensureDir } from "fs-extra";
+import { numericCompare } from "../lib/numericCompare.js";
 import { DIR_ARCHIVE } from "../lib/config.js";
 import { DailyMarkdown } from "./dailyMarkdown.js";
 import type { WallpaperRecord } from "../repositories/wallpaperRepository.js";
@@ -61,16 +62,19 @@ export class MonthlyArchive {
 
   static async buildLinks(): Promise<string> {
     await ensureDir(DIR_ARCHIVE);
-    const years = await readdir(DIR_ARCHIVE);
+    const years = (await readdir(DIR_ARCHIVE, { withFileTypes: true })).sort((a, b) => numericCompare(b.name, a.name));
     const links: string[] = [];
-    for (const y of years.sort().reverse()) {
-      const months = await readdir(join(DIR_ARCHIVE, y));
+    for (const y of years) {
+      if (!y.isDirectory()) {
+        continue;
+      }
+      const months = await readdir(join(DIR_ARCHIVE, y.name));
       months
         .sort()
         .reverse()
         .forEach((m) => {
           const name = m.replace(/\.md$/, "");
-          links.push(`[${y}-${name}](./${DIR_ARCHIVE}/${y}/${m})`);
+          links.push(`[${y.name}-${name}](./${DIR_ARCHIVE}/${y.name}/${m})`);
         });
     }
     return links.join("\n\n");
