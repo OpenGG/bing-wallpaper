@@ -53,6 +53,9 @@ export class DailyMarkdown {
     const parsed = text.startsWith("#") ? parseLegacy(text) : matter(text);
     const meta = parsed.data as WallpaperMeta;
     const date = meta?.bing?.startdate ?? "";
+    if (!date) {
+      throw new Error(`Could not find startdate in ${path}`);
+    }
     return new DailyMarkdown(date, meta);
   }
 

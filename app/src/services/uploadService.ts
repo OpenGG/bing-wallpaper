@@ -80,6 +80,8 @@ export async function uploadImages(options: UploadOptions) {
 
     uploaded += 1;
     latest = date;
+
+    // Update cursor every 10 days (1st, 11th, 21st, 31st of month)
     if (date.endsWith("1")) {
       logger.info("write cursor=%s", latest);
       await measureTime("write cursor", () => writeCursor(client, bucket, cursorKey, latest));
