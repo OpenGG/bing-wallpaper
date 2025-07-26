@@ -6,10 +6,11 @@ export default async function archiveMonth(file: string): Promise<BingImage[]> {
   const regex =
     /##\s*(?<title>[^\n]+)\n\n(?<copy>[^\n]+)\n\n!\[[^\]]*\]\([^)]+\)\n\nDate:\s*(?<date>\d{4}-\d{2}-\d{2})\n\nDownload 4k: \[[^\]]+\]\((?<url>[^)]+)\)/g;
   const images: BingImage[] = [];
-  for (;;) {
-    const m = regex.exec(text);
-    if (!m || !m.groups) break;
-    const groups = m.groups;
+  for (const match of text.matchAll(regex)) {
+    if (!match.groups) {
+      continue;
+    }
+    const groups = match.groups;
     images.push({
       startdate: groups.date.replace(/-/g, ""),
       url: groups.url,
