@@ -23,13 +23,13 @@ export class ReadmeFile {
     const text = await this.read();
     const headerIndex = text.indexOf("# Latest wallpapers");
     const prefix = text.slice(0, headerIndex).trimEnd();
-    const body = `# Latest wallpapers\n\n${latest.trim()}\n\n# Archives\n\n${links.trim()}\n`;
+    const body = `\n# Latest wallpapers\n\n${latest.trim()}\n\n# Archives\n\n${links.trim()}\n`;
     await this.write(`${prefix}\n${body}`);
   }
 
   async updateLatestWallpaper(records: WallpaperRecord[]) {
     const files = await Promise.all(records.map((r) => DailyMarkdown.fromPath(r.path)));
-    const latest = files.map((f: DailyMarkdown) => transformBody(f.body)).join("\n");
+    const latest = files.map((f: DailyMarkdown) => transformBody(f.body).trim()).join("\n\n");
     const links = await MonthlyArchive.buildLinks();
     await this.updateLatestSection(latest, links);
   }

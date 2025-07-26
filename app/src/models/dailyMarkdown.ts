@@ -102,12 +102,13 @@ export class DailyMarkdown {
   }
 
   get body() {
-    return (
-      `# ${this.meta.bing.title}\n\n${this.meta.bing.copyright ?? ""}\n\n` +
-      `![${this.meta.bing.title}](${this.meta.previewUrl})\n\n` +
-      `Date: ${this.year}-${this.month}-${this.day}\n\n` +
-      `Download 4k: [${this.meta.bing.title}](${this.meta.downloadUrl})\n`
-    );
+    return `${[
+      `# ${this.meta.bing.title}`,
+      this.meta.bing.copyright ?? "",
+      `![${this.meta.bing.title}](${this.meta.previewUrl})`,
+      `Date: ${this.year}-${this.month}-${this.day}`,
+      `Download 4k: [${this.meta.bing.title}](${this.meta.downloadUrl})`,
+    ].join("\n\n")}\n`;
   }
 
   /**
