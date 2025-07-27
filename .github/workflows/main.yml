@@ -1,6 +1,7 @@
-name: Update Screenshot
+name: Bing Wallpaper Updater
 
 on:
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
     inputs:
       remote_debug:
@@ -9,61 +10,59 @@ on:
         type: boolean
         required: false
         default: false
+
+  # Runs on pushes to the main branch
   push:
     branches:
       - master
+
+  # Schedules the workflow to run at specific times
   schedule:
+    # Runs at 6:06, 6:26, 6:46, 7:06, 7:26, 7:46, 8:06, 8:26, 8:46 UTC daily
     - cron: "6,26,46 6-8 * * *"
 
-env:
-  AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-  AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-  AWS_ENDPOINT_URL: ${{ secrets.AWS_ENDPOINT_URL }}
-  AWS_REGION: ${{ secrets.AWS_REGION }}
-  BUCKET_NAME: ${{ secrets.BUCKET_NAME }}
-
 jobs:
-  download:
+  update_and_deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grant write permission for add-and-commit action
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2.3.4
+      - name: Checkout Repository
+        uses: actions/checkout@v4 # Use the latest stable version
 
-      - uses: pnpm/action-setup@v4
-        name: Install pnpm
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
         with:
           version: 10
-          run_install: false
+          run_install: false # We'll run install later in a combined step
 
-      - name: Install Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Install ImageMagick and deps
+      - name: Install System Dependencies and pnpm packages
         run: |
-          sudo apt install imagemagick
+          sudo apt-get update
+          sudo apt-get install -y imagemagick # Install ImageMagick
           cd app
-          pnpm i
+          pnpm install # Install project dependencies
 
-      - name: Start debug session (when enabled)
+      - name: Start Debug Session (if enabled)
         if: ${{ inputs.remote_debug }}
         uses: lhotari/action-upterm@v1
 
-      - name: Update
-        run: |
-          ./cli.sh update
+      - name: Fetch Latest Bing Wallpapers
+        run: ./cli.sh update
 
-      - name: Build index
-        run: |
-          ./cli.sh build-index
+      - name: Build Index Markdowns
+        run: ./cli.sh build-index
 
-      - name: Build archive
-        run: |
-          ./cli.sh build-archive
+      - name: Build Archive Markdowns
+        run: ./cli.sh build-archive
 
-      - name: Upload to s3
+      - name: Upload to S3
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
@@ -71,9 +70,12 @@ jobs:
           AWS_REGION: ${{ secrets.AWS_REGION }}
           BUCKET_NAME: ${{ secrets.BUCKET_NAME }}
         run: |
-          ./cli.sh upload --bucket $BUCKET_NAME
+          ./cli.sh upload --bucket "$BUCKET_NAME"
 
-      - uses: EndBug/add-and-commit@v9
+      - name: Commit and Push Changes
+        uses: EndBug/add-and-commit@v9
         with:
-          message: "update: auto update bing wallpaper"
+          message: "feat: automated Bing wallpaper update" # Use a conventional commit message
           default_author: github_actions
+          # This action will automatically push the changes to the branch
+          # from which the workflow was triggered (e.g., 'master' or 'main').
