@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
     inputs:
       remote_debug:
-      description: >-
-        Starts an SSH session to debug the runner. For advanced troubleshooting only.
-      type: boolean
-      required: false
-      default: false
+        description: >-
+          Starts an SSH session to debug the runner. For advanced troubleshooting only.
+        type: boolean
+        required: false
+        default: false
   push:
     branches:
       - master
