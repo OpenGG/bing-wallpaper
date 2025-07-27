@@ -2,6 +2,13 @@ name: Update Screenshot
 
 on:
   workflow_dispatch:
+    inputs:
+      remote_debug:
+      description: >-
+        Starts an SSH session to debug the runner. For advanced troubleshooting only.
+      type: boolean
+      required: false
+      default: false
   push:
     branches:
       - master
@@ -32,6 +39,10 @@ jobs:
           sudo apt install imagemagick
           cd app
           pnpm i
+
+      - name: Start debug session (when enabled)
+        if: ${{ inputs.remote_debug }}
+        uses: lhotari/action-upterm@v1
 
       - name: Update
         run: |
