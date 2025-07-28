@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A steppe ahead
+
+Yurts in the grasslands of Mongolia (© Michel Arnault/Shutterstock)
+
+![A steppe ahead](https://bing.com/th?id=OHR.MongoliaYurts_EN-US1803457525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-28
+
+Download 4k: [A steppe ahead](https://bing.com/th?id=OHR.MongoliaYurts_EN-US1803457525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Shimmer in sync
 
 School of blackfin barracuda, Shark Reef, Ras Mohammed National Park, Sinai Peninsula, Egypt (© Alex Mustard/Nature Picture Library)
@@ -116,16 +126,6 @@ Luna moth resting on cedar elm, New Braunfels, Texas, USA (© Rolf Nussbaumer/Na
 Date: 2025-07-19
 
 Download 4k: [Moth-ers day](https://bing.com/th?id=OHR.MothWeek_EN-US5360572836_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Gulf Islands glow
-
-Beach at sunrise, Gulf Islands National Seashore, Florida (© Tim Fitzharris/Minden Pictures)
-
-![Gulf Islands glow](https://bing.com/th?id=OHR.FloridaSeashore_EN-US9038929616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-18
-
-Download 4k: [Gulf Islands glow](https://bing.com/th?id=OHR.FloridaSeashore_EN-US9038929616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
