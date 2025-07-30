@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Friendship without borders
+
+'Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)
+
+![Friendship without borders](https://bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-30
+
+Download 4k: [Friendship without borders](https://bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The jungle queen
 
 Female Bengal tiger, Kanha National Park, India (© Axel Gomille/Nature Picture Library)
@@ -116,16 +126,6 @@ Staghorn coral off the island of Bonaire, Caribbean Netherlands (© blue-sea.cz/
 Date: 2025-07-21
 
 Download 4k: [Rainforests of the sea](https://bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Dancing in the moonlight
-
-The moon's surface photographed through a telescope (© Sergey Kuznetsov/Getty Images)
-
-![Dancing in the moonlight](https://bing.com/th?id=OHR.BigMoon_EN-US5436003142_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-20
-
-Download 4k: [Dancing in the moonlight](https://bing.com/th?id=OHR.BigMoon_EN-US5436003142_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
