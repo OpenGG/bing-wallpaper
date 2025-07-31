@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Madagascar native
+
+Ring-tailed lemur infant playing with its own tail, Madagascar (© Andy Rouse/Nature Picture Library)
+
+![Madagascar native](https://bing.com/th?id=OHR.BabyLemur_EN-US9264861498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-07-31
+
+Download 4k: [Madagascar native](https://bing.com/th?id=OHR.BabyLemur_EN-US9264861498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Friendship without borders
 
 'Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)
@@ -116,16 +126,6 @@ Sunset over Badlands National Park, South Dakota (© Petr Bednarik/Danita Delimo
 Date: 2025-07-22
 
 Download 4k: [Epic sunsets and ancient secrets](https://bing.com/th?id=OHR.BadlandsSunset_EN-US5821746223_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Rainforests of the sea
-
-Staghorn coral off the island of Bonaire, Caribbean Netherlands (© blue-sea.cz/Shutterstock)
-
-![Rainforests of the sea](https://bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-21
-
-Download 4k: [Rainforests of the sea](https://bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
