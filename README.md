@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Age-old storyboard
+
+Petroglyphs near Fruita in Capitol Reef National Park, Utah (© Nicolas VINCENT/Adobe Stock)
+
+![Age-old storyboard](https://bing.com/th?id=OHR.FruitaPetroglyphs_EN-US8712481828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-02
+
+Download 4k: [Age-old storyboard](https://bing.com/th?id=OHR.FruitaPetroglyphs_EN-US8712481828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Expect the unexpected
 
 Royal Mile, Edinburgh, Scotland (© MEDITERRANEAN/Getty Images)
@@ -116,16 +126,6 @@ Family of ashy woodswallows perched on a branch in Thailand (© Captain Skyhigh/
 Date: 2025-07-24
 
 Download 4k: [Sticking together](https://bing.com/th?id=OHR.AshyWoodswallow_EN-US7005770998_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A country within a city
-
-Vatican City with St. Peter's Basilica (© RudyBalasko/Getty Images)
-
-![A country within a city](https://bing.com/th?id=OHR.VaticanCity_EN-US5915643866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-23
-
-Download 4k: [A country within a city](https://bing.com/th?id=OHR.VaticanCity_EN-US5915643866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
