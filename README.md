@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hello yellow!
+
+Sunflowers in a field in summer (© Arsgera/Shutterstock)
+
+![Hello yellow!](https://bing.com/th?id=OHR.HappySunflower_EN-US8791544241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-03
+
+Download 4k: [Hello yellow!](https://bing.com/th?id=OHR.HappySunflower_EN-US8791544241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Age-old storyboard
 
 Petroglyphs near Fruita in Capitol Reef National Park, Utah (© Nicolas VINCENT/Adobe Stock)
@@ -116,16 +126,6 @@ Aerial view of colorful houses, Las Palmas de Gran Canaria, Spain (© Marco Bott
 Date: 2025-07-25
 
 Download 4k: [Canvas of life](https://bing.com/th?id=OHR.LasPalmas_EN-US0568727017_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Sticking together
-
-Family of ashy woodswallows perched on a branch in Thailand (© Captain Skyhigh/Getty Images)
-
-![Sticking together](https://bing.com/th?id=OHR.AshyWoodswallow_EN-US7005770998_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-24
-
-Download 4k: [Sticking together](https://bing.com/th?id=OHR.AshyWoodswallow_EN-US7005770998_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
