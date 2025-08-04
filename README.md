@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Whooo's home?
+
+Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)
+
+![Whooo's home?](https://bing.com/th?id=OHR.LaplandOwl_EN-US8965493818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-04
+
+Download 4k: [Whooo's home?](https://bing.com/th?id=OHR.LaplandOwl_EN-US8965493818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hello yellow!
 
 Sunflowers in a field in summer (© Arsgera/Shutterstock)
@@ -116,16 +126,6 @@ Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonc
 Date: 2025-07-26
 
 Download 4k: [Sentinels of the tide](https://bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Canvas of life
-
-Aerial view of colorful houses, Las Palmas de Gran Canaria, Spain (© Marco Bottigelli/Getty Images)
-
-![Canvas of life](https://bing.com/th?id=OHR.LasPalmas_EN-US0568727017_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-25
-
-Download 4k: [Canvas of life](https://bing.com/th?id=OHR.LasPalmas_EN-US0568727017_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
