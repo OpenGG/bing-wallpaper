@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Tide and seek
+
+Tide pools in La Jolla, California (© Andrew Shoemaker/DanitaDelimont.com)
+
+![Tide and seek](https://bing.com/th?id=OHR.CaliforniaTidepool_EN-US9089576317_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-05
+
+Download 4k: [Tide and seek](https://bing.com/th?id=OHR.CaliforniaTidepool_EN-US9089576317_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Whooo's home?
 
 Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)
@@ -116,16 +126,6 @@ School of blackfin barracuda, Shark Reef, Ras Mohammed National Park, Sinai Peni
 Date: 2025-07-27
 
 Download 4k: [Shimmer in sync](https://bing.com/th?id=OHR.BlackfinBarracuda_EN-US1227116811_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Sentinels of the tide
-
-Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)
-
-![Sentinels of the tide](https://bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-26
-
-Download 4k: [Sentinels of the tide](https://bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
