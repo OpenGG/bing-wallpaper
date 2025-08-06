@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Off the grid
+
+Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii (© Russ Bishop/DanitaDelimont.com)
+
+![Off the grid](https://bing.com/th?id=OHR.NaPaliKauai_EN-US7451684312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-06
+
+Download 4k: [Off the grid](https://bing.com/th?id=OHR.NaPaliKauai_EN-US7451684312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Tide and seek
 
 Tide pools in La Jolla, California (© Andrew Shoemaker/DanitaDelimont.com)
@@ -116,16 +126,6 @@ Yurts in the grasslands of Mongolia (© Michel Arnault/Shutterstock)
 Date: 2025-07-28
 
 Download 4k: [A steppe ahead](https://bing.com/th?id=OHR.MongoliaYurts_EN-US1803457525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Shimmer in sync
-
-School of blackfin barracuda, Shark Reef, Ras Mohammed National Park, Sinai Peninsula, Egypt (© Alex Mustard/Nature Picture Library)
-
-![Shimmer in sync](https://bing.com/th?id=OHR.BlackfinBarracuda_EN-US1227116811_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-27
-
-Download 4k: [Shimmer in sync](https://bing.com/th?id=OHR.BlackfinBarracuda_EN-US1227116811_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
