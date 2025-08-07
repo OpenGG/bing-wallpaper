@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Code of the coastline
+
+Gasparilla Island Rear Range Light, Boca Grande, Florida (© Wiltser/Getty Images)
+
+![Code of the coastline](https://bing.com/th?id=OHR.GasparillaLight_EN-US0554204214_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-07
+
+Download 4k: [Code of the coastline](https://bing.com/th?id=OHR.GasparillaLight_EN-US0554204214_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Off the grid
 
 Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii (© Russ Bishop/DanitaDelimont.com)
@@ -116,16 +126,6 @@ Female Bengal tiger, Kanha National Park, India (© Axel Gomille/Nature Picture 
 Date: 2025-07-29
 
 Download 4k: [The jungle queen](https://bing.com/th?id=OHR.TigerDay_EN-US5038876410_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A steppe ahead
-
-Yurts in the grasslands of Mongolia (© Michel Arnault/Shutterstock)
-
-![A steppe ahead](https://bing.com/th?id=OHR.MongoliaYurts_EN-US1803457525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-28
-
-Download 4k: [A steppe ahead](https://bing.com/th?id=OHR.MongoliaYurts_EN-US1803457525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
