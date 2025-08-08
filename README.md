@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## All for falls and falls for all
+
+Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)
+
+![All for falls and falls for all](https://bing.com/th?id=OHR.IguazuArgentina_EN-US5953375078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-08
+
+Download 4k: [All for falls and falls for all](https://bing.com/th?id=OHR.IguazuArgentina_EN-US5953375078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Code of the coastline
 
 Gasparilla Island Rear Range Light, Boca Grande, Florida (© Wiltser/Getty Images)
@@ -116,16 +126,6 @@ Download 4k: [Madagascar native](https://bing.com/th?id=OHR.BabyLemur_EN-US92648
 Date: 2025-07-30
 
 Download 4k: [Friendship without borders](https://bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The jungle queen
-
-Female Bengal tiger, Kanha National Park, India (© Axel Gomille/Nature Picture Library)
-
-![The jungle queen](https://bing.com/th?id=OHR.TigerDay_EN-US5038876410_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-07-29
-
-Download 4k: [The jungle queen](https://bing.com/th?id=OHR.TigerDay_EN-US5038876410_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
