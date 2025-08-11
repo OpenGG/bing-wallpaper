@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Postcard from the peaks
+
+Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)
+
+![Postcard from the peaks](https://bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-11
+
+Download 4k: [Postcard from the peaks](https://bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Roar for a cause
 
 Lioness in Maasai Mara National Reserve, Kenya (© Tandem Stock/Adobe Stock)
@@ -116,16 +126,6 @@ Petroglyphs near Fruita in Capitol Reef National Park, Utah (© Nicolas VINCENT/
 Date: 2025-08-02
 
 Download 4k: [Age-old storyboard](https://bing.com/th?id=OHR.FruitaPetroglyphs_EN-US8712481828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Expect the unexpected
-
-Royal Mile, Edinburgh, Scotland (© MEDITERRANEAN/Getty Images)
-
-![Expect the unexpected](https://bing.com/th?id=OHR.EdinburghFringe_EN-US5923216873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-01
-
-Download 4k: [Expect the unexpected](https://bing.com/th?id=OHR.EdinburghFringe_EN-US5923216873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
