@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Taking it from the top
+
+Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)
+
+![Taking it from the top](https://bing.com/th?id=OHR.PizNairPeak_EN-US9097547756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-14
+
+Download 4k: [Taking it from the top](https://bing.com/th?id=OHR.PizNairPeak_EN-US9097547756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Earth's open secret
 
 A man rappels off Corona Arch near Moab, Utah (© Grant Ordelheide/TANDEM Stills + Motion)
@@ -116,16 +126,6 @@ Tide pools in La Jolla, California (© Andrew Shoemaker/DanitaDelimont.com)
 Date: 2025-08-05
 
 Download 4k: [Tide and seek](https://bing.com/th?id=OHR.CaliforniaTidepool_EN-US9089576317_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Whooo's home?
-
-Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)
-
-![Whooo's home?](https://bing.com/th?id=OHR.LaplandOwl_EN-US8965493818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-04
-
-Download 4k: [Whooo's home?](https://bing.com/th?id=OHR.LaplandOwl_EN-US8965493818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
