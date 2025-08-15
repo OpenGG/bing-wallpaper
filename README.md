@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Winging it underwater
+
+Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)
+
+![Winging it underwater](https://bing.com/th?id=OHR.SpottedEagleRay_EN-US9227600044_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-15
+
+Download 4k: [Winging it underwater](https://bing.com/th?id=OHR.SpottedEagleRay_EN-US9227600044_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Taking it from the top
 
 Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)
@@ -116,16 +126,6 @@ Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii (© Russ Bishop/DanitaDelimon
 Date: 2025-08-06
 
 Download 4k: [Off the grid](https://bing.com/th?id=OHR.NaPaliKauai_EN-US7451684312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Tide and seek
-
-Tide pools in La Jolla, California (© Andrew Shoemaker/DanitaDelimont.com)
-
-![Tide and seek](https://bing.com/th?id=OHR.CaliforniaTidepool_EN-US9089576317_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-05
-
-Download 4k: [Tide and seek](https://bing.com/th?id=OHR.CaliforniaTidepool_EN-US9089576317_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
