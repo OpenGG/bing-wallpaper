@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Bee the change
+
+Colorful beehives in Italy (© Roberto Caucino/Shutterstock)
+
+![Bee the change](https://bing.com/th?id=OHR.ColorfulBeehives_EN-US1476944743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-16
+
+Download 4k: [Bee the change](https://bing.com/th?id=OHR.ColorfulBeehives_EN-US1476944743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Winging it underwater
 
 Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)
@@ -116,16 +126,6 @@ Gasparilla Island Rear Range Light, Boca Grande, Florida (© Wiltser/Getty Image
 Date: 2025-08-07
 
 Download 4k: [Code of the coastline](https://bing.com/th?id=OHR.GasparillaLight_EN-US0554204214_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Off the grid
-
-Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii (© Russ Bishop/DanitaDelimont.com)
-
-![Off the grid](https://bing.com/th?id=OHR.NaPaliKauai_EN-US7451684312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-06
-
-Download 4k: [Off the grid](https://bing.com/th?id=OHR.NaPaliKauai_EN-US7451684312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
