@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Powered by the sun
+
+Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)
+
+![Powered by the sun](https://bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-19
+
+Download 4k: [Powered by the sun](https://bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Stream a little dream
 
 Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)
@@ -116,16 +126,6 @@ Lioness in Maasai Mara National Reserve, Kenya (© Tandem Stock/Adobe Stock)
 Date: 2025-08-10
 
 Download 4k: [Roar for a cause](https://bing.com/th?id=OHR.LionessKenya_EN-US8440386444_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Honoring Indigenous voices
-
-Ngātoroirangi Mine Bay Māori Rock Carvings on Lake Taupō, New Zealand (© Joppi/Getty Images)
-
-![Honoring Indigenous voices](https://bing.com/th?id=OHR.MaoriRock_EN-US6499689741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-09
-
-Download 4k: [Honoring Indigenous voices](https://bing.com/th?id=OHR.MaoriRock_EN-US6499689741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
