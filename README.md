@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Built to last
+
+The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)
+
+![Built to last](https://bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-20
+
+Download 4k: [Built to last](https://bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Powered by the sun
 
 Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)
@@ -116,16 +126,6 @@ Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)
 Date: 2025-08-11
 
 Download 4k: [Postcard from the peaks](https://bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Roar for a cause
-
-Lioness in Maasai Mara National Reserve, Kenya (© Tandem Stock/Adobe Stock)
-
-![Roar for a cause](https://bing.com/th?id=OHR.LionessKenya_EN-US8440386444_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-10
-
-Download 4k: [Roar for a cause](https://bing.com/th?id=OHR.LionessKenya_EN-US8440386444_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
