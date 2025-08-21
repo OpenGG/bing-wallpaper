@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Perched and poised
+
+Wheatear and flowering heather, Peak District National Park, England (© Ben Hall/Nature Picture Library)
+
+![Perched and poised](https://bing.com/th?id=OHR.WheatearBird_EN-US2132045619_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-21
+
+Download 4k: [Perched and poised](https://bing.com/th?id=OHR.WheatearBird_EN-US2132045619_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Built to last
 
 The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)
@@ -116,16 +126,6 @@ African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pic
 Date: 2025-08-12
 
 Download 4k: [Wild, wise, and wonderful](https://bing.com/th?id=OHR.KenyaElephants_EN-US8723347309_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Postcard from the peaks
-
-Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)
-
-![Postcard from the peaks](https://bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-11
-
-Download 4k: [Postcard from the peaks](https://bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
