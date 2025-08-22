@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Nature's green quilt
+
+Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)
+
+![Nature's green quilt](https://bing.com/th?id=OHR.PalouseWA_EN-US2419102005_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-22
+
+Download 4k: [Nature's green quilt](https://bing.com/th?id=OHR.PalouseWA_EN-US2419102005_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Perched and poised
 
 Wheatear and flowering heather, Peak District National Park, England (© Ben Hall/Nature Picture Library)
@@ -116,16 +126,6 @@ A man rappels off Corona Arch near Moab, Utah (© Grant Ordelheide/TANDEM Stills
 Date: 2025-08-13
 
 Download 4k: [Earth's open secret](https://bing.com/th?id=OHR.CoronaArch_EN-US8928406175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Wild, wise, and wonderful
-
-African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures)
-
-![Wild, wise, and wonderful](https://bing.com/th?id=OHR.KenyaElephants_EN-US8723347309_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-12
-
-Download 4k: [Wild, wise, and wonderful](https://bing.com/th?id=OHR.KenyaElephants_EN-US8723347309_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
