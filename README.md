@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Gothic majesty
+
+St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)
+
+![Gothic majesty](https://bing.com/th?id=OHR.SaintBarbaras_EN-US3076115197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-23
+
+Download 4k: [Gothic majesty](https://bing.com/th?id=OHR.SaintBarbaras_EN-US3076115197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Nature's green quilt
 
 Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)
@@ -116,16 +126,6 @@ Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moi
 Date: 2025-08-14
 
 Download 4k: [Taking it from the top](https://bing.com/th?id=OHR.PizNairPeak_EN-US9097547756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Earth's open secret
-
-A man rappels off Corona Arch near Moab, Utah (© Grant Ordelheide/TANDEM Stills + Motion)
-
-![Earth's open secret](https://bing.com/th?id=OHR.CoronaArch_EN-US8928406175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-13
-
-Download 4k: [Earth's open secret](https://bing.com/th?id=OHR.CoronaArch_EN-US8928406175_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
