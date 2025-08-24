@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## 'Fallow' us
+
+European fallow deer, England (© Enrique Aguirre Aves/Getty Images)
+
+!['Fallow' us](https://bing.com/th?id=OHR.CervusDama_EN-US3217647015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-24
+
+Download 4k: ['Fallow' us](https://bing.com/th?id=OHR.CervusDama_EN-US3217647015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Gothic majesty
 
 St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)
@@ -116,16 +126,6 @@ Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui D
 Date: 2025-08-15
 
 Download 4k: [Winging it underwater](https://bing.com/th?id=OHR.SpottedEagleRay_EN-US9227600044_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Taking it from the top
-
-Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)
-
-![Taking it from the top](https://bing.com/th?id=OHR.PizNairPeak_EN-US9097547756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-14
-
-Download 4k: [Taking it from the top](https://bing.com/th?id=OHR.PizNairPeak_EN-US9097547756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
