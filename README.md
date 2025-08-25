@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## From volcanic roots to river routes
+
+Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)
+
+![From volcanic roots to river routes](https://bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-25
+
+Download 4k: [From volcanic roots to river routes](https://bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## 'Fallow' us
 
 European fallow deer, England (© Enrique Aguirre Aves/Getty Images)
@@ -116,16 +126,6 @@ Colorful beehives in Italy (© Roberto Caucino/Shutterstock)
 Date: 2025-08-16
 
 Download 4k: [Bee the change](https://bing.com/th?id=OHR.ColorfulBeehives_EN-US1476944743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Winging it underwater
-
-Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)
-
-![Winging it underwater](https://bing.com/th?id=OHR.SpottedEagleRay_EN-US9227600044_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-15
-
-Download 4k: [Winging it underwater](https://bing.com/th?id=OHR.SpottedEagleRay_EN-US9227600044_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
