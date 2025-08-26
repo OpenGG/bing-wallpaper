@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A 'trulli' remarkable town
+
+Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)
+
+![A 'trulli' remarkable town](https://bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-26
+
+Download 4k: [A 'trulli' remarkable town](https://bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## From volcanic roots to river routes
 
 Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)
@@ -116,16 +126,6 @@ Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images
 Date: 2025-08-17
 
 Download 4k: [One tall way to spot the sea](https://bing.com/th?id=OHR.LyngvigLighthouse_EN-US1600601632_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Bee the change
-
-Colorful beehives in Italy (© Roberto Caucino/Shutterstock)
-
-![Bee the change](https://bing.com/th?id=OHR.ColorfulBeehives_EN-US1476944743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-16
-
-Download 4k: [Bee the change](https://bing.com/th?id=OHR.ColorfulBeehives_EN-US1476944743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
