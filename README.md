@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The heart of the grid
+
+Aerial view of Plaza Mayor, Madrid, Spain (© AirPano LLC/Amazing Aerial Agency)
+
+![The heart of the grid](https://bing.com/th?id=OHR.PlazaMayor_EN-US3692727880_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-29
+
+Download 4k: [The heart of the grid](https://bing.com/th?id=OHR.PlazaMayor_EN-US3692727880_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## This egret has no regrets
 
 Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)
@@ -116,16 +126,6 @@ The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)
 Date: 2025-08-20
 
 Download 4k: [Built to last](https://bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Powered by the sun
-
-Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)
-
-![Powered by the sun](https://bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-19
-
-Download 4k: [Powered by the sun](https://bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
