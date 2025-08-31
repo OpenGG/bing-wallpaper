@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Painted clouds, still cliffs
+
+Scotts Bluff National Monument in Gering, Nebraska (© Hawk Buckman/Getty Images)
+
+![Painted clouds, still cliffs](https://bing.com/th?id=OHR.ScottsBluff_EN-US3893566724_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-08-31
+
+Download 4k: [Painted clouds, still cliffs](https://bing.com/th?id=OHR.ScottsBluff_EN-US3893566724_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Finned and fabulous
 
 Whale shark off the coast of Alifu Dhaalu Atoll, Maldives (© Bachir Moukarzel/Amazing Aerial Agency)
@@ -116,16 +126,6 @@ Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)
 Date: 2025-08-22
 
 Download 4k: [Nature's green quilt](https://bing.com/th?id=OHR.PalouseWA_EN-US2419102005_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Perched and poised
-
-Wheatear and flowering heather, Peak District National Park, England (© Ben Hall/Nature Picture Library)
-
-![Perched and poised](https://bing.com/th?id=OHR.WheatearBird_EN-US2132045619_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-21
-
-Download 4k: [Perched and poised](https://bing.com/th?id=OHR.WheatearBird_EN-US2132045619_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
