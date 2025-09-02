@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Ghosts of Deadvlei
+
+Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy)
+
+![Ghosts of Deadvlei](https://bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-02
+
+Download 4k: [Ghosts of Deadvlei](https://bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Stitched into history
 
 Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago (© Chicago Sun-Times/Chicago Daily News collection/Chicago History Museum/Getty Images)
@@ -116,16 +126,6 @@ European fallow deer, England (© Enrique Aguirre Aves/Getty Images)
 Date: 2025-08-24
 
 Download 4k: ['Fallow' us](https://bing.com/th?id=OHR.CervusDama_EN-US3217647015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Gothic majesty
-
-St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)
-
-![Gothic majesty](https://bing.com/th?id=OHR.SaintBarbaras_EN-US3076115197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-23
-
-Download 4k: [Gothic majesty](https://bing.com/th?id=OHR.SaintBarbaras_EN-US3076115197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
