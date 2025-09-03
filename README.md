@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Protected stillness
+
+Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock)
+
+![Protected stillness](https://bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-03
+
+Download 4k: [Protected stillness](https://bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Ghosts of Deadvlei
 
 Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy)
@@ -116,16 +126,6 @@ Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyomi
 Date: 2025-08-25
 
 Download 4k: [From volcanic roots to river routes](https://bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## 'Fallow' us
-
-European fallow deer, England (© Enrique Aguirre Aves/Getty Images)
-
-!['Fallow' us](https://bing.com/th?id=OHR.CervusDama_EN-US3217647015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-24
-
-Download 4k: ['Fallow' us](https://bing.com/th?id=OHR.CervusDama_EN-US3217647015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
