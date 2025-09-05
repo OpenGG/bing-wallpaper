@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A pier-fect evening
+
+Pacific Park at Santa Monica State Beach, California (© EXTREME-PHOTOGRAPHER/Getty Images)
+
+![A pier-fect evening](https://bing.com/th?id=OHR.SunsetPier_EN-US7261804528_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-05
+
+Download 4k: [A pier-fect evening](https://bing.com/th?id=OHR.SunsetPier_EN-US7261804528_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Bear with us—it's National Wildlife Day
 
 Grizzly bears wrestling, Katmai National Park and Preserve, Alaska (© Cavan Images/Adobe Stock)
@@ -116,16 +126,6 @@ Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark (© Anton Petrus/Ge
 Date: 2025-08-27
 
 Download 4k: [A lake above the ocean](https://bing.com/th?id=OHR.FaroeLake_EN-US3557234950_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A 'trulli' remarkable town
-
-Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)
-
-![A 'trulli' remarkable town](https://bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-26
-
-Download 4k: [A 'trulli' remarkable town](https://bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
