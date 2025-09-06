@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A hum-dinger of a day
+
+Rufous hummingbird, Golden Gate Park, San Francisco, California (© jeremyborkat/Getty Images)
+
+![A hum-dinger of a day](https://bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-06
+
+Download 4k: [A hum-dinger of a day](https://bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A pier-fect evening
 
 Pacific Park at Santa Monica State Beach, California (© EXTREME-PHOTOGRAPHER/Getty Images)
@@ -116,16 +126,6 @@ Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)
 Date: 2025-08-28
 
 Download 4k: [This egret has no regrets](https://bing.com/th?id=OHR.WhiteEgret_EN-US3605994040_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A lake above the ocean
-
-Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark (© Anton Petrus/Getty Images)
-
-![A lake above the ocean](https://bing.com/th?id=OHR.FaroeLake_EN-US3557234950_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-27
-
-Download 4k: [A lake above the ocean](https://bing.com/th?id=OHR.FaroeLake_EN-US3557234950_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
