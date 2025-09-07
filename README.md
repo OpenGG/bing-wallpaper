@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Pastel dreams and still waters
+
+Gdańsk on the banks of the Motława, Poland (© Oscar Dominguez/TANDEM Stills + Motion)
+
+![Pastel dreams and still waters](https://bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-07
+
+Download 4k: [Pastel dreams and still waters](https://bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A hum-dinger of a day
 
 Rufous hummingbird, Golden Gate Park, San Francisco, California (© jeremyborkat/Getty Images)
@@ -116,16 +126,6 @@ Aerial view of Plaza Mayor, Madrid, Spain (© AirPano LLC/Amazing Aerial Agency)
 Date: 2025-08-29
 
 Download 4k: [The heart of the grid](https://bing.com/th?id=OHR.PlazaMayor_EN-US3692727880_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## This egret has no regrets
-
-Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)
-
-![This egret has no regrets](https://bing.com/th?id=OHR.WhiteEgret_EN-US3605994040_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-28
-
-Download 4k: [This egret has no regrets](https://bing.com/th?id=OHR.WhiteEgret_EN-US3605994040_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
