@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Booked for the day
+
+Library@orchard, Singapore (© Darwin Fan/Getty Images)
+
+![Booked for the day](https://bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-08
+
+Download 4k: [Booked for the day](https://bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Pastel dreams and still waters
 
 Gdańsk on the banks of the Motława, Poland (© Oscar Dominguez/TANDEM Stills + Motion)
@@ -116,16 +126,6 @@ Whale shark off the coast of Alifu Dhaalu Atoll, Maldives (© Bachir Moukarzel/A
 Date: 2025-08-30
 
 Download 4k: [Finned and fabulous](https://bing.com/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The heart of the grid
-
-Aerial view of Plaza Mayor, Madrid, Spain (© AirPano LLC/Amazing Aerial Agency)
-
-![The heart of the grid](https://bing.com/th?id=OHR.PlazaMayor_EN-US3692727880_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-29
-
-Download 4k: [The heart of the grid](https://bing.com/th?id=OHR.PlazaMayor_EN-US3692727880_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
