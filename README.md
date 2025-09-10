@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## 'Hay' there!
+
+Hay bales, North Yorkshire, England (© Nick Brundle Photography/Getty Images)
+
+!['Hay' there!](https://bing.com/th?id=OHR.YorkshireHay_EN-US8523120193_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-10
+
+Download 4k: ['Hay' there!](https://bing.com/th?id=OHR.YorkshireHay_EN-US8523120193_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Twig by twig, she prepares
 
 A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)
@@ -116,16 +126,6 @@ Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago
 Date: 2025-09-01
 
 Download 4k: [Stitched into history](https://bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Painted clouds, still cliffs
-
-Scotts Bluff National Monument in Gering, Nebraska (© Hawk Buckman/Getty Images)
-
-![Painted clouds, still cliffs](https://bing.com/th?id=OHR.ScottsBluff_EN-US3893566724_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-08-31
-
-Download 4k: [Painted clouds, still cliffs](https://bing.com/th?id=OHR.ScottsBluff_EN-US3893566724_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
