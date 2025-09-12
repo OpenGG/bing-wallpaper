@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Swim wild, swim free
+
+Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)
+
+![Swim wild, swim free](https://bing.com/th?id=OHR.SpinnerDolphins_EN-US8860882818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-12
+
+Download 4k: [Swim wild, swim free](https://bing.com/th?id=OHR.SpinnerDolphins_EN-US8860882818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## In unity and remembrance
 
 Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Images)
@@ -116,16 +126,6 @@ Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock)
 Date: 2025-09-03
 
 Download 4k: [Protected stillness](https://bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Ghosts of Deadvlei
-
-Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy)
-
-![Ghosts of Deadvlei](https://bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-09-02
-
-Download 4k: [Ghosts of Deadvlei](https://bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
