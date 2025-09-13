@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Rugged and wild
+
+Chimney Rock, Point Reyes National Seashore, California (© Enrique Aguirre Aves/Getty Images)
+
+![Rugged and wild](https://bing.com/th?id=OHR.PointReyesSeashore_EN-US8949381326_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-13
+
+Download 4k: [Rugged and wild](https://bing.com/th?id=OHR.PointReyesSeashore_EN-US8949381326_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Swim wild, swim free
 
 Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)
@@ -116,16 +126,6 @@ Grizzly bears wrestling, Katmai National Park and Preserve, Alaska (© Cavan Ima
 Date: 2025-09-04
 
 Download 4k: [Bear with us—it's National Wildlife Day](https://bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Protected stillness
-
-Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock)
-
-![Protected stillness](https://bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-09-03
-
-Download 4k: [Protected stillness](https://bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
