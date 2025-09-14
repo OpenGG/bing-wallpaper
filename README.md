@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Moss and mist
+
+A waterfall in Olympic National Park, Washington (© Chris Moore/TANDEM Stills + Motion)
+
+![Moss and mist](https://bing.com/th?id=OHR.HohWaterfall_EN-US9003533736_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-14
+
+Download 4k: [Moss and mist](https://bing.com/th?id=OHR.HohWaterfall_EN-US9003533736_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Rugged and wild
 
 Chimney Rock, Point Reyes National Seashore, California (© Enrique Aguirre Aves/Getty Images)
@@ -116,16 +126,6 @@ Pacific Park at Santa Monica State Beach, California (© EXTREME-PHOTOGRAPHER/Ge
 Date: 2025-09-05
 
 Download 4k: [A pier-fect evening](https://bing.com/th?id=OHR.SunsetPier_EN-US7261804528_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Bear with us—it's National Wildlife Day
-
-Grizzly bears wrestling, Katmai National Park and Preserve, Alaska (© Cavan Images/Adobe Stock)
-
-![Bear with us—it's National Wildlife Day](https://bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-09-04
-
-Download 4k: [Bear with us—it's National Wildlife Day](https://bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
