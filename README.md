@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Vibrancy in every brick
+
+Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas (© Ken Hurst/Alamy)
+
+![Vibrancy in every brick](https://bing.com/th?id=OHR.DallasLegorreta_EN-US9050675226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-15
+
+Download 4k: [Vibrancy in every brick](https://bing.com/th?id=OHR.DallasLegorreta_EN-US9050675226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Moss and mist
 
 A waterfall in Olympic National Park, Washington (© Chris Moore/TANDEM Stills + Motion)
@@ -116,16 +126,6 @@ Rufous hummingbird, Golden Gate Park, San Francisco, California (© jeremyborkat
 Date: 2025-09-06
 
 Download 4k: [A hum-dinger of a day](https://bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A pier-fect evening
-
-Pacific Park at Santa Monica State Beach, California (© EXTREME-PHOTOGRAPHER/Getty Images)
-
-![A pier-fect evening](https://bing.com/th?id=OHR.SunsetPier_EN-US7261804528_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-09-05
-
-Download 4k: [A pier-fect evening](https://bing.com/th?id=OHR.SunsetPier_EN-US7261804528_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
