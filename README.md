@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A crown in the making
+
+Young bull moose in Denali National Park, Alaska (© Grant Ordelheide/TANDEM Stills + Motion)
+
+![A crown in the making](https://bing.com/th?id=OHR.YoungMoose_EN-US2991221135_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-17
+
+Download 4k: [A crown in the making](https://bing.com/th?id=OHR.YoungMoose_EN-US2991221135_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A stratospheric success
 
 Nighttime view of the Gulf Coast states from 225 miles above Earth (© Stocktrek Images/Getty Images)
@@ -116,16 +126,6 @@ Library@orchard, Singapore (© Darwin Fan/Getty Images)
 Date: 2025-09-08
 
 Download 4k: [Booked for the day](https://bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Pastel dreams and still waters
-
-Gdańsk on the banks of the Motława, Poland (© Oscar Dominguez/TANDEM Stills + Motion)
-
-![Pastel dreams and still waters](https://bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-09-07
-
-Download 4k: [Pastel dreams and still waters](https://bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
