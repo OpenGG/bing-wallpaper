@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A tale of brews and views
+
+Swing carousel at Oktoberfest, Munich, Germany (© LOOK-foto/Alamy)
+
+![A tale of brews and views](https://bing.com/th?id=OHR.OktoberfestSwing_EN-US7916182497_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-20
+
+Download 4k: [A tale of brews and views](https://bing.com/th?id=OHR.OktoberfestSwing_EN-US7916182497_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A thousand reasons to visit
 
 Thousand Islands region, St. Lawrence River, US-Canada border (© benedek/Getty Images)
@@ -116,16 +126,6 @@ Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Imag
 Date: 2025-09-11
 
 Download 4k: [In unity and remembrance](https://bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## 'Hay' there!
-
-Hay bales, North Yorkshire, England (© Nick Brundle Photography/Getty Images)
-
-!['Hay' there!](https://bing.com/th?id=OHR.YorkshireHay_EN-US8523120193_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-09-10
-
-Download 4k: ['Hay' there!](https://bing.com/th?id=OHR.YorkshireHay_EN-US8523120193_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
