@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Otterly cool
+
+Sea otters, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)
+
+![Otterly cool](https://bing.com/th?id=OHR.IceOtters_EN-US7982442590_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-21
+
+Download 4k: [Otterly cool](https://bing.com/th?id=OHR.IceOtters_EN-US7982442590_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A tale of brews and views
 
 Swing carousel at Oktoberfest, Munich, Germany (© LOOK-foto/Alamy)
@@ -116,16 +126,6 @@ Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Pi
 Date: 2025-09-12
 
 Download 4k: [Swim wild, swim free](https://bing.com/th?id=OHR.SpinnerDolphins_EN-US8860882818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## In unity and remembrance
-
-Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Images)
-
-![In unity and remembrance](https://bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-09-11
-
-Download 4k: [In unity and remembrance](https://bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
