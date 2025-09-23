@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Beak-side story
+
+Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)
+
+![Beak-side story](https://bing.com/th?id=OHR.ToucanForest_EN-US8319635845_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-23
+
+Download 4k: [Beak-side story](https://bing.com/th?id=OHR.ToucanForest_EN-US8319635845_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Midway to winter
 
 Aspen trees during fall, Fishlake National Forest, Utah (© Danita Delimont/Getty Images)
@@ -116,16 +126,6 @@ A waterfall in Olympic National Park, Washington (© Chris Moore/TANDEM Stills +
 Date: 2025-09-14
 
 Download 4k: [Moss and mist](https://bing.com/th?id=OHR.HohWaterfall_EN-US9003533736_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Rugged and wild
-
-Chimney Rock, Point Reyes National Seashore, California (© Enrique Aguirre Aves/Getty Images)
-
-![Rugged and wild](https://bing.com/th?id=OHR.PointReyesSeashore_EN-US8949381326_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-09-13
-
-Download 4k: [Rugged and wild](https://bing.com/th?id=OHR.PointReyesSeashore_EN-US8949381326_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
