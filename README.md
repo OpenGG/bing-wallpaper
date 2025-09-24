@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The lonely giant
+
+Devils Tower National Monument, Wyoming (© Laura Hedien/Getty Images)
+
+![The lonely giant](https://bing.com/th?id=OHR.BearLodge_EN-US9061134971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-24
+
+Download 4k: [The lonely giant](https://bing.com/th?id=OHR.BearLodge_EN-US9061134971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Beak-side story
 
 Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)
@@ -116,16 +126,6 @@ Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas (© Ken Hurs
 Date: 2025-09-15
 
 Download 4k: [Vibrancy in every brick](https://bing.com/th?id=OHR.DallasLegorreta_EN-US9050675226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Moss and mist
-
-A waterfall in Olympic National Park, Washington (© Chris Moore/TANDEM Stills + Motion)
-
-![Moss and mist](https://bing.com/th?id=OHR.HohWaterfall_EN-US9003533736_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-09-14
-
-Download 4k: [Moss and mist](https://bing.com/th?id=OHR.HohWaterfall_EN-US9003533736_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
