@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The fast and the furriest
+
+Least chipmunk, Kootenai National Forest, Montana (© Donald M. Jones/Minden Pictures)
+
+![The fast and the furriest](https://bing.com/th?id=OHR.AutumnChipmunk_EN-US9248365602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-26
+
+Download 4k: [The fast and the furriest](https://bing.com/th?id=OHR.AutumnChipmunk_EN-US9248365602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Carved stones of courage
 
 Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)
@@ -116,16 +126,6 @@ Young bull moose in Denali National Park, Alaska (© Grant Ordelheide/TANDEM Sti
 Date: 2025-09-17
 
 Download 4k: [A crown in the making](https://bing.com/th?id=OHR.YoungMoose_EN-US2991221135_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A stratospheric success
-
-Nighttime view of the Gulf Coast states from 225 miles above Earth (© Stocktrek Images/Getty Images)
-
-![A stratospheric success](https://bing.com/th?id=OHR.OzoneEarth_EN-US9728527733_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-09-16
-
-Download 4k: [A stratospheric success](https://bing.com/th?id=OHR.OzoneEarth_EN-US9728527733_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
