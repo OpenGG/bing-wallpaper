@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Weeding and wishing
+
+Tank Lakes, Alpine Lakes Wilderness, Washington (© Austin Trigg/TANDEM Stills + Motion)
+
+![Weeding and wishing](https://bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-27
+
+Download 4k: [Weeding and wishing](https://bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The fast and the furriest
 
 Least chipmunk, Kootenai National Forest, Montana (© Donald M. Jones/Minden Pictures)
@@ -116,16 +126,6 @@ Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty
 Date: 2025-09-18
 
 Download 4k: [Ireland's western edge](https://bing.com/th?id=OHR.DunquinIreland_EN-US9846056364_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A crown in the making
-
-Young bull moose in Denali National Park, Alaska (© Grant Ordelheide/TANDEM Stills + Motion)
-
-![A crown in the making](https://bing.com/th?id=OHR.YoungMoose_EN-US2991221135_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-09-17
-
-Download 4k: [A crown in the making](https://bing.com/th?id=OHR.YoungMoose_EN-US2991221135_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
