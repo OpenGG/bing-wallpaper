@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Rainbow rides and quiet vibes
+
+The Rainbow Houses of Houten, Netherlands (© George Pachantouris/Getty Images)
+
+![Rainbow rides and quiet vibes](https://bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-09-29
+
+Download 4k: [Rainbow rides and quiet vibes](https://bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A taste of Pienza
 
 Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)
@@ -116,16 +126,6 @@ Swing carousel at Oktoberfest, Munich, Germany (© LOOK-foto/Alamy)
 Date: 2025-09-20
 
 Download 4k: [A tale of brews and views](https://bing.com/th?id=OHR.OktoberfestSwing_EN-US7916182497_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A thousand reasons to visit
-
-Thousand Islands region, St. Lawrence River, US-Canada border (© benedek/Getty Images)
-
-![A thousand reasons to visit](https://bing.com/th?id=OHR.ThousandIslands_EN-US7884567746_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-09-19
-
-Download 4k: [A thousand reasons to visit](https://bing.com/th?id=OHR.ThousandIslands_EN-US7884567746_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
