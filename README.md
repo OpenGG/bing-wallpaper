@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Echoes from the Clark Range
+
+Clark Range, Sierra Nevada, Yosemite National Park, California (© Robb Hirsch/TANDEM Stills + Motion)
+
+![Echoes from the Clark Range](https://bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-01
+
+Download 4k: [Echoes from the Clark Range](https://bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Clinging to what matters
 
 Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)
@@ -117,17 +127,9 @@ Date: 2025-09-22
 
 Download 4k: [Midway to winter](https://bing.com/th?id=OHR.AspenEquinox_EN-US8237887036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Otterly cool
-
-Sea otters, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)
-
-![Otterly cool](https://bing.com/th?id=OHR.IceOtters_EN-US7982442590_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-09-21
-
-Download 4k: [Otterly cool](https://bing.com/th?id=OHR.IceOtters_EN-US7982442590_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2025-10](./archive/2025/10.md)
 
 [2025-09](./archive/2025/09.md)
 
