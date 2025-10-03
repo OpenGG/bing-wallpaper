@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Mist-bound reveries
+
+Heather growing in Glen Brittle, Isle of Skye, Scotland (© Adam Mowery/TANDEM Stills + Motion)
+
+![Mist-bound reveries](https://bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-03
+
+Download 4k: [Mist-bound reveries](https://bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Wild by law
 
 Oxbow Bend on the Snake River, Grand Teton National Park, Wyoming (© DanitaDelimont.com/AWL Images/SuperStock)
@@ -116,16 +126,6 @@ Devils Tower National Monument, Wyoming (© Laura Hedien/Getty Images)
 Date: 2025-09-24
 
 Download 4k: [The lonely giant](https://bing.com/th?id=OHR.BearLodge_EN-US9061134971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Beak-side story
-
-Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)
-
-![Beak-side story](https://bing.com/th?id=OHR.ToucanForest_EN-US8319635845_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-09-23
-
-Download 4k: [Beak-side story](https://bing.com/th?id=OHR.ToucanForest_EN-US8319635845_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
