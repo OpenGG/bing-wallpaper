@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Celebrating our teachers
+
+Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)
+
+![Celebrating our teachers](https://bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-05
+
+Download 4k: [Celebrating our teachers](https://bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Mission: Possible
 
 ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)
@@ -116,16 +126,6 @@ Least chipmunk, Kootenai National Forest, Montana (© Donald M. Jones/Minden Pic
 Date: 2025-09-26
 
 Download 4k: [The fast and the furriest](https://bing.com/th?id=OHR.AutumnChipmunk_EN-US9248365602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Carved stones of courage
-
-Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)
-
-![Carved stones of courage](https://bing.com/th?id=OHR.FortChittorgarh_EN-US9184486139_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-09-25
-
-Download 4k: [Carved stones of courage](https://bing.com/th?id=OHR.FortChittorgarh_EN-US9184486139_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
