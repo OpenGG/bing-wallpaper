@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Golden fall glow
+
+Fall colors below Mount Sneffels near Ridgway, Colorado (© Grant Ordelheide/TANDEM Stills + Motion)
+
+![Golden fall glow](https://bing.com/th?id=OHR.RidgwayAspens_EN-US0136548884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-07
+
+Download 4k: [Golden fall glow](https://bing.com/th?id=OHR.RidgwayAspens_EN-US0136548884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## To the moon and back
 
 Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)
@@ -116,16 +126,6 @@ Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)
 Date: 2025-09-28
 
 Download 4k: [A taste of Pienza](https://bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Weeding and wishing
-
-Tank Lakes, Alpine Lakes Wilderness, Washington (© Austin Trigg/TANDEM Stills + Motion)
-
-![Weeding and wishing](https://bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-09-27
-
-Download 4k: [Weeding and wishing](https://bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
