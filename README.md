@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Camouflage in motion
+
+Day octopus in the waters off Maui, Hawaii (© Dave Fleetham/plainpicture)
+
+![Camouflage in motion](https://bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-08
+
+Download 4k: [Camouflage in motion](https://bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Golden fall glow
 
 Fall colors below Mount Sneffels near Ridgway, Colorado (© Grant Ordelheide/TANDEM Stills + Motion)
@@ -116,16 +126,6 @@ The Rainbow Houses of Houten, Netherlands (© George Pachantouris/Getty Images)
 Date: 2025-09-29
 
 Download 4k: [Rainbow rides and quiet vibes](https://bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A taste of Pienza
-
-Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)
-
-![A taste of Pienza](https://bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-09-28
-
-Download 4k: [A taste of Pienza](https://bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
