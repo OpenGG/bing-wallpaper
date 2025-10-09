@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Universe in bloom
+
+The Pillars of Creation viewed by the James Webb Space Telescope (© NASA)
+
+![Universe in bloom](https://bing.com/th?id=OHR.WebbPillars_EN-US0251661895_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-09
+
+Download 4k: [Universe in bloom](https://bing.com/th?id=OHR.WebbPillars_EN-US0251661895_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Camouflage in motion
 
 Day octopus in the waters off Maui, Hawaii (© Dave Fleetham/plainpicture)
@@ -116,16 +126,6 @@ Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb 
 Date: 2025-09-30
 
 Download 4k: [Clinging to what matters](https://bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Rainbow rides and quiet vibes
-
-The Rainbow Houses of Houten, Netherlands (© George Pachantouris/Getty Images)
-
-![Rainbow rides and quiet vibes](https://bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-09-29
-
-Download 4k: [Rainbow rides and quiet vibes](https://bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
