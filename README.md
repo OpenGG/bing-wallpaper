@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Nest stop, Mexico!
+
+Wood duck hen (© ps50ace/iStock/Getty Images)
+
+![Nest stop, Mexico!](https://bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-11
+
+Download 4k: [Nest stop, Mexico!](https://bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A reef of reflection
 
 Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)
@@ -116,16 +126,6 @@ Oxbow Bend on the Snake River, Grand Teton National Park, Wyoming (© DanitaDeli
 Date: 2025-10-02
 
 Download 4k: [Wild by law](https://bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Echoes from the Clark Range
-
-Clark Range, Sierra Nevada, Yosemite National Park, California (© Robb Hirsch/TANDEM Stills + Motion)
-
-![Echoes from the Clark Range](https://bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-10-01
-
-Download 4k: [Echoes from the Clark Range](https://bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
