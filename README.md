@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Falling for Saranac
+
+Village of Saranac Lake, Adirondack Mountains, New York (© DenisTangneyJr/Getty Images)
+
+![Falling for Saranac](https://bing.com/th?id=OHR.SaranacLake_EN-US0445660450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-12
+
+Download 4k: [Falling for Saranac](https://bing.com/th?id=OHR.SaranacLake_EN-US0445660450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Nest stop, Mexico!
 
 Wood duck hen (© ps50ace/iStock/Getty Images)
@@ -116,16 +126,6 @@ Heather growing in Glen Brittle, Isle of Skye, Scotland (© Adam Mowery/TANDEM S
 Date: 2025-10-03
 
 Download 4k: [Mist-bound reveries](https://bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Wild by law
-
-Oxbow Bend on the Snake River, Grand Teton National Park, Wyoming (© DanitaDelimont.com/AWL Images/SuperStock)
-
-![Wild by law](https://bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-10-02
-
-Download 4k: [Wild by law](https://bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
