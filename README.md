@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Flames of the past
+
+House on Fire Ruin in Mule Canyon, Cedar Mesa, Utah (© Pete Lomchid/Getty Images)
+
+![Flames of the past](https://bing.com/th?id=OHR.MuleCanyon_EN-US0527899523_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-13
+
+Download 4k: [Flames of the past](https://bing.com/th?id=OHR.MuleCanyon_EN-US0527899523_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Falling for Saranac
 
 Village of Saranac Lake, Adirondack Mountains, New York (© DenisTangneyJr/Getty Images)
@@ -116,16 +126,6 @@ ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)
 Date: 2025-10-04
 
 Download 4k: [Mission: Possible](https://bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Mist-bound reveries
-
-Heather growing in Glen Brittle, Isle of Skye, Scotland (© Adam Mowery/TANDEM Stills + Motion)
-
-![Mist-bound reveries](https://bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-10-03
-
-Download 4k: [Mist-bound reveries](https://bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
