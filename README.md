@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The spore the merrier
+
+Amethyst laccaria mushrooms, Seabeck, Washington (© Danita Delimont/Shutterstock)
+
+![The spore the merrier](https://bing.com/th?id=OHR.AmethystLaccaria_EN-US0640413961_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-15
+
+Download 4k: [The spore the merrier](https://bing.com/th?id=OHR.AmethystLaccaria_EN-US0640413961_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Dreams painted in blue and white
 
 Village of Oia, Santorini, Greece (© f9photos/Getty Images)
@@ -116,16 +126,6 @@ Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philip
 Date: 2025-10-06
 
 Download 4k: [To the moon and back](https://bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Celebrating our teachers
-
-Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)
-
-![Celebrating our teachers](https://bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-10-05
-
-Download 4k: [Celebrating our teachers](https://bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
