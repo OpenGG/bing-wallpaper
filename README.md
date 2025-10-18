@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The hill that remembers
+
+Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)
+
+![The hill that remembers](https://bing.com/th?id=OHR.SilburyHill_EN-US2485144120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-18
+
+Download 4k: [The hill that remembers](https://bing.com/th?id=OHR.SilburyHill_EN-US2485144120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Falling for Michigan
 
 Rock River Falls, Upper Peninsula, Michigan (© Matt Anderson Photography/Getty Images)
@@ -116,16 +126,6 @@ The Pillars of Creation viewed by the James Webb Space Telescope (© NASA)
 Date: 2025-10-09
 
 Download 4k: [Universe in bloom](https://bing.com/th?id=OHR.WebbPillars_EN-US0251661895_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Camouflage in motion
-
-Day octopus in the waters off Maui, Hawaii (© Dave Fleetham/plainpicture)
-
-![Camouflage in motion](https://bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-10-08
-
-Download 4k: [Camouflage in motion](https://bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
