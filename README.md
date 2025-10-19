@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sweet on science
+
+Apples ready for harvest, Minnesota (© Tammi Mild/Getty Images)
+
+![Sweet on science](https://bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-19
+
+Download 4k: [Sweet on science](https://bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The hill that remembers
 
 Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)
@@ -116,16 +126,6 @@ Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David 
 Date: 2025-10-10
 
 Download 4k: [A reef of reflection](https://bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Universe in bloom
-
-The Pillars of Creation viewed by the James Webb Space Telescope (© NASA)
-
-![Universe in bloom](https://bing.com/th?id=OHR.WebbPillars_EN-US0251661895_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-10-09
-
-Download 4k: [Universe in bloom](https://bing.com/th?id=OHR.WebbPillars_EN-US0251661895_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
