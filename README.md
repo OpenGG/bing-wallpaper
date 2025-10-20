@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Life in the slow lane
+
+A Hoffmann's two-toed sloth in Ecuador (© Murray Cooper/Minden Pictures)
+
+![Life in the slow lane](https://bing.com/th?id=OHR.HoffmansSloth_EN-US3030106938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-20
+
+Download 4k: [Life in the slow lane](https://bing.com/th?id=OHR.HoffmansSloth_EN-US3030106938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Sweet on science
 
 Apples ready for harvest, Minnesota (© Tammi Mild/Getty Images)
@@ -116,16 +126,6 @@ Wood duck hen (© ps50ace/iStock/Getty Images)
 Date: 2025-10-11
 
 Download 4k: [Nest stop, Mexico!](https://bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A reef of reflection
-
-Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)
-
-![A reef of reflection](https://bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-10-10
-
-Download 4k: [A reef of reflection](https://bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
