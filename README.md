@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Glowing traditions
+
+A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)
+
+![Glowing traditions](https://bing.com/th?id=OHR.DiyaDiwali_EN-US3108369974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-21
+
+Download 4k: [Glowing traditions](https://bing.com/th?id=OHR.DiyaDiwali_EN-US3108369974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Life in the slow lane
 
 A Hoffmann's two-toed sloth in Ecuador (© Murray Cooper/Minden Pictures)
@@ -116,16 +126,6 @@ Village of Saranac Lake, Adirondack Mountains, New York (© DenisTangneyJr/Getty
 Date: 2025-10-12
 
 Download 4k: [Falling for Saranac](https://bing.com/th?id=OHR.SaranacLake_EN-US0445660450_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Nest stop, Mexico!
-
-Wood duck hen (© ps50ace/iStock/Getty Images)
-
-![Nest stop, Mexico!](https://bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-10-11
-
-Download 4k: [Nest stop, Mexico!](https://bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
