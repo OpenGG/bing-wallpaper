@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## From 'Grey Ghost' to ghost stories
+
+Night view of the RMS Queen Mary, Long Beach, California (© Kit Leong/Shutterstock)
+
+![From 'Grey Ghost' to ghost stories](https://bing.com/th?id=OHR.QueenMary_EN-US3331250680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-24
+
+Download 4k: [From 'Grey Ghost' to ghost stories](https://bing.com/th?id=OHR.QueenMary_EN-US3331250680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Snow much love
 
 Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)
@@ -116,16 +126,6 @@ Amethyst laccaria mushrooms, Seabeck, Washington (© Danita Delimont/Shutterstoc
 Date: 2025-10-15
 
 Download 4k: [The spore the merrier](https://bing.com/th?id=OHR.AmethystLaccaria_EN-US0640413961_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Dreams painted in blue and white
-
-Village of Oia, Santorini, Greece (© f9photos/Getty Images)
-
-![Dreams painted in blue and white](https://bing.com/th?id=OHR.OiaSantorini_EN-US0585833457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-10-14
-
-Download 4k: [Dreams painted in blue and white](https://bing.com/th?id=OHR.OiaSantorini_EN-US0585833457_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
