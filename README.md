@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Finland's living peatland
+
+Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)
+
+![Finland's living peatland](https://bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-25
+
+Download 4k: [Finland's living peatland](https://bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## From 'Grey Ghost' to ghost stories
 
 Night view of the RMS Queen Mary, Long Beach, California (© Kit Leong/Shutterstock)
@@ -116,16 +126,6 @@ Eurasian lynx in Siberia (© Mario Plechaty Photograph/Shutterstock)
 Date: 2025-10-16
 
 Download 4k: [The phantom cat](https://bing.com/th?id=OHR.SiberianLynx_EN-US0696336220_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The spore the merrier
-
-Amethyst laccaria mushrooms, Seabeck, Washington (© Danita Delimont/Shutterstock)
-
-![The spore the merrier](https://bing.com/th?id=OHR.AmethystLaccaria_EN-US0640413961_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-10-15
-
-Download 4k: [The spore the merrier](https://bing.com/th?id=OHR.AmethystLaccaria_EN-US0640413961_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
