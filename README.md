@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Oh my gourd, it's today!
+
+Pumpkin farm in North Carolina (© Matthew H Irvin/Getty Images)
+
+![Oh my gourd, it's today!](https://bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-26
+
+Download 4k: [Oh my gourd, it's today!](https://bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Finland's living peatland
 
 Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)
@@ -116,16 +126,6 @@ Rock River Falls, Upper Peninsula, Michigan (© Matt Anderson Photography/Getty 
 Date: 2025-10-17
 
 Download 4k: [Falling for Michigan](https://bing.com/th?id=OHR.RockRiverFalls_EN-US2428797661_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The phantom cat
-
-Eurasian lynx in Siberia (© Mario Plechaty Photograph/Shutterstock)
-
-![The phantom cat](https://bing.com/th?id=OHR.SiberianLynx_EN-US0696336220_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-10-16
-
-Download 4k: [The phantom cat](https://bing.com/th?id=OHR.SiberianLynx_EN-US0696336220_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
