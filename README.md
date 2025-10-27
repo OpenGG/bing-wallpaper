@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Bigger, bolder, beakier
+
+Thick-billed raven, Simien Mountains, Ethiopia (© Ignacio Yufera/FLPA/Minden Pictures)
+
+![Bigger, bolder, beakier](https://bing.com/th?id=OHR.AfricanRaven_EN-US4057369898_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-27
+
+Download 4k: [Bigger, bolder, beakier](https://bing.com/th?id=OHR.AfricanRaven_EN-US4057369898_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Oh my gourd, it's today!
 
 Pumpkin farm in North Carolina (© Matthew H Irvin/Getty Images)
@@ -116,16 +126,6 @@ Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Ge
 Date: 2025-10-18
 
 Download 4k: [The hill that remembers](https://bing.com/th?id=OHR.SilburyHill_EN-US2485144120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Falling for Michigan
-
-Rock River Falls, Upper Peninsula, Michigan (© Matt Anderson Photography/Getty Images)
-
-![Falling for Michigan](https://bing.com/th?id=OHR.RockRiverFalls_EN-US2428797661_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-10-17
-
-Download 4k: [Falling for Michigan](https://bing.com/th?id=OHR.RockRiverFalls_EN-US2428797661_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
