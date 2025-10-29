@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Rooted in time
+
+Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)
+
+![Rooted in time](https://bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-29
+
+Download 4k: [Rooted in time](https://bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A gateway to stone wonders
 
 The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)
@@ -116,16 +126,6 @@ A Hoffmann's two-toed sloth in Ecuador (© Murray Cooper/Minden Pictures)
 Date: 2025-10-20
 
 Download 4k: [Life in the slow lane](https://bing.com/th?id=OHR.HoffmansSloth_EN-US3030106938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Sweet on science
-
-Apples ready for harvest, Minnesota (© Tammi Mild/Getty Images)
-
-![Sweet on science](https://bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-10-19
-
-Download 4k: [Sweet on science](https://bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
