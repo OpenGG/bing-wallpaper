@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hooves, hues, and heritage
+
+Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)
+
+![Hooves, hues, and heritage](https://bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-10-30
+
+Download 4k: [Hooves, hues, and heritage](https://bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Rooted in time
 
 Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)
@@ -116,16 +126,6 @@ A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH
 Date: 2025-10-21
 
 Download 4k: [Glowing traditions](https://bing.com/th?id=OHR.DiyaDiwali_EN-US3108369974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Life in the slow lane
-
-A Hoffmann's two-toed sloth in Ecuador (© Murray Cooper/Minden Pictures)
-
-![Life in the slow lane](https://bing.com/th?id=OHR.HoffmansSloth_EN-US3030106938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-10-20
-
-Download 4k: [Life in the slow lane](https://bing.com/th?id=OHR.HoffmansSloth_EN-US3030106938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
