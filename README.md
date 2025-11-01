@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Herds of heritage
+
+Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming (© Cheryl Ramalho/Getty Images)
+
+![Herds of heritage](https://bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-11-01
+
+Download 4k: [Herds of heritage](https://bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Under the Halloween spell
 
 Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)
@@ -117,17 +127,9 @@ Date: 2025-10-23
 
 Download 4k: [Snow much love](https://bing.com/th?id=OHR.SnowLeopard_EN-US3294064537_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Set in stone
-
-Belogradchik Rocks, Bulgaria (© EvaL Miko/Shutterstock)
-
-![Set in stone](https://bing.com/th?id=OHR.BulgariaRocks_EN-US3184562282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-10-22
-
-Download 4k: [Set in stone](https://bing.com/th?id=OHR.BulgariaRocks_EN-US3184562282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2025-11](./archive/2025/11.md)
 
 [2025-10](./archive/2025/10.md)
 
