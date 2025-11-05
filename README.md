@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Orange you glad it's fall?
+
+Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain (© David Santiago Garcia/DEEPOL by plainpicture)
+
+![Orange you glad it's fall?](https://bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-11-05
+
+Download 4k: [Orange you glad it's fall?](https://bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Mind the gap—this one opens
 
 Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)
@@ -116,16 +126,6 @@ Thick-billed raven, Simien Mountains, Ethiopia (© Ignacio Yufera/FLPA/Minden Pi
 Date: 2025-10-27
 
 Download 4k: [Bigger, bolder, beakier](https://bing.com/th?id=OHR.AfricanRaven_EN-US4057369898_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Oh my gourd, it's today!
-
-Pumpkin farm in North Carolina (© Matthew H Irvin/Getty Images)
-
-![Oh my gourd, it's today!](https://bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-10-26
-
-Download 4k: [Oh my gourd, it's today!](https://bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
