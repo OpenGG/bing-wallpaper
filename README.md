@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Week of the white bear
+
+Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)
+
+![Week of the white bear](https://bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-11-07
+
+Download 4k: [Week of the white bear](https://bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Sky full of wishes
 
 Colorful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images)
@@ -116,16 +126,6 @@ Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaiti
 Date: 2025-10-29
 
 Download 4k: [Rooted in time](https://bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A gateway to stone wonders
-
-The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)
-
-![A gateway to stone wonders](https://bing.com/th?id=OHR.TepliceRocks_EN-US4098225022_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-10-28
-
-Download 4k: [A gateway to stone wonders](https://bing.com/th?id=OHR.TepliceRocks_EN-US4098225022_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
