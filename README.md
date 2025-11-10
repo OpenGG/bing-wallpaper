@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Life hidden beneath the prairie
+
+Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota (© Greg Vaughn/Getty Images)
+
+![Life hidden beneath the prairie](https://bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-11-10
+
+Download 4k: [Life hidden beneath the prairie](https://bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Once upon a star
 
 Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)
@@ -116,16 +126,6 @@ Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming (© Che
 Date: 2025-11-01
 
 Download 4k: [Herds of heritage](https://bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Under the Halloween spell
-
-Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)
-
-![Under the Halloween spell](https://bing.com/th?id=OHR.BranCastle_EN-US5914201029_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-10-31
-
-Download 4k: [Under the Halloween spell](https://bing.com/th?id=OHR.BranCastle_EN-US5914201029_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
