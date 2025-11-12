@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## All roads lead to Rome
+
+Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)
+
+![All roads lead to Rome](https://bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-11-12
+
+Download 4k: [All roads lead to Rome](https://bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Honoring their service
 
 Marine Corps War Memorial, Arlington, Virginia (© f11photo/Shutterstock)
@@ -116,16 +126,6 @@ Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM St
 Date: 2025-11-03
 
 Download 4k: [Just jellin'](https://bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where bamboo breathes and maples blaze
-
-Colorful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)
-
-![Where bamboo breathes and maples blaze](https://bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-02
-
-Download 4k: [Where bamboo breathes and maples blaze](https://bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
