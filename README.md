@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Quivering under starlight
+
+Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)
+
+![Quivering under starlight](https://bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-11-13
+
+Download 4k: [Quivering under starlight](https://bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## All roads lead to Rome
 
 Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)
@@ -116,16 +126,6 @@ Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)
 Date: 2025-11-04
 
 Download 4k: [Mind the gap—this one opens](https://bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Just jellin'
-
-Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)
-
-![Just jellin'](https://bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-03
-
-Download 4k: [Just jellin'](https://bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
