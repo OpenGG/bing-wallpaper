@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Bend it like Nikko
+
+Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)
+
+![Bend it like Nikko](https://bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-11-15
+
+Download 4k: [Bend it like Nikko](https://bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A slow reminder for a fast world
 
 Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)
@@ -116,16 +126,6 @@ Colorful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand
 Date: 2025-11-06
 
 Download 4k: [Sky full of wishes](https://bing.com/th?id=OHR.LanternsThailand_EN-US6955074347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Orange you glad it's fall?
-
-Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain (© David Santiago Garcia/DEEPOL by plainpicture)
-
-![Orange you glad it's fall?](https://bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-05
-
-Download 4k: [Orange you glad it's fall?](https://bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
