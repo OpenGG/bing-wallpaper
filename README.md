@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Passages with a past
+
+A traboule in Lyon, France (© TPopova/Getty Images)
+
+![Passages with a past](https://bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-11-16
+
+Download 4k: [Passages with a past](https://bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Bend it like Nikko
 
 Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)
@@ -116,16 +126,6 @@ Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)
 Date: 2025-11-07
 
 Download 4k: [Week of the white bear](https://bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Sky full of wishes
-
-Colorful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images)
-
-![Sky full of wishes](https://bing.com/th?id=OHR.LanternsThailand_EN-US6955074347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-06
-
-Download 4k: [Sky full of wishes](https://bing.com/th?id=OHR.LanternsThailand_EN-US6955074347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
