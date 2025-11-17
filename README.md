@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The trails' call
+
+Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)
+
+![The trails' call](https://bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-11-17
+
+Download 4k: [The trails' call](https://bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Passages with a past
 
 A traboule in Lyon, France (© TPopova/Getty Images)
@@ -116,16 +126,6 @@ Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills 
 Date: 2025-11-08
 
 Download 4k: [Rock stars of Bandon](https://bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Week of the white bear
-
-Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)
-
-![Week of the white bear](https://bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-07
-
-Download 4k: [Week of the white bear](https://bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
