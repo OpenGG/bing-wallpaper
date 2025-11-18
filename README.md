@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Fall's feathered headliner
+
+Male hooded merganser, Oregon (© Eric Vogt/TANDEM Stills + Motion)
+
+![Fall's feathered headliner](https://bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-11-18
+
+Download 4k: [Fall's feathered headliner](https://bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The trails' call
 
 Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)
@@ -116,16 +126,6 @@ Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope
 Date: 2025-11-09
 
 Download 4k: [Once upon a star](https://bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Rock stars of Bandon
-
-Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)
-
-![Rock stars of Bandon](https://bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-08
-
-Download 4k: [Rock stars of Bandon](https://bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
