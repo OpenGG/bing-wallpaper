@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sketched into history
+
+Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switzerland (© Valentin Flauraud/EPA-EFE/Shutterstock)
+
+![Sketched into history](https://bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-11-20
+
+Download 4k: [Sketched into history](https://bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Stone, symbol, and a nation's story
 
 Hungarian Parliament Building, Budapest, Hungary (© Alexander Spatari/Getty Images)
@@ -116,16 +126,6 @@ Marine Corps War Memorial, Arlington, Virginia (© f11photo/Shutterstock)
 Date: 2025-11-11
 
 Download 4k: [Honoring their service](https://bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Life hidden beneath the prairie
-
-Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota (© Greg Vaughn/Getty Images)
-
-![Life hidden beneath the prairie](https://bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-10
-
-Download 4k: [Life hidden beneath the prairie](https://bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
