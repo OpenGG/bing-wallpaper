@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sealed with a hello
+
+Harbor seals at Robert Moses State Park, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)
+
+![Sealed with a hello](https://bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-11-21
+
+Download 4k: [Sealed with a hello](https://bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Sketched into history
 
 Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switzerland (© Valentin Flauraud/EPA-EFE/Shutterstock)
@@ -116,16 +126,6 @@ Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty
 Date: 2025-11-12
 
 Download 4k: [All roads lead to Rome](https://bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Honoring their service
-
-Marine Corps War Memorial, Arlington, Virginia (© f11photo/Shutterstock)
-
-![Honoring their service](https://bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-11
-
-Download 4k: [Honoring their service](https://bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
