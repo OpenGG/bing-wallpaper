@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Nature's secret code
+
+Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)
+
+![Nature's secret code](https://bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-11-23
+
+Download 4k: [Nature's secret code](https://bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The guardian of the waters
 
 Leshan Giant Buddha, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)
@@ -116,16 +126,6 @@ Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images
 Date: 2025-11-14
 
 Download 4k: [A slow reminder for a fast world](https://bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Quivering under starlight
-
-Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)
-
-![Quivering under starlight](https://bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-13
-
-Download 4k: [Quivering under starlight](https://bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
