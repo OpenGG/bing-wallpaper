@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Secrets in stone
+
+Gwalior Fort, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)
+
+![Secrets in stone](https://bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-11-24
+
+Download 4k: [Secrets in stone](https://bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Nature's secret code
 
 Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)
@@ -116,16 +126,6 @@ Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)
 Date: 2025-11-15
 
 Download 4k: [Bend it like Nikko](https://bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A slow reminder for a fast world
-
-Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)
-
-![A slow reminder for a fast world](https://bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-14
-
-Download 4k: [A slow reminder for a fast world](https://bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
