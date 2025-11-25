@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Love, luck, and loose change
+
+The Trevi Fountain in Rome, Italy (© Nico De Pasquale Photography/Getty Images)
+
+![Love, luck, and loose change](https://bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-11-25
+
+Download 4k: [Love, luck, and loose change](https://bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Secrets in stone
 
 Gwalior Fort, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)
@@ -116,16 +126,6 @@ A traboule in Lyon, France (© TPopova/Getty Images)
 Date: 2025-11-16
 
 Download 4k: [Passages with a past](https://bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Bend it like Nikko
-
-Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)
-
-![Bend it like Nikko](https://bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-15
-
-Download 4k: [Bend it like Nikko](https://bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
