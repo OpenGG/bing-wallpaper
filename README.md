@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## 'Leaf' it to history
+
+Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain (© cinoby/Getty Images)
+
+!['Leaf' it to history](https://bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-11-26
+
+Download 4k: ['Leaf' it to history](https://bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Love, luck, and loose change
 
 The Trevi Fountain in Rome, Italy (© Nico De Pasquale Photography/Getty Images)
@@ -116,16 +126,6 @@ Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty I
 Date: 2025-11-17
 
 Download 4k: [The trails' call](https://bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Passages with a past
-
-A traboule in Lyon, France (© TPopova/Getty Images)
-
-![Passages with a past](https://bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-16
-
-Download 4k: [Passages with a past](https://bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
