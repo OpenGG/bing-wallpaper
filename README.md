@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Oh deer, it's cold!
+
+Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)
+
+![Oh deer, it's cold!](https://bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-11-29
+
+Download 4k: [Oh deer, it's cold!](https://bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Wear your heritage
 
 Collection of silver Native American concho belts, Santa Fe, New Mexico (© julien mcroberts/Shutterstock)
@@ -116,16 +126,6 @@ Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switze
 Date: 2025-11-20
 
 Download 4k: [Sketched into history](https://bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Stone, symbol, and a nation's story
-
-Hungarian Parliament Building, Budapest, Hungary (© Alexander Spatari/Getty Images)
-
-![Stone, symbol, and a nation's story](https://bing.com/th?id=OHR.BudapestParliament_EN-US5929195878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-19
-
-Download 4k: [Stone, symbol, and a nation's story](https://bing.com/th?id=OHR.BudapestParliament_EN-US5929195878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
