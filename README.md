@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Twinkle all the way
+
+Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)
+
+![Twinkle all the way](https://bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-11-30
+
+Download 4k: [Twinkle all the way](https://bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Oh deer, it's cold!
 
 Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)
@@ -116,16 +126,6 @@ Harbor seals at Robert Moses State Park, Long Island, New York (© Vicki Jauron,
 Date: 2025-11-21
 
 Download 4k: [Sealed with a hello](https://bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Sketched into history
-
-Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switzerland (© Valentin Flauraud/EPA-EFE/Shutterstock)
-
-![Sketched into history](https://bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-20
-
-Download 4k: [Sketched into history](https://bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
