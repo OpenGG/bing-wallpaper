@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where ice holds its breath
+
+Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)
+
+![Where ice holds its breath](https://bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-01
+
+Download 4k: [Where ice holds its breath](https://bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Twinkle all the way
 
 Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)
@@ -117,17 +127,9 @@ Date: 2025-11-22
 
 Download 4k: [The guardian of the waters](https://bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Sealed with a hello
-
-Harbor seals at Robert Moses State Park, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)
-
-![Sealed with a hello](https://bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-21
-
-Download 4k: [Sealed with a hello](https://bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2025-12](./archive/2025/12.md)
 
 [2025-11](./archive/2025/11.md)
 
