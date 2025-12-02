@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A view that speaks volumes
+
+Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska (© Patrick J. Endres/Getty Images)
+
+![A view that speaks volumes](https://bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-02
+
+Download 4k: [A view that speaks volumes](https://bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where ice holds its breath
 
 Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)
@@ -116,16 +126,6 @@ Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)
 Date: 2025-11-23
 
 Download 4k: [Nature's secret code](https://bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The guardian of the waters
-
-Leshan Giant Buddha, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)
-
-![The guardian of the waters](https://bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-22
-
-Download 4k: [The guardian of the waters](https://bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
