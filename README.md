@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sprint for survival
+
+Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)
+
+![Sprint for survival](https://bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-04
+
+Download 4k: [Sprint for survival](https://bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Dawn of the cranes
 
 Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico (© Jack Dykinga/Minden Pictures)
@@ -116,16 +126,6 @@ The Trevi Fountain in Rome, Italy (© Nico De Pasquale Photography/Getty Images)
 Date: 2025-11-25
 
 Download 4k: [Love, luck, and loose change](https://bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Secrets in stone
-
-Gwalior Fort, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)
-
-![Secrets in stone](https://bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-24
-
-Download 4k: [Secrets in stone](https://bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
