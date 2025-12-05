@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The city that mapped the stars
+
+Maya site of Copán, Honduras (© diegograndi/Getty Images)
+
+![The city that mapped the stars](https://bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-05
+
+Download 4k: [The city that mapped the stars](https://bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Sprint for survival
 
 Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)
@@ -116,16 +126,6 @@ Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain (© 
 Date: 2025-11-26
 
 Download 4k: ['Leaf' it to history](https://bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Love, luck, and loose change
-
-The Trevi Fountain in Rome, Italy (© Nico De Pasquale Photography/Getty Images)
-
-![Love, luck, and loose change](https://bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-25
-
-Download 4k: [Love, luck, and loose change](https://bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
