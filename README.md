@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Remembering Pearl Harbor
+
+USS Arizona Memorial, Pearl Harbor, Honolulu, Hawaii (© Jessica O. Blackwell/APFootage/Alamy)
+
+![Remembering Pearl Harbor](https://bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-07
+
+Download 4k: [Remembering Pearl Harbor](https://bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Florida's living wetlands
 
 Spider webs in Everglades National Park, Florida (© Troy Harrison/Getty Images)
@@ -116,16 +126,6 @@ Collection of silver Native American concho belts, Santa Fe, New Mexico (© juli
 Date: 2025-11-28
 
 Download 4k: [Wear your heritage](https://bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The echoes of Plymouth
-
-Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas (© George McCarthy/Minden Pictures)
-
-![The echoes of Plymouth](https://bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-27
-
-Download 4k: [The echoes of Plymouth](https://bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
