@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## All is calm, all is bright
+
+Christmas lights in Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)
+
+![All is calm, all is bright](https://bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-08
+
+Download 4k: [All is calm, all is bright](https://bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Remembering Pearl Harbor
 
 USS Arizona Memorial, Pearl Harbor, Honolulu, Hawaii (© Jessica O. Blackwell/APFootage/Alamy)
@@ -116,16 +126,6 @@ Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl
 Date: 2025-11-29
 
 Download 4k: [Oh deer, it's cold!](https://bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Wear your heritage
-
-Collection of silver Native American concho belts, Santa Fe, New Mexico (© julien mcroberts/Shutterstock)
-
-![Wear your heritage](https://bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-28
-
-Download 4k: [Wear your heritage](https://bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
