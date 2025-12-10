@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where cultures converge
+
+Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)
+
+![Where cultures converge](https://bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-10
+
+Download 4k: [Where cultures converge](https://bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Say 'cheese'… or grass
 
 Guanaco in Punta Norte, Argentina (© Sylvain Cordier/naturepl.com)
@@ -116,16 +126,6 @@ Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)
 Date: 2025-12-01
 
 Download 4k: [Where ice holds its breath](https://bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Twinkle all the way
-
-Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)
-
-![Twinkle all the way](https://bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-11-30
-
-Download 4k: [Twinkle all the way](https://bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
