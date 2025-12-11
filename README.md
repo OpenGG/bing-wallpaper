@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where the sky meets Earth
+
+Summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)
+
+![Where the sky meets Earth](https://bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-11
+
+Download 4k: [Where the sky meets Earth](https://bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where cultures converge
 
 Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)
@@ -116,16 +126,6 @@ Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, 
 Date: 2025-12-02
 
 Download 4k: [A view that speaks volumes](https://bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where ice holds its breath
-
-Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)
-
-![Where ice holds its breath](https://bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-01
-
-Download 4k: [Where ice holds its breath](https://bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
