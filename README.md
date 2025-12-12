@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The plant that paints the holidays red
+
+Spotted poinsettia (© DigiPub/Getty Images)
+
+![The plant that paints the holidays red](https://bing.com/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-12
+
+Download 4k: [The plant that paints the holidays red](https://bing.com/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where the sky meets Earth
 
 Summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)
@@ -116,16 +126,6 @@ Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexi
 Date: 2025-12-03
 
 Download 4k: [Dawn of the cranes](https://bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A view that speaks volumes
-
-Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska (© Patrick J. Endres/Getty Images)
-
-![A view that speaks volumes](https://bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-02
-
-Download 4k: [A view that speaks volumes](https://bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
