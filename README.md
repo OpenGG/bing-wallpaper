@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Frozen reflections
+
+Merced River, Yosemite National Park, California (© Ron and Patty Thomas/Getty Images)
+
+![Frozen reflections](https://bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-13
+
+Download 4k: [Frozen reflections](https://bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The plant that paints the holidays red
 
 Spotted poinsettia (© DigiPub/Getty Images)
@@ -116,16 +126,6 @@ Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.co
 Date: 2025-12-04
 
 Download 4k: [Sprint for survival](https://bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Dawn of the cranes
-
-Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico (© Jack Dykinga/Minden Pictures)
-
-![Dawn of the cranes](https://bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-03
-
-Download 4k: [Dawn of the cranes](https://bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
