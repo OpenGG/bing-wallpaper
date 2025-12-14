@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The great holiday bird-off
+
+Tufted titmouse perched on pine boughs, Massachusetts (© Tim Laman/NPL/Minden Pictures)
+
+![The great holiday bird-off](https://bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-14
+
+Download 4k: [The great holiday bird-off](https://bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Frozen reflections
 
 Merced River, Yosemite National Park, California (© Ron and Patty Thomas/Getty Images)
@@ -116,16 +126,6 @@ Maya site of Copán, Honduras (© diegograndi/Getty Images)
 Date: 2025-12-05
 
 Download 4k: [The city that mapped the stars](https://bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Sprint for survival
-
-Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)
-
-![Sprint for survival](https://bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-04
-
-Download 4k: [Sprint for survival](https://bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
