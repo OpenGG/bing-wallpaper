@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Still waters, bright lights
+
+Lights on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)
+
+![Still waters, bright lights](https://bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-15
+
+Download 4k: [Still waters, bright lights](https://bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The great holiday bird-off
 
 Tufted titmouse perched on pine boughs, Massachusetts (© Tim Laman/NPL/Minden Pictures)
@@ -116,16 +126,6 @@ Spider webs in Everglades National Park, Florida (© Troy Harrison/Getty Images)
 Date: 2025-12-06
 
 Download 4k: [Florida's living wetlands](https://bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The city that mapped the stars
-
-Maya site of Copán, Honduras (© diegograndi/Getty Images)
-
-![The city that mapped the stars](https://bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-05
-
-Download 4k: [The city that mapped the stars](https://bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
