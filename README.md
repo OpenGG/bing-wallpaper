@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Fur, frost, and feast
+
+Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)
+
+![Fur, frost, and feast](https://bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-17
+
+Download 4k: [Fur, frost, and feast](https://bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Tiny hats, big spirits
 
 Handmade gnomes at a Christmas market (© Veronika Seppanen/Shutterstock)
@@ -116,16 +126,6 @@ Christmas lights in Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)
 Date: 2025-12-08
 
 Download 4k: [All is calm, all is bright](https://bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Remembering Pearl Harbor
-
-USS Arizona Memorial, Pearl Harbor, Honolulu, Hawaii (© Jessica O. Blackwell/APFootage/Alamy)
-
-![Remembering Pearl Harbor](https://bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-07
-
-Download 4k: [Remembering Pearl Harbor](https://bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
