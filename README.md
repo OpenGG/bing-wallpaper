@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Layers of time in Utah
+
+Temple of the Sun, Capitol Reef National Park, Utah (© Austin Cronnelly/TANDEM Stills + Motion)
+
+![Layers of time in Utah](https://bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-18
+
+Download 4k: [Layers of time in Utah](https://bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Fur, frost, and feast
 
 Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)
@@ -116,16 +126,6 @@ Guanaco in Punta Norte, Argentina (© Sylvain Cordier/naturepl.com)
 Date: 2025-12-09
 
 Download 4k: [Say 'cheese'… or grass](https://bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## All is calm, all is bright
-
-Christmas lights in Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)
-
-![All is calm, all is bright](https://bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-08
-
-Download 4k: [All is calm, all is bright](https://bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
