@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Birth of the new sun
+
+Dawn light through frosty trees, Sweden (© Schon/Getty Images)
+
+![Birth of the new sun](https://bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-21
+
+Download 4k: [Birth of the new sun](https://bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Twinkle, twinkle, paper stars
 
 Christmas star lanterns, Germany (© artas/Getty Images)
@@ -116,16 +126,6 @@ Spotted poinsettia (© DigiPub/Getty Images)
 Date: 2025-12-12
 
 Download 4k: [The plant that paints the holidays red](https://bing.com/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where the sky meets Earth
-
-Summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)
-
-![Where the sky meets Earth](https://bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-11
-
-Download 4k: [Where the sky meets Earth](https://bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
