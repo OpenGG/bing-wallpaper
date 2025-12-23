@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where holiday magic runs on hooves
+
+Reindeer during winter snowfall, Lapland, Finland (© Roberto Moiola/Getty Images)
+
+![Where holiday magic runs on hooves](https://bing.com/th?id=OHR.ReindeerFinland_EN-US5636971050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-23
+
+Download 4k: [Where holiday magic runs on hooves](https://bing.com/th?id=OHR.ReindeerFinland_EN-US5636971050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## From Hoffmann's pages to global stages
 
 'The Nutcracker' performed by the Turkish State Opera and Ballet in Ankara, Türkiye (© Anadolu/Getty Images)
@@ -116,16 +126,6 @@ Tufted titmouse perched on pine boughs, Massachusetts (© Tim Laman/NPL/Minden P
 Date: 2025-12-14
 
 Download 4k: [The great holiday bird-off](https://bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Frozen reflections
-
-Merced River, Yosemite National Park, California (© Ron and Patty Thomas/Getty Images)
-
-![Frozen reflections](https://bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-13
-
-Download 4k: [Frozen reflections](https://bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
