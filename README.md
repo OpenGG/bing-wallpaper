@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Traditions that travel
+
+Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)
+
+![Traditions that travel](https://bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-24
+
+Download 4k: [Traditions that travel](https://bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where holiday magic runs on hooves
 
 Reindeer during winter snowfall, Lapland, Finland (© Roberto Moiola/Getty Images)
@@ -116,16 +126,6 @@ Lights on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/
 Date: 2025-12-15
 
 Download 4k: [Still waters, bright lights](https://bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The great holiday bird-off
-
-Tufted titmouse perched on pine boughs, Massachusetts (© Tim Laman/NPL/Minden Pictures)
-
-![The great holiday bird-off](https://bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-14
-
-Download 4k: [The great holiday bird-off](https://bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
