@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Miniature worlds, infinite wonder
+
+Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)
+
+![Miniature worlds, infinite wonder](https://bing.com/th?id=OHR.SantaGlobe_EN-US5819361091_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-25
+
+Download 4k: [Miniature worlds, infinite wonder](https://bing.com/th?id=OHR.SantaGlobe_EN-US5819361091_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Traditions that travel
 
 Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)
@@ -116,16 +126,6 @@ Handmade gnomes at a Christmas market (© Veronika Seppanen/Shutterstock)
 Date: 2025-12-16
 
 Download 4k: [Tiny hats, big spirits](https://bing.com/th?id=OHR.ChristmasGnomes_EN-US5094302697_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Still waters, bright lights
-
-Lights on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)
-
-![Still waters, bright lights](https://bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-15
-
-Download 4k: [Still waters, bright lights](https://bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
