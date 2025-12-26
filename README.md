@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Unboxed traditions
+
+Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)
+
+![Unboxed traditions](https://bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-26
+
+Download 4k: [Unboxed traditions](https://bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Miniature worlds, infinite wonder
 
 Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)
@@ -116,16 +126,6 @@ Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images
 Date: 2025-12-17
 
 Download 4k: [Fur, frost, and feast](https://bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Tiny hats, big spirits
-
-Handmade gnomes at a Christmas market (© Veronika Seppanen/Shutterstock)
-
-![Tiny hats, big spirits](https://bing.com/th?id=OHR.ChristmasGnomes_EN-US5094302697_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-16
-
-Download 4k: [Tiny hats, big spirits](https://bing.com/th?id=OHR.ChristmasGnomes_EN-US5094302697_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
