@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Shards of winter
+
+Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)
+
+![Shards of winter](https://bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-27
+
+Download 4k: [Shards of winter](https://bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Unboxed traditions
 
 Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)
@@ -116,16 +126,6 @@ Temple of the Sun, Capitol Reef National Park, Utah (© Austin Cronnelly/TANDEM 
 Date: 2025-12-18
 
 Download 4k: [Layers of time in Utah](https://bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Fur, frost, and feast
-
-Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)
-
-![Fur, frost, and feast](https://bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-17
-
-Download 4k: [Fur, frost, and feast](https://bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
