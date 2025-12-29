@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The church that outlived a city
+
+St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)
+
+![The church that outlived a city](https://bing.com/th?id=OHR.AniTurkey_EN-US6168768263_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-29
+
+Download 4k: [The church that outlived a city](https://bing.com/th?id=OHR.AniTurkey_EN-US6168768263_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## What remains wild
 
 Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)
@@ -116,16 +126,6 @@ Christmas star lanterns, Germany (© artas/Getty Images)
 Date: 2025-12-20
 
 Download 4k: [Twinkle, twinkle, paper stars](https://bing.com/th?id=OHR.StarLanterns_EN-US5419993556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## High mountains, deep history
-
-Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)
-
-![High mountains, deep history](https://bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-19
-
-Download 4k: [High mountains, deep history](https://bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
