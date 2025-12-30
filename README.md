@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Whoop, there they fly
+
+Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)
+
+![Whoop, there they fly](https://bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-30
+
+Download 4k: [Whoop, there they fly](https://bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The church that outlived a city
 
 St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)
@@ -116,16 +126,6 @@ Dawn light through frosty trees, Sweden (© Schon/Getty Images)
 Date: 2025-12-21
 
 Download 4k: [Birth of the new sun](https://bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Twinkle, twinkle, paper stars
-
-Christmas star lanterns, Germany (© artas/Getty Images)
-
-![Twinkle, twinkle, paper stars](https://bing.com/th?id=OHR.StarLanterns_EN-US5419993556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-20
-
-Download 4k: [Twinkle, twinkle, paper stars](https://bing.com/th?id=OHR.StarLanterns_EN-US5419993556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
