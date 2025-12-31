@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where Berlin bridges the New Year
+
+New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)
+
+![Where Berlin bridges the New Year](https://bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2025-12-31
+
+Download 4k: [Where Berlin bridges the New Year](https://bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Whoop, there they fly
 
 Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)
@@ -116,16 +126,6 @@ Download 4k: [Where holiday magic runs on hooves](https://bing.com/th?id=OHR.Rei
 Date: 2025-12-22
 
 Download 4k: [From Hoffmann's pages to global stages](https://bing.com/th?id=OHR.NutcrackerAnkara_EN-US5537620581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Birth of the new sun
-
-Dawn light through frosty trees, Sweden (© Schon/Getty Images)
-
-![Birth of the new sun](https://bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-21
-
-Download 4k: [Birth of the new sun](https://bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
