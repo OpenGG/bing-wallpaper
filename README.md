@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Stretch into the New Year
+
+Arctic fox sleeping (© Chansak Joe/Getty Images)
+
+![Stretch into the New Year](https://bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-01
+
+Download 4k: [Stretch into the New Year](https://bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where Berlin bridges the New Year
 
 New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)
@@ -117,17 +127,9 @@ Date: 2025-12-23
 
 Download 4k: [Where holiday magic runs on hooves](https://bing.com/th?id=OHR.ReindeerFinland_EN-US5636971050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## From Hoffmann's pages to global stages
-
-'The Nutcracker' performed by the Turkish State Opera and Ballet in Ankara, Türkiye (© Anadolu/Getty Images)
-
-![From Hoffmann's pages to global stages](https://bing.com/th?id=OHR.NutcrackerAnkara_EN-US5537620581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-22
-
-Download 4k: [From Hoffmann's pages to global stages](https://bing.com/th?id=OHR.NutcrackerAnkara_EN-US5537620581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2026-01](./archive/2026/01.md)
 
 [2025-12](./archive/2025/12.md)
 
