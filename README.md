@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The soul of Venice
+
+Aerial view of Venice, Italy (© Clement Leonard/Getty Images)
+
+![The soul of Venice](https://bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-02
+
+Download 4k: [The soul of Venice](https://bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Stretch into the New Year
 
 Arctic fox sleeping (© Chansak Joe/Getty Images)
@@ -116,16 +126,6 @@ Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius ima
 Date: 2025-12-24
 
 Download 4k: [Traditions that travel](https://bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where holiday magic runs on hooves
-
-Reindeer during winter snowfall, Lapland, Finland (© Roberto Moiola/Getty Images)
-
-![Where holiday magic runs on hooves](https://bing.com/th?id=OHR.ReindeerFinland_EN-US5636971050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-23
-
-Download 4k: [Where holiday magic runs on hooves](https://bing.com/th?id=OHR.ReindeerFinland_EN-US5636971050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
