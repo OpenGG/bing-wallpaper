@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The steps before the saga
+
+Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland (© pongnathee kluaythong/Getty Images)
+
+![The steps before the saga](https://bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-03
+
+Download 4k: [The steps before the saga](https://bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The soul of Venice
 
 Aerial view of Venice, Italy (© Clement Leonard/Getty Images)
@@ -116,16 +126,6 @@ Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris
 Date: 2025-12-25
 
 Download 4k: [Miniature worlds, infinite wonder](https://bing.com/th?id=OHR.SantaGlobe_EN-US5819361091_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Traditions that travel
-
-Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)
-
-![Traditions that travel](https://bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-24
-
-Download 4k: [Traditions that travel](https://bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
