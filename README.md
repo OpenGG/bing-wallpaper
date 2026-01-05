@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Herd on high alert
+
+A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)
+
+![Herd on high alert](https://bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-05
+
+Download 4k: [Herd on high alert](https://bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A royal view
 
 Kings Mountain, Chugach Mountains, Alaska (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)
@@ -116,16 +126,6 @@ Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Im
 Date: 2025-12-27
 
 Download 4k: [Shards of winter](https://bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Unboxed traditions
-
-Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)
-
-![Unboxed traditions](https://bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-26
-
-Download 4k: [Unboxed traditions](https://bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
