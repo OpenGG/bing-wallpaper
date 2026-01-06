@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Chillin' in Nuuk
+
+Nuuk, Greenland (© nevereverro/Getty Images)
+
+![Chillin' in Nuuk](https://bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-06
+
+Download 4k: [Chillin' in Nuuk](https://bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Herd on high alert
 
 A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)
@@ -116,16 +126,6 @@ Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)
 Date: 2025-12-28
 
 Download 4k: [What remains wild](https://bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Shards of winter
-
-Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)
-
-![Shards of winter](https://bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-27
-
-Download 4k: [Shards of winter](https://bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
