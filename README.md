@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Rock legends
+
+Turret Arch framed by North Window in Arches National Park, Utah (© Jim Patterson/TANDEM Stills + Motion)
+
+![Rock legends](https://bing.com/th?id=OHR.OldRockArch_EN-US2422589534_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-07
+
+Download 4k: [Rock legends](https://bing.com/th?id=OHR.OldRockArch_EN-US2422589534_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Chillin' in Nuuk
 
 Nuuk, Greenland (© nevereverro/Getty Images)
@@ -116,16 +126,6 @@ St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)
 Date: 2025-12-29
 
 Download 4k: [The church that outlived a city](https://bing.com/th?id=OHR.AniTurkey_EN-US6168768263_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## What remains wild
-
-Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)
-
-![What remains wild](https://bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-28
-
-Download 4k: [What remains wild](https://bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
