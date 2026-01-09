@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where time grows tall
+
+Giant redwood trees in Muir Woods National Monument, California (© photo by canderson/Getty Images)
+
+![Where time grows tall](https://bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-09
+
+Download 4k: [Where time grows tall](https://bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Rust meets rush
 
 Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images)
@@ -116,16 +126,6 @@ New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)
 Date: 2025-12-31
 
 Download 4k: [Where Berlin bridges the New Year](https://bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Whoop, there they fly
-
-Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)
-
-![Whoop, there they fly](https://bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-30
-
-Download 4k: [Whoop, there they fly](https://bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
