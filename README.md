@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Pure Swiss magic
+
+The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland (© Andy Trowbridge/naturepl.com)
+
+![Pure Swiss magic](https://bing.com/th?id=OHR.MatterhornSunrise_EN-US9978097106_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-10
+
+Download 4k: [Pure Swiss magic](https://bing.com/th?id=OHR.MatterhornSunrise_EN-US9978097106_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where time grows tall
 
 Giant redwood trees in Muir Woods National Monument, California (© photo by canderson/Getty Images)
@@ -116,16 +126,6 @@ Arctic fox sleeping (© Chansak Joe/Getty Images)
 Date: 2026-01-01
 
 Download 4k: [Stretch into the New Year](https://bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where Berlin bridges the New Year
-
-New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)
-
-![Where Berlin bridges the New Year](https://bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2025-12-31
-
-Download 4k: [Where Berlin bridges the New Year](https://bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
