@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## From resistance to radiance
+
+Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)
+
+![From resistance to radiance](https://bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-11
+
+Download 4k: [From resistance to radiance](https://bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Pure Swiss magic
 
 The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland (© Andy Trowbridge/naturepl.com)
@@ -116,16 +126,6 @@ Aerial view of Venice, Italy (© Clement Leonard/Getty Images)
 Date: 2026-01-02
 
 Download 4k: [The soul of Venice](https://bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Stretch into the New Year
-
-Arctic fox sleeping (© Chansak Joe/Getty Images)
-
-![Stretch into the New Year](https://bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-01
-
-Download 4k: [Stretch into the New Year](https://bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
