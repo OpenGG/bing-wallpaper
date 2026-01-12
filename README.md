@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Otter-ly Estonia
+
+Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)
+
+![Otter-ly Estonia](https://bing.com/th?id=OHR.SnowOtters_EN-US0138589680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-12
+
+Download 4k: [Otter-ly Estonia](https://bing.com/th?id=OHR.SnowOtters_EN-US0138589680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## From resistance to radiance
 
 Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)
@@ -116,16 +126,6 @@ Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland (© pongnathee klu
 Date: 2026-01-03
 
 Download 4k: [The steps before the saga](https://bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The soul of Venice
-
-Aerial view of Venice, Italy (© Clement Leonard/Getty Images)
-
-![The soul of Venice](https://bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-02
-
-Download 4k: [The soul of Venice](https://bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
