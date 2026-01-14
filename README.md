@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Ascending history at Palamidi
+
+The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)
+
+![Ascending history at Palamidi](https://bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-14
+
+Download 4k: [Ascending history at Palamidi](https://bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Apple rhymes and old times
 
 Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)
@@ -116,16 +126,6 @@ A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Im
 Date: 2026-01-05
 
 Download 4k: [Herd on high alert](https://bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A royal view
-
-Kings Mountain, Chugach Mountains, Alaska (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)
-
-![A royal view](https://bing.com/th?id=OHR.KingMountain_EN-US6730743729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-04
-
-Download 4k: [A royal view](https://bing.com/th?id=OHR.KingMountain_EN-US6730743729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
