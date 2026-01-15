@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Tiny village, big views
+
+The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)
+
+![Tiny village, big views](https://bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-15
+
+Download 4k: [Tiny village, big views](https://bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Ascending history at Palamidi
 
 The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)
@@ -116,16 +126,6 @@ Nuuk, Greenland (© nevereverro/Getty Images)
 Date: 2026-01-06
 
 Download 4k: [Chillin' in Nuuk](https://bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Herd on high alert
-
-A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)
-
-![Herd on high alert](https://bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-05
-
-Download 4k: [Herd on high alert](https://bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
