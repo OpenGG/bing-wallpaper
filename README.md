@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Eye see you
+
+Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)
+
+![Eye see you](https://bing.com/th?id=OHR.EtoshaLeopard_EN-US0412326524_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-16
+
+Download 4k: [Eye see you](https://bing.com/th?id=OHR.EtoshaLeopard_EN-US0412326524_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Tiny village, big views
 
 The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)
@@ -116,16 +126,6 @@ Turret Arch framed by North Window in Arches National Park, Utah (© Jim Patters
 Date: 2026-01-07
 
 Download 4k: [Rock legends](https://bing.com/th?id=OHR.OldRockArch_EN-US2422589534_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Chillin' in Nuuk
-
-Nuuk, Greenland (© nevereverro/Getty Images)
-
-![Chillin' in Nuuk](https://bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-06
-
-Download 4k: [Chillin' in Nuuk](https://bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
