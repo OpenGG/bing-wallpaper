@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The dome of Piazza del Plebiscito
+
+Basilica of San Francesco di Paola, Naples, Italy (© javarman3/Getty Images)
+
+![The dome of Piazza del Plebiscito](https://bing.com/th?id=OHR.NaplesBasilica_EN-US0483177548_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-17
+
+Download 4k: [The dome of Piazza del Plebiscito](https://bing.com/th?id=OHR.NaplesBasilica_EN-US0483177548_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Eye see you
 
 Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)
@@ -116,16 +126,6 @@ Starling murmuration over the ruins of Brighton's West Pier, England (© Philip 
 Date: 2026-01-08
 
 Download 4k: [Rust meets rush](https://bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Rock legends
-
-Turret Arch framed by North Window in Arches National Park, Utah (© Jim Patterson/TANDEM Stills + Motion)
-
-![Rock legends](https://bing.com/th?id=OHR.OldRockArch_EN-US2422589534_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-07
-
-Download 4k: [Rock legends](https://bing.com/th?id=OHR.OldRockArch_EN-US2422589534_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
