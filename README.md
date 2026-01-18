@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A desert in disguise
+
+White Sands National Park, New Mexico (© Francesco Carucci/Getty Images)
+
+![A desert in disguise](https://bing.com/th?id=OHR.WhiteSandsNM_EN-US0565482616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-18
+
+Download 4k: [A desert in disguise](https://bing.com/th?id=OHR.WhiteSandsNM_EN-US0565482616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The dome of Piazza del Plebiscito
 
 Basilica of San Francesco di Paola, Naples, Italy (© javarman3/Getty Images)
@@ -116,16 +126,6 @@ Giant redwood trees in Muir Woods National Monument, California (© photo by can
 Date: 2026-01-09
 
 Download 4k: [Where time grows tall](https://bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Rust meets rush
-
-Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images)
-
-![Rust meets rush](https://bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-08
-
-Download 4k: [Rust meets rush](https://bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
