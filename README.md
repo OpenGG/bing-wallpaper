@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Standing where hope rose
+
+Washington Monument seen from Lincoln Memorial, Washington, DC (© RickSause/Getty Images)
+
+![Standing where hope rose](https://bing.com/th?id=OHR.MLKSunrise_EN-US0641684404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-19
+
+Download 4k: [Standing where hope rose](https://bing.com/th?id=OHR.MLKSunrise_EN-US0641684404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A desert in disguise
 
 White Sands National Park, New Mexico (© Francesco Carucci/Getty Images)
@@ -116,16 +126,6 @@ The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland (© 
 Date: 2026-01-10
 
 Download 4k: [Pure Swiss magic](https://bing.com/th?id=OHR.MatterhornSunrise_EN-US9978097106_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where time grows tall
-
-Giant redwood trees in Muir Woods National Monument, California (© photo by canderson/Getty Images)
-
-![Where time grows tall](https://bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-09
-
-Download 4k: [Where time grows tall](https://bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
