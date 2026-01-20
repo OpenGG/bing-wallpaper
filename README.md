@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Life on the edge of the ice
+
+Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)
+
+![Life on the edge of the ice](https://bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-20
+
+Download 4k: [Life on the edge of the ice](https://bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Standing where hope rose
 
 Washington Monument seen from Lincoln Memorial, Washington, DC (© RickSause/Getty Images)
@@ -116,16 +126,6 @@ Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)
 Date: 2026-01-11
 
 Download 4k: [From resistance to radiance](https://bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Pure Swiss magic
-
-The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland (© Andy Trowbridge/naturepl.com)
-
-![Pure Swiss magic](https://bing.com/th?id=OHR.MatterhornSunrise_EN-US9978097106_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-10
-
-Download 4k: [Pure Swiss magic](https://bing.com/th?id=OHR.MatterhornSunrise_EN-US9978097106_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
