@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A flash of red in the winter white
+
+Eurasian red squirrel (© Galina Jacyna/Getty Images)
+
+![A flash of red in the winter white](https://bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-21
+
+Download 4k: [A flash of red in the winter white](https://bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Life on the edge of the ice
 
 Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)
@@ -116,16 +126,6 @@ Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)
 Date: 2026-01-12
 
 Download 4k: [Otter-ly Estonia](https://bing.com/th?id=OHR.SnowOtters_EN-US0138589680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## From resistance to radiance
-
-Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)
-
-![From resistance to radiance](https://bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-11
-
-Download 4k: [From resistance to radiance](https://bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
