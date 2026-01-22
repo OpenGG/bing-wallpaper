@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A Bohemian spa story
+
+Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)
+
+![A Bohemian spa story](https://bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-22
+
+Download 4k: [A Bohemian spa story](https://bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A flash of red in the winter white
 
 Eurasian red squirrel (© Galina Jacyna/Getty Images)
@@ -116,16 +126,6 @@ Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)
 Date: 2026-01-13
 
 Download 4k: [Apple rhymes and old times](https://bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Otter-ly Estonia
-
-Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)
-
-![Otter-ly Estonia](https://bing.com/th?id=OHR.SnowOtters_EN-US0138589680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-12
-
-Download 4k: [Otter-ly Estonia](https://bing.com/th?id=OHR.SnowOtters_EN-US0138589680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
