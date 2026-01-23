@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Feasting through frost
+
+Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images)
+
+![Feasting through frost](https://bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-23
+
+Download 4k: [Feasting through frost](https://bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A Bohemian spa story
 
 Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)
@@ -116,16 +126,6 @@ The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantour
 Date: 2026-01-14
 
 Download 4k: [Ascending history at Palamidi](https://bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Apple rhymes and old times
-
-Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)
-
-![Apple rhymes and old times](https://bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-13
-
-Download 4k: [Apple rhymes and old times](https://bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
