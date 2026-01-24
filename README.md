@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A Swiss escape
+
+Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)
+
+![A Swiss escape](https://bing.com/th?id=OHR.AndermattSwiss_EN-US9318337691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-24
+
+Download 4k: [A Swiss escape](https://bing.com/th?id=OHR.AndermattSwiss_EN-US9318337691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Feasting through frost
 
 Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images)
@@ -116,16 +126,6 @@ The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)
 Date: 2026-01-15
 
 Download 4k: [Tiny village, big views](https://bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Ascending history at Palamidi
-
-The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)
-
-![Ascending history at Palamidi](https://bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-14
-
-Download 4k: [Ascending history at Palamidi](https://bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
