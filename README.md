@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Tradition burns bright
+
+Burns National Heritage Park, Ayr, Ayrshire, Scotland (© Alister Firth/Alamy)
+
+![Tradition burns bright](https://bing.com/th?id=OHR.BurnsPark_EN-US9363066918_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-25
+
+Download 4k: [Tradition burns bright](https://bing.com/th?id=OHR.BurnsPark_EN-US9363066918_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A Swiss escape
 
 Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)
@@ -116,16 +126,6 @@ Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)
 Date: 2026-01-16
 
 Download 4k: [Eye see you](https://bing.com/th?id=OHR.EtoshaLeopard_EN-US0412326524_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Tiny village, big views
-
-The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)
-
-![Tiny village, big views](https://bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-15
-
-Download 4k: [Tiny village, big views](https://bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
