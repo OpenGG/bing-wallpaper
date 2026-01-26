@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Bavaria’s gem
+
+Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)
+
+![Bavaria’s gem](https://bing.com/th?id=OHR.NeuschwansteinWinter_EN-US9407713688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-26
+
+Download 4k: [Bavaria’s gem](https://bing.com/th?id=OHR.NeuschwansteinWinter_EN-US9407713688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Tradition burns bright
 
 Burns National Heritage Park, Ayr, Ayrshire, Scotland (© Alister Firth/Alamy)
@@ -116,16 +126,6 @@ Basilica of San Francesco di Paola, Naples, Italy (© javarman3/Getty Images)
 Date: 2026-01-17
 
 Download 4k: [The dome of Piazza del Plebiscito](https://bing.com/th?id=OHR.NaplesBasilica_EN-US0483177548_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Eye see you
-
-Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)
-
-![Eye see you](https://bing.com/th?id=OHR.EtoshaLeopard_EN-US0412326524_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-16
-
-Download 4k: [Eye see you](https://bing.com/th?id=OHR.EtoshaLeopard_EN-US0412326524_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
