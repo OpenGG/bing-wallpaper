@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Feather forecast: pelicans ahead
+
+Dalmatian pelicans, Lake Kerkini, Greece (© Guy Edwardes/naturepl.com)
+
+![Feather forecast: pelicans ahead](https://bing.com/th?id=OHR.DalmationPelicans_EN-US9458474756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-27
+
+Download 4k: [Feather forecast: pelicans ahead](https://bing.com/th?id=OHR.DalmationPelicans_EN-US9458474756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Bavaria’s gem
 
 Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)
@@ -116,16 +126,6 @@ White Sands National Park, New Mexico (© Francesco Carucci/Getty Images)
 Date: 2026-01-18
 
 Download 4k: [A desert in disguise](https://bing.com/th?id=OHR.WhiteSandsNM_EN-US0565482616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The dome of Piazza del Plebiscito
-
-Basilica of San Francesco di Paola, Naples, Italy (© javarman3/Getty Images)
-
-![The dome of Piazza del Plebiscito](https://bing.com/th?id=OHR.NaplesBasilica_EN-US0483177548_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-17
-
-Download 4k: [The dome of Piazza del Plebiscito](https://bing.com/th?id=OHR.NaplesBasilica_EN-US0483177548_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
