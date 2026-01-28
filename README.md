@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Flow with it
+
+Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images)
+
+![Flow with it](https://bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-28
+
+Download 4k: [Flow with it](https://bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Feather forecast: pelicans ahead
 
 Dalmatian pelicans, Lake Kerkini, Greece (© Guy Edwardes/naturepl.com)
@@ -116,16 +126,6 @@ Washington Monument seen from Lincoln Memorial, Washington, DC (© RickSause/Get
 Date: 2026-01-19
 
 Download 4k: [Standing where hope rose](https://bing.com/th?id=OHR.MLKSunrise_EN-US0641684404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A desert in disguise
-
-White Sands National Park, New Mexico (© Francesco Carucci/Getty Images)
-
-![A desert in disguise](https://bing.com/th?id=OHR.WhiteSandsNM_EN-US0565482616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-18
-
-Download 4k: [A desert in disguise](https://bing.com/th?id=OHR.WhiteSandsNM_EN-US0565482616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
