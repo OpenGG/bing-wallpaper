@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A tall story of Milwaukee
+
+The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photography/Getty Images)
+
+![A tall story of Milwaukee](https://bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-29
+
+Download 4k: [A tall story of Milwaukee](https://bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Flow with it
 
 Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images)
@@ -116,16 +126,6 @@ Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com
 Date: 2026-01-20
 
 Download 4k: [Life on the edge of the ice](https://bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Standing where hope rose
-
-Washington Monument seen from Lincoln Memorial, Washington, DC (© RickSause/Getty Images)
-
-![Standing where hope rose](https://bing.com/th?id=OHR.MLKSunrise_EN-US0641684404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-19
-
-Download 4k: [Standing where hope rose](https://bing.com/th?id=OHR.MLKSunrise_EN-US0641684404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
