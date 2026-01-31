@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Love at first stripe
+
+Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)
+
+![Love at first stripe](https://bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-01-31
+
+Download 4k: [Love at first stripe](https://bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where the sea makes way
 
 St. Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)
@@ -116,16 +126,6 @@ Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)
 Date: 2026-01-22
 
 Download 4k: [A Bohemian spa story](https://bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A flash of red in the winter white
-
-Eurasian red squirrel (© Galina Jacyna/Getty Images)
-
-![A flash of red in the winter white](https://bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-21
-
-Download 4k: [A flash of red in the winter white](https://bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
