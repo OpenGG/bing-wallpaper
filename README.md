@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A shadow's promise
+
+Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)
+
+![A shadow's promise](https://bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-02
+
+Download 4k: [A shadow's promise](https://bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Celebrate. Reflect. Rise.
 
 US Army nurses arrive in Greenock, Scotland, 1944 (© Stocktrek Images, Inc/Alamy)
@@ -116,16 +126,6 @@ Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)
 Date: 2026-01-24
 
 Download 4k: [A Swiss escape](https://bing.com/th?id=OHR.AndermattSwiss_EN-US9318337691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Feasting through frost
-
-Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images)
-
-![Feasting through frost](https://bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-23
-
-Download 4k: [Feasting through frost](https://bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
