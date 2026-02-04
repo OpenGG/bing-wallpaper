@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The face of change
+
+Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver (© Cyrus McCrimmon/The Denver Post via Getty Images)
+
+![The face of change](https://bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-04
+
+Download 4k: [The face of change](https://bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Tahoe serving views
 
 Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images)
@@ -116,16 +126,6 @@ Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Rese
 Date: 2026-01-26
 
 Download 4k: [Bavaria’s gem](https://bing.com/th?id=OHR.NeuschwansteinWinter_EN-US9407713688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Tradition burns bright
-
-Burns National Heritage Park, Ayr, Ayrshire, Scotland (© Alister Firth/Alamy)
-
-![Tradition burns bright](https://bing.com/th?id=OHR.BurnsPark_EN-US9363066918_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-25
-
-Download 4k: [Tradition burns bright](https://bing.com/th?id=OHR.BurnsPark_EN-US9363066918_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
