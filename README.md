@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Stuck in a grid
+
+Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)
+
+![Stuck in a grid](https://bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-05
+
+Download 4k: [Stuck in a grid](https://bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The face of change
 
 Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver (© Cyrus McCrimmon/The Denver Post via Getty Images)
@@ -116,16 +126,6 @@ Dalmatian pelicans, Lake Kerkini, Greece (© Guy Edwardes/naturepl.com)
 Date: 2026-01-27
 
 Download 4k: [Feather forecast: pelicans ahead](https://bing.com/th?id=OHR.DalmationPelicans_EN-US9458474756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Bavaria’s gem
-
-Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)
-
-![Bavaria’s gem](https://bing.com/th?id=OHR.NeuschwansteinWinter_EN-US9407713688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-26
-
-Download 4k: [Bavaria’s gem](https://bing.com/th?id=OHR.NeuschwansteinWinter_EN-US9407713688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
