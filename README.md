@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Ra Gusela—peak of the Olympic season
+
+Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)
+
+![Ra Gusela—peak of the Olympic season](https://bing.com/th?id=OHR.GiauPass_EN-US1580552183_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-06
+
+Download 4k: [Ra Gusela—peak of the Olympic season](https://bing.com/th?id=OHR.GiauPass_EN-US1580552183_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Stuck in a grid
 
 Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)
@@ -116,16 +126,6 @@ Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Im
 Date: 2026-01-28
 
 Download 4k: [Flow with it](https://bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Feather forecast: pelicans ahead
-
-Dalmatian pelicans, Lake Kerkini, Greece (© Guy Edwardes/naturepl.com)
-
-![Feather forecast: pelicans ahead](https://bing.com/th?id=OHR.DalmationPelicans_EN-US9458474756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-27
-
-Download 4k: [Feather forecast: pelicans ahead](https://bing.com/th?id=OHR.DalmationPelicans_EN-US9458474756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
