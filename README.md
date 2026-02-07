@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Salt, sky, and the stillness between
+
+Salar de Uyuni salt flats in Bolivia (© Abstract Aerial Art/Getty Images)
+
+![Salt, sky, and the stillness between](https://bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-07
+
+Download 4k: [Salt, sky, and the stillness between](https://bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Ra Gusela—peak of the Olympic season
 
 Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)
@@ -116,16 +126,6 @@ The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photogra
 Date: 2026-01-29
 
 Download 4k: [A tall story of Milwaukee](https://bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Flow with it
-
-Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images)
-
-![Flow with it](https://bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-28
-
-Download 4k: [Flow with it](https://bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
