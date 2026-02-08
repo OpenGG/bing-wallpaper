@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## From quiet nights to adventurous days
+
+Corfu at night, Greece (© whitewizzard/Getty Images)
+
+![From quiet nights to adventurous days](https://bing.com/th?id=OHR.CorfuGreece_EN-US4606019833_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-08
+
+Download 4k: [From quiet nights to adventurous days](https://bing.com/th?id=OHR.CorfuGreece_EN-US4606019833_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Salt, sky, and the stillness between
 
 Salar de Uyuni salt flats in Bolivia (© Abstract Aerial Art/Getty Images)
@@ -116,16 +126,6 @@ St. Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/roberthar
 Date: 2026-01-30
 
 Download 4k: [Where the sea makes way](https://bing.com/th?id=OHR.StMichaelsCornwall_EN-US0036057583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A tall story of Milwaukee
-
-The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photography/Getty Images)
-
-![A tall story of Milwaukee](https://bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-29
-
-Download 4k: [A tall story of Milwaukee](https://bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
