@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Patterns in motion
+
+Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)
+
+![Patterns in motion](https://bing.com/th?id=OHR.LeopardCat_EN-US4669057608_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-09
+
+Download 4k: [Patterns in motion](https://bing.com/th?id=OHR.LeopardCat_EN-US4669057608_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## From quiet nights to adventurous days
 
 Corfu at night, Greece (© whitewizzard/Getty Images)
@@ -116,16 +126,6 @@ Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)
 Date: 2026-01-31
 
 Download 4k: [Love at first stripe](https://bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where the sea makes way
-
-St. Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)
-
-![Where the sea makes way](https://bing.com/th?id=OHR.StMichaelsCornwall_EN-US0036057583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-01-30
-
-Download 4k: [Where the sea makes way](https://bing.com/th?id=OHR.StMichaelsCornwall_EN-US0036057583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
