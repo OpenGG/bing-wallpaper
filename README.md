@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The valley of contrasts
+
+Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/TANDEM Stills + Motion)
+
+![The valley of contrasts](https://bing.com/th?id=OHR.BadwaterFlats_EN-US4770719796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-11
+
+Download 4k: [The valley of contrasts](https://bing.com/th?id=OHR.BadwaterFlats_EN-US4770719796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where the Sirens sing
 
 Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)
@@ -116,16 +126,6 @@ Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Image
 Date: 2026-02-02
 
 Download 4k: [A shadow's promise](https://bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Celebrate. Reflect. Rise.
-
-US Army nurses arrive in Greenock, Scotland, 1944 (© Stocktrek Images, Inc/Alamy)
-
-![Celebrate. Reflect. Rise.](https://bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-01
-
-Download 4k: [Celebrate. Reflect. Rise.](https://bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
