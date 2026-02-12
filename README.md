@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Evolution in focus
+
+Blue-footed booby, Galápagos Islands, Ecuador (© Karine Aigner/TANDEM Stills + Motion)
+
+![Evolution in focus](https://bing.com/th?id=OHR.DarwinBooby_EN-US4839738451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-12
+
+Download 4k: [Evolution in focus](https://bing.com/th?id=OHR.DarwinBooby_EN-US4839738451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The valley of contrasts
 
 Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/TANDEM Stills + Motion)
@@ -116,16 +126,6 @@ Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan
 Date: 2026-02-03
 
 Download 4k: [Tahoe serving views](https://bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A shadow's promise
-
-Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)
-
-![A shadow's promise](https://bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-02
-
-Download 4k: [A shadow's promise](https://bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
