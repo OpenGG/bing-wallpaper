@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Songs beneath the waves
+
+Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)
+
+![Songs beneath the waves](https://bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-15
+
+Download 4k: [Songs beneath the waves](https://bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Love in bloom
 
 Bleeding hearts (© Dorene Hookey/Cavan Images)
@@ -116,16 +126,6 @@ Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/G
 Date: 2026-02-06
 
 Download 4k: [Ra Gusela—peak of the Olympic season](https://bing.com/th?id=OHR.GiauPass_EN-US1580552183_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Stuck in a grid
-
-Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)
-
-![Stuck in a grid](https://bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-05
-
-Download 4k: [Stuck in a grid](https://bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
