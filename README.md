@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Legacies in view
+
+Lincoln Memorial, Washington, DC (© Westend61/Getty Images)
+
+![Legacies in view](https://bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-16
+
+Download 4k: [Legacies in view](https://bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Songs beneath the waves
 
 Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)
@@ -116,16 +126,6 @@ Salar de Uyuni salt flats in Bolivia (© Abstract Aerial Art/Getty Images)
 Date: 2026-02-07
 
 Download 4k: [Salt, sky, and the stillness between](https://bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Ra Gusela—peak of the Olympic season
-
-Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)
-
-![Ra Gusela—peak of the Olympic season](https://bing.com/th?id=OHR.GiauPass_EN-US1580552183_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-06
-
-Download 4k: [Ra Gusela—peak of the Olympic season](https://bing.com/th?id=OHR.GiauPass_EN-US1580552183_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
