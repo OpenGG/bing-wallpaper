@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Fifteen days of light
+
+Red lanterns celebrating Chinese New Year (© Gins Wang/Getty Images)
+
+![Fifteen days of light](https://bing.com/th?id=OHR.NewYearLantern_EN-US6665128229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-17
+
+Download 4k: [Fifteen days of light](https://bing.com/th?id=OHR.NewYearLantern_EN-US6665128229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Legacies in view
 
 Lincoln Memorial, Washington, DC (© Westend61/Getty Images)
@@ -116,16 +126,6 @@ Corfu at night, Greece (© whitewizzard/Getty Images)
 Date: 2026-02-08
 
 Download 4k: [From quiet nights to adventurous days](https://bing.com/th?id=OHR.CorfuGreece_EN-US4606019833_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Salt, sky, and the stillness between
-
-Salar de Uyuni salt flats in Bolivia (© Abstract Aerial Art/Getty Images)
-
-![Salt, sky, and the stillness between](https://bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-07
-
-Download 4k: [Salt, sky, and the stillness between](https://bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
