@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Born to stay wild
+
+Przewalski's horses (© Nemyrivskyi Viacheslav/Getty Images)
+
+![Born to stay wild](https://bing.com/th?id=OHR.PrzewalskisHorse_EN-US6767229079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-18
+
+Download 4k: [Born to stay wild](https://bing.com/th?id=OHR.PrzewalskisHorse_EN-US6767229079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Fifteen days of light
 
 Red lanterns celebrating Chinese New Year (© Gins Wang/Getty Images)
@@ -116,16 +126,6 @@ Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)
 Date: 2026-02-09
 
 Download 4k: [Patterns in motion](https://bing.com/th?id=OHR.LeopardCat_EN-US4669057608_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## From quiet nights to adventurous days
-
-Corfu at night, Greece (© whitewizzard/Getty Images)
-
-![From quiet nights to adventurous days](https://bing.com/th?id=OHR.CorfuGreece_EN-US4606019833_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-08
-
-Download 4k: [From quiet nights to adventurous days](https://bing.com/th?id=OHR.CorfuGreece_EN-US4606019833_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
