@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where light falls
+
+Horsetail Fall in Yosemite National Park, California (© Jorge Villalba/Getty Images)
+
+![Where light falls](https://bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-20
+
+Download 4k: [Where light falls](https://bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where the land stares back
 
 The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)
@@ -116,16 +126,6 @@ Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Pat
 Date: 2026-02-11
 
 Download 4k: [The valley of contrasts](https://bing.com/th?id=OHR.BadwaterFlats_EN-US4770719796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where the Sirens sing
-
-Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)
-
-![Where the Sirens sing](https://bing.com/th?id=OHR.IbizaIslets_EN-US4713963434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-10
-
-Download 4k: [Where the Sirens sing](https://bing.com/th?id=OHR.IbizaIslets_EN-US4713963434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
