@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The mother of hills
+
+The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)
+
+![The mother of hills](https://bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-22
+
+Download 4k: [The mother of hills](https://bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Whispers of winter
 
 Red fox standing in snowfall, Grand Teton National Park, Wyoming (© Radomir Jakubowski/naturepl.com)
@@ -116,16 +126,6 @@ Third Thai-Lao Friendship Bridge connecting Laos and Thailand (© chaiyut samsuk
 Date: 2026-02-13
 
 Download 4k: [Built to bring closer](https://bing.com/th?id=OHR.FriendshipBridge_EN-US6136231298_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Evolution in focus
-
-Blue-footed booby, Galápagos Islands, Ecuador (© Karine Aigner/TANDEM Stills + Motion)
-
-![Evolution in focus](https://bing.com/th?id=OHR.DarwinBooby_EN-US4839738451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-12
-
-Download 4k: [Evolution in focus](https://bing.com/th?id=OHR.DarwinBooby_EN-US4839738451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
