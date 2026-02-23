@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Snowfield monarch
+
+Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)
+
+![Snowfield monarch](https://bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-23
+
+Download 4k: [Snowfield monarch](https://bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The mother of hills
 
 The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)
@@ -116,16 +126,6 @@ Bleeding hearts (© Dorene Hookey/Cavan Images)
 Date: 2026-02-14
 
 Download 4k: [Love in bloom](https://bing.com/th?id=OHR.ValentineHearts_EN-US6208359150_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Built to bring closer
-
-Third Thai-Lao Friendship Bridge connecting Laos and Thailand (© chaiyut samsuk/Getty Images)
-
-![Built to bring closer](https://bing.com/th?id=OHR.FriendshipBridge_EN-US6136231298_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-13
-
-Download 4k: [Built to bring closer](https://bing.com/th?id=OHR.FriendshipBridge_EN-US6136231298_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
