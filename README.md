@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The pulse beneath the pond
+
+Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)
+
+![The pulse beneath the pond](https://bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-24
+
+Download 4k: [The pulse beneath the pond](https://bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Snowfield monarch
 
 Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)
@@ -116,16 +126,6 @@ Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)
 Date: 2026-02-15
 
 Download 4k: [Songs beneath the waves](https://bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Love in bloom
-
-Bleeding hearts (© Dorene Hookey/Cavan Images)
-
-![Love in bloom](https://bing.com/th?id=OHR.ValentineHearts_EN-US6208359150_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-14
-
-Download 4k: [Love in bloom](https://bing.com/th?id=OHR.ValentineHearts_EN-US6208359150_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
