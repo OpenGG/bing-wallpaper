@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Ice, lit from within
+
+Ice cave in the Mendenhall Glacier, Alaska (© Designpics/Adobe Stock)
+
+![Ice, lit from within](https://bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-25
+
+Download 4k: [Ice, lit from within](https://bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The pulse beneath the pond
 
 Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Lincoln Memorial, Washington, DC (© Westend61/Getty Images)
 Date: 2026-02-16
 
 Download 4k: [Legacies in view](https://bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Songs beneath the waves
-
-Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)
-
-![Songs beneath the waves](https://bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-15
-
-Download 4k: [Songs beneath the waves](https://bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
