@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Life on thinning ice
+
+Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska (© Steven Kazlowski/naturepl.com)
+
+![Life on thinning ice](https://bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-27
+
+Download 4k: [Life on thinning ice](https://bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## One grand view
 
 Grand Canyon and the Colorado River, Arizona (© Matt Anderson Photography/Getty Images)
@@ -116,16 +126,6 @@ Przewalski's horses (© Nemyrivskyi Viacheslav/Getty Images)
 Date: 2026-02-18
 
 Download 4k: [Born to stay wild](https://bing.com/th?id=OHR.PrzewalskisHorse_EN-US6767229079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Fifteen days of light
-
-Red lanterns celebrating Chinese New Year (© Gins Wang/Getty Images)
-
-![Fifteen days of light](https://bing.com/th?id=OHR.NewYearLantern_EN-US6665128229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-17
-
-Download 4k: [Fifteen days of light](https://bing.com/th?id=OHR.NewYearLantern_EN-US6665128229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
