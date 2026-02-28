@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Overflowing with community
+
+Olo'upena Falls, island of Moloka'i, Hawaii (© Andrew Aylett/Getty Images)
+
+![Overflowing with community](https://bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-02-28
+
+Download 4k: [Overflowing with community](https://bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Life on thinning ice
 
 Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska (© Steven Kazlowski/naturepl.com)
@@ -116,16 +126,6 @@ The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty I
 Date: 2026-02-19
 
 Download 4k: [Where the land stares back](https://bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Born to stay wild
-
-Przewalski's horses (© Nemyrivskyi Viacheslav/Getty Images)
-
-![Born to stay wild](https://bing.com/th?id=OHR.PrzewalskisHorse_EN-US6767229079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-18
-
-Download 4k: [Born to stay wild](https://bing.com/th?id=OHR.PrzewalskisHorse_EN-US6767229079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
