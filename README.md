@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A victory that endures
+
+Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)
+
+![A victory that endures](https://bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-01
+
+Download 4k: [A victory that endures](https://bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Overflowing with community
 
 Olo'upena Falls, island of Moloka'i, Hawaii (© Andrew Aylett/Getty Images)
@@ -117,17 +127,9 @@ Date: 2026-02-20
 
 Download 4k: [Where light falls](https://bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Where the land stares back
-
-The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)
-
-![Where the land stares back](https://bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-19
-
-Download 4k: [Where the land stares back](https://bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2026-03](./archive/2026/03.md)
 
 [2026-02](./archive/2026/02.md)
 
