@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Floating legacies
+
+Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)
+
+![Floating legacies](https://bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-02
+
+Download 4k: [Floating legacies](https://bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A victory that endures
 
 Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)
@@ -116,16 +126,6 @@ Red fox standing in snowfall, Grand Teton National Park, Wyoming (© Radomir Jak
 Date: 2026-02-21
 
 Download 4k: [Whispers of winter](https://bing.com/th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where light falls
-
-Horsetail Fall in Yosemite National Park, California (© Jorge Villalba/Getty Images)
-
-![Where light falls](https://bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-20
-
-Download 4k: [Where light falls](https://bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
