@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Guardians of the wild
+
+African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)
+
+![Guardians of the wild](https://bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-03
+
+Download 4k: [Guardians of the wild](https://bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Floating legacies
 
 Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)
@@ -116,16 +126,6 @@ The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Image
 Date: 2026-02-22
 
 Download 4k: [The mother of hills](https://bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Whispers of winter
-
-Red fox standing in snowfall, Grand Teton National Park, Wyoming (© Radomir Jakubowski/naturepl.com)
-
-![Whispers of winter](https://bing.com/th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-21
-
-Download 4k: [Whispers of winter](https://bing.com/th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
