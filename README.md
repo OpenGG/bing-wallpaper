@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Crocuses in the spotlight
+
+Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)
+
+![Crocuses in the spotlight](https://bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-04
+
+Download 4k: [Crocuses in the spotlight](https://bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Guardians of the wild
 
 African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)
@@ -116,16 +126,6 @@ Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)
 Date: 2026-02-23
 
 Download 4k: [Snowfield monarch](https://bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The mother of hills
-
-The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)
-
-![The mother of hills](https://bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-22
-
-Download 4k: [The mother of hills](https://bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
