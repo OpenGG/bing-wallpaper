@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Ancient rocks, modern lights
+
+Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)
+
+![Ancient rocks, modern lights](https://bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-05
+
+Download 4k: [Ancient rocks, modern lights](https://bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Crocuses in the spotlight
 
 Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)
@@ -116,16 +126,6 @@ Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + M
 Date: 2026-02-24
 
 Download 4k: [The pulse beneath the pond](https://bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Snowfield monarch
-
-Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)
-
-![Snowfield monarch](https://bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-23
-
-Download 4k: [Snowfield monarch](https://bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
