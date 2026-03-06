@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Waves cast in concrete
+
+The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)
+
+![Waves cast in concrete](https://bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-06
+
+Download 4k: [Waves cast in concrete](https://bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Ancient rocks, modern lights
 
 Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)
@@ -116,16 +126,6 @@ Ice cave in the Mendenhall Glacier, Alaska (© Designpics/Adobe Stock)
 Date: 2026-02-25
 
 Download 4k: [Ice, lit from within](https://bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The pulse beneath the pond
-
-Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)
-
-![The pulse beneath the pond](https://bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-24
-
-Download 4k: [The pulse beneath the pond](https://bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
