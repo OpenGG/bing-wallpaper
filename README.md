@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A legendary sunrise
+
+Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)
+
+![A legendary sunrise](https://bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-07
+
+Download 4k: [A legendary sunrise](https://bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Waves cast in concrete
 
 The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)
@@ -116,16 +126,6 @@ Grand Canyon and the Colorado River, Arizona (© Matt Anderson Photography/Getty
 Date: 2026-02-26
 
 Download 4k: [One grand view](https://bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Ice, lit from within
-
-Ice cave in the Mendenhall Glacier, Alaska (© Designpics/Adobe Stock)
-
-![Ice, lit from within](https://bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-25
-
-Download 4k: [Ice, lit from within](https://bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
