@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The art of saving daylight
+
+Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images)
+
+![The art of saving daylight](https://bing.com/th?id=OHR.UlmClock_EN-US6692804943_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-08
+
+Download 4k: [The art of saving daylight](https://bing.com/th?id=OHR.UlmClock_EN-US6692804943_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A legendary sunrise
 
 Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)
@@ -116,16 +126,6 @@ Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska 
 Date: 2026-02-27
 
 Download 4k: [Life on thinning ice](https://bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## One grand view
-
-Grand Canyon and the Colorado River, Arizona (© Matt Anderson Photography/Getty Images)
-
-![One grand view](https://bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-26
-
-Download 4k: [One grand view](https://bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
