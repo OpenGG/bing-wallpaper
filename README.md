@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A perfectly timed nap
+
+Gray seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures)
+
+![A perfectly timed nap](https://bing.com/th?id=OHR.NappingSeal_EN-US6764325041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-09
+
+Download 4k: [A perfectly timed nap](https://bing.com/th?id=OHR.NappingSeal_EN-US6764325041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The art of saving daylight
 
 Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images)
@@ -116,16 +126,6 @@ Olo'upena Falls, island of Moloka'i, Hawaii (© Andrew Aylett/Getty Images)
 Date: 2026-02-28
 
 Download 4k: [Overflowing with community](https://bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Life on thinning ice
-
-Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska (© Steven Kazlowski/naturepl.com)
-
-![Life on thinning ice](https://bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-27
-
-Download 4k: [Life on thinning ice](https://bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
