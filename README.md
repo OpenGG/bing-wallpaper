@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Fire under frost
+
+Geothermal blue pool Bláhver at Hveravellir, Iceland (© Juan Maria Coy Vergara/Getty Images)
+
+![Fire under frost](https://bing.com/th?id=OHR.SpringIceland_EN-US6846318257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-10
+
+Download 4k: [Fire under frost](https://bing.com/th?id=OHR.SpringIceland_EN-US6846318257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A perfectly timed nap
 
 Gray seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures)
@@ -116,16 +126,6 @@ Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Arc
 Date: 2026-03-01
 
 Download 4k: [A victory that endures](https://bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Overflowing with community
-
-Olo'upena Falls, island of Moloka'i, Hawaii (© Andrew Aylett/Getty Images)
-
-![Overflowing with community](https://bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-02-28
-
-Download 4k: [Overflowing with community](https://bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
