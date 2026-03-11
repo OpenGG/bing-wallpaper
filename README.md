@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A peachy keen spring
+
+Peach trees in bloom, Cieza, Murcia, Spain (© Juan Maria Coy Vergara/Getty Images)
+
+![A peachy keen spring](https://bing.com/th?id=OHR.PeachBloom_EN-US6957157989_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-11
+
+Download 4k: [A peachy keen spring](https://bing.com/th?id=OHR.PeachBloom_EN-US6957157989_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Fire under frost
 
 Geothermal blue pool Bláhver at Hveravellir, Iceland (© Juan Maria Coy Vergara/Getty Images)
@@ -116,16 +126,6 @@ Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)
 Date: 2026-03-02
 
 Download 4k: [Floating legacies](https://bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A victory that endures
-
-Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)
-
-![A victory that endures](https://bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-01
-
-Download 4k: [A victory that endures](https://bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
