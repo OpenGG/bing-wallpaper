@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Wings in rehearsal
+
+Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com)
+
+![Wings in rehearsal](https://bing.com/th?id=OHR.SunbitternEcuador_EN-US7059069378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-12
+
+Download 4k: [Wings in rehearsal](https://bing.com/th?id=OHR.SunbitternEcuador_EN-US7059069378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A peachy keen spring
 
 Peach trees in bloom, Cieza, Murcia, Spain (© Juan Maria Coy Vergara/Getty Images)
@@ -116,16 +126,6 @@ African elephant calf playing with its mother, Masai Mara National Reserve, Keny
 Date: 2026-03-03
 
 Download 4k: [Guardians of the wild](https://bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Floating legacies
-
-Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)
-
-![Floating legacies](https://bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-02
-
-Download 4k: [Floating legacies](https://bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
