@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A quiet masterpiece in stone
+
+Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© Helmut Meyer zur Capellen/Alamy)
+
+![A quiet masterpiece in stone](https://bing.com/th?id=OHR.VendeeVaults_EN-US7120114878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-13
+
+Download 4k: [A quiet masterpiece in stone](https://bing.com/th?id=OHR.VendeeVaults_EN-US7120114878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Wings in rehearsal
 
 Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com)
@@ -116,16 +126,6 @@ Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Im
 Date: 2026-03-04
 
 Download 4k: [Crocuses in the spotlight](https://bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Guardians of the wild
-
-African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)
-
-![Guardians of the wild](https://bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-03
-
-Download 4k: [Guardians of the wild](https://bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
