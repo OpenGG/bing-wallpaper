@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## An ancient angle on Pi
+
+Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)
+
+![An ancient angle on Pi](https://bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-14
+
+Download 4k: [An ancient angle on Pi](https://bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A quiet masterpiece in stone
 
 Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© Helmut Meyer zur Capellen/Alamy)
@@ -116,16 +126,6 @@ Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)
 Date: 2026-03-05
 
 Download 4k: [Ancient rocks, modern lights](https://bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Crocuses in the spotlight
-
-Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)
-
-![Crocuses in the spotlight](https://bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-04
-
-Download 4k: [Crocuses in the spotlight](https://bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
