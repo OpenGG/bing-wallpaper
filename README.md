@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Into the Pandaverse
+
+Giant panda eating bamboo, China (© Entwicklungsknecht/Getty Images)
+
+![Into the Pandaverse](https://bing.com/th?id=OHR.PandaForest_EN-US7436757535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-16
+
+Download 4k: [Into the Pandaverse](https://bing.com/th?id=OHR.PandaForest_EN-US7436757535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Passing through, making waves
 
 Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images)
@@ -116,16 +126,6 @@ Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty I
 Date: 2026-03-07
 
 Download 4k: [A legendary sunrise](https://bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Waves cast in concrete
-
-The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)
-
-![Waves cast in concrete](https://bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-06
-
-Download 4k: [Waves cast in concrete](https://bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
