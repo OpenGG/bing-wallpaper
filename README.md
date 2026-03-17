@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Ireland's spiritual crossroads
+
+Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images)
+
+![Ireland's spiritual crossroads](https://bing.com/th?id=OHR.DonegalFort_EN-US7529893132_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-17
+
+Download 4k: [Ireland's spiritual crossroads](https://bing.com/th?id=OHR.DonegalFort_EN-US7529893132_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Into the Pandaverse
 
 Giant panda eating bamboo, China (© Entwicklungsknecht/Getty Images)
@@ -116,16 +126,6 @@ Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek
 Date: 2026-03-08
 
 Download 4k: [The art of saving daylight](https://bing.com/th?id=OHR.UlmClock_EN-US6692804943_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A legendary sunrise
-
-Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)
-
-![A legendary sunrise](https://bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-07
-
-Download 4k: [A legendary sunrise](https://bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
