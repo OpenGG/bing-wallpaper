@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Urban blooms
+
+Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)
+
+![Urban blooms](https://bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-18
+
+Download 4k: [Urban blooms](https://bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Ireland's spiritual crossroads
 
 Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images)
@@ -116,16 +126,6 @@ Gray seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minde
 Date: 2026-03-09
 
 Download 4k: [A perfectly timed nap](https://bing.com/th?id=OHR.NappingSeal_EN-US6764325041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The art of saving daylight
-
-Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images)
-
-![The art of saving daylight](https://bing.com/th?id=OHR.UlmClock_EN-US6692804943_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-08
-
-Download 4k: [The art of saving daylight](https://bing.com/th?id=OHR.UlmClock_EN-US6692804943_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
