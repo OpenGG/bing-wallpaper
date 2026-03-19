@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Spike your curiosity
+
+Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)
+
+![Spike your curiosity](https://bing.com/th?id=OHR.EchidnaAustralia_EN-US7660451296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-19
+
+Download 4k: [Spike your curiosity](https://bing.com/th?id=OHR.EchidnaAustralia_EN-US7660451296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Urban blooms
 
 Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Geothermal blue pool Bláhver at Hveravellir, Iceland (© Juan Maria Coy Vergara
 Date: 2026-03-10
 
 Download 4k: [Fire under frost](https://bing.com/th?id=OHR.SpringIceland_EN-US6846318257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A perfectly timed nap
-
-Gray seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures)
-
-![A perfectly timed nap](https://bing.com/th?id=OHR.NappingSeal_EN-US6764325041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-09
-
-Download 4k: [A perfectly timed nap](https://bing.com/th?id=OHR.NappingSeal_EN-US6764325041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
