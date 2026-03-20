@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The quiet bloom of change
+
+Snowdrops in spring (© klagyivik/Getty Images)
+
+![The quiet bloom of change](https://bing.com/th?id=OHR.SpringSnowdrops_EN-US5032204696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-20
+
+Download 4k: [The quiet bloom of change](https://bing.com/th?id=OHR.SpringSnowdrops_EN-US5032204696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Spike your curiosity
 
 Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)
@@ -116,16 +126,6 @@ Peach trees in bloom, Cieza, Murcia, Spain (© Juan Maria Coy Vergara/Getty Imag
 Date: 2026-03-11
 
 Download 4k: [A peachy keen spring](https://bing.com/th?id=OHR.PeachBloom_EN-US6957157989_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Fire under frost
-
-Geothermal blue pool Bláhver at Hveravellir, Iceland (© Juan Maria Coy Vergara/Getty Images)
-
-![Fire under frost](https://bing.com/th?id=OHR.SpringIceland_EN-US6846318257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-10
-
-Download 4k: [Fire under frost](https://bing.com/th?id=OHR.SpringIceland_EN-US6846318257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
