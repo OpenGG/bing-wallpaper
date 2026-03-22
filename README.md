@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## When water draws the line
+
+Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)
+
+![When water draws the line](https://bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-22
+
+Download 4k: [When water draws the line](https://bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where roots run wild
 
 Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)
@@ -116,16 +126,6 @@ Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© 
 Date: 2026-03-13
 
 Download 4k: [A quiet masterpiece in stone](https://bing.com/th?id=OHR.VendeeVaults_EN-US7120114878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Wings in rehearsal
-
-Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com)
-
-![Wings in rehearsal](https://bing.com/th?id=OHR.SunbitternEcuador_EN-US7059069378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-12
-
-Download 4k: [Wings in rehearsal](https://bing.com/th?id=OHR.SunbitternEcuador_EN-US7059069378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
