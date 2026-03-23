@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Guided by the weather
+
+Lightning storm over saguaro cacti, Sonoran Desert, Arizona (© Jack Dykinga/Nature Picture Library)
+
+![Guided by the weather](https://bing.com/th?id=OHR.SonoranStorm_EN-US5792303901_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-23
+
+Download 4k: [Guided by the weather](https://bing.com/th?id=OHR.SonoranStorm_EN-US5792303901_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## When water draws the line
 
 Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)
@@ -116,16 +126,6 @@ Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)
 Date: 2026-03-14
 
 Download 4k: [An ancient angle on Pi](https://bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A quiet masterpiece in stone
-
-Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© Helmut Meyer zur Capellen/Alamy)
-
-![A quiet masterpiece in stone](https://bing.com/th?id=OHR.VendeeVaults_EN-US7120114878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-13
-
-Download 4k: [A quiet masterpiece in stone](https://bing.com/th?id=OHR.VendeeVaults_EN-US7120114878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
