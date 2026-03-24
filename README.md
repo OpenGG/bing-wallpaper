@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The shape of spring
+
+Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images)
+
+![The shape of spring](https://bing.com/th?id=OHR.WuhanCherryBlossom_EN-US5963967452_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-24
+
+Download 4k: [The shape of spring](https://bing.com/th?id=OHR.WuhanCherryBlossom_EN-US5963967452_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Guided by the weather
 
 Lightning storm over saguaro cacti, Sonoran Desert, Arizona (© Jack Dykinga/Nature Picture Library)
@@ -116,16 +126,6 @@ Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Gett
 Date: 2026-03-15
 
 Download 4k: [Passing through, making waves](https://bing.com/th?id=OHR.PacificRimNP_EN-US7242831009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## An ancient angle on Pi
-
-Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)
-
-![An ancient angle on Pi](https://bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-14
-
-Download 4k: [An ancient angle on Pi](https://bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
