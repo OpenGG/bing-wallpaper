@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The secret life of manatees
+
+Juvenile manatees in a freshwater spring, Crystal River, Florida (© Gregory Sweeney/Getty Images)
+
+![The secret life of manatees](https://bing.com/th?id=OHR.ManateeSpring_EN-US1203685327_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-25
+
+Download 4k: [The secret life of manatees](https://bing.com/th?id=OHR.ManateeSpring_EN-US1203685327_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The shape of spring
 
 Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images)
@@ -116,16 +126,6 @@ Giant panda eating bamboo, China (© Entwicklungsknecht/Getty Images)
 Date: 2026-03-16
 
 Download 4k: [Into the Pandaverse](https://bing.com/th?id=OHR.PandaForest_EN-US7436757535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Passing through, making waves
-
-Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images)
-
-![Passing through, making waves](https://bing.com/th?id=OHR.PacificRimNP_EN-US7242831009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-15
-
-Download 4k: [Passing through, making waves](https://bing.com/th?id=OHR.PacificRimNP_EN-US7242831009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
