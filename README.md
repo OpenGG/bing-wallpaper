@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A step above the wild
+
+Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)
+
+![A step above the wild](https://bing.com/th?id=OHR.LoganCreek_EN-US6075548781_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-26
+
+Download 4k: [A step above the wild](https://bing.com/th?id=OHR.LoganCreek_EN-US6075548781_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The secret life of manatees
 
 Juvenile manatees in a freshwater spring, Crystal River, Florida (© Gregory Sweeney/Getty Images)
@@ -116,16 +126,6 @@ Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images)
 Date: 2026-03-17
 
 Download 4k: [Ireland's spiritual crossroads](https://bing.com/th?id=OHR.DonegalFort_EN-US7529893132_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Into the Pandaverse
-
-Giant panda eating bamboo, China (© Entwicklungsknecht/Getty Images)
-
-![Into the Pandaverse](https://bing.com/th?id=OHR.PandaForest_EN-US7436757535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-16
-
-Download 4k: [Into the Pandaverse](https://bing.com/th?id=OHR.PandaForest_EN-US7436757535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
