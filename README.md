@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The untamed spirit
+
+African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)
+
+![The untamed spirit](https://bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-28
+
+Download 4k: [The untamed spirit](https://bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Still burning bright
 
 Radio City Music Hall in New York City (© Clarence Holmes Photography/Alamy)
@@ -116,16 +126,6 @@ Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.
 Date: 2026-03-19
 
 Download 4k: [Spike your curiosity](https://bing.com/th?id=OHR.EchidnaAustralia_EN-US7660451296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Urban blooms
-
-Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)
-
-![Urban blooms](https://bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-18
-
-Download 4k: [Urban blooms](https://bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
