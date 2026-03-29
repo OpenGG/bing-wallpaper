@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Serenity by the sea
+
+Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)
+
+![Serenity by the sea](https://bing.com/th?id=OHR.PeggysLighthouse_EN-US6365734559_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-29
+
+Download 4k: [Serenity by the sea](https://bing.com/th?id=OHR.PeggysLighthouse_EN-US6365734559_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The untamed spirit
 
 African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)
@@ -116,16 +126,6 @@ Snowdrops in spring (© klagyivik/Getty Images)
 Date: 2026-03-20
 
 Download 4k: [The quiet bloom of change](https://bing.com/th?id=OHR.SpringSnowdrops_EN-US5032204696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Spike your curiosity
-
-Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)
-
-![Spike your curiosity](https://bing.com/th?id=OHR.EchidnaAustralia_EN-US7660451296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-19
-
-Download 4k: [Spike your curiosity](https://bing.com/th?id=OHR.EchidnaAustralia_EN-US7660451296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
