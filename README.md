@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Elegance in motion
+
+Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)
+
+![Elegance in motion](https://bing.com/th?id=OHR.IndiaCranes_EN-US6414900321_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-03-30
+
+Download 4k: [Elegance in motion](https://bing.com/th?id=OHR.IndiaCranes_EN-US6414900321_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Serenity by the sea
 
 Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)
@@ -116,16 +126,6 @@ Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature 
 Date: 2026-03-21
 
 Download 4k: [Where roots run wild](https://bing.com/th?id=OHR.LeteaForest_EN-US5404369914_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The quiet bloom of change
-
-Snowdrops in spring (© klagyivik/Getty Images)
-
-![The quiet bloom of change](https://bing.com/th?id=OHR.SpringSnowdrops_EN-US5032204696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-20
-
-Download 4k: [The quiet bloom of change](https://bing.com/th?id=OHR.SpringSnowdrops_EN-US5032204696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
