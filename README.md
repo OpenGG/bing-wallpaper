@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hopping into April
+
+Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images)
+
+![Hopping into April](https://bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-04-01
+
+Download 4k: [Hopping into April](https://bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Underground paradise
 
 Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images)
@@ -117,17 +127,9 @@ Date: 2026-03-23
 
 Download 4k: [Guided by the weather](https://bing.com/th?id=OHR.SonoranStorm_EN-US5792303901_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## When water draws the line
-
-Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)
-
-![When water draws the line](https://bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-22
-
-Download 4k: [When water draws the line](https://bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2026-04](./archive/2026/04.md)
 
 [2026-03](./archive/2026/03.md)
 
