@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Patterns of spring
+
+Wildflower bloom, Central Valley, California (© Jeff Lewis/Tandem Stills + Motion)
+
+![Patterns of spring](https://bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-04-02
+
+Download 4k: [Patterns of spring](https://bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hopping into April
 
 Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images)
@@ -116,16 +126,6 @@ Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VC
 Date: 2026-03-24
 
 Download 4k: [The shape of spring](https://bing.com/th?id=OHR.WuhanCherryBlossom_EN-US5963967452_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Guided by the weather
-
-Lightning storm over saguaro cacti, Sonoran Desert, Arizona (© Jack Dykinga/Nature Picture Library)
-
-![Guided by the weather](https://bing.com/th?id=OHR.SonoranStorm_EN-US5792303901_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-23
-
-Download 4k: [Guided by the weather](https://bing.com/th?id=OHR.SonoranStorm_EN-US5792303901_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
