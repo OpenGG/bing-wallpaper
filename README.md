@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Bridging the gap, one arm at a time
+
+Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)
+
+![Bridging the gap, one arm at a time](https://bing.com/th?id=OHR.ArmbrugBridge_EN-US3302230248_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-04-03
+
+Download 4k: [Bridging the gap, one arm at a time](https://bing.com/th?id=OHR.ArmbrugBridge_EN-US3302230248_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Patterns of spring
 
 Wildflower bloom, Central Valley, California (© Jeff Lewis/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Juvenile manatees in a freshwater spring, Crystal River, Florida (© Gregory Swe
 Date: 2026-03-25
 
 Download 4k: [The secret life of manatees](https://bing.com/th?id=OHR.ManateeSpring_EN-US1203685327_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The shape of spring
-
-Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images)
-
-![The shape of spring](https://bing.com/th?id=OHR.WuhanCherryBlossom_EN-US5963967452_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-24
-
-Download 4k: [The shape of spring](https://bing.com/th?id=OHR.WuhanCherryBlossom_EN-US5963967452_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
