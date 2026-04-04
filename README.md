@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The lek side story
+
+Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)
+
+![The lek side story](https://bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-04-04
+
+Download 4k: [The lek side story](https://bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Bridging the gap, one arm at a time
 
 Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)
@@ -116,16 +126,6 @@ Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe S
 Date: 2026-03-26
 
 Download 4k: [A step above the wild](https://bing.com/th?id=OHR.LoganCreek_EN-US6075548781_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The secret life of manatees
-
-Juvenile manatees in a freshwater spring, Crystal River, Florida (© Gregory Sweeney/Getty Images)
-
-![The secret life of manatees](https://bing.com/th?id=OHR.ManateeSpring_EN-US1203685327_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-25
-
-Download 4k: [The secret life of manatees](https://bing.com/th?id=OHR.ManateeSpring_EN-US1203685327_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
