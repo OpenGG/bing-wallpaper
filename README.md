@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where power resides
+
+Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)
+
+![Where power resides](https://bing.com/th?id=OHR.CastleBlossoms_EN-US6202844131_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-04-06
+
+Download 4k: [Where power resides](https://bing.com/th?id=OHR.CastleBlossoms_EN-US6202844131_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hello, Easter Sunday
 
 Colorful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)
@@ -116,16 +126,6 @@ African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)
 Date: 2026-03-28
 
 Download 4k: [The untamed spirit](https://bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Still burning bright
-
-Radio City Music Hall in New York City (© Clarence Holmes Photography/Alamy)
-
-![Still burning bright](https://bing.com/th?id=OHR.RadioCityHall_EN-US6218301556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-27
-
-Download 4k: [Still burning bright](https://bing.com/th?id=OHR.RadioCityHall_EN-US6218301556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
