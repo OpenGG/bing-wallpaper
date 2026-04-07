@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## One stick at a time
+
+Beaver, Germany (© Andyworks/Getty Images)
+
+![One stick at a time](https://bing.com/th?id=OHR.BeaverPortrait_EN-US6459336252_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-04-07
+
+Download 4k: [One stick at a time](https://bing.com/th?id=OHR.BeaverPortrait_EN-US6459336252_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where power resides
 
 Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)
@@ -116,16 +126,6 @@ Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala
 Date: 2026-03-29
 
 Download 4k: [Serenity by the sea](https://bing.com/th?id=OHR.PeggysLighthouse_EN-US6365734559_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The untamed spirit
-
-African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)
-
-![The untamed spirit](https://bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-28
-
-Download 4k: [The untamed spirit](https://bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
