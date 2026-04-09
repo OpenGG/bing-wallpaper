@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Veil of light
+
+Sgwd yr Eira waterfall, Bannau Brycheiniog National Park, Wales (© Guy Edwardes/Nature Picture Library)
+
+![Veil of light](https://bing.com/th?id=OHR.WalesWaterfall_EN-US7187055503_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-04-09
+
+Download 4k: [Veil of light](https://bing.com/th?id=OHR.WalesWaterfall_EN-US7187055503_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The Emerald City
 
 Seattle, Washington (© Jim Patterson/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen
 Date: 2026-03-31
 
 Download 4k: [Underground paradise](https://bing.com/th?id=OHR.ParadiseCave_EN-US6470755729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Elegance in motion
-
-Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)
-
-![Elegance in motion](https://bing.com/th?id=OHR.IndiaCranes_EN-US6414900321_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-03-30
-
-Download 4k: [Elegance in motion](https://bing.com/th?id=OHR.IndiaCranes_EN-US6414900321_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
