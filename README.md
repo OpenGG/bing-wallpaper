@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Volcanic veneer
+
+Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)
+
+![Volcanic veneer](https://bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-04-11
+
+Download 4k: [Volcanic veneer](https://bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Plotting paws
 
 Two young red foxes at Karula National Park, Estonia (© Sven Zacek/Nature Picture Library)
@@ -116,16 +126,6 @@ Wildflower bloom, Central Valley, California (© Jeff Lewis/Tandem Stills + Moti
 Date: 2026-04-02
 
 Download 4k: [Patterns of spring](https://bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Hopping into April
-
-Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images)
-
-![Hopping into April](https://bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-04-01
-
-Download 4k: [Hopping into April](https://bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
