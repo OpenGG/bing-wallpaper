@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The first step off Earth
+
+City lights streak below, taken from the International Space Station (© NASA)
+
+![The first step off Earth](https://bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-04-12
+
+Download 4k: [The first step off Earth](https://bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Volcanic veneer
 
 Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)
@@ -116,16 +126,6 @@ Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)
 Date: 2026-04-03
 
 Download 4k: [Bridging the gap, one arm at a time](https://bing.com/th?id=OHR.ArmbrugBridge_EN-US3302230248_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Patterns of spring
-
-Wildflower bloom, Central Valley, California (© Jeff Lewis/Tandem Stills + Motion)
-
-![Patterns of spring](https://bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-04-02
-
-Download 4k: [Patterns of spring](https://bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
