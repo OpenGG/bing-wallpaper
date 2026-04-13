@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## After the lights go down
+
+Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)
+
+![After the lights go down](https://bing.com/th?id=OHR.BorregoStars_EN-US8252825773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-04-13
+
+Download 4k: [After the lights go down](https://bing.com/th?id=OHR.BorregoStars_EN-US8252825773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The first step off Earth
 
 City lights streak below, taken from the International Space Station (© NASA)
@@ -116,16 +126,6 @@ Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature P
 Date: 2026-04-04
 
 Download 4k: [The lek side story](https://bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Bridging the gap, one arm at a time
-
-Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)
-
-![Bridging the gap, one arm at a time](https://bing.com/th?id=OHR.ArmbrugBridge_EN-US3302230248_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-04-03
-
-Download 4k: [Bridging the gap, one arm at a time](https://bing.com/th?id=OHR.ArmbrugBridge_EN-US3302230248_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
