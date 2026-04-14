@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Reefside roommates
+
+Common clownfish in a sea anemone, Raja Ampat Islands, Indonesia (© Magnus Lundgren/Nature Picture Library)
+
+![Reefside roommates](https://bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-04-14
+
+Download 4k: [Reefside roommates](https://bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## After the lights go down
 
 Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)
@@ -116,16 +126,6 @@ Colorful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Ima
 Date: 2026-04-05
 
 Download 4k: [Hello, Easter Sunday](https://bing.com/th?id=OHR.LithuaniaEggs_EN-US5074250791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The lek side story
-
-Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)
-
-![The lek side story](https://bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-04-04
-
-Download 4k: [The lek side story](https://bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
