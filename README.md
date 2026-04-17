@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Bat signal: ON
+
+Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)
+
+![Bat signal: ON](https://bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-04-17
+
+Download 4k: [Bat signal: ON](https://bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Petal parade
 
 Skagit Valley Tulip Fields, Washington (© Alan Majchrowicz/Getty Images)
@@ -116,16 +126,6 @@ Seattle, Washington (© Jim Patterson/Tandem Stills + Motion)
 Date: 2026-04-08
 
 Download 4k: [The Emerald City](https://bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## One stick at a time
-
-Beaver, Germany (© Andyworks/Getty Images)
-
-![One stick at a time](https://bing.com/th?id=OHR.BeaverPortrait_EN-US6459336252_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-04-07
-
-Download 4k: [One stick at a time](https://bing.com/th?id=OHR.BeaverPortrait_EN-US6459336252_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
