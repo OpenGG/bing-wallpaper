@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The silence of unfinished giants
+
+Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)
+
+![The silence of unfinished giants](https://bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-04-18
+
+Download 4k: [The silence of unfinished giants](https://bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Bat signal: ON
 
 Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)
@@ -116,16 +126,6 @@ Sgwd yr Eira waterfall, Bannau Brycheiniog National Park, Wales (© Guy Edwardes
 Date: 2026-04-09
 
 Download 4k: [Veil of light](https://bing.com/th?id=OHR.WalesWaterfall_EN-US7187055503_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The Emerald City
-
-Seattle, Washington (© Jim Patterson/Tandem Stills + Motion)
-
-![The Emerald City](https://bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-04-08
-
-Download 4k: [The Emerald City](https://bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
