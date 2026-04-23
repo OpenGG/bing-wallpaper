@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A cottage full of stories
+
+Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)
+
+![A cottage full of stories](https://bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-04-23
+
+Download 4k: [A cottage full of stories](https://bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The power of protest
 
 Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)
@@ -116,16 +126,6 @@ Common clownfish in a sea anemone, Raja Ampat Islands, Indonesia (© Magnus Lund
 Date: 2026-04-14
 
 Download 4k: [Reefside roommates](https://bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## After the lights go down
-
-Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)
-
-![After the lights go down](https://bing.com/th?id=OHR.BorregoStars_EN-US8252825773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-04-13
-
-Download 4k: [After the lights go down](https://bing.com/th?id=OHR.BorregoStars_EN-US8252825773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
