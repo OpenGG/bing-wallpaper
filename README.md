@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Breaking the penguin rules
+
+Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)
+
+![Breaking the penguin rules](https://bing.com/th?id=OHR.GalapagosPenguins_EN-US2287809863_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-04-25
+
+Download 4k: [Breaking the penguin rules](https://bing.com/th?id=OHR.GalapagosPenguins_EN-US2287809863_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A tribute to trees
 
 Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida (© Mary Liz Austin/Alamy)
@@ -116,16 +126,6 @@ Skagit Valley Tulip Fields, Washington (© Alan Majchrowicz/Getty Images)
 Date: 2026-04-16
 
 Download 4k: [Petal parade](https://bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Stepping inside the living canvas
-
-The Carrières des Lumières exhibit of Vincent Van Gogh, Les Baux-de-Provence, France (© Patrick Aventurier/Getty Images)
-
-![Stepping inside the living canvas](https://bing.com/th?id=OHR.VanGoghFields_EN-US8748933044_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-04-15
-
-Download 4k: [Stepping inside the living canvas](https://bing.com/th?id=OHR.VanGoghFields_EN-US8748933044_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
