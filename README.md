@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Bloom boom
+
+Pink apple blossoms, Avila Beach, California (© Mimi Ditchie Photography/Getty Images)
+
+![Bloom boom](https://bing.com/th?id=OHR.AppleBlossoms_EN-US2396192691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-04-26
+
+Download 4k: [Bloom boom](https://bing.com/th?id=OHR.AppleBlossoms_EN-US2396192691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Breaking the penguin rules
 
 Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)
@@ -116,16 +126,6 @@ Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gim
 Date: 2026-04-17
 
 Download 4k: [Bat signal: ON](https://bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Petal parade
-
-Skagit Valley Tulip Fields, Washington (© Alan Majchrowicz/Getty Images)
-
-![Petal parade](https://bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-04-16
-
-Download 4k: [Petal parade](https://bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
