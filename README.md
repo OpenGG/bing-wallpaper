@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Glass with class
+
+The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)
+
+![Glass with class](https://bing.com/th?id=OHR.MilanGalleria_EN-US2432086382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-04-27
+
+Download 4k: [Glass with class](https://bing.com/th?id=OHR.MilanGalleria_EN-US2432086382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Bloom boom
 
 Pink apple blossoms, Avila Beach, California (© Mimi Ditchie Photography/Getty Images)
@@ -116,16 +126,6 @@ Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)
 Date: 2026-04-18
 
 Download 4k: [The silence of unfinished giants](https://bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Bat signal: ON
-
-Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)
-
-![Bat signal: ON](https://bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-04-17
-
-Download 4k: [Bat signal: ON](https://bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
