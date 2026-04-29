@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## History anchored in stone
+
+Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)
+
+![History anchored in stone](https://bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-04-29
+
+Download 4k: [History anchored in stone](https://bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Spectacles in the wild
 
 Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)
@@ -116,16 +126,6 @@ Sunset in Canyonlands National Park, Moab, Utah (© Jason Hatfield/Tandem Stills
 Date: 2026-04-20
 
 Download 4k: [The adventure doesn't end at sundown](https://bing.com/th?id=OHR.SunsetKiva_EN-US1031978429_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Stories start here
-
-Books in the children's section of The New York Public Library, New York (© Ken Welsh/Alamy)
-
-![Stories start here](https://bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-04-19
-
-Download 4k: [Stories start here](https://bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
