@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The magic of Jasper
+
+Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)
+
+![The magic of Jasper](https://bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-02
+
+Download 4k: [The magic of Jasper](https://bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A pond of stories
 
 Koi fish, Lan Su Chinese Garden, Portland, Oregon (© Greg Vaughn/Getty Images)
@@ -116,16 +126,6 @@ Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steel
 Date: 2026-04-23
 
 Download 4k: [A cottage full of stories](https://bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The power of protest
-
-Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)
-
-![The power of protest](https://bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-04-22
-
-Download 4k: [The power of protest](https://bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
