@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Savanna afterglow
+
+Leopard sleeping in a tree in savanna, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)
+
+![Savanna afterglow](https://bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-03
+
+Download 4k: [Savanna afterglow](https://bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The magic of Jasper
 
 Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)
@@ -116,16 +126,6 @@ Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida
 Date: 2026-04-24
 
 Download 4k: [A tribute to trees](https://bing.com/th?id=OHR.SlashPine_EN-US2059787604_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A cottage full of stories
-
-Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)
-
-![A cottage full of stories](https://bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-04-23
-
-Download 4k: [A cottage full of stories](https://bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
