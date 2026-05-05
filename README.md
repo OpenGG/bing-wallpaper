@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where history took root
+
+Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)
+
+![Where history took root](https://bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-05
+
+Download 4k: [Where history took root](https://bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Sci‑Fi, Earth‑made
 
 Ksar Ouled Soltane, Tataouine district in southern Tunisia (© Dark_Eni/Getty Images Plus)
@@ -116,16 +126,6 @@ Pink apple blossoms, Avila Beach, California (© Mimi Ditchie Photography/Getty 
 Date: 2026-04-26
 
 Download 4k: [Bloom boom](https://bing.com/th?id=OHR.AppleBlossoms_EN-US2396192691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Breaking the penguin rules
-
-Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)
-
-![Breaking the penguin rules](https://bing.com/th?id=OHR.GalapagosPenguins_EN-US2287809863_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-04-25
-
-Download 4k: [Breaking the penguin rules](https://bing.com/th?id=OHR.GalapagosPenguins_EN-US2287809863_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
