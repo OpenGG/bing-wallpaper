@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Plains under pressure
+
+Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)
+
+![Plains under pressure](https://bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-06
+
+Download 4k: [Plains under pressure](https://bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where history took root
 
 Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)
@@ -116,16 +126,6 @@ The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/
 Date: 2026-04-27
 
 Download 4k: [Glass with class](https://bing.com/th?id=OHR.MilanGalleria_EN-US2432086382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Bloom boom
-
-Pink apple blossoms, Avila Beach, California (© Mimi Ditchie Photography/Getty Images)
-
-![Bloom boom](https://bing.com/th?id=OHR.AppleBlossoms_EN-US2396192691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-04-26
-
-Download 4k: [Bloom boom](https://bing.com/th?id=OHR.AppleBlossoms_EN-US2396192691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
