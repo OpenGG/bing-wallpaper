@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Desert, drawn wide
+
+Kofa National Wildlife Refuge, Arizona (© Denis Tangney Jr/Getty Images)
+
+![Desert, drawn wide](https://bing.com/th?id=OHR.Kofa_EN-US0655690866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-07
+
+Download 4k: [Desert, drawn wide](https://bing.com/th?id=OHR.Kofa_EN-US0655690866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Plains under pressure
 
 Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)
@@ -116,16 +126,6 @@ Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)
 Date: 2026-04-28
 
 Download 4k: [Spectacles in the wild](https://bing.com/th?id=OHR.AndeanBear_EN-US2465945308_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Glass with class
-
-The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)
-
-![Glass with class](https://bing.com/th?id=OHR.MilanGalleria_EN-US2432086382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-04-27
-
-Download 4k: [Glass with class](https://bing.com/th?id=OHR.MilanGalleria_EN-US2432086382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
