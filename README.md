@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## More than a hee-haw
+
+Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)
+
+![More than a hee-haw](https://bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-08
+
+Download 4k: [More than a hee-haw](https://bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Desert, drawn wide
 
 Kofa National Wildlife Refuge, Arizona (© Denis Tangney Jr/Getty Images)
@@ -116,16 +126,6 @@ Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty
 Date: 2026-04-29
 
 Download 4k: [History anchored in stone](https://bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Spectacles in the wild
-
-Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)
-
-![Spectacles in the wild](https://bing.com/th?id=OHR.AndeanBear_EN-US2465945308_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-04-28
-
-Download 4k: [Spectacles in the wild](https://bing.com/th?id=OHR.AndeanBear_EN-US2465945308_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
