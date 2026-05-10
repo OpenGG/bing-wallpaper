@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A bond that endures
+
+Polar bear mother and cubs playing in Wapusk National Park, Manitoba, Canada (© Hao Jiang/Getty Images)
+
+![A bond that endures](https://bing.com/th?id=OHR.MotherCub_EN-US0916425414_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-10
+
+Download 4k: [A bond that endures](https://bing.com/th?id=OHR.MotherCub_EN-US0916425414_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The architect of Krka
 
 Skradinski Buk Waterfall in Krka National Park, Croatia (© Amazing Aerial Agency/Adobe Stock)
@@ -116,16 +126,6 @@ Koi fish, Lan Su Chinese Garden, Portland, Oregon (© Greg Vaughn/Getty Images)
 Date: 2026-05-01
 
 Download 4k: [A pond of stories](https://bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Tulips run the show
-
-Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)
-
-![Tulips run the show](https://bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-04-30
-
-Download 4k: [Tulips run the show](https://bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
