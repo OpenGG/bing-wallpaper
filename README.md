@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Flap, dive, survive
+
+Atlantic puffins, Wales (© FLPA/Alamy)
+
+![Flap, dive, survive](https://bing.com/th?id=OHR.Fratercula_EN-US1020898539_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-12
+
+Download 4k: [Flap, dive, survive](https://bing.com/th?id=OHR.Fratercula_EN-US1020898539_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Underwater architecture
 
 Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)
@@ -116,16 +126,6 @@ Leopard sleeping in a tree in savanna, Masai Mara National Reserve, Kenya (© Kl
 Date: 2026-05-03
 
 Download 4k: [Savanna afterglow](https://bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The magic of Jasper
-
-Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)
-
-![The magic of Jasper](https://bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-02
-
-Download 4k: [The magic of Jasper](https://bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
