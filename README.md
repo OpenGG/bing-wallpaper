@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Whale you save me?
+
+A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)
+
+![Whale you save me?](https://bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-15
+
+Download 4k: [Whale you save me?](https://bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A journey through time
 
 Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)
@@ -116,16 +126,6 @@ Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)
 Date: 2026-05-06
 
 Download 4k: [Plains under pressure](https://bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where history took root
-
-Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)
-
-![Where history took root](https://bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-05
-
-Download 4k: [Where history took root](https://bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
