@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Rock bottom? Not here
+
+Smith Rock State Park, Oregon (© Alex Ratson/Getty Images)
+
+![Rock bottom? Not here](https://bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-16
+
+Download 4k: [Rock bottom? Not here](https://bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Whale you save me?
 
 A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)
@@ -116,16 +126,6 @@ Kofa National Wildlife Refuge, Arizona (© Denis Tangney Jr/Getty Images)
 Date: 2026-05-07
 
 Download 4k: [Desert, drawn wide](https://bing.com/th?id=OHR.Kofa_EN-US0655690866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Plains under pressure
-
-Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)
-
-![Plains under pressure](https://bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-06
-
-Download 4k: [Plains under pressure](https://bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
