@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Quiet peak, loud view
+
+Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)
+
+![Quiet peak, loud view](https://bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-17
+
+Download 4k: [Quiet peak, loud view](https://bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Rock bottom? Not here
 
 Smith Rock State Park, Oregon (© Alex Ratson/Getty Images)
@@ -116,16 +126,6 @@ Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library
 Date: 2026-05-08
 
 Download 4k: [More than a hee-haw](https://bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Desert, drawn wide
-
-Kofa National Wildlife Refuge, Arizona (© Denis Tangney Jr/Getty Images)
-
-![Desert, drawn wide](https://bing.com/th?id=OHR.Kofa_EN-US0655690866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-07
-
-Download 4k: [Desert, drawn wide](https://bing.com/th?id=OHR.Kofa_EN-US0655690866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
