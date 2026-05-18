@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hope in the hall
+
+Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)
+
+![Hope in the hall](https://bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-18
+
+Download 4k: [Hope in the hall](https://bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Quiet peak, loud view
 
 Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)
@@ -116,16 +126,6 @@ Skradinski Buk Waterfall in Krka National Park, Croatia (© Amazing Aerial Agenc
 Date: 2026-05-09
 
 Download 4k: [The architect of Krka](https://bing.com/th?id=OHR.SkradinskiBuk_EN-US0750882952_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## More than a hee-haw
-
-Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)
-
-![More than a hee-haw](https://bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-08
-
-Download 4k: [More than a hee-haw](https://bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
