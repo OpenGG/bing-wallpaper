@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The edge of Mallorca
+
+Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)
+
+![The edge of Mallorca](https://bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-19
+
+Download 4k: [The edge of Mallorca](https://bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hope in the hall
 
 Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Polar bear mother and cubs playing in Wapusk National Park, Manitoba, Canada (©
 Date: 2026-05-10
 
 Download 4k: [A bond that endures](https://bing.com/th?id=OHR.MotherCub_EN-US0916425414_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The architect of Krka
-
-Skradinski Buk Waterfall in Krka National Park, Croatia (© Amazing Aerial Agency/Adobe Stock)
-
-![The architect of Krka](https://bing.com/th?id=OHR.SkradinskiBuk_EN-US0750882952_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-09
-
-Download 4k: [The architect of Krka](https://bing.com/th?id=OHR.SkradinskiBuk_EN-US0750882952_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
