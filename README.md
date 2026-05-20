@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where the buzz begins
+
+Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)
+
+![Where the buzz begins](https://bing.com/th?id=OHR.BumbleBee_EN-US0634100541_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-20
+
+Download 4k: [Where the buzz begins](https://bing.com/th?id=OHR.BumbleBee_EN-US0634100541_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The edge of Mallorca
 
 Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)
@@ -116,16 +126,6 @@ Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iaco
 Date: 2026-05-11
 
 Download 4k: [Underwater architecture](https://bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A bond that endures
-
-Polar bear mother and cubs playing in Wapusk National Park, Manitoba, Canada (© Hao Jiang/Getty Images)
-
-![A bond that endures](https://bing.com/th?id=OHR.MotherCub_EN-US0916425414_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-10
-
-Download 4k: [A bond that endures](https://bing.com/th?id=OHR.MotherCub_EN-US0916425414_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
