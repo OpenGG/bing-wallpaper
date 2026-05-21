@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Brewing a legacy
+
+Tea terraces in Sichuan Province, China (© lzf/Shutterstock)
+
+![Brewing a legacy](https://bing.com/th?id=OHR.SichuanTea_EN-US0676754504_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-21
+
+Download 4k: [Brewing a legacy](https://bing.com/th?id=OHR.SichuanTea_EN-US0676754504_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where the buzz begins
 
 Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)
@@ -116,16 +126,6 @@ Atlantic puffins, Wales (© FLPA/Alamy)
 Date: 2026-05-12
 
 Download 4k: [Flap, dive, survive](https://bing.com/th?id=OHR.Fratercula_EN-US1020898539_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Underwater architecture
-
-Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)
-
-![Underwater architecture](https://bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-11
-
-Download 4k: [Underwater architecture](https://bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
