@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Shell yeah, turtles!
+
+Turtles with butterflies (© Patrick Gallet/Getty Images)
+
+![Shell yeah, turtles!](https://bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-23
+
+Download 4k: [Shell yeah, turtles!](https://bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The shape of life at sea
 
 Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)
@@ -116,16 +126,6 @@ Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)
 Date: 2026-05-14
 
 Download 4k: [A journey through time](https://bing.com/th?id=OHR.Pitigliano_EN-US1208308627_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Rock on, Milky Way!
-
-Arch and Milky Way, Alabama Hills, Sierra Nevada, California (© Tim Fitzharris/Minden Pictures)
-
-![Rock on, Milky Way!](https://bing.com/th?id=OHR.AlabamaHills_EN-US1154221052_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-13
-
-Download 4k: [Rock on, Milky Way!](https://bing.com/th?id=OHR.AlabamaHills_EN-US1154221052_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
