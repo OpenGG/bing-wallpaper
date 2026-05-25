@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where silence bears names
+
+Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia (© idesignimages/Getty Images)
+
+![Where silence bears names](https://bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-25
+
+Download 4k: [Where silence bears names](https://bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Preserving Europe's wild places
 
 Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)
@@ -116,16 +126,6 @@ Smith Rock State Park, Oregon (© Alex Ratson/Getty Images)
 Date: 2026-05-16
 
 Download 4k: [Rock bottom? Not here](https://bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Whale you save me?
-
-A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)
-
-![Whale you save me?](https://bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-15
-
-Download 4k: [Whale you save me?](https://bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
