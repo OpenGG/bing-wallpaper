@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A season written in lupine
+
+Lupine flowers in bloom, Northern California (© Jeffrey Lewis/Tandem Stills + Motion)
+
+![A season written in lupine](https://bing.com/th?id=OHR.LupineBloom_EN-US0920778137_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-26
+
+Download 4k: [A season written in lupine](https://bing.com/th?id=OHR.LupineBloom_EN-US0920778137_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where silence bears names
 
 Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia (© idesignimages/Getty Images)
@@ -116,16 +126,6 @@ Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty
 Date: 2026-05-17
 
 Download 4k: [Quiet peak, loud view](https://bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Rock bottom? Not here
-
-Smith Rock State Park, Oregon (© Alex Ratson/Getty Images)
-
-![Rock bottom? Not here](https://bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-16
-
-Download 4k: [Rock bottom? Not here](https://bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
