@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## No 'otter' like them
+
+Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)
+
+![No 'otter' like them](https://bing.com/th?id=OHR.OtterDay_EN-US0973120905_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-27
+
+Download 4k: [No 'otter' like them](https://bing.com/th?id=OHR.OtterDay_EN-US0973120905_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A season written in lupine
 
 Lupine flowers in bloom, Northern California (© Jeffrey Lewis/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)
 Date: 2026-05-18
 
 Download 4k: [Hope in the hall](https://bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Quiet peak, loud view
-
-Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)
-
-![Quiet peak, loud view](https://bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-17
-
-Download 4k: [Quiet peak, loud view](https://bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
