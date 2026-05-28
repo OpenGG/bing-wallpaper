@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Design meets discipline
+
+Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)
+
+![Design meets discipline](https://bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-28
+
+Download 4k: [Design meets discipline](https://bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## No 'otter' like them
 
 Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)
@@ -116,16 +126,6 @@ Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty
 Date: 2026-05-19
 
 Download 4k: [The edge of Mallorca](https://bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Hope in the hall
-
-Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)
-
-![Hope in the hall](https://bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-18
-
-Download 4k: [Hope in the hall](https://bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
