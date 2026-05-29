@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A 'peak' into history
+
+Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)
+
+![A 'peak' into history](https://bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-29
+
+Download 4k: [A 'peak' into history](https://bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Design meets discipline
 
 Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)
@@ -116,16 +126,6 @@ Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)
 Date: 2026-05-20
 
 Download 4k: [Where the buzz begins](https://bing.com/th?id=OHR.BumbleBee_EN-US0634100541_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The edge of Mallorca
-
-Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)
-
-![The edge of Mallorca](https://bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-19
-
-Download 4k: [The edge of Mallorca](https://bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
