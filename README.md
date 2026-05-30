@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Reading between the lines
+
+Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)
+
+![Reading between the lines](https://bing.com/th?id=OHR.EquusQuagga_EN-US8240577582_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-30
+
+Download 4k: [Reading between the lines](https://bing.com/th?id=OHR.EquusQuagga_EN-US8240577582_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A 'peak' into history
 
 Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)
@@ -116,16 +126,6 @@ Tea terraces in Sichuan Province, China (© lzf/Shutterstock)
 Date: 2026-05-21
 
 Download 4k: [Brewing a legacy](https://bing.com/th?id=OHR.SichuanTea_EN-US0676754504_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where the buzz begins
-
-Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)
-
-![Where the buzz begins](https://bing.com/th?id=OHR.BumbleBee_EN-US0634100541_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-20
-
-Download 4k: [Where the buzz begins](https://bing.com/th?id=OHR.BumbleBee_EN-US0634100541_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
