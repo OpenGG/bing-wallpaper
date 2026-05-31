@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Follow the flow
+
+Aerial view of Everglades National Park, Florida (© Tetra Images/Getty Images)
+
+![Follow the flow](https://bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-05-31
+
+Download 4k: [Follow the flow](https://bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Reading between the lines
 
 Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)
@@ -116,16 +126,6 @@ Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)
 Date: 2026-05-22
 
 Download 4k: [The shape of life at sea](https://bing.com/th?id=OHR.KauehiAtollLagoon_EN-US6299031230_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Brewing a legacy
-
-Tea terraces in Sichuan Province, China (© lzf/Shutterstock)
-
-![Brewing a legacy](https://bing.com/th?id=OHR.SichuanTea_EN-US0676754504_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-21
-
-Download 4k: [Brewing a legacy](https://bing.com/th?id=OHR.SichuanTea_EN-US0676754504_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
