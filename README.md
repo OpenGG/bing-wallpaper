@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Pride in plain sight
+
+Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)
+
+![Pride in plain sight](https://bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-01
+
+Download 4k: [Pride in plain sight](https://bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Follow the flow
 
 Aerial view of Everglades National Park, Florida (© Tetra Images/Getty Images)
@@ -117,17 +127,9 @@ Date: 2026-05-23
 
 Download 4k: [Shell yeah, turtles!](https://bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## The shape of life at sea
-
-Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)
-
-![The shape of life at sea](https://bing.com/th?id=OHR.KauehiAtollLagoon_EN-US6299031230_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-22
-
-Download 4k: [The shape of life at sea](https://bing.com/th?id=OHR.KauehiAtollLagoon_EN-US6299031230_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2026-06](./archive/2026/06.md)
 
 [2026-05](./archive/2026/05.md)
 
