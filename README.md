@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Between the blues
+
+Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)
+
+![Between the blues](https://bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-02
+
+Download 4k: [Between the blues](https://bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Pride in plain sight
 
 Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)
@@ -116,16 +126,6 @@ Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty
 Date: 2026-05-24
 
 Download 4k: [Preserving Europe's wild places](https://bing.com/th?id=OHR.DolomitesPark_EN-US0828472809_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Shell yeah, turtles!
-
-Turtles with butterflies (© Patrick Gallet/Getty Images)
-
-![Shell yeah, turtles!](https://bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-23
-
-Download 4k: [Shell yeah, turtles!](https://bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
