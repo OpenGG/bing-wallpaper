@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where the road stops, the ride begins
+
+Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)
+
+![Where the road stops, the ride begins](https://bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-03
+
+Download 4k: [Where the road stops, the ride begins](https://bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Between the blues
 
 Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)
@@ -116,16 +126,6 @@ Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia (© id
 Date: 2026-05-25
 
 Download 4k: [Where silence bears names](https://bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Preserving Europe's wild places
-
-Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)
-
-![Preserving Europe's wild places](https://bing.com/th?id=OHR.DolomitesPark_EN-US0828472809_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-24
-
-Download 4k: [Preserving Europe's wild places](https://bing.com/th?id=OHR.DolomitesPark_EN-US0828472809_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
