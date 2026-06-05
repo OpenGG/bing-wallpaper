@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The quiet power of an unclaimed world
+
+View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)
+
+![The quiet power of an unclaimed world](https://bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-05
+
+Download 4k: [The quiet power of an unclaimed world](https://bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Fancy feathers
 
 Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures)
@@ -116,16 +126,6 @@ Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)
 Date: 2026-05-27
 
 Download 4k: [No 'otter' like them](https://bing.com/th?id=OHR.OtterDay_EN-US0973120905_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A season written in lupine
-
-Lupine flowers in bloom, Northern California (© Jeffrey Lewis/Tandem Stills + Motion)
-
-![A season written in lupine](https://bing.com/th?id=OHR.LupineBloom_EN-US0920778137_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-26
-
-Download 4k: [A season written in lupine](https://bing.com/th?id=OHR.LupineBloom_EN-US0920778137_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
