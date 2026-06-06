@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Wander often, wonder more
+
+Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)
+
+![Wander often, wonder more](https://bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-06
+
+Download 4k: [Wander often, wonder more](https://bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The quiet power of an unclaimed world
 
 View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)
@@ -116,16 +126,6 @@ Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)
 Date: 2026-05-28
 
 Download 4k: [Design meets discipline](https://bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## No 'otter' like them
-
-Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)
-
-![No 'otter' like them](https://bing.com/th?id=OHR.OtterDay_EN-US0973120905_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-27
-
-Download 4k: [No 'otter' like them](https://bing.com/th?id=OHR.OtterDay_EN-US0973120905_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
