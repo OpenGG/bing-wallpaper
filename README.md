@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Plant your kingdom
+
+Atlanta Botanical Garden, Atlanta, Georgia (© Marcus E Jones/Shutterstock)
+
+![Plant your kingdom](https://bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-07
+
+Download 4k: [Plant your kingdom](https://bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Wander often, wonder more
 
 Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)
@@ -116,16 +126,6 @@ Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Imag
 Date: 2026-05-29
 
 Download 4k: [A 'peak' into history](https://bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Design meets discipline
-
-Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)
-
-![Design meets discipline](https://bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-28
-
-Download 4k: [Design meets discipline](https://bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
