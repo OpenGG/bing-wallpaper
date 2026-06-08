@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Drift with the current
+
+Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)
+
+![Drift with the current](https://bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-08
+
+Download 4k: [Drift with the current](https://bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Plant your kingdom
 
 Atlanta Botanical Garden, Atlanta, Georgia (© Marcus E Jones/Shutterstock)
@@ -116,16 +126,6 @@ Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Pictu
 Date: 2026-05-30
 
 Download 4k: [Reading between the lines](https://bing.com/th?id=OHR.EquusQuagga_EN-US8240577582_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A 'peak' into history
-
-Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)
-
-![A 'peak' into history](https://bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-29
-
-Download 4k: [A 'peak' into history](https://bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
