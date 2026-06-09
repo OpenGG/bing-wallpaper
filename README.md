@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Taste the sunset
+
+Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)
+
+![Taste the sunset](https://bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-09
+
+Download 4k: [Taste the sunset](https://bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Drift with the current
 
 Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)
@@ -116,16 +126,6 @@ Aerial view of Everglades National Park, Florida (© Tetra Images/Getty Images)
 Date: 2026-05-31
 
 Download 4k: [Follow the flow](https://bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Reading between the lines
-
-Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)
-
-![Reading between the lines](https://bing.com/th?id=OHR.EquusQuagga_EN-US8240577582_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-30
-
-Download 4k: [Reading between the lines](https://bing.com/th?id=OHR.EquusQuagga_EN-US8240577582_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
