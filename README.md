@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A splash of blue
+
+Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)
+
+![A splash of blue](https://bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-10
+
+Download 4k: [A splash of blue](https://bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Taste the sunset
 
 Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)
@@ -116,16 +126,6 @@ Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Gal
 Date: 2026-06-01
 
 Download 4k: [Pride in plain sight](https://bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Follow the flow
-
-Aerial view of Everglades National Park, Florida (© Tetra Images/Getty Images)
-
-![Follow the flow](https://bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-05-31
-
-Download 4k: [Follow the flow](https://bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
