@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Quiet strength
+
+Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)
+
+![Quiet strength](https://bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-11
+
+Download 4k: [Quiet strength](https://bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A splash of blue
 
 Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)
@@ -116,16 +126,6 @@ Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Gett
 Date: 2026-06-02
 
 Download 4k: [Between the blues](https://bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Pride in plain sight
-
-Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)
-
-![Pride in plain sight](https://bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-01
-
-Download 4k: [Pride in plain sight](https://bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
