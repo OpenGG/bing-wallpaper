@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A flash in flight
+
+European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)
+
+![A flash in flight](https://bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-12
+
+Download 4k: [A flash in flight](https://bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Quiet strength
 
 Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)
@@ -116,16 +126,6 @@ Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (�
 Date: 2026-06-03
 
 Download 4k: [Where the road stops, the ride begins](https://bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Between the blues
-
-Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)
-
-![Between the blues](https://bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-02
-
-Download 4k: [Between the blues](https://bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
