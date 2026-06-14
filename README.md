@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## History flies high
+
+US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)
+
+![History flies high](https://bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-14
+
+Download 4k: [History flies high](https://bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Layers of change
 
 Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)
@@ -116,16 +126,6 @@ View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park,
 Date: 2026-06-05
 
 Download 4k: [The quiet power of an unclaimed world](https://bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Fancy feathers
-
-Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures)
-
-![Fancy feathers](https://bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-04
-
-Download 4k: [Fancy feathers](https://bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
