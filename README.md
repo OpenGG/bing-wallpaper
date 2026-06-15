@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Aged to scenic perfection
+
+Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)
+
+![Aged to scenic perfection](https://bing.com/th?id=OHR.ParkEstd_EN-US6114949122_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-15
+
+Download 4k: [Aged to scenic perfection](https://bing.com/th?id=OHR.ParkEstd_EN-US6114949122_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## History flies high
 
 US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)
@@ -116,16 +126,6 @@ Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Get
 Date: 2026-06-06
 
 Download 4k: [Wander often, wonder more](https://bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The quiet power of an unclaimed world
-
-View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)
-
-![The quiet power of an unclaimed world](https://bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-05
-
-Download 4k: [The quiet power of an unclaimed world](https://bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
