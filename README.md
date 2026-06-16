@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Nature's reef keepers
+
+Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)
+
+![Nature's reef keepers](https://bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-16
+
+Download 4k: [Nature's reef keepers](https://bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Aged to scenic perfection
 
 Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)
@@ -116,16 +126,6 @@ Atlanta Botanical Garden, Atlanta, Georgia (© Marcus E Jones/Shutterstock)
 Date: 2026-06-07
 
 Download 4k: [Plant your kingdom](https://bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Wander often, wonder more
-
-Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)
-
-![Wander often, wonder more](https://bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-06
-
-Download 4k: [Wander often, wonder more](https://bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
