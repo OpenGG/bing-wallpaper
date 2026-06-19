@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A story rising in bronze
+
+National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)
+
+![A story rising in bronze](https://bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-19
+
+Download 4k: [A story rising in bronze](https://bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A rock-solid marvel
 
 Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)
@@ -116,16 +126,6 @@ Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Ic
 Date: 2026-06-10
 
 Download 4k: [A splash of blue](https://bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Taste the sunset
-
-Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)
-
-![Taste the sunset](https://bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-09
-
-Download 4k: [Taste the sunset](https://bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
