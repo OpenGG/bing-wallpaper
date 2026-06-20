@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## An ocean's frozen cathedral
+
+Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)
+
+![An ocean's frozen cathedral](https://bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-20
+
+Download 4k: [An ocean's frozen cathedral](https://bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A story rising in bronze
 
 National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)
@@ -116,16 +126,6 @@ Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bos
 Date: 2026-06-11
 
 Download 4k: [Quiet strength](https://bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A splash of blue
-
-Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)
-
-![A splash of blue](https://bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-10
-
-Download 4k: [A splash of blue](https://bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
