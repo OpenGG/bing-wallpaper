@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A lush kingdom
+
+Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)
+
+![A lush kingdom](https://bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-22
+
+Download 4k: [A lush kingdom](https://bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Feathered fathers
 
 King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)
@@ -116,16 +126,6 @@ Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Imag
 Date: 2026-06-13
 
 Download 4k: [Layers of change](https://bing.com/th?id=OHR.BadSunset_EN-US5981956630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A flash in flight
-
-European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)
-
-![A flash in flight](https://bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-12
-
-Download 4k: [A flash in flight](https://bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
