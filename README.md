@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Signature on the horizon
+
+Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)
+
+![Signature on the horizon](https://bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-23
+
+Download 4k: [Signature on the horizon](https://bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A lush kingdom
 
 Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shut
 Date: 2026-06-14
 
 Download 4k: [History flies high](https://bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Layers of change
-
-Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)
-
-![Layers of change](https://bing.com/th?id=OHR.BadSunset_EN-US5981956630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-13
-
-Download 4k: [Layers of change](https://bing.com/th?id=OHR.BadSunset_EN-US5981956630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
