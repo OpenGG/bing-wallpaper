@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Pollen meets wings
+
+Butterfly pollinating on yellow flower (© lzh/Getty Images)
+
+![Pollen meets wings](https://bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-24
+
+Download 4k: [Pollen meets wings](https://bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Signature on the horizon
 
 Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)
@@ -116,16 +126,6 @@ Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)
 Date: 2026-06-15
 
 Download 4k: [Aged to scenic perfection](https://bing.com/th?id=OHR.ParkEstd_EN-US6114949122_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## History flies high
-
-US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)
-
-![History flies high](https://bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-14
-
-Download 4k: [History flies high](https://bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
