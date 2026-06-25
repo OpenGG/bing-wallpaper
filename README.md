@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Square up to history
+
+Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)
+
+![Square up to history](https://bing.com/th?id=OHR.GrandPlace_EN-US6561229456_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-25
+
+Download 4k: [Square up to history](https://bing.com/th?id=OHR.GrandPlace_EN-US6561229456_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Pollen meets wings
 
 Butterfly pollinating on yellow flower (© lzh/Getty Images)
@@ -116,16 +126,6 @@ Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (�
 Date: 2026-06-16
 
 Download 4k: [Nature's reef keepers](https://bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Aged to scenic perfection
-
-Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)
-
-![Aged to scenic perfection](https://bing.com/th?id=OHR.ParkEstd_EN-US6114949122_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-15
-
-Download 4k: [Aged to scenic perfection](https://bing.com/th?id=OHR.ParkEstd_EN-US6114949122_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
