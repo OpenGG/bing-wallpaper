@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Current affairs
+
+The River Thames, London, England (© Daniel Lange/Getty Images)
+
+![Current affairs](https://bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-26
+
+Download 4k: [Current affairs](https://bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Square up to history
 
 Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)
@@ -116,16 +126,6 @@ Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro
 Date: 2026-06-17
 
 Download 4k: [Twist your way up](https://bing.com/th?id=OHR.TremolaRoad_EN-US6212254886_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Nature's reef keepers
-
-Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)
-
-![Nature's reef keepers](https://bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-16
-
-Download 4k: [Nature's reef keepers](https://bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
