@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Looking sharp
+
+Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)
+
+![Looking sharp](https://bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-28
+
+Download 4k: [Looking sharp](https://bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The trees that lost ground
 
 Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)
@@ -116,16 +126,6 @@ National Museum of African American History and Culture, Washington, DC (© Walt
 Date: 2026-06-19
 
 Download 4k: [A story rising in bronze](https://bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A rock-solid marvel
-
-Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)
-
-![A rock-solid marvel](https://bing.com/th?id=OHR.Saqsaywaman_EN-US6250260694_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-18
-
-Download 4k: [A rock-solid marvel](https://bing.com/th?id=OHR.Saqsaywaman_EN-US6250260694_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
