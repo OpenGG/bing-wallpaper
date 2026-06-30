@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where shadows stretch tall
+
+Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)
+
+![Where shadows stretch tall](https://bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-06-30
+
+Download 4k: [Where shadows stretch tall](https://bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Born on fire, held by water
 
 Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)
@@ -116,16 +126,6 @@ King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Im
 Date: 2026-06-21
 
 Download 4k: [Feathered fathers](https://bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## An ocean's frozen cathedral
-
-Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)
-
-![An ocean's frozen cathedral](https://bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-20
-
-Download 4k: [An ocean's frozen cathedral](https://bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
