@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Canada, carved by the Atlantic
+
+Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)
+
+![Canada, carved by the Atlantic](https://bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-01
+
+Download 4k: [Canada, carved by the Atlantic](https://bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where shadows stretch tall
 
 Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)
@@ -117,17 +127,9 @@ Date: 2026-06-22
 
 Download 4k: [A lush kingdom](https://bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Feathered fathers
-
-King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)
-
-![Feathered fathers](https://bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-21
-
-Download 4k: [Feathered fathers](https://bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2026-07](./archive/2026/07.md)
 
 [2026-06](./archive/2026/06.md)
 
