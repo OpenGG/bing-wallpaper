@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The poetry of vanishing light
+
+Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)
+
+![The poetry of vanishing light](https://bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-03
+
+Download 4k: [The poetry of vanishing light](https://bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Inside Esna's sacred universe
 
 Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)
@@ -116,16 +126,6 @@ Butterfly pollinating on yellow flower (© lzh/Getty Images)
 Date: 2026-06-24
 
 Download 4k: [Pollen meets wings](https://bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Signature on the horizon
-
-Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)
-
-![Signature on the horizon](https://bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-23
-
-Download 4k: [Signature on the horizon](https://bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
