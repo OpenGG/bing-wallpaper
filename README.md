@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The story continues
+
+Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)
+
+![The story continues](https://bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-04
+
+Download 4k: [The story continues](https://bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The poetry of vanishing light
 
 Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)
@@ -116,16 +126,6 @@ Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty
 Date: 2026-06-25
 
 Download 4k: [Square up to history](https://bing.com/th?id=OHR.GrandPlace_EN-US6561229456_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Pollen meets wings
-
-Butterfly pollinating on yellow flower (© lzh/Getty Images)
-
-![Pollen meets wings](https://bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-24
-
-Download 4k: [Pollen meets wings](https://bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
