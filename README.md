@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sea of purple
+
+Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)
+
+![Sea of purple](https://bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-05
+
+Download 4k: [Sea of purple](https://bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The story continues
 
 Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)
@@ -116,16 +126,6 @@ The River Thames, London, England (© Daniel Lange/Getty Images)
 Date: 2026-06-26
 
 Download 4k: [Current affairs](https://bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Square up to history
-
-Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)
-
-![Square up to history](https://bing.com/th?id=OHR.GrandPlace_EN-US6561229456_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-25
-
-Download 4k: [Square up to history](https://bing.com/th?id=OHR.GrandPlace_EN-US6561229456_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
