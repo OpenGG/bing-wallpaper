@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A city written in centuries
+
+Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)
+
+![A city written in centuries](https://bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-06
+
+Download 4k: [A city written in centuries](https://bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Sea of purple
 
 Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)
@@ -116,16 +126,6 @@ Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe St
 Date: 2026-06-27
 
 Download 4k: [The trees that lost ground](https://bing.com/th?id=OHR.BoneyardBeach_EN-US8247496696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Current affairs
-
-The River Thames, London, England (© Daniel Lange/Getty Images)
-
-![Current affairs](https://bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-26
-
-Download 4k: [Current affairs](https://bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
