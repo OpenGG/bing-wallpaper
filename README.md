@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Color, craft, and canopy life
+
+Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)
+
+![Color, craft, and canopy life](https://bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-07
+
+Download 4k: [Color, craft, and canopy life](https://bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A city written in centuries
 
 Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)
@@ -116,16 +126,6 @@ Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/
 Date: 2026-06-28
 
 Download 4k: [Looking sharp](https://bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The trees that lost ground
-
-Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)
-
-![The trees that lost ground](https://bing.com/th?id=OHR.BoneyardBeach_EN-US8247496696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-27
-
-Download 4k: [The trees that lost ground](https://bing.com/th?id=OHR.BoneyardBeach_EN-US8247496696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
