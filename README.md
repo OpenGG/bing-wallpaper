@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Echoes of a volcanic past
+
+Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)
+
+![Echoes of a volcanic past](https://bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-08
+
+Download 4k: [Echoes of a volcanic past](https://bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Color, craft, and canopy life
 
 Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)
@@ -116,16 +126,6 @@ Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/
 Date: 2026-06-29
 
 Download 4k: [Born on fire, held by water](https://bing.com/th?id=OHR.BoraBoraLagoon_EN-US1491116478_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Looking sharp
-
-Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)
-
-![Looking sharp](https://bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-28
-
-Download 4k: [Looking sharp](https://bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
