@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Tradition in every step
+
+Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)
+
+![Tradition in every step](https://bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-09
+
+Download 4k: [Tradition in every step](https://bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Echoes of a volcanic past
 
 Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)
@@ -116,16 +126,6 @@ Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Imag
 Date: 2026-06-30
 
 Download 4k: [Where shadows stretch tall](https://bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Born on fire, held by water
-
-Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)
-
-![Born on fire, held by water](https://bing.com/th?id=OHR.BoraBoraLagoon_EN-US1491116478_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-29
-
-Download 4k: [Born on fire, held by water](https://bing.com/th?id=OHR.BoraBoraLagoon_EN-US1491116478_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
