@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The land of moving shorelines
+
+Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)
+
+![The land of moving shorelines](https://bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-10
+
+Download 4k: [The land of moving shorelines](https://bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Tradition in every step
 
 Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)
@@ -116,16 +126,6 @@ Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan
 Date: 2026-07-01
 
 Download 4k: [Canada, carved by the Atlantic](https://bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where shadows stretch tall
-
-Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)
-
-![Where shadows stretch tall](https://bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-06-30
-
-Download 4k: [Where shadows stretch tall](https://bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
