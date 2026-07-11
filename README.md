@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where Brittany meets the tide
+
+Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)
+
+![Where Brittany meets the tide](https://bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-11
+
+Download 4k: [Where Brittany meets the tide](https://bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The land of moving shorelines
 
 Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)
@@ -116,16 +126,6 @@ Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)
 Date: 2026-07-02
 
 Download 4k: [Inside Esna's sacred universe](https://bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Canada, carved by the Atlantic
-
-Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)
-
-![Canada, carved by the Atlantic](https://bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-01
-
-Download 4k: [Canada, carved by the Atlantic](https://bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
