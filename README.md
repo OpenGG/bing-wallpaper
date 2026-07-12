@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A wilder side of Maine
+
+Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)
+
+![A wilder side of Maine](https://bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-12
+
+Download 4k: [A wilder side of Maine](https://bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where Brittany meets the tide
 
 Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)
@@ -116,16 +126,6 @@ Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Im
 Date: 2026-07-03
 
 Download 4k: [The poetry of vanishing light](https://bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Inside Esna's sacred universe
-
-Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)
-
-![Inside Esna's sacred universe](https://bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-02
-
-Download 4k: [Inside Esna's sacred universe](https://bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
