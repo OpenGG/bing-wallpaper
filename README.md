@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Born to rock
+
+Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images)
+
+![Born to rock](https://bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-13
+
+Download 4k: [Born to rock](https://bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A wilder side of Maine
 
 Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)
@@ -116,16 +126,6 @@ Liberty Bell and Independence Hall, Independence National Historical Park, Phila
 Date: 2026-07-04
 
 Download 4k: [The story continues](https://bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The poetry of vanishing light
-
-Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)
-
-![The poetry of vanishing light](https://bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-03
-
-Download 4k: [The poetry of vanishing light](https://bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
