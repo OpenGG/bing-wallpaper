@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Fin-tastic truths
+
+Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)
+
+![Fin-tastic truths](https://bing.com/th?id=OHR.LemonShark_EN-US9828936448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-14
+
+Download 4k: [Fin-tastic truths](https://bing.com/th?id=OHR.LemonShark_EN-US9828936448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Born to rock
 
 Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images)
@@ -116,16 +126,6 @@ Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutter
 Date: 2026-07-05
 
 Download 4k: [Sea of purple](https://bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The story continues
-
-Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)
-
-![The story continues](https://bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-04
-
-Download 4k: [The story continues](https://bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
