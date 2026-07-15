@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The reward after the climb
+
+Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)
+
+![The reward after the climb](https://bing.com/th?id=OHR.MarieLake_EN-US0365186943_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-15
+
+Download 4k: [The reward after the climb](https://bing.com/th?id=OHR.MarieLake_EN-US0365186943_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Fin-tastic truths
 
 Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)
@@ -116,16 +126,6 @@ Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)
 Date: 2026-07-06
 
 Download 4k: [A city written in centuries](https://bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Sea of purple
-
-Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)
-
-![Sea of purple](https://bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-05
-
-Download 4k: [Sea of purple](https://bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
