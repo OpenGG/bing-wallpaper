@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A waterfront chameleon
+
+Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images)
+
+![A waterfront chameleon](https://bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-16
+
+Download 4k: [A waterfront chameleon](https://bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The reward after the climb
 
 Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)
@@ -116,16 +126,6 @@ Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pict
 Date: 2026-07-07
 
 Download 4k: [Color, craft, and canopy life](https://bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A city written in centuries
-
-Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)
-
-![A city written in centuries](https://bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-06
-
-Download 4k: [A city written in centuries](https://bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
