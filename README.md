@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A Greek escape
+
+Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)
+
+![A Greek escape](https://bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-17
+
+Download 4k: [A Greek escape](https://bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A waterfront chameleon
 
 Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images)
@@ -116,16 +126,6 @@ Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)
 Date: 2026-07-08
 
 Download 4k: [Echoes of a volcanic past](https://bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Color, craft, and canopy life
-
-Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)
-
-![Color, craft, and canopy life](https://bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-07
-
-Download 4k: [Color, craft, and canopy life](https://bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
