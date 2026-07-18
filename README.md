@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Going full circle
+
+Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)
+
+![Going full circle](https://bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-18
+
+Download 4k: [Going full circle](https://bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A Greek escape
 
 Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)
@@ -116,16 +126,6 @@ Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)
 Date: 2026-07-09
 
 Download 4k: [Tradition in every step](https://bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Echoes of a volcanic past
-
-Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)
-
-![Echoes of a volcanic past](https://bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-08
-
-Download 4k: [Echoes of a volcanic past](https://bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
