@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Wings at rest
+
+Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)
+
+![Wings at rest](https://bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-19
+
+Download 4k: [Wings at rest](https://bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Going full circle
 
 Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)
@@ -116,16 +126,6 @@ Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)
 Date: 2026-07-10
 
 Download 4k: [The land of moving shorelines](https://bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Tradition in every step
-
-Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)
-
-![Tradition in every step](https://bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-09
-
-Download 4k: [Tradition in every step](https://bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
