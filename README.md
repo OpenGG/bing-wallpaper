@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The lunar perspective
+
+Moon and Earth captured by the Artemis II crew (© NASA)
+
+![The lunar perspective](https://bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-20
+
+Download 4k: [The lunar perspective](https://bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Wings at rest
 
 Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)
 Date: 2026-07-11
 
 Download 4k: [Where Brittany meets the tide](https://bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The land of moving shorelines
-
-Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)
-
-![The land of moving shorelines](https://bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-10
-
-Download 4k: [The land of moving shorelines](https://bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
