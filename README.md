@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hidden in plain arch
+
+Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)
+
+![Hidden in plain arch](https://bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-21
+
+Download 4k: [Hidden in plain arch](https://bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The lunar perspective
 
 Moon and Earth captured by the Artemis II crew (© NASA)
@@ -116,16 +126,6 @@ Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutt
 Date: 2026-07-12
 
 Download 4k: [A wilder side of Maine](https://bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where Brittany meets the tide
-
-Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)
-
-![Where Brittany meets the tide](https://bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-11
-
-Download 4k: [Where Brittany meets the tide](https://bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
