@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Small footprint, big impact
+
+Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)
+
+![Small footprint, big impact](https://bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-22
+
+Download 4k: [Small footprint, big impact](https://bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hidden in plain arch
 
 Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)
@@ -116,16 +126,6 @@ Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Gett
 Date: 2026-07-13
 
 Download 4k: [Born to rock](https://bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A wilder side of Maine
-
-Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)
-
-![A wilder side of Maine](https://bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-12
-
-Download 4k: [A wilder side of Maine](https://bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
