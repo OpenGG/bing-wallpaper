@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A symphony of petals
+
+Pink dahlia flower (© Harald Biebel/Getty Images)
+
+![A symphony of petals](https://bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-23
+
+Download 4k: [A symphony of petals](https://bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Small footprint, big impact
 
 Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)
@@ -116,16 +126,6 @@ Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Pi
 Date: 2026-07-14
 
 Download 4k: [Fin-tastic truths](https://bing.com/th?id=OHR.LemonShark_EN-US9828936448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Born to rock
-
-Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images)
-
-![Born to rock](https://bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-13
-
-Download 4k: [Born to rock](https://bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
