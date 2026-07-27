@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Chicago, look up!
+
+Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)
+
+![Chicago, look up!](https://bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-27
+
+Download 4k: [Chicago, look up!](https://bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Between land and sea, life begins
 
 Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Get
 Date: 2026-07-18
 
 Download 4k: [Going full circle](https://bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A Greek escape
-
-Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)
-
-![A Greek escape](https://bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-17
-
-Download 4k: [A Greek escape](https://bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
