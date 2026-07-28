@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A balance in motion
+
+A kelp forest off Anacapa Island, Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)
+
+![A balance in motion](https://bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-28
+
+Download 4k: [A balance in motion](https://bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Chicago, look up!
 
 Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)
@@ -116,16 +126,6 @@ Barn swallows of different subspecies resting together (© Oscar Dominguez/Tande
 Date: 2026-07-19
 
 Download 4k: [Wings at rest](https://bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Going full circle
-
-Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)
-
-![Going full circle](https://bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-18
-
-Download 4k: [Going full circle](https://bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
