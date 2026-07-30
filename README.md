@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A landscape of living heritage
+
+Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)
+
+![A landscape of living heritage](https://bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-07-30
+
+Download 4k: [A landscape of living heritage](https://bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A comeback with claws
 
 A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)
@@ -116,16 +126,6 @@ Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)
 Date: 2026-07-21
 
 Download 4k: [Hidden in plain arch](https://bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The lunar perspective
-
-Moon and Earth captured by the Artemis II crew (© NASA)
-
-![The lunar perspective](https://bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-20
-
-Download 4k: [The lunar perspective](https://bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
