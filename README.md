@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The power of Kīlauea
+
+A series of lava flows spill into the ocean, Big Island, Hawaii (© Ken McCurdy/Getty Images)
+
+![The power of Kīlauea](https://bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-01
+
+Download 4k: [The power of Kīlauea](https://bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Trailing through time
 
 Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)
@@ -117,17 +127,9 @@ Date: 2026-07-23
 
 Download 4k: [A symphony of petals](https://bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Small footprint, big impact
-
-Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)
-
-![Small footprint, big impact](https://bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-22
-
-Download 4k: [Small footprint, big impact](https://bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2026-08](./archive/2026/08.md)
 
 [2026-07](./archive/2026/07.md)
 
