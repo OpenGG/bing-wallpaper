@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Daughter of the Baltic
+
+Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)
+
+![Daughter of the Baltic](https://bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-02
+
+Download 4k: [Daughter of the Baltic](https://bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The power of Kīlauea
 
 A series of lava flows spill into the ocean, Big Island, Hawaii (© Ken McCurdy/Getty Images)
@@ -116,16 +126,6 @@ Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui
 Date: 2026-07-24
 
 Download 4k: [Family, in full color](https://bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A symphony of petals
-
-Pink dahlia flower (© Harald Biebel/Getty Images)
-
-![A symphony of petals](https://bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-23
-
-Download 4k: [A symphony of petals](https://bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
