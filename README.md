@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Bright boats, timeless traditions
+
+Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)
+
+![Bright boats, timeless traditions](https://bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-03
+
+Download 4k: [Bright boats, timeless traditions](https://bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Daughter of the Baltic
 
 Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)
@@ -116,16 +126,6 @@ Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe S
 Date: 2026-07-25
 
 Download 4k: [Into Galicia's hidden arches](https://bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Family, in full color
-
-Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)
-
-![Family, in full color](https://bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-24
-
-Download 4k: [Family, in full color](https://bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
