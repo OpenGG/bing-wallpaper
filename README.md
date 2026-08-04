@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hoot hoot hooray!
+
+Florida burrowing owlet, Cape Coral, Florida, USA (© mlorenzphotography/Getty Images)
+
+![Hoot hoot hooray!](https://bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-04
+
+Download 4k: [Hoot hoot hooray!](https://bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Bright boats, timeless traditions
 
 Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)
@@ -116,16 +126,6 @@ Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills 
 Date: 2026-07-26
 
 Download 4k: [Between land and sea, life begins](https://bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Into Galicia's hidden arches
-
-Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)
-
-![Into Galicia's hidden arches](https://bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-25
-
-Download 4k: [Into Galicia's hidden arches](https://bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
