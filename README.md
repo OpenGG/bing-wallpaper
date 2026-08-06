@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where the river tests the brave
+
+Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)
+
+![Where the river tests the brave](https://bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-06
+
+Download 4k: [Where the river tests the brave](https://bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Gates of a hidden kingdom
 
 Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)
@@ -116,16 +126,6 @@ A kelp forest off Anacapa Island, Channel Islands National Park, California (© 
 Date: 2026-07-28
 
 Download 4k: [A balance in motion](https://bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Chicago, look up!
-
-Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)
-
-![Chicago, look up!](https://bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-27
-
-Download 4k: [Chicago, look up!](https://bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
