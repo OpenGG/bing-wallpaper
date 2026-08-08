@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Crossing into infinity
+
+Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)
+
+![Crossing into infinity](https://bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-08
+
+Download 4k: [Crossing into infinity](https://bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Guiding ships through history
 
 Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)
@@ -116,16 +126,6 @@ Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)
 Date: 2026-07-30
 
 Download 4k: [A landscape of living heritage](https://bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A comeback with claws
-
-A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)
-
-![A comeback with claws](https://bing.com/th?id=OHR.TigerFamily_EN-US4918106900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-29
-
-Download 4k: [A comeback with claws](https://bing.com/th?id=OHR.TigerFamily_EN-US4918106900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
