@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Architecture of identity
+
+Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)
+
+![Architecture of identity](https://bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-09
+
+Download 4k: [Architecture of identity](https://bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Crossing into infinity
 
 Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)
@@ -116,16 +126,6 @@ Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/G
 Date: 2026-07-31
 
 Download 4k: [Trailing through time](https://bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A landscape of living heritage
-
-Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)
-
-![A landscape of living heritage](https://bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-07-30
-
-Download 4k: [A landscape of living heritage](https://bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
