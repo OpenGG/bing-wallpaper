@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Copenhagen in full color
+
+Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)
+
+![Copenhagen in full color](https://bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-11
+
+Download 4k: [Copenhagen in full color](https://bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where two deserts collide
 
 Joshua Tree National Park, California (© JJ Landscapes/Getty Images)
@@ -116,16 +126,6 @@ Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Gett
 Date: 2026-08-02
 
 Download 4k: [Daughter of the Baltic](https://bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The power of Kīlauea
-
-A series of lava flows spill into the ocean, Big Island, Hawaii (© Ken McCurdy/Getty Images)
-
-![The power of Kīlauea](https://bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-08-01
-
-Download 4k: [The power of Kīlauea](https://bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
