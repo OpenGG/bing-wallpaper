@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Make a wish
+
+Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)
+
+![Make a wish](https://bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-13
+
+Download 4k: [Make a wish](https://bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Giants worth protecting
 
 A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)
@@ -116,16 +126,6 @@ Florida burrowing owlet, Cape Coral, Florida, USA (© mlorenzphotography/Getty I
 Date: 2026-08-04
 
 Download 4k: [Hoot hoot hooray!](https://bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Bright boats, timeless traditions
-
-Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)
-
-![Bright boats, timeless traditions](https://bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-08-03
-
-Download 4k: [Bright boats, timeless traditions](https://bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
