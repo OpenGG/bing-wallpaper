@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Built for paws, not people
+
+Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)
+
+![Built for paws, not people](https://bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-14
+
+Download 4k: [Built for paws, not people](https://bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Make a wish
 
 Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)
@@ -116,16 +126,6 @@ Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)
 Date: 2026-08-05
 
 Download 4k: [Gates of a hidden kingdom](https://bing.com/th?id=OHR.FezMorocco_EN-US8380353742_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Hoot hoot hooray!
-
-Florida burrowing owlet, Cape Coral, Florida, USA (© mlorenzphotography/Getty Images)
-
-![Hoot hoot hooray!](https://bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-08-04
-
-Download 4k: [Hoot hoot hooray!](https://bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
