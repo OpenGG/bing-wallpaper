@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The great balancing act
+
+Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)
+
+![The great balancing act](https://bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-15
+
+Download 4k: [The great balancing act](https://bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Built for paws, not people
 
 Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)
@@ -116,16 +126,6 @@ Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Get
 Date: 2026-08-06
 
 Download 4k: [Where the river tests the brave](https://bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Gates of a hidden kingdom
-
-Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)
-
-![Gates of a hidden kingdom](https://bing.com/th?id=OHR.FezMorocco_EN-US8380353742_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-08-05
-
-Download 4k: [Gates of a hidden kingdom](https://bing.com/th?id=OHR.FezMorocco_EN-US8380353742_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
