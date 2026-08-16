@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where swans started a legend
+
+Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)
+
+![Where swans started a legend](https://bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-16
+
+Download 4k: [Where swans started a legend](https://bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The great balancing act
 
 Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)
@@ -116,16 +126,6 @@ Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photog
 Date: 2026-08-07
 
 Download 4k: [Guiding ships through history](https://bing.com/th?id=OHR.LimeKiln_EN-US2748515593_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where the river tests the brave
-
-Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)
-
-![Where the river tests the brave](https://bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-08-06
-
-Download 4k: [Where the river tests the brave](https://bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
