@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A prime 'reef' estate
+
+Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)
+
+![A prime 'reef' estate](https://bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-17
+
+Download 4k: [A prime 'reef' estate](https://bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where swans started a legend
 
 Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)
@@ -116,16 +126,6 @@ Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)
 Date: 2026-08-08
 
 Download 4k: [Crossing into infinity](https://bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Guiding ships through history
-
-Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)
-
-![Guiding ships through history](https://bing.com/th?id=OHR.LimeKiln_EN-US2748515593_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-08-07
-
-Download 4k: [Guiding ships through history](https://bing.com/th?id=OHR.LimeKiln_EN-US2748515593_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
