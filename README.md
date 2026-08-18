@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Geometry of a star city
+
+Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)
+
+![Geometry of a star city](https://bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-18
+
+Download 4k: [Geometry of a star city](https://bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A prime 'reef' estate
 
 Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)
@@ -116,16 +126,6 @@ Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)
 Date: 2026-08-09
 
 Download 4k: [Architecture of identity](https://bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Crossing into infinity
-
-Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)
-
-![Crossing into infinity](https://bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-08-08
-
-Download 4k: [Crossing into infinity](https://bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
