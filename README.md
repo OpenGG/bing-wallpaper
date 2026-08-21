@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The climb is calling
+
+Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)
+
+![The climb is calling](https://bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-21
+
+Download 4k: [The climb is calling](https://bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Voices of the pod
 
 An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska (© John Hyde/Alamy)
@@ -116,16 +126,6 @@ A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Get
 Date: 2026-08-12
 
 Download 4k: [Giants worth protecting](https://bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Copenhagen in full color
-
-Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)
-
-![Copenhagen in full color](https://bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-08-11
-
-Download 4k: [Copenhagen in full color](https://bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
