@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Sky tinted wings
+
+Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)
+
+![Sky tinted wings](https://bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-22
+
+Download 4k: [Sky tinted wings](https://bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The climb is calling
 
 Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)
@@ -116,16 +126,6 @@ Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Imag
 Date: 2026-08-13
 
 Download 4k: [Make a wish](https://bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Giants worth protecting
-
-A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)
-
-![Giants worth protecting](https://bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-08-12
-
-Download 4k: [Giants worth protecting](https://bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
