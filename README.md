@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Meet Katmai's fishing giants
+
+Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)
+
+![Meet Katmai's fishing giants](https://bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-23
+
+Download 4k: [Meet Katmai's fishing giants](https://bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Sky tinted wings
 
 Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)
@@ -116,16 +126,6 @@ Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Im
 Date: 2026-08-14
 
 Download 4k: [Built for paws, not people](https://bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Make a wish
-
-Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)
-
-![Make a wish](https://bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-08-13
-
-Download 4k: [Make a wish](https://bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
