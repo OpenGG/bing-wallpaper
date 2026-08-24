@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Crossing into history
+
+Brooklyn Bridge, New York City (© shayes17/Getty Images)
+
+![Crossing into history](https://bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-24
+
+Download 4k: [Crossing into history](https://bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Meet Katmai's fishing giants
 
 Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)
@@ -116,16 +126,6 @@ Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend6
 Date: 2026-08-15
 
 Download 4k: [The great balancing act](https://bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Built for paws, not people
-
-Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)
-
-![Built for paws, not people](https://bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-08-14
-
-Download 4k: [Built for paws, not people](https://bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
