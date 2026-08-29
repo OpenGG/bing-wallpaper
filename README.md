@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Reading between the waves
+
+Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)
+
+![Reading between the waves](https://bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-08-29
+
+Download 4k: [Reading between the waves](https://bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where tides shape a legend
 
 Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)
@@ -116,16 +126,6 @@ An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska (© John Hyde/
 Date: 2026-08-20
 
 Download 4k: [Voices of the pod](https://bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Testing the future of flight
-
-NASA's Langley Research Center mounted the Navy's Brewster XF2A-1 Buffalo in the Full-Scale Tunnel, 1938, Hampton, Virginia (© NASA)
-
-![Testing the future of flight](https://bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-08-19
-
-Download 4k: [Testing the future of flight](https://bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
