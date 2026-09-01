@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A world beneath your feet
+
+Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)
+
+![A world beneath your feet](https://bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-09-01
+
+Download 4k: [A world beneath your feet](https://bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A master class in pattern
 
 Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)
@@ -117,17 +127,9 @@ Date: 2026-08-23
 
 Download 4k: [Meet Katmai's fishing giants](https://bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Sky tinted wings
-
-Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)
-
-![Sky tinted wings](https://bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-08-22
-
-Download 4k: [Sky tinted wings](https://bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2026-09](./archive/2026/09.md)
 
 [2026-08](./archive/2026/08.md)
 
