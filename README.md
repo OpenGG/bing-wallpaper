@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Painted along the shore
+
+Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)
+
+![Painted along the shore](https://bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-09-02
+
+Download 4k: [Painted along the shore](https://bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A world beneath your feet
 
 Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)
@@ -116,16 +126,6 @@ Brooklyn Bridge, New York City (© shayes17/Getty Images)
 Date: 2026-08-24
 
 Download 4k: [Crossing into history](https://bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Meet Katmai's fishing giants
-
-Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)
-
-![Meet Katmai's fishing giants](https://bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-08-23
-
-Download 4k: [Meet Katmai's fishing giants](https://bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
