@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## An act of wilderness
+
+Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)
+
+![An act of wilderness](https://bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-09-03
+
+Download 4k: [An act of wilderness](https://bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Painted along the shore
 
 Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)
@@ -116,16 +126,6 @@ Sunrise in Redwood National and State Parks, California (© HadelProductions/Get
 Date: 2026-08-25
 
 Download 4k: [Protecting America's treasures](https://bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Crossing into history
-
-Brooklyn Bridge, New York City (© shayes17/Getty Images)
-
-![Crossing into history](https://bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-08-24
-
-Download 4k: [Crossing into history](https://bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
