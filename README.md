@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Fields of gold
+
+Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)
+
+![Fields of gold](https://bing.com/th?id=OHR.BeechEngland_EN-US4535769514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-09-08
+
+Download 4k: [Fields of gold](https://bing.com/th?id=OHR.BeechEngland_EN-US4535769514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Labor's legacy
 
 'Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California (© David R. Frazier Photolibrary, Inc./Alamy)
@@ -116,16 +126,6 @@ Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pet
 Date: 2026-08-30
 
 Download 4k: [The fish that outgrew its name](https://bing.com/th?id=OHR.YellowShark_EN-US3678567058_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Reading between the waves
-
-Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)
-
-![Reading between the waves](https://bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-08-29
-
-Download 4k: [Reading between the waves](https://bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
