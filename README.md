@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A patchwork from above
+
+Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)
+
+![A patchwork from above](https://bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-09-10
+
+Download 4k: [A patchwork from above](https://bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Life on India's west coast
 
 Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)
@@ -116,16 +126,6 @@ Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)
 Date: 2026-09-01
 
 Download 4k: [A world beneath your feet](https://bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A master class in pattern
-
-Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)
-
-![A master class in pattern](https://bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-08-31
-
-Download 4k: [A master class in pattern](https://bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
