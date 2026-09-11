@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A legacy of heroism
+
+The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)
+
+![A legacy of heroism](https://bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-09-11
+
+Download 4k: [A legacy of heroism](https://bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A patchwork from above
 
 Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)
@@ -116,16 +126,6 @@ Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendoc
 Date: 2026-09-02
 
 Download 4k: [Painted along the shore](https://bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A world beneath your feet
-
-Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)
-
-![A world beneath your feet](https://bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-01
-
-Download 4k: [A world beneath your feet](https://bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
