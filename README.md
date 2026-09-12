@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Masters of the surf and shore
+
+California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)
+
+![Masters of the surf and shore](https://bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-09-12
+
+Download 4k: [Masters of the surf and shore](https://bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A legacy of heroism
 
 The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)
@@ -116,16 +126,6 @@ Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty
 Date: 2026-09-03
 
 Download 4k: [An act of wilderness](https://bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Painted along the shore
-
-Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)
-
-![Painted along the shore](https://bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-02
-
-Download 4k: [Painted along the shore](https://bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
