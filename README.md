@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where toughness takes root
+
+Field of kochia plants, China (© lingqi xie/Getty Images)
+
+![Where toughness takes root](https://bing.com/th?id=OHR.KochiaChina_EN-US5037126636_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-09-14
+
+Download 4k: [Where toughness takes root](https://bing.com/th?id=OHR.KochiaChina_EN-US5037126636_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A reef above its station
 
 Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)
@@ -116,16 +126,6 @@ Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica
 Date: 2026-09-05
 
 Download 4k: [Small birds, big impact](https://bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Red and white on the horizon
-
-Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)
-
-![Red and white on the horizon](https://bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-04
-
-Download 4k: [Red and white on the horizon](https://bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
