@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The Arctic's new explorers
+
+Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)
+
+![The Arctic's new explorers](https://bing.com/th?id=OHR.IcyCubs_EN-US5222104616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-09-16
+
+Download 4k: [The Arctic's new explorers](https://bing.com/th?id=OHR.IcyCubs_EN-US5222104616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A crossroad of cultures
 
 Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)
@@ -116,16 +126,6 @@ Download 4k: [Fields of gold](https://bing.com/th?id=OHR.BeechEngland_EN-US45357
 Date: 2026-09-07
 
 Download 4k: [Labor's legacy](https://bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A reservoir of reflections
-
-Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)
-
-![A reservoir of reflections](https://bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-06
-
-Download 4k: [A reservoir of reflections](https://bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
