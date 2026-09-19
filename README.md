@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The Alpine sound of Oktoberfest
+
+Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)
+
+![The Alpine sound of Oktoberfest](https://bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-09-19
+
+Download 4k: [The Alpine sound of Oktoberfest](https://bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Through the heart of the pass
 
 Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)
@@ -116,16 +126,6 @@ Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)
 Date: 2026-09-10
 
 Download 4k: [A patchwork from above](https://bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Life on India's west coast
-
-Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)
-
-![Life on India's west coast](https://bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-09
-
-Download 4k: [Life on India's west coast](https://bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
