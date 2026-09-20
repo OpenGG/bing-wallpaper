@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The tower that won Paris over
+
+Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)
+
+![The tower that won Paris over](https://bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-09-20
+
+Download 4k: [The tower that won Paris over](https://bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The Alpine sound of Oktoberfest
 
 Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)
@@ -116,16 +126,6 @@ The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (�
 Date: 2026-09-11
 
 Download 4k: [A legacy of heroism](https://bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A patchwork from above
-
-Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)
-
-![A patchwork from above](https://bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-10
-
-Download 4k: [A patchwork from above](https://bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
