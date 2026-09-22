@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The golden season
+
+Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)
+
+![The golden season](https://bing.com/th?id=OHR.FallAspens_EN-US7211031109_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-09-22
+
+Download 4k: [The golden season](https://bing.com/th?id=OHR.FallAspens_EN-US7211031109_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Life between fur and sea
 
 Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)
@@ -116,16 +126,6 @@ Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)
 Date: 2026-09-13
 
 Download 4k: [A reef above its station](https://bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Masters of the surf and shore
-
-California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)
-
-![Masters of the surf and shore](https://bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-12
-
-Download 4k: [Masters of the surf and shore](https://bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
