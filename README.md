@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Beyond the last page
+
+Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)
+
+![Beyond the last page](https://bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-09-23
+
+Download 4k: [Beyond the last page](https://bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The golden season
 
 Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)
@@ -116,16 +126,6 @@ Field of kochia plants, China (© lingqi xie/Getty Images)
 Date: 2026-09-14
 
 Download 4k: [Where toughness takes root](https://bing.com/th?id=OHR.KochiaChina_EN-US5037126636_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A reef above its station
-
-Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)
-
-![A reef above its station](https://bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-13
-
-Download 4k: [A reef above its station](https://bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
