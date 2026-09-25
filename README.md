@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## When the moon joins the party
+
+Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)
+
+![When the moon joins the party](https://bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-09-25
+
+Download 4k: [When the moon joins the party](https://bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Ash meets splash
 
 Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)
@@ -116,16 +126,6 @@ Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Libra
 Date: 2026-09-16
 
 Download 4k: [The Arctic's new explorers](https://bing.com/th?id=OHR.IcyCubs_EN-US5222104616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A crossroad of cultures
-
-Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)
-
-![A crossroad of cultures](https://bing.com/th?id=OHR.FortUnion_EN-US5138724452_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-15
-
-Download 4k: [A crossroad of cultures](https://bing.com/th?id=OHR.FortUnion_EN-US5138724452_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
