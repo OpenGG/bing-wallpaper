@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Night garden of the deep
+
+Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)
+
+![Night garden of the deep](https://bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-09-27
+
+Download 4k: [Night garden of the deep](https://bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The stories written across the land
 
 Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)
 Date: 2026-09-18
 
 Download 4k: [Through the heart of the pass](https://bing.com/th?id=OHR.WinnatsPassPeak_EN-US6112068451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A toast to the harvest
-
-Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)
-
-![A toast to the harvest](https://bing.com/th?id=OHR.Santenay_EN-US5299702509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-17
-
-Download 4k: [A toast to the harvest](https://bing.com/th?id=OHR.Santenay_EN-US5299702509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
