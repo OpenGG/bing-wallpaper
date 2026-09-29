@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Born of glaciers
+
+The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)
+
+![Born of glaciers](https://bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-09-29
+
+Download 4k: [Born of glaciers](https://bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## History with a view
 
 Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)
@@ -116,16 +126,6 @@ Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)
 Date: 2026-09-20
 
 Download 4k: [The tower that won Paris over](https://bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The Alpine sound of Oktoberfest
-
-Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)
-
-![The Alpine sound of Oktoberfest](https://bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-19
-
-Download 4k: [The Alpine sound of Oktoberfest](https://bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
