@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A face you don't forget
+
+Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)
+
+![A face you don't forget](https://bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-09-30
+
+Download 4k: [A face you don't forget](https://bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Born of glaciers
 
 The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)
@@ -116,16 +126,6 @@ Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictu
 Date: 2026-09-21
 
 Download 4k: [Life between fur and sea](https://bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The tower that won Paris over
-
-Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)
-
-![The tower that won Paris over](https://bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-20
-
-Download 4k: [The tower that won Paris over](https://bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
