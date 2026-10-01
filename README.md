@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Reading time in granite
+
+Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)
+
+![Reading time in granite](https://bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-01
+
+Download 4k: [Reading time in granite](https://bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A face you don't forget
 
 Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)
@@ -117,17 +127,9 @@ Date: 2026-09-22
 
 Download 4k: [The golden season](https://bing.com/th?id=OHR.FallAspens_EN-US7211031109_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Life between fur and sea
-
-Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)
-
-![Life between fur and sea](https://bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-21
-
-Download 4k: [Life between fur and sea](https://bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2026-10](./archive/2026/10.md)
 
 [2026-09](./archive/2026/09.md)
 
