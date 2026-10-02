@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A river worth protecting
+
+Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)
+
+![A river worth protecting](https://bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-02
+
+Download 4k: [A river worth protecting](https://bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Reading time in granite
 
 Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)
@@ -116,16 +126,6 @@ Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Sh
 Date: 2026-09-23
 
 Download 4k: [Beyond the last page](https://bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The golden season
-
-Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)
-
-![The golden season](https://bing.com/th?id=OHR.FallAspens_EN-US7211031109_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-22
-
-Download 4k: [The golden season](https://bing.com/th?id=OHR.FallAspens_EN-US7211031109_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
