@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Catch, eat, repeat
+
+Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)
+
+![Catch, eat, repeat](https://bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-03
+
+Download 4k: [Catch, eat, repeat](https://bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A river worth protecting
 
 Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)
@@ -116,16 +126,6 @@ Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© 
 Date: 2026-09-24
 
 Download 4k: [Ash meets splash](https://bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Beyond the last page
-
-Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)
-
-![Beyond the last page](https://bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-23
-
-Download 4k: [Beyond the last page](https://bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
