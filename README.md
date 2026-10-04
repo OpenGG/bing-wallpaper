@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The universe is calling
+
+Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)
+
+![The universe is calling](https://bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-04
+
+Download 4k: [The universe is calling](https://bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Catch, eat, repeat
 
 Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)
@@ -116,16 +126,6 @@ Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images
 Date: 2026-09-25
 
 Download 4k: [When the moon joins the party](https://bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Ash meets splash
-
-Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)
-
-![Ash meets splash](https://bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-24
-
-Download 4k: [Ash meets splash](https://bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
