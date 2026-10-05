@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Taking the plunge, one lesson at a time
+
+Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)
+
+![Taking the plunge, one lesson at a time](https://bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-05
+
+Download 4k: [Taking the plunge, one lesson at a time](https://bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The universe is calling
 
 Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)
@@ -116,16 +126,6 @@ Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff
 Date: 2026-09-26
 
 Download 4k: [The stories written across the land](https://bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## When the moon joins the party
-
-Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)
-
-![When the moon joins the party](https://bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-25
-
-Download 4k: [When the moon joins the party](https://bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
