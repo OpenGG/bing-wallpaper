@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Earth's story in stripes
+
+Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)
+
+![Earth's story in stripes](https://bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-06
+
+Download 4k: [Earth's story in stripes](https://bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Taking the plunge, one lesson at a time
 
 Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)
@@ -116,16 +126,6 @@ Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Na
 Date: 2026-09-27
 
 Download 4k: [Night garden of the deep](https://bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The stories written across the land
-
-Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)
-
-![The stories written across the land](https://bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-26
-
-Download 4k: [The stories written across the land](https://bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
