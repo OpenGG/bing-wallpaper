@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Corsica's rocky outposts
+
+View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)
+
+![Corsica's rocky outposts](https://bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-09
+
+Download 4k: [Corsica's rocky outposts](https://bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Now you 'sea' me...
 
 Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)
@@ -116,16 +126,6 @@ Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)
 Date: 2026-09-30
 
 Download 4k: [A face you don't forget](https://bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Born of glaciers
-
-The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)
-
-![Born of glaciers](https://bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-29
-
-Download 4k: [Born of glaciers](https://bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
