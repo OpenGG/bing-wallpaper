@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Life along the flyway
+
+Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)
+
+![Life along the flyway](https://bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-10
+
+Download 4k: [Life along the flyway](https://bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Corsica's rocky outposts
 
 View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)
@@ -116,16 +126,6 @@ Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirs
 Date: 2026-10-01
 
 Download 4k: [Reading time in granite](https://bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A face you don't forget
-
-Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)
-
-![A face you don't forget](https://bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-09-30
-
-Download 4k: [A face you don't forget](https://bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
