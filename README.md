@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where autumn turns the wheel
+
+Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)
+
+![Where autumn turns the wheel](https://bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-11
+
+Download 4k: [Where autumn turns the wheel](https://bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Life along the flyway
 
 Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)
@@ -116,16 +126,6 @@ Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty 
 Date: 2026-10-02
 
 Download 4k: [A river worth protecting](https://bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Reading time in granite
-
-Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)
-
-![Reading time in granite](https://bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-01
-
-Download 4k: [Reading time in granite](https://bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
