@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A symphony in blue and green
+
+Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)
+
+![A symphony in blue and green](https://bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-13
+
+Download 4k: [A symphony in blue and green](https://bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A landscape of living history
 
 White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)
@@ -116,16 +126,6 @@ Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June
 Date: 2026-10-04
 
 Download 4k: [The universe is calling](https://bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Catch, eat, repeat
-
-Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)
-
-![Catch, eat, repeat](https://bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-03
-
-Download 4k: [Catch, eat, repeat](https://bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
