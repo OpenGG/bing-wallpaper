@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Bridges, rooftops, and twilight
+
+View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)
+
+![Bridges, rooftops, and twilight](https://bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-15
+
+Download 4k: [Bridges, rooftops, and twilight](https://bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Spirals through time
 
 Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)
@@ -116,16 +126,6 @@ Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Im
 Date: 2026-10-06
 
 Download 4k: [Earth's story in stripes](https://bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Taking the plunge, one lesson at a time
-
-Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)
-
-![Taking the plunge, one lesson at a time](https://bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-05
-
-Download 4k: [Taking the plunge, one lesson at a time](https://bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
