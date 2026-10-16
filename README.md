@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## 'Peak' into Colorado
+
+Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)
+
+!['Peak' into Colorado](https://bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-16
+
+Download 4k: ['Peak' into Colorado](https://bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Bridges, rooftops, and twilight
 
 View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)
@@ -116,16 +126,6 @@ Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© F
 Date: 2026-10-07
 
 Download 4k: [Puzzled? Follow the trail](https://bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Earth's story in stripes
-
-Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)
-
-![Earth's story in stripes](https://bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-06
-
-Download 4k: [Earth's story in stripes](https://bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
