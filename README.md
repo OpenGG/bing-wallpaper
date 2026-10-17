@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The past, unearthed
+
+Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)
+
+![The past, unearthed](https://bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-17
+
+Download 4k: [The past, unearthed](https://bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## 'Peak' into Colorado
 
 Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)
@@ -116,16 +126,6 @@ Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden
 Date: 2026-10-08
 
 Download 4k: [Now you 'sea' me...](https://bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Puzzled? Follow the trail
-
-Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)
-
-![Puzzled? Follow the trail](https://bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-07
-
-Download 4k: [Puzzled? Follow the trail](https://bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
