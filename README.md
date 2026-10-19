@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The road that runs on water
+
+Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)
+
+![The road that runs on water](https://bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-19
+
+Download 4k: [The road that runs on water](https://bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## 75 and thriving
 
 Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)
@@ -116,16 +126,6 @@ Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Min
 Date: 2026-10-10
 
 Download 4k: [Life along the flyway](https://bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Corsica's rocky outposts
-
-View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)
-
-![Corsica's rocky outposts](https://bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-09
-
-Download 4k: [Corsica's rocky outposts](https://bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
