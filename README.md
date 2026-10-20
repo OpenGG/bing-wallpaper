@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Life in the slow lane
+
+Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)
+
+![Life in the slow lane](https://bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-20
+
+Download 4k: [Life in the slow lane](https://bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The road that runs on water
 
 Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)
@@ -116,16 +126,6 @@ Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)
 Date: 2026-10-11
 
 Download 4k: [Where autumn turns the wheel](https://bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Life along the flyway
-
-Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)
-
-![Life along the flyway](https://bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-10
-
-Download 4k: [Life along the flyway](https://bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
