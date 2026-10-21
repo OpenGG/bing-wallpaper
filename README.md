@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Winging it over the river
+
+Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)
+
+![Winging it over the river](https://bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-21
+
+Download 4k: [Winging it over the river](https://bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Life in the slow lane
 
 Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)
@@ -116,16 +126,6 @@ White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt
 Date: 2026-10-12
 
 Download 4k: [A landscape of living history](https://bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where autumn turns the wheel
-
-Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)
-
-![Where autumn turns the wheel](https://bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-11
-
-Download 4k: [Where autumn turns the wheel](https://bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
