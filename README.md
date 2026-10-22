@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Still waters, vivid colors
+
+Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)
+
+![Still waters, vivid colors](https://bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-22
+
+Download 4k: [Still waters, vivid colors](https://bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Winging it over the river
 
 Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)
@@ -116,16 +126,6 @@ Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)
 Date: 2026-10-13
 
 Download 4k: [A symphony in blue and green](https://bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A landscape of living history
-
-White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)
-
-![A landscape of living history](https://bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-12
-
-Download 4k: [A landscape of living history](https://bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
