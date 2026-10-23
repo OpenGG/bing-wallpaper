@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Partners in the wild
+
+Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)
+
+![Partners in the wild](https://bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-23
+
+Download 4k: [Partners in the wild](https://bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Still waters, vivid colors
 
 Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)
@@ -116,16 +126,6 @@ Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)
 Date: 2026-10-14
 
 Download 4k: [Spirals through time](https://bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A symphony in blue and green
-
-Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)
-
-![A symphony in blue and green](https://bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-13
-
-Download 4k: [A symphony in blue and green](https://bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
