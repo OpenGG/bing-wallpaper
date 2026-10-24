@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Bookishly extravagant
+
+Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)
+
+![Bookishly extravagant](https://bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-24
+
+Download 4k: [Bookishly extravagant](https://bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Partners in the wild
 
 Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)
@@ -116,16 +126,6 @@ View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (�
 Date: 2026-10-15
 
 Download 4k: [Bridges, rooftops, and twilight](https://bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Spirals through time
-
-Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)
-
-![Spirals through time](https://bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-14
-
-Download 4k: [Spirals through time](https://bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
