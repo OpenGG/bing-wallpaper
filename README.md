@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hanging in there
+
+Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)
+
+![Hanging in there](https://bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-26
+
+Download 4k: [Hanging in there](https://bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Nature's autumn soundtrack
 
 Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)
@@ -116,16 +126,6 @@ Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey P
 Date: 2026-10-17
 
 Download 4k: [The past, unearthed](https://bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## 'Peak' into Colorado
-
-Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)
-
-!['Peak' into Colorado](https://bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-16
-
-Download 4k: ['Peak' into Colorado](https://bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
