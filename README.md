@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where history stands watch
+
+Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)
+
+![Where history stands watch](https://bing.com/th?id=OHR.KuneticeCastle_EN-US9492527404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-28
+
+Download 4k: [Where history stands watch](https://bing.com/th?id=OHR.KuneticeCastle_EN-US9492527404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Nature's golden mirror
 
 A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)
@@ -116,16 +126,6 @@ Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)
 Date: 2026-10-19
 
 Download 4k: [The road that runs on water](https://bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## 75 and thriving
-
-Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)
-
-![75 and thriving](https://bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-18
-
-Download 4k: [75 and thriving](https://bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
