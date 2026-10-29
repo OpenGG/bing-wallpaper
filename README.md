@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where mist meets millennia
+
+Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)
+
+![Where mist meets millennia](https://bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-29
+
+Download 4k: [Where mist meets millennia](https://bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where history stands watch
 
 Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)
@@ -116,16 +126,6 @@ Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/M
 Date: 2026-10-20
 
 Download 4k: [Life in the slow lane](https://bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The road that runs on water
-
-Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)
-
-![The road that runs on water](https://bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-19
-
-Download 4k: [The road that runs on water](https://bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
