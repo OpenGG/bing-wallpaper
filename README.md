@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Time to fly high
+
+Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)
+
+![Time to fly high](https://bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-10-30
+
+Download 4k: [Time to fly high](https://bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where mist meets millennia
 
 Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)
@@ -116,16 +126,6 @@ Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty I
 Date: 2026-10-21
 
 Download 4k: [Winging it over the river](https://bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Life in the slow lane
-
-Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)
-
-![Life in the slow lane](https://bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-20
-
-Download 4k: [Life in the slow lane](https://bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
