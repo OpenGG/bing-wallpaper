@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Crafting continuity
+
+Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)
+
+![Crafting continuity](https://bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-11-01
+
+Download 4k: [Crafting continuity](https://bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Ghosts of empires past
 
 St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)
@@ -117,17 +127,9 @@ Date: 2026-10-23
 
 Download 4k: [Partners in the wild](https://bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## Still waters, vivid colors
-
-Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)
-
-![Still waters, vivid colors](https://bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-22
-
-Download 4k: [Still waters, vivid colors](https://bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
 # Archives
+
+[2026-11](./archive/2026/11.md)
 
 [2026-10](./archive/2026/10.md)
 
