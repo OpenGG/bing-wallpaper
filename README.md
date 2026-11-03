@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Peace among the peaks
+
+Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)
+
+![Peace among the peaks](https://bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-11-03
+
+Download 4k: [Peace among the peaks](https://bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A future written in ice
 
 Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)
@@ -116,16 +126,6 @@ Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Imag
 Date: 2026-10-25
 
 Download 4k: [Nature's autumn soundtrack](https://bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Bookishly extravagant
-
-Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)
-
-![Bookishly extravagant](https://bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-24
-
-Download 4k: [Bookishly extravagant](https://bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
