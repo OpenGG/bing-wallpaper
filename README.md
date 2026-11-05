@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## One step closer to the summit
+
+Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)
+
+![One step closer to the summit](https://bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-11-05
+
+Download 4k: [One step closer to the summit](https://bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Paddling a painted forest
 
 People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)
@@ -116,16 +126,6 @@ A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Ge
 Date: 2026-10-27
 
 Download 4k: [Nature's golden mirror](https://bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Hanging in there
-
-Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)
-
-![Hanging in there](https://bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-26
-
-Download 4k: [Hanging in there](https://bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
