@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A green tunnel through Maui
+
+Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii (© MNStudio/Getty Images)
+
+![A green tunnel through Maui](https://bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-11-06
+
+Download 4k: [A green tunnel through Maui](https://bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## One step closer to the summit
 
 Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)
@@ -116,16 +126,6 @@ Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)
 Date: 2026-10-28
 
 Download 4k: [Where history stands watch](https://bing.com/th?id=OHR.KuneticeCastle_EN-US9492527404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Nature's golden mirror
-
-A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)
-
-![Nature's golden mirror](https://bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-27
-
-Download 4k: [Nature's golden mirror](https://bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
