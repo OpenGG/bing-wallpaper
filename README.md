@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A celebration that shines
+
+Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)
+
+![A celebration that shines](https://bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-11-08
+
+Download 4k: [A celebration that shines](https://bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The giant that came back
 
 A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)
@@ -116,16 +126,6 @@ Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (©
 Date: 2026-10-30
 
 Download 4k: [Time to fly high](https://bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where mist meets millennia
-
-Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)
-
-![Where mist meets millennia](https://bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-29
-
-Download 4k: [Where mist meets millennia](https://bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
