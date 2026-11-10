@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Licensed to chill
+
+Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)
+
+![Licensed to chill](https://bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-11-10
+
+Download 4k: [Licensed to chill](https://bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Where art finds its rhythm
 
 Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)
@@ -116,16 +126,6 @@ Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)
 Date: 2026-11-01
 
 Download 4k: [Crafting continuity](https://bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Ghosts of empires past
-
-St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)
-
-![Ghosts of empires past](https://bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-10-31
-
-Download 4k: [Ghosts of empires past](https://bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
