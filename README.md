@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hidden depths
+
+Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)
+
+![Hidden depths](https://bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-11-13
+
+Download 4k: [Hidden depths](https://bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Architecture without an architect
 
 North Window, Arches National Park, Moab, Utah (© lightphoto/Getty Images)
@@ -116,16 +126,6 @@ People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pa
 Date: 2026-11-04
 
 Download 4k: [Paddling a painted forest](https://bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Peace among the peaks
-
-Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)
-
-![Peace among the peaks](https://bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-11-03
-
-Download 4k: [Peace among the peaks](https://bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
