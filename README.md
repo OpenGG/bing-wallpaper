@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## The only way is up
+
+Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)
+
+![The only way is up](https://bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-11-14
+
+Download 4k: [The only way is up](https://bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hidden depths
 
 Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)
@@ -116,16 +126,6 @@ Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadw
 Date: 2026-11-05
 
 Download 4k: [One step closer to the summit](https://bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Paddling a painted forest
-
-People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)
-
-![Paddling a painted forest](https://bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-11-04
-
-Download 4k: [Paddling a painted forest](https://bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
