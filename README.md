@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Frosty foliage
+
+Frozen azalea with red leaves (© avoferten/Shutterstock)
+
+![Frosty foliage](https://bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-11-15
+
+Download 4k: [Frosty foliage](https://bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## The only way is up
 
 Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)
@@ -116,16 +126,6 @@ Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii (© MNStu
 Date: 2026-11-06
 
 Download 4k: [A green tunnel through Maui](https://bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## One step closer to the summit
-
-Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)
-
-![One step closer to the summit](https://bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-11-05
-
-Download 4k: [One step closer to the summit](https://bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
