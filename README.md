@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Hunting from dusk till dawn
+
+Pair of barn owls (© Zahoor Salmi/Getty Images)
+
+![Hunting from dusk till dawn](https://bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-11-18
+
+Download 4k: [Hunting from dusk till dawn](https://bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Step into the great outdoors
 
 Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)
@@ -116,16 +126,6 @@ Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)
 Date: 2026-11-09
 
 Download 4k: [Where art finds its rhythm](https://bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A celebration that shines
-
-Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)
-
-![A celebration that shines](https://bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-11-08
-
-Download 4k: [A celebration that shines](https://bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
