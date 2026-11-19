@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Where ideas take shape
+
+The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)
+
+![Where ideas take shape](https://bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-11-19
+
+Download 4k: [Where ideas take shape](https://bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Hunting from dusk till dawn
 
 Pair of barn owls (© Zahoor Salmi/Getty Images)
@@ -116,16 +126,6 @@ Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)
 Date: 2026-11-10
 
 Download 4k: [Licensed to chill](https://bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Where art finds its rhythm
-
-Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)
-
-![Where art finds its rhythm](https://bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-11-09
-
-Download 4k: [Where art finds its rhythm](https://bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
