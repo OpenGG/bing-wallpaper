@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Terracotta dreams
+
+Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)
+
+![Terracotta dreams](https://bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-11-21
+
+Download 4k: [Terracotta dreams](https://bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Feasting in the fjords
 
 Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)
@@ -116,16 +126,6 @@ North Window, Arches National Park, Moab, Utah (© lightphoto/Getty Images)
 Date: 2026-11-12
 
 Download 4k: [Architecture without an architect](https://bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## A salute in red, white, and blue
-
-American flags in a public park in upstate New York (© Matt Champlin/Getty Images)
-
-![A salute in red, white, and blue](https://bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-11-11
-
-Download 4k: [A salute in red, white, and blue](https://bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
