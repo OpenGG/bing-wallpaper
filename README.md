@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Shelter among the waves
+
+The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)
+
+![Shelter among the waves](https://bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-11-22
+
+Download 4k: [Shelter among the waves](https://bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Terracotta dreams
 
 Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)
@@ -116,16 +126,6 @@ Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)
 Date: 2026-11-13
 
 Download 4k: [Hidden depths](https://bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Architecture without an architect
-
-North Window, Arches National Park, Moab, Utah (© lightphoto/Getty Images)
-
-![Architecture without an architect](https://bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-11-12
-
-Download 4k: [Architecture without an architect](https://bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
