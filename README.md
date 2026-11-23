@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Geometry in nature
+
+Fiddlehead fern (© Reza Saputra/Getty Images)
+
+![Geometry in nature](https://bing.com/th?id=OHR.FibonacciFern_EN-US6307771770_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-11-23
+
+Download 4k: [Geometry in nature](https://bing.com/th?id=OHR.FibonacciFern_EN-US6307771770_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Shelter among the waves
 
 The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)
@@ -116,16 +126,6 @@ Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)
 Date: 2026-11-14
 
 Download 4k: [The only way is up](https://bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Hidden depths
-
-Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)
-
-![Hidden depths](https://bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-11-13
-
-Download 4k: [Hidden depths](https://bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
