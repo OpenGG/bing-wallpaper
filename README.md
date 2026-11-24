@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Autumnal camouflage
+
+Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)
+
+![Autumnal camouflage](https://bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-11-24
+
+Download 4k: [Autumnal camouflage](https://bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Geometry in nature
 
 Fiddlehead fern (© Reza Saputra/Getty Images)
@@ -116,16 +126,6 @@ Frozen azalea with red leaves (© avoferten/Shutterstock)
 Date: 2026-11-15
 
 Download 4k: [Frosty foliage](https://bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## The only way is up
-
-Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)
-
-![The only way is up](https://bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-11-14
-
-Download 4k: [The only way is up](https://bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
