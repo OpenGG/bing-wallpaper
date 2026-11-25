@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## A southwestern snowfall
+
+Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy)
+
+![A southwestern snowfall](https://bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-11-25
+
+Download 4k: [A southwestern snowfall](https://bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Autumnal camouflage
 
 Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)
@@ -116,16 +126,6 @@ Gila Cliff Dwellings National Monument, New Mexico (© Chiara Salvadori/Getty Im
 Date: 2026-11-16
 
 Download 4k: [Built to last](https://bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Frosty foliage
-
-Frozen azalea with red leaves (© avoferten/Shutterstock)
-
-![Frosty foliage](https://bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-11-15
-
-Download 4k: [Frosty foliage](https://bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
