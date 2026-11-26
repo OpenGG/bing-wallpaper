@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Turkey twins
+
+Two wild tom turkeys (© davidsdodd/Getty Images)
+
+![Turkey twins](https://bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-11-26
+
+Download 4k: [Turkey twins](https://bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## A southwestern snowfall
 
 Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy)
@@ -116,16 +126,6 @@ Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Gett
 Date: 2026-11-17
 
 Download 4k: [Step into the great outdoors](https://bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Built to last
-
-Gila Cliff Dwellings National Monument, New Mexico (© Chiara Salvadori/Getty Images)
-
-![Built to last](https://bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-11-16
-
-Download 4k: [Built to last](https://bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
