@@ -27,6 +27,16 @@ DOH_URL=https://dns.alidns.com/dns-query \
 
 # Latest wallpapers
 
+## Ribbons of gray and gold
+
+Butte at sunset, Face Canyon, Lake Powell, Utah (© Jeff Foott/Minden)
+
+![Ribbons of gray and gold](https://bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
+
+Date: 2026-11-27
+
+Download 4k: [Ribbons of gray and gold](https://bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
 ## Turkey twins
 
 Two wild tom turkeys (© davidsdodd/Getty Images)
@@ -116,16 +126,6 @@ Pair of barn owls (© Zahoor Salmi/Getty Images)
 Date: 2026-11-18
 
 Download 4k: [Hunting from dusk till dawn](https://bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
-
-## Step into the great outdoors
-
-Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)
-
-![Step into the great outdoors](https://bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=1024&h=576&rs=1&c=4)
-
-Date: 2026-11-17
-
-Download 4k: [Step into the great outdoors](https://bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 # Archives
 
